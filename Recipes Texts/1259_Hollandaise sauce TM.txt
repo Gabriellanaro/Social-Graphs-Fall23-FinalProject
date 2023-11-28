@@ -1,0 +1,15 @@
+ 
+
+title": "Hollandaise sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Hollandaise sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#thermomix #butter #eggyolks #juice #spanish #sauce #thermomixrecipes #lemon \n|hashtagrev=032020\n|description=The Thermomix makes light work of this fairly tricky sauce\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1181\n|PortionCalories = 59\n|DatePublished=25th February 2013\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Servings: 20 - Makes 360g\n|Difficulty = 1\n|TotalTime = 10 minutes \n|PrepTime = 4 minutes \n|CookTime = 6 minutes \n|Image = [[Image:Hollandaise sauce (TM).jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I want a Thermomix!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">This would be so easy if I had one of these!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThe [[Thermomix]] makes light work of this fairly tricky [[Sauce|sauce]]\n\n{{RecipeIngredientsTM\n| 4 [[Egg yolks|egg yolks]]\n| 50g water [I think about 15 grams is sufficient]\n| 130g [[Butter|butter]]\n| &frac12; teaspoon [[Salt|salt]] [I found this to be far too much, even using unsalted [[butter]]]\n| [[Pepper]]\n| The [[Juice|juice]] of half a [[Lemon|lemon]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put all of the ingredients into the bowl in the order above\n| Set to program '''6 minutes / 80\u00b0 / Speed 4'''.\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n===Variations===\nIf you want it to be thicker, to go in a pie, program for 2 minutes more at the same speed and temperature\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:French recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #butter #eggyolks #juice #spanish #sauce #thermomixrecipes #lemon </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

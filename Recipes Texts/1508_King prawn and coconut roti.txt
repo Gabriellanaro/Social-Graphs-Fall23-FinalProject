@@ -1,0 +1,15 @@
+ 
+
+title": "King prawn and coconut roti",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[Chingri malai roti]]\n[[]]\n[[Category:Indian recipes]]\n[[Category:Main courses]]\n[[Category:Spicy recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Garlic recipes]]\n[[Category:Fish recipes]]\n[[Category:Poultry recipes]]\n[[Category:Rice recipes]]\n[[Category:Favourite recipes]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Pig pye",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pig pye, an historic British recipe Cooking Wiki\n|titlemode=replace\n|keywords=#pigpye #meatrecipes #recipes #historicrecipes #britishrecipes #piestartsandflans #porkrecipes \n|hashtagrev=12032020\n|description=\"Flea Pyg and cut him in pieces, season with pepper and salt, and nutmeg, and large mace, and lay in your coffin mediaeval raised pie-crust good store\n|datePublished=2013-01-22\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n[[Image:Pork pie.jpg|thumb|250px|right|A modern pig pye!]]\n\"Flea Pyg and cut him in pieces, season with pepper and salt, and nutmeg, and large mace, and lay in your coffin [mediaeval raised pie-crust] good store of\n\nraisins and currans, and fill with sweet butter and close it and serve hot or cold.\"\n\n''This was taken from the wonderful book: [[Food In England|''Food in England - Dorothy Hartley'']]''\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Historic recipes]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]\n[[Category:Pies tarts and flans]]\n[[Category:British recipes]]\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#pigpye #meatrecipes #recipes #historicrecipes #britishrecipes #piestartsandflans #porkrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Cinnamon yogurt",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cinnamon yogurt recipe Accompaniments \n|titlemode=replace\n|keywords=#cinnamon #yogurt #cinnamonyogurt #kidneys #redbellpeppers #coffeegrinder #greekyogurt #stickofcinnamon #julienned #vegetable #carrots \n|hashtagrev=032020\n|description=This goes well with kidneys and liver or would make a nice vegetable dip\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 295\n|PortionCalories = 49\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|ImageComment = thumb|right|A neat way to serve dips!\n|Servings = Serves 6 - Makes 1 pot of [[cinnamon]] flavoured [[yogurt]]\n|Difficulty = 1\n|TotalTime = 5 minutes\n|PrepTime = 5 minutes\n|CookTime = None\n|Image = [[Image:Dips.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Love the way you've served them</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5</span>\n\n<span class=\"reviewDesc\">Looks brilliant</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis goes well with [[kidneys]] and [[liver]] or would make a nice [[vegetable]] dip.\n\n{{RecipeIngredients\n| 500 g thick [[Greek yogurt]] (Total is good)\n| 5 cm (2\") [[stick of cinnamon]] or 1 teaspoon of [[powdered cinnamon]]\n| 6 tablespoons water\n| Salt and [[freshly ground black pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| In a [[coffee grinder]], powder the [[cinnamon]] or use ready powdered cinnamon \n| Tip the [[yogurt]] and the water into a shallow bowl \n| Sprinkle the [[cinnamon]] over the [[yogurt]] and whisk so it's evenly distributed\n| Season with [[salt]] and [[freshly ground black pepper]]\n}}\n===Serving suggestions===\n\nServe as a dip for [[julienned]] [[carrots]] and [[red bell peppers]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Middle Eastern recipes]]\n[[Category:North African recipes]]\n[[Category:Salad recipes]]\n[[Category:Starters]]\n[[Category:Snacks and light bites]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cinnamon #yogurt #cinnamonyogurt #kidneys #redbellpeppers #coffeegrinder #greekyogurt #stickofcinnamon #julienned #vegetable #carrots </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Apple fool (Mrs Beeton's)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Apple fool (Mrs Beeton's), a fruit recipe\n|titlemode=replace\n|keywords=#apples #butter #stewedbraisedorpotroasted #applesauce #cream #applecrumblerecipe #driedappleslices #freezingapples #whippedcream #bake #apple \n|hashtagrev=032020\n|description=Not sure what to do your glut of apples? Make this simple and delicious sweet\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 678\n|PortionCalories = 169\n|DatePublished=12th April 2013\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 1\n|ImageComment = A version from the 70's!<br />Stewed apples mixed with cream.<br />Half of it with added green colouring. \n|TotalTime = 35 minutes plus cooling time\n|PrepTime = 15 minutes\n|CookTime = 20 minutes\n|Image = [[Image:Apple fool.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Beeton's no fool</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Geddit?</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nNot sure what to do your glut of apples?  Make this simple and delicious sweet.\n\n{{RecipeIngredients\n| 1 pint (568 ml) [[apples]] peeled, cored and chopped\n| &#188; pint (142 ml) stiffly [[whipped cream]]\n| [[Sugar]] to taste\n| 1 tablespoon [[butter]]\n}}\n===Method===\n\n{{RecipeMethod\n| [[Bake]] or stew the [[apples]]\n| ''Heat the [[butter]] in a pan, add the [[sugar]] and [[apple]] pulp, stew on a low heat until the apples are soft and mushy (20 minutes)''\n| Pass the pulp through a fine sieve, discarding any pips\n| Stir in the [[cream]]\n| ''Allow to cool''\n}}\n===Serving suggestions===\n\nServe in a glass dish\n\n==See also==\n* [[Apple sauce]]\n* [[Dried apple slices]]\n* [[Apple crumble recipe]]\n* [[Freezing apples]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Fruit recipes]]\n[[Category:Historic recipes]]\n[[Category:Sweets and desserts]]\n[[Category:British recipes]]\n[[Category:Stewed, braised or pot roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#apples #butter #stewedbraisedorpotroasted #applesauce #cream #applecrumblerecipe #driedappleslices #freezingapples #whippedcream #bake #apple </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

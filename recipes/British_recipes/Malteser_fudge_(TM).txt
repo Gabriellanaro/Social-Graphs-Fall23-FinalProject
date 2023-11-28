@@ -1,0 +1,16 @@
+title": "Malteser fudge (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Malteser fudge - a Thermomix recipe \n|titlemode=replace\n|keywords=#chocolate #fudge #condensedmilk #cream #boiledorsimmered #cake #miseenplace #clingfilm #fridge #sweets \n|hashtagrev=032020\n|description=A sweet pudding made in a Thermomix using Maltesers to create the fudge\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3546\n|PortionCalories = 591\n|DatePublished=8th March 2015\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 6 to 8 people\n|Difficulty = 1\n|TotalTime =  15 minutes\n|PrepTime =  5 minutes\n|CookTime =  10 minutes\n|Image = [[File:Maltesers-Wrapper-Small.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">No thanks!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">2</span>/5</span>\n\n<span class=\"reviewDesc\">Too sweet, too expensive!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nHad no idea how expensive Maltesers are now!!  Try to buy them in large bags or boxes if you can.\n\n{{RecipeIngredientsTM\n| 220g Maltesers\n| 395g sweetened [[Condensed milk|condensed milk]]\n| 200g [[Milk|milk]] [[Chocolate|chocolate]], broken into pieces\n| 200g plain [[Chocolate|chocolate]], broken into pieces\n}}\n===[[Mise en place]]===\n\n* Line a deepish 20 cm / 8 inch round or 18 cm / 7 inch round [[Cake|cake]] tin\n\n===Method===\n{{RecipeMethod\n\n| Put the Maltesers over the base in a single layer \n| Tip the [[Chocolate|chocolate]] into the bowl '''5 sec / speed 8'''.\n| Add the [[Condensed milk|condensed milk]] '''10 mins / 100C / Speed 3'''.\n| As soon as the [[Fudge|fudge]] is finished, quickly pour over the Maltesers\n| Gently smooth the [[Fudge|fudge]] over the top and then shake the tin\n| Cover the [[Fudge|fudge]] with [[Cling film|cling film]] and leave in the [[Fridge|fridge]] to set\n| Cut into squares or slices\n}}\n===Serving suggestions===\nThis might be nice with a little whipped [[cream]]. \n===Recipe source===\n\n* Lightly adapted from a recipe on the [http://www.recipecommunity.com.au/desserts-sweets-recipes/chocolate-malteser-fudge/202758 Thermomix Australia Recipe Community site]\n===Variations===\nUse Smarties, M&Ms or other [[Chocolate|chocolate]] based [[Sweets|sweets]] instead of Maltesers\n===Chef's notes===\nMore of a pudding than a confectionery.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Australian recipes]]\n[[Category:British recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Sweets and desserts]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chocolate #fudge #condensedmilk #cream #boiledorsimmered #cake #miseenplace #clingfilm #fridge #sweets </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

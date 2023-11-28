@@ -1,0 +1,15 @@
+ 
+
+title": "Concentrated tomato paste (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Concentrated tomato paste - A Thermomix recipe\n|titlemode=replace\n|keywords=#oliveoil #tomatoes #seeds #tomato #fridge #chinois #sieve #thermomixrecipes \n|hashtagrev=032020\n|description=This has been translated from a Spanish Thermomix recipe by Ernest Capell Navau\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 193\n|PortionCalories = 38\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|Servings = Servings: 5 - Makes about 100ml\n |Difficulty = 1\n |TotalTime = 45 minutes\n |PrepTime = 5 minutes\n |CookTime = 40 minutes\n |Image = [[Image:Concentrated tomato paste recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Great for our tomato glut</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">And I can use my Thermy \ud83d\ude00</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\nThis has been translated from a Spanish Thermomix recipe by Ernest Capell Navau which can be found at '''[http://www.clubcocinafacil.com/salsas-guarniciones/TOMATE-CONCENTRADO_2293.html ClubCocinaFacil]'''.\n\n{{RecipeIngredientsTM\n| 1kg ripe [[Tomatoes|tomatoes]]\n| 15g [[Sugar|sugar]]\n| 1 tablespoon [[Olive oil|olive oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Wash the [[Tomatoes|tomatoes]], and cut into quarters or halves depending on size. \n| Place in the '''TM Speed 5-7-10''' progressively for '''15 seconds'''.\n| Rub through a [[Chinois|chinois]] or fine meshed [[Sieve|sieve]] to remove the skin and [[Seeds|seeds]].\n| Return to the TM, with the [[Sugar|sugar]] and [[Olive oil|olive oil]] '''Temp. Varoma / Speed 2 / 40 minutes'''.\n| Allow to cool and keep in the [[Fridge|fridge]] in an [[Air-tight container|airtight container]].\n}}\n===Chef's notes===\nIf you wish to achieve a darker colour, transfer to a small saucepan and reduce for a further 2-3 minutes.  When a recipe calls for [[Tomato|tomato]] pur\u00e9e use 1 part paste to 1 part water.\n\nThe original suggests around 20g [[Sugar|sugar]], but I feel that would make it far too sweet.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#oliveoil #tomatoes #seeds #tomato #fridge #chinois #sieve #thermomixrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

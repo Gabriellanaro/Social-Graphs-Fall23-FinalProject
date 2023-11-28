@@ -1,0 +1,16 @@
+title": "Johnny cakes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Johnny cakes recipe Accompaniments \n|titlemode=replace\n|keywords=#johnnycakes #butter #bakingpowder #deepfried #flour #snack #accompaniment #deepfry #fish #dough #cakes \n|hashtagrev=032020\n|description=These Jamaican 'cakes' are also known as journey cakes because they are ideal as a travelling snack\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2037\n|PortionCalories = 339\n|DatePublished=27th October 2012\n|Author = JuliaBalbilla\n|Servings = 6\n |Difficulty = 2\n |TotalTime = 25 minutes \n |PrepTime = 10 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Johnny cakes recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Travelling cakes</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">Deep-fried dough.  That'll make you walk slowly!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThese Jamaican '[[Cakes|cakes]]' are also known as '''journey cakes''' because they are ideal as a travelling [[Snack|snack]].\n\n{{RecipeIngredients\n| 500 g [[Plain flour|plain flour]]\n| 2 teaspoons [[Baking powder|baking powder]]\n| 1 teaspoon [[Salt|salt]]\n| 30 g [[Butter|butter]]\n| Water\n| [[Oil]] for [[Deep frying|deep frying]]\n}}\n===Method===\n\n{{RecipeMethod\n| Sift the [[Flour|flour]], [[Baking powder|baking powder]] and [[Salt|salt]] into a bowl.\n| Mix in the [[Butter|butter]] and enough water to make a stiff [[Dough|dough]].\n| Shape them into 5 cm balls and [[Deep fry|deep fry]] them in moderately hot [[Oil|oil]] until they are [[Brown|brown]].\n}}\n===Serving suggestions===\nServe with [[Butter|butter]] for breakfast, or as an [[Accompaniment|accompaniment]] to [[Fish|fish]] or [[Meat|meat]].\n==See also==\n* http://en.wikipedia.org/wiki/Jonnycake\n* http://southernfood.about.com/od/cornbread/r/bl01002g.htm\n* http://jamaicans.com/johnny/\n{{RecipeLine}}\n[[Category:Recipes|Johnny cakes]]\n[[Category:Accompaniments|Johnny cakes]]\n[[Category:Bread and baking|Johnny cakes]]\n[[Category:Jamaican recipes|Johnny cakes]]\n[[Category:Snacks and light bites|Johnny cakes]]\n[[Category:Breakfast recipes|Johnny cakes]]\n[[Category:Deep fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#johnnycakes #butter #bakingpowder #deepfried #flour #snack #accompaniment #deepfry #fish #dough #cakes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

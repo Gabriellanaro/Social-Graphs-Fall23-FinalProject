@@ -1,0 +1,16 @@
+title": "Sage and walnut mustard",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sage and walnut mustard, British recipe \n|titlemode=replace\n|keywords=#walnuts #sage #mustard #wine #mustardseeds #sageandwalnutmustard #foodprocessor #whitewine #sterilisedjar #hand #walnut \n|hashtagrev=032020\n|description=Making you own condiments is so easy and always better then commercial offerings. Modify vigorously to suit your personal tastes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 966\n|PortionCalories = 27\n|DatePublished=27th October 2012\n|Author=Chef\n|ImageComment = thumb|right|Variegated sage\n |Servings = Servings: 35 - Makes 500 ml of homemade [[Walnut|walnut]] and [[Sage|sage]] [[Mustard|mustard]]\n |Difficulty = 1\n |TotalTime = 1 day, 10 minutes\n |PrepTime = 1 day, 10 minutes\n |CookTime = None\n|Image = [[Image:Sage.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Strange, very strange</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">But quite nice actually</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nMaking you own [[Condiments|condiments]] is so easy and always better then commercial offerings.  Modify vigorously to suit your personal taste.\n\n{{RecipeIngredients\n| 100g [[Mustard seeds|mustard seeds]].\n| 250 ml [[White wine|white wine]].\n| 100 ml [[Sherry vinegar|sherry vinegar]].\n| 1 teaspoon [[Sea Salt|sea salt]]\n| 75g [[Walnuts|walnuts]], crushed with the palm of your [[Hand|hand]].\n| 4 sprigs of fresh [[Sage|sage]], about 35 [[Sage leaves|sage leaves]], stems removed.\n}}\n===Method===\n\n{{RecipeMethod\n| Pour the [[Wine|wine]] and [[Vinegar|vinegar]] into a bowl and add the [[Mustard seeds|mustard seeds]], leave for 24 hours.\n| Place the [[Mustard|mustard]] and [[Wine|wine]] in a [[Food processor|food processor]] with a metal blade and add the [[Sage|sage]], [[Salt|salt]] and [[Walnuts|walnuts]] , reserving a few walnuts for the end.\n| Process to a paste, the finer the blend the hotter it will be.\n| Add the remaining [[Walnuts|walnuts]] and pulse a few times leaving some roughly chopped [[Nuts|nuts]] in the [[Mustard|mustard]].\n| Store in a [[Sterilised jar|sterilised jar]].\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:British recipes]]\n[[Category:Spicy recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Cooking with wine]]\n[[Category:Vegan recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#walnuts #sage #mustard #wine #mustardseeds #sageandwalnutmustard #foodprocessor #whitewine #sterilisedjar #hand #walnut </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

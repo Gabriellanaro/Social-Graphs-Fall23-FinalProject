@@ -1,0 +1,15 @@
+ 
+
+title": "Steamed broccoli (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Steamed broccoli vegetarian British recipe\n|titlemode=replace\n|keywords=#broccoli #steamedbroccoliv #steamed #carrots #colander #boiling #steaming #steam #cauliflower #steamer #vegetable \n|hashtagrev=032020\n|description=Broccoli is our favourite vegetable and steaming it is such an easy way to cook it\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 51\n|PortionCalories = 25\n|DatePublished=21st January 2013\n|Author=Chef\n|Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 12 minutes\n |PrepTime = 5 minutes \n |CookTime = 7 minutes\n |Image = [[Image:Steamed broccoli recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A nice way to cook broccoli</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Especially if you like the flavour and crunch</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n[[Image:Steamed broccoli cooking evenly.jpg|thumb|300px|right|Cut a cross in the stems to ensure everything cooks evenly]]\nThis is probably our favourite [[Vegetable|vegetable]] and [[Steaming|steaming]] it is such an easy way to cook it. Allow  3 to 4 minutes for crunchy, about 5 minutes to leave it slightly tender but still with a little bite.\n\n{{RecipeIngredients\n| 1 small head of [[Broccoli|broccoli]]\n| Cut the broccoli into evenly sized florets\n}}\n===Method===\n\n{{RecipeMethod\n| Ensure the florets are all the same size.  \n| Make a small cross cut down the base of any thick stems to ensure that they cook evenly.\n| Place the [[Broccoli|broccoli]] in a [[Steamer|steamer]] or a [[Colander|colander]] set over a pan of [[Boiling|boiling]] water, cover and [[Steam|steam]] for 7 minutes.\n| Serve immediately.\n}}\n===Variations===\nMix 50/50 with [[Cauliflower|cauliflower]] or [[Carrots|carrots]] - cut into similar-sized pieces to ensure they are evenly.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Steamed]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#broccoli #steamedbroccoliv #steamed #carrots #colander #boiling #steaming #steam #cauliflower #steamer #vegetable </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

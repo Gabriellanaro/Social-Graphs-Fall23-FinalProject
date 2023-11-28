@@ -1,0 +1,15 @@
+ 
+
+title": "Fish turnovers (MoF)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Fish turnovers (MoF), British recipe \n|titlemode=replace\n|keywords=#parsley #potato #margarine #fish #lemonjuice #fat #plainflour #panfried #kneadingbread #sauce #mashedpotato \n|hashtagrev=032020\n|description=A recipe for Fish turnovers. Post war cookery advice from the UK Ministry of Food\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1037\n|PortionCalories = 259\n|DatePublished=20th January 2013\n|Author=Chef\n|ImageComment = Ministry of Food Cookery calendar - 1951\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 20 minutes\n|PrepTime = 10 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Ministry of Food Cookery calendar - 1951.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Cheap and cheerful</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">That's what most foods were just after the war.</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\n\"Housekeeping's most important secret nowadays is to know how to make best use of the foods available.  Here are some practical suggestions for improving your inside knowledge without undue expense.\"  '''Ministry of food Cookery Calendar - April..May 1951'''\n\n{{RecipeIngredients\n| 1 lb [[mashed potato]]\n| &#189; oz [[margarine]], melted\n| 2 oz [[plain flour]]\n| [[salt]] and [[pepper]] to taste\n| 1 lb fillet of [[fish]]\n| Chopped [[parsley]]\n| [[Lemon juice]]\n| [[Fat]] for [[frying]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the [[potato]], [[margarine]] and [[flour]] together , season to taste and [[Kneading bread|knead]] well.  Divide into eight portions and roll each into a round\n| Wash the [[fish]] and cut into small pieces, place an  equal portion into each [[potato]] round and add seasoning to taste, 1 level teaspoons [[parsley]] and &#189; teaspoon [[lemon juice]]\n| Damp the edges of the rounds, fold over and press the edges well together\n| [[Fry]] in a little hot [[fat]] for 10 minutes and until brown on both sides\n| Serve hot with [[parsley]] [[sauce]] and [[spinach]]\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Fish recipes]]\n[[Category:Freshwater fish recipes]]\n[[Category:Sea fish recipes]]\n[[Category:Historic recipes]]\n[[Category:Main courses]]\n[[Category:Starters]]\n[[Category:Potato recipes]]\n[[Category:British recipes]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#parsley #potato #margarine #fish #lemonjuice #fat #plainflour #panfried #kneadingbread #sauce #mashedpotato </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

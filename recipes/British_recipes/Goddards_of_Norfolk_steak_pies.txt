@@ -1,0 +1,16 @@
+title": "Goddards of Norfolk steak pies",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Goddard's of Norfolk steak pies\n|titlemode=replace\n|keywords=#pies #goddardsofnorfolksteakpies #pie #goddardssteakpie #maincourses #probreezeairfryer #vealrecipes #goddardssteakandkidneypie #stilton #airfriedrecipes #steak\n|hashtagrev=12032020\n|description=A personal aide-memoire with the correct temperature and time to cook these wonderful local pies\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=28th October 2021\n|Author=Chef\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  16 minutes\n|PrepTime =  1 minute\n|CookTime =  15 minutes\n|TotalCalories = 3516\n|PortionCalories = 879\n|Image = [[Image:Goddard's of Norfolk steak pies recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Brilliant pies</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Best for miles around - cannot be beaten.</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\n[[Image:Goddards of Norfolk.jpg|thumb|300px|right|The best butchers in Downham Market]]\nThis is just a personal aide-memoire so I know the correct temperature and time to cook these wonderful local [[Pies|pies]].\n\n150\u00b0 for 15 minutes is all that's needed to re-heat their [[Pies|pies]] as they are already cooked\n{{RecipeIngredients\n| 1 [[Goddard's Steak pie]], or\n| 1 [[Goddard's Steak and kidney pie]], or\n| 1 [[Goddard's Steak and ale pie]], or\n| 1 Goddard's [[Steak|steak]] and [[Stilton|stilton]] [[Pie|pie]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Cut your chosen [[Pie|pie]] into four quarters\n| Place the portions in the basket of the [[Pro Breeze air fryer]]\n| Cook at 150\u00b0 for 15 minutes\n| Serve immediately\n}}\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Main courses]]\n[[Category:Beef recipes]]\n[[Category:Meat recipes]]\n[[Category:Veal recipes]]\n[[Category:Air fried recipes]]\n[[Category:Pies tarts and flans]]\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#pies #goddardsofnorfolksteakpies #pie #goddardssteakpie #maincourses #probreezeairfryer #vealrecipes #goddardssteakandkidneypie #stilton #airfriedrecipes #steak</code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

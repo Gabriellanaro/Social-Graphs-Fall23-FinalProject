@@ -1,0 +1,15 @@
+ 
+
+title": "Leche frita (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Leche frita - A Thermomix recipe \n|titlemode=replace\n|keywords=#egg #flour #cornflour #thermomix #breadcrumbs #spanish #spain #fried #thermomixrecipes #fry #frying \n|hashtagrev=032020\n|description=This recipe literally means 'Fried milk' and is very popular in Spain\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1279\n|PortionCalories = 213\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Serves 6\n|Difficulty = 2\n|TotalTime = 55 minutes \n|PrepTime = 40 minutes \n|CookTime = 15 minutes \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Fried milk?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.9</span>/5</span>\n\n<span class=\"reviewDesc\">What? what? what? Really!</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nThis recipe literally means '[[Fried]] [[Milk|milk]]' and is very popular in [[Spain]]\n\n{{RecipeIngredientsTM\n| 1 litre [[Milk|milk]]\n| 150g [[Flour|flour]]\n| 150g [[Sugar|sugar]]\n| 1 teaspoon [[Cornflour|cornflour]]\n| 1 [[Egg|egg]], beaten\n| [[Oil]] for [[Frying|frying]]\n| 5g extra [[Sugar|sugar]]\n| 2 teaspoons [[Powdered cinnamon|powdered cinnamon]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put all of the ingredients into the bowl and mix '''10 seconds / Speed 4'''\n| Put the butterfly on the blades '''10 minutes / Temp. Varoma /Speed 2&frac12;'''\n| Continue '''2 minutes / no temperature / Speed 2&frac12;'''\n| Pour the mixture into a dish to the thickness of a finger\n| When it is cold, cut into squares, pass through [[Cornflour|cornflour]] and beaten [[Egg|egg]] and [[Fry|fry]] in plenty of [[Oil|oil]] until golden\n| Sprinkle with [[Sugar|sugar]] and [[Cinnamon|cinnamon]]\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n===Variations===\nYou can also coat it with [[Flour|flour]], [[Breadcrumbs|breadcrumbs]] and [[Egg|egg]]; or [[Flour|flour]], crushed biscuits and egg\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Sweets and desserts]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#egg #flour #cornflour #thermomix #breadcrumbs #spanish #spain #fried #thermomixrecipes #fry #frying </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

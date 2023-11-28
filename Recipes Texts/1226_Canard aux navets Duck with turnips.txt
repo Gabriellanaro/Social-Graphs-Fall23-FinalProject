@@ -1,0 +1,15 @@
+ 
+
+title": "Canard aux navets (Duck with turnips)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Canard aux navets (Duck with turnips) a French recipe\n|titlemode=replace\n|keywords=#duck #turnips #stew #butter #quince #salted #simmer #boil #boiledorsimmered \n|hashtagrev=032020\n|description=This is a speciality of Tarn and Herault in south-west France\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 39564\n|PortionCalories = 6594\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Barbary duck\n |Servings = Serves 6\n |Difficulty = 2\n |TotalTime = 2 hours\n |PrepTime = 15 minutes\n |CookTime = 1 hour 45 minutes\n |Image = [[Image:Canard aux navets recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Blimey</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">Where on earth can you buy a whole Muscovy duck???</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis is a speciality of Tarn and H\u00e9rault in south-west France.\n\n{{RecipeIngredients\n| 1600g whole [[Duck|duck]], ideally a barbary (muscovy)\n| 100 g [[Butter|butter]], or a mixture of butter and [[Oil|oil]]\n| 1 kg young baby [[Turnips|turnips]]\n| [[Salt]] and [[Pepper|pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| In a [[Stew|stew]] pan, cook the whole [[Duck|duck]] in the [[Butter|butter]] for about an hour.  Season it and turn it regularly so that it cooks evenly on all sides.\n| Meanwhile, peel the [[Turnips|turnips]] and [[Boil|boil]] them whole for half-an-hour in [[Salted|salted]] water.\n| When the [[Duck|duck]] has cooked for its one hour, drain the [[Turnips|turnips]] and add them to the [[Stew|stew]] pan around the duck.\n| Allow to [[Simmer|simmer]] for 45 minutes or until the [[Duck|duck]] is properly cooked.\n| Serve hot.\n}}\n===Serving suggestions===\nServe with small bowls of [[Quince|quince]] jelly.\n\n--[[User:JuliaBalbilla|JuliaBalbilla]] 08:30, 15 January 2009 (UTC)\n{{RecipeLine}}\n[[Category:Recipes|Duck with turnips]]\n[[Category:Main courses|Duck with turnips]]\n[[Category:Meat recipes|Duck with turnips]]\n[[Category:Poultry recipes|Duck with turnips]]\n[[Category:French recipes|Duck with turnips]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#duck #turnips #stew #butter #quince #salted #simmer #boil #boiledorsimmered </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

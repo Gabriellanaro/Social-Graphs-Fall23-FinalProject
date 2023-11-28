@@ -1,0 +1,16 @@
+title": "Muhumara",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Muhumara recipe Cooking with chillies \n|titlemode=replace\n|keywords=#muhumara #diced #radishes #cayennepepper #garlic #springonions #nuts #oliveoil #cereal #panfried #chillies \n|hashtagrev=032020\n|description=Hot mixed nuts from Lebanon\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1495\n|PortionCalories = 747\n|DatePublished=21st January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 2\n |Difficulty = 2\n |TotalTime = 15 minutes\n |PrepTime = 10 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Muhumara.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice idea for breakfast</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5</span>\n\n<span class=\"reviewDesc\">(I'm not much of one for sweets either.</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nHot mixed [[Nuts|nuts]] from Lebanon.\n\n{{RecipeIngredients\n| 1 tablespoon [[Olive oil|olive oil]]\n| [[Garlic]] to taste, [[Diced|diced]]\n| 1 bunch [[Radishes|radishes]], topped, tailed and [[Diced|diced]]\n| [[Red chillies]] to taste, [[Diced|diced]]\n| 110 g [[Walnuts|walnuts]], shelled and chopped, or lightly crushed\n| 110 g [[Pine nuts|pine nuts]], chopped\n| 1 bunch [[Spring onions|spring onions]], finely sliced\n| 1 tablespoon [[Sesame oil|sesame oil]]\n| [[Cayenne pepper]], to taste\n| [[Salt]], to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Add the [[Olive oil|olive oil]] to a pan and heat to medium. Add the [[Garlic|garlic]], [[Radishes|radishes]] and [[Chillies|chillies]].\n| Cook for a few minutes.\n| Add the [[Nuts|nuts]] and stir for a minute or two.\n| Add the [[Spring onions|spring onions]], stir for a further minute and season with the [[Cayenne pepper|cayenne pepper]] and the [[Salt|salt]].\n}}\n===Serving suggestions===\nServe with [[Pitta bread|pitta bread]].\n===Chef's notes===\nNot being fond of sweet food, I often eat this for breakfast instead of [[Cereal|cereal]].\n==See also==\n* [[Muhammara recipe]]\n{{RecipeLine}}\n[[Category:Recipes|Muhumara]]\n[[Category:Accompaniments|Muhumara]]\n[[Category:Middle Eastern recipes|Muhumara]]\n[[Category:Chilli pepper recipes]]\n[[Category:Lebanese recipes|Muhumara]]\n[[Category:Snacks and light bites|Muhumara]]\n[[Category:Spicy recipes|Muhumara]]\n[[Category:Starters|Muhumara]]\n[[Category:Vegetable recipes|Muhumara]]\n[[Category:Vegetarian recipes|Muhumara]]\n[[Category:Vegan recipes]]\n[[Category:Pan fried]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#muhumara #diced #radishes #cayennepepper #garlic #springonions #nuts #oliveoil #cereal #panfried #chillies </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

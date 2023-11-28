@@ -1,0 +1,16 @@
+title": "Deep fried prawn balls",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Deep fried prawn balls recipe Accompaniments\n|titlemode=replace\n|keywords=#deepfriedprawnballs #drysherry #whitefish #cornflour #bones #deepfriedprawns #sesameoil #peanutsauce \n|hashtagrev=032020\n|description=Another favourite from the takeaway that can now be made at home\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 324\n|PortionCalories = 162\n|DatePublished=31st January 2013\n|Author=Chef\n|Servings = Serves 2 to 4 with a selection of other starters\n|Difficulty = 2\n|TotalTime = 25 minutes\n|PrepTime = 15 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Prawn_balls.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Also great with lobster</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Better than any takaway.</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nAnother favourite from the takeaway that can now be made at home.\n{{RecipeIngredients\n| 6 oz (150g) [[white fish]]\n| 4 oz (100g) peeled prawns\n| 1 egg white\n| 1 tablespoon [[cornflour]]\n| 1 tablespoon rice wine or [[dry sherry]]\n| 1.5 tablespoons [[sesame oil]]\n| Oil for deep-frying\n}}\n===Method===\n\n{{RecipeMethod\n| Remove any skin and [[bones]] from the fish\n| Mince or finely chop the prawns\n| Mix the prawns and fish together well, then add the remaining ingredients\n| Mix very well\n| With a tablespoon (lightly oiled hands help here) shape into balls\n| Deep-fry for 3 to 4 minutes\n| Drain on kitchen paper and serve\n}}\n===Serving suggestions===\n\nServe hot with a dip such as [[Sweet and sour sauce|sweet and sour sauce]], [[Sesame and hoisin dip|sesame and hoisin dip]], [[Tomato_and_chili_dip|tomato and chili dip]] or [[Peanut sauce|peanut sauce]] and slivers of fresh red chillies.\n{{RecipeLine}}\n[[Category:Recipes|Prawns]]\n[[Category:Accompaniments|Prawns]]\n[[Category:Oriental cuisine|Prawns]]\n[[Category:Fish recipes|Prawns]]\n[[Category:Shellfish recipes|Prawn]]\n[[Category:Starters|Prawns]]\n[[Category:Snacks and light bites|Prawns]]\n[[Category:Deep fried|Prawns]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#deepfriedprawnballs #drysherry #whitefish #cornflour #bones #deepfriedprawns #sesameoil #peanutsauce </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

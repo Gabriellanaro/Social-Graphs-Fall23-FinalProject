@@ -1,0 +1,15 @@
+ 
+
+title": "Yoghurt poolish",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Yoghurt poolish, French recipe \n|titlemode=replace\n|keywords=#yoghurtpoolish #yoghurt #flour #yeast #whitebread #ferment #fridge #poolish \n|hashtagrev=032020\n|description=This poolish is made with yogurt and has been translated from Xavier Barriga's book Pan\n}}\n<!-- /seo -->\n{{Template:AdvancePreparationIcon}}\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 326\n|PortionCalories = 32\n|DatePublished=8th October 2013\n|Author = JuliaBalbilla\n|Servings = Servings: 10 - Makes about 200g\n |Difficulty = 1\n |TotalTime = 3 hours\n |PrepTime = 3 hours\n |CookTime = None\n|Image = [[Image:Yoghurt poolish recipe.jpg|alt=Electus]]\n<span class=\"review\">  <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Well it worked!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Not much more I can say about this.</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis [[Poolish|poolish]] is made with [[Yoghurt|yogurt]] and has been translated from Xavier Barriga's book '''Pan''' (ISBN 8425343267)\n\n''Poolish is a mother dough made from a mixture of flour and water''.\n{{RecipeIngredients\n| 50 ml lukewarm water\n| 5 g fresh [[Yeast|yeast]]\n| 100 g natural [[Yoghurt|yogurt]]\n| 100 g strong, [[White bread|white bread]] [[Flour|flour]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the water with the [[Yeast|yeast]] until it has dissolved.\n| Stir in the [[Yoghurt|yogurt]].\n| Add the [[Flour|flour]] and stir until you have a creamy mixture and no lumps.\n| Cover with a damp cloth and allow to [[Ferment|ferment]] for at least 3 hours at room temperature, or overnight in the [[Fridge|fridge]].\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Bread and baking]]\n[[Category:French recipes]]\n[[Category:Vegetarian recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#yoghurtpoolish #yoghurt #flour #yeast #whitebread #ferment #fridge #poolish </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

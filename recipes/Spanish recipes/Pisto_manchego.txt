@@ -1,0 +1,16 @@
+title": "Pisto manchego",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pisto manchego, Spanish recipe \n|titlemode=replace\n|keywords=#pistomanchego #courgettes #garlic #tapa #onion #sweetpepper #parsley #vegetable #oliveoil #fry #diced \n|hashtagrev=032020\n|description=This is a stewed vegetable dish from La Mancha and is served as a tapa\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 164\n|PortionCalories = 27\n|DatePublished=19th January 2013\n|Author=JuliaBalbilla\n|Servings = 6 as a [[Tapa|tapa]]\n |Difficulty = 1\n |TotalTime = 1 hour \n |PrepTime = 10 minutes\n |CookTime = 50 minutes\n |Image = [[Image:Pisto manchego recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Cure the courgette glut</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I make this every year to use up the spare courgettes before they turn into marrows and are wasted.</span>\n \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nThis is a [[Stewed|stewed]] [[Vegetable|vegetable]] dish from La Mancha and is served as a [[Tapa|tapa]].\n\n{{RecipeIngredients\n| 3 tablespoons [[Olive oil|olive oil]]\n| 1 [[Sweet pepper|sweet pepper]], cut into 2cm squares\n| 1 medium [[Onion|onion]], chopped\n| 180g [[Courgettes|courgettes]], cut into 1cm slices and [[Diced|diced]] into 4.\n| [[Garlic]] to taste, crushed\n| 340g [[Tomatoes, peeled|tomatoes, peeled]] and chopped\n| 1 tablespoon [[Parsley|parsley]], finely chopped\n| Seasoning\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the [[Oil|oil]] in a large pan and [[Fry|fry]] the [[Pepper|pepper]], [[Onion|onion]], [[Courgettes|courgettes]] and [[Garlic|garlic]] until the onion has softened.\n| Add the remaining ingredients and cook over a low-medium heat, uncovered, for 30 minutes.\n| At the end of the cooking time, increase the heat to reduce the liquid. giving you a thick, [[Stew|stew]]-like consistency.\n}}\n===Serving suggestions===\nIt can be served hot, cold or warm and can be made a day in advance.  Nice with fresh, homemade [[Bread|bread]].\n{{Template:Pisto recipes}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Garlic recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Stewed, braised or pot roasted]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pistomanchego #courgettes #garlic #tapa #onion #sweetpepper #parsley #vegetable #oliveoil #fry #diced </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

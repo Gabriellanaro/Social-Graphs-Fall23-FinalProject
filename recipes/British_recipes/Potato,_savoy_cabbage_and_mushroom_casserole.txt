@@ -1,0 +1,16 @@
+title": "Potato, savoy cabbage and mushroom casserole",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Potato, savoy cabbage and mushroom casserole recipe\n|titlemode=replace\n|keywords=#potatosavoycabbageandmushroomcasserole #potatoes #cabbage #tomatopaste #simmer #stewedbraisedorpotroasted #shredded #onions #mushrooms #casseroledish #salted \n|hashtagrev=032020\n|description=Potato, savoy cabbage and mushroom casserole British potato recipes\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1110\n|PortionCalories = 277\n|DatePublished=19th January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 40 minutes\n |PrepTime = 10 minutes\n |CookTime = 30 minutes\n |Image = [[Image:Potato, savoy cabbage and mushroom casserole recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Veggie casserole</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">Nothing special...</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n{{FindAlbertBartlett}}\n{{RecipeIngredients\n| 4 Rooster [[Potatoes|potatoes]]\n| 1 [[Onion]] chopped\n| 12 [[Button mushrooms]]\n| &frac14; Savoy [[Cabbage|cabbage]]\n| 2 tablespoons [[Olive oil|olive oil]]\n| [[Salt]], [[Pepper]]\n| &frac12; tablespoon [[Tomato paste|tomato paste]]\n| 1 [[Lemon]]\n| 100ml water\n}}\n===Method===\n\n{{RecipeMethod\n| Peel and cube the [[Potatoes|potatoes]] then [[Simmer|simmer]] in [[Salted|salted]] water for 5 minutes, then drain.\n| Heat up the [[Oil|oil]] in a [[Casserole dish|casserole dish]] then [[Fry|fry]] the [[Potatoes|potatoes]] for 2-3 minutes.\n| Add the [[Onions|onions]], followed by the [[Mushrooms|mushrooms]]. Stirring to avoid sticking.\n| Add the finely [[Shredded|shredded]] [[Cabbage|cabbage]].\n| Once soft add the [[Tomato paste|tomato paste]] diluted in the water and &frac14; of [[Lemon zest|lemon zest]].\n| Season and cover with a little [[Greaseproof paper|greaseproof paper]], [[Simmer|simmer]] for a further 15 minutes until everything is cooked.\n}}\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Albert Bartlett recipes]]\n[[Category:Recipes from other sites]]\n[[Category:British recipes]]\n[[Category:Main courses]]\n[[Category:Potato recipes]]\n[[Category:Stews and casseroles]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Stewed, braised or pot roasted]]\n{{Template:Albert Bartlett attribution}}\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatosavoycabbageandmushroomcasserole #potatoes #cabbage #tomatopaste #simmer #stewedbraisedorpotroasted #shredded #onions #mushrooms #casseroledish #salted </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

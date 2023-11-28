@@ -1,0 +1,15 @@
+ 
+
+title": "P.F. Chang's China Bistro recipes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Recipes from P.F. Chang's China Bistro Cooking Wiki\n|titlemode=replace\n|keywords=#pfchangschinabistrorecipes #gluten #chinesecuisine #orientalcuisine #recipes \n|hashtagrev=12032020\n|description=I get repeated requests from Cookipedia site visitors for PF Chang copy-cat recipes. Here they are\n|datePublished=2013-01-22\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n[[Image:P.F. Chang's China Bistro recipes recipe.jpg|thumb|300px|right|P.F. Chang's China Bistro - USA]]\n'''Why does page exists in the recipes category?'''\nThis page used to display a link to a blog that had compiled many PF Chang 'copycat recipes'.  Unfortunately that blog no longer exists.  View this page's history if you want to see what the url was.\n===About P. F. Chang's China Bistro, Inc. ===\n[[Image:PF_Changs_Maryland.jpg|thumb|300px|right|P.F. Chang's at The Mall in Columbia in Columbia, Maryland]]\nP. F. Chang's China Bistro, Inc. is an American restaurant chain founded in Scottsdale, Arizona in 1993 by Paul Fleming. The restaurants serve American [[Chinese cuisine]] from a menu originally conceived and planned by chef Philip Chiang. P. F. Chang's is the namesake of Paul Fleming (P. F.) and Philip Chiang (whose surname is simplified to Chang.)\n\nP. F. Chang's operates exclusively in the United States; As of December 2005, PFCCB Administration, Inc. maintains 133 restaurants in 34 states. P.F. Chang's corporate headquarters is in Phoenix, Arizona.\n\nP. F. Chang's is one of a few restaurant chains that offers a dedicated menu to diners that must follow a strict [[gluten]]-free diet.\n====Trivia====\nThe restaurant chain is frequently referenced in the animated sitcom South Park. Laura Cherry, a spokesperson for the chain, has spoken positively of the series, and stated that creators Trey Parker and Matt Stone frequently dine there.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Oriental cuisine]]\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#pfchangschinabistrorecipes #gluten #chinesecuisine #orientalcuisine #recipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

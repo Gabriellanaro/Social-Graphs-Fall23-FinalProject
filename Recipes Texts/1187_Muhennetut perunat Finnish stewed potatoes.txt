@@ -1,0 +1,15 @@
+ 
+
+title": "Muhennetut perunat (Finnish stewed potatoes)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Muhennetut perunat (Finnish stewed potatoes) recipe\n|titlemode=replace\n|keywords=#potatoes #cream #chives #simmer #saucepan #diced #boiledorsimmeredpotatoes #muhennetutperunatfinnishstewedpotatoes #boil #singlecream \n|hashtagrev=032020\n|description=This Finnish recipe involves cooking the potatoes in cream, with no added water!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=9th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  30 minutes\n|PrepTime =  10 minutes\n|CookTime =  20 minutes\n|TotalCalories = 1948\n|PortionCalories = 487 \n|Image = [[Image:Muhennetut perunat Finnish stewed potatoes recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Rich and creamy!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Very rich! Watch those calories.</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis Finnish recipe involves cooking the [[Potatoes|potatoes]] in [[Cream|cream]], with no added water!\n{{RecipeIngredients\n\n| 6 medium [[Potatoes|potatoes]], sliced or [[Diced|diced]]\n| 500ml [[Single Cream|single cream]]\n| Seasoning\n| 1 tablespoon [[Chives|chives]], snipped\n}}\n\n===Method===\n{{RecipeMethod\n\n| Put the [[Potatoes|potatoes]] in a [[Saucepan|saucepan]], to which you have added 375ml of the [[Cream|cream]]\n| Bring to the [[Boil|boil]], then reduce the heat to low and [[Simmer|simmer]]\n| Gradually add the remaining 125ml of the [[Cream|cream]].\n| The [[Cream|cream]] should all be absorbed by the time the [[Potatoes|potatoes]] are cooked\n| Season and serve, sprinkled with the chopped [[Chives|chives]]\n}}\n{{RecipeLine}}\n[[Category:Recipes|Potatoes]]\n[[Category:Finnish recipes |Potatoes]]\n[[Category:Accompaniments|Potatoes]]\n[[Category:Vegetarian recipes|Potatoes]]\n[[Category:Potato recipes|Potatoes]]\n[[Category:Vegetable recipes|Potatoes]]\n[[Category:Boiled or simmered|Potatoes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoes #cream #chives #simmer #saucepan #diced #boiledorsimmeredpotatoes #muhennetutperunatfinnishstewedpotatoes #boil #singlecream </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

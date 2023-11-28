@@ -1,0 +1,15 @@
+ 
+
+title": "Pig's feet and ears (Mrs Beeton's)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pig's feet and ears (Mrs Beeton's) a British recipe\n|titlemode=replace\n|keywords=#stock #butter #simmer #onion #mace #flour #lemon #boiledorsimmered #sauce #boil \n|hashtagrev=032020\n|description=These recipes make me giggle!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n<!-- /seo -->\n{{Template:AdvancePreparationIcon}}\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 774\n|PortionCalories = 129\n|DatePublished=21st January 2013\n|Author=Chef\n|ImageComment = Other publications - circa 1945\n |Servings = Serves 6\n |Difficulty = 3\n |TotalTime = 3 hours 30 minutes\n |PrepTime = 30 minutes\n |CookTime = 3 hours \n |Image = [[Image:BeetonsAd.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I prefer my ears crispy - Lol!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5 </span>\n\n<span class=\"reviewDesc\">This is so funny, though I guess once this would have been a deadly  serious  recipe.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThese recipes make me giggle!\n{{RecipeIngredients\n| 4 pig's feet\n| 2 pig's ears\n| A slice of [[onion]]\n| A small blade of [[mace]]\n| A thin strip of [[lemon]] rind\n| White [[stock]] or [[milk]]\n| '''For the [[sauce]]'''\n| 50 g (2 oz) [[butter]]\n| 40 g (1.5 oz) [[flour]]\n| 426 ml (3/4 pint) of white [[stock]]\n| [[Salt]] and [[pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Wash the feet and ears, cover them with white [[stock]] or [[milk]], add the [[onion]], [[mace]], [[lemon]] rind and [[salt]] and [[pepper]] to taste\n| [[Simmer]] until tender, then cut the feet into neat pieces, and the ears into thin strips\n| Heat the [[butter]] in a stewpan, add the [[flour]], stir and cook slowly for about 5 minutes, then add the [[stock]] or liquor in which the feet and ears were cooked\n| [[Boil]] up, season to taste, [[simmer]] gently for 10 minutes, then put in the prepared feet and ears, and when thoroughly hot, serve\n}}\n{{RecipeLine}}\n[[Category:Recipes|Pork]]\n[[Category:Historic recipes|Pork]]\n[[Category:Main courses|Pork]]\n[[Category:Pork recipes]]\n[[Category:British recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#stock #butter #simmer #onion #mace #flour #lemon #boiledorsimmered #sauce #boil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

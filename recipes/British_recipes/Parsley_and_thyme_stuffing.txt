@@ -1,0 +1,16 @@
+title": "Parsley and thyme stuffing",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Parsley and thyme stuffing, British recipe\n|titlemode=replace\n|keywords=#breadcrumbs #parsleyandthymestuffing #onion #egg #poultry #oliveoil #roastingtray #thymeleaves #freshherbs #stuffing #parsley \n|hashtagrev=032020\n|description=This stuffing recipe is good for meat or poultry and should be made with fresh herbs\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 232\n|PortionCalories = 58\n|DatePublished=21st January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4 people\n |Difficulty = 1\n |TotalTime = 45 minutes\n |PrepTime = 15 minutes\n |CookTime = 30 minutes\n |Image = [[Image:Parsley and thyme stuffing recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Reminds me of a song!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5 </span>\n\n<span class=\"reviewDesc\">Nice, especially as balls.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis [[Stuffing|stuffing]] recipe is good for [[Meat|meat]] or [[Poultry|poultry]] and should be made with [[Fresh herbs|fresh herbs]].\n\n{{RecipeIngredients\n| 1 [[Onion|onion]], peeled and finely chopped \n| 1 tablespoon [[Olive oil|olive oil]]\n| 2 teaspoons fresh [[Parsley|parsley]], chopped\n| 2 teaspoons of fresh [[Thyme leaves|thyme leaves]], pulled from the stem and chopped\n| 85g (3oz) fresh [[Breadcrumbs|breadcrumbs]]\n| [[Sea Salt|sea salt]] and [[Freshly ground black pepper|freshly ground black pepper]]\n| 1 [[Egg|egg]], beaten\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the [[Oil|oil]] in a small [[Frying pan|frying pan]] and gently saut\u00e9 the [[Onion|onion]] until soft and translucent - don't [[Brown|brown]] the onion.\n| Add the [[Breadcrumbs|breadcrumbs]], [[Onions|onions]] and [[Herbs|herbs]] to a bowl, season well and mix well with your hands.\n| Fold in the beaten [[Egg|egg]] and combine with the [[Breadcrumbs|breadcrumbs]].\n| Either use to stuff your [[Meat|meat]] or [[Poultry|poultry]] or roll into balls and cook in the [[roasting tray]] with the [[Meat|meat]] for the last 30 minutes or spread into a lightly greased [[Oven|oven]]-proof dish and cook for about 30 minutes at 200\u00b0 C (400\u00b0 F - gas 6)\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Vegetarian recipes]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]\n[[Category:Poultry recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#breadcrumbs #parsleyandthymestuffing #onion #egg #poultry #oliveoil #roastingtray #thymeleaves #freshherbs #stuffing #parsley </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

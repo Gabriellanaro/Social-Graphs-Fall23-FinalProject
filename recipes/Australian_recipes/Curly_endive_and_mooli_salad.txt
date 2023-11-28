@@ -1,0 +1,16 @@
+title": "Curly endive and mooli salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Curly endive and mooli salad a vegetarian recipe\n|titlemode=replace\n|keywords=#endive #salad #curlyendiveandmoolisalad #redpepper #mooli #oliveoil #juice #bread #redpeppers #seeds #radicchio \n|hashtagrev=032020\n|description=Curly endive is also known as frisee in the UK and is often called chicory in the USA. Mooli is also known as daikon\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 305\n|PortionCalories = 76\n|DatePublished=16th March 2013\n|Author=Chef\n|ImageComment = Radicchio Treviso\n|Servings = 4-6\n|Difficulty = 1\n|TotalTime =  30 minutes\n|PrepTime =  20 minutes\n|CookTime =  10 minutes\n|Image = [[Image:Radicchio Treviso-wiki.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Peppery!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">..and rather unusual.</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry, aka Chef]]</span></span>\n}}\n[[Image:Mooli.JPG|300px|thumb|right|Daikon or Mooli]]\nCurly [[Endive|endive]] is also known as ''fris\u00e9e'' in the UK and is often called [[Chicory|chicory]] in the USA.  [[Mooli]] is also known as [[Daikon|daikon]].\n\n{{RecipeIngredients\n\n| 300g [[Mooli|mooli]], peeled and cut into matchsticks\n| &frac12; medium curly [[Endive|endive]], washed and torn\n| 1 small [[Radicchio|radicchio]], washed and torn\n}}\n'''[[Red pepper]] [[Oil|oil]]'''\n{{RecipeIngredientsNB\n| 4 large [[Red peppers|red peppers]], [[Seeds|seeds]] and membranes removed\n| 125ml [[Olive oil|olive oil]]\n}}\n===Method===\n\n{{RecipeMethod\n\n| Mix the [[Salad|salad]] ingredients in a bowl.\n| To make the [[Red pepper|red pepper]] [[Oil|oil]], pur\u00e9e the [[Pepper|pepper]] in a liquidiser and rub through a sieve into a pan.  Discard the pulp.\n| [[Simmer]] the [[Pepper|pepper]] [[Juice|juice]] until reduced to about 85 ml and mix with the [[Oil|oil]].\n| Drizzle the [[Salad|salad]] with the [[Oil|oil]] and serve.\n}}\n===Serving suggestions===\nNice with [[Cheese|cheese]] and fresh [[Bread|bread]].\n===Recipe source===\n\n* Lightly adapted from '''Salads''' published by ''The Australian Women's Weekly''\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Australian recipes]]\n[[Category:Accompaniments]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#endive #salad #curlyendiveandmoolisalad #redpepper #mooli #oliveoil #juice #bread #redpeppers #seeds #radicchio </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

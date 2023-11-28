@@ -1,0 +1,16 @@
+title": "Quick tartare sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Quick tartare sauce, British recipe \n|titlemode=replace\n|keywords=#dill #quicktartaresauce #sauce #parsley #capers #garlicmayonnaiserecipes #refrigerated #gherkins #pickledgherkin #fridge #lemonjuice \n|hashtagrev=032020\n|description=I have been experimenting with the best 'quick' tartare sauce recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 50\n|PortionCalories = 12\n|DatePublished=22nd October 2012\n|Author=Chef\n|ImageComment = Fish dippin'\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:Quick tartare sauce (cheat) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice dip</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice picture too</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\n\nI have been experimenting with the best 'quick' tartare [[Sauce|sauce]] recipe. (tartare sauce - US)\nThis is the best I have found using ingredients from the [[Fridge|fridge]].  I don't always have [[Gherkins|gherkins]] around but it was quite acceptable with [[Pickled onions|pickled onions]], especially if you have any fresh [[Dill|dill]] available.\n\nI find the fresh [[Dill|dill]] or [[Parsley|parsley]] makes the [[Sauce|sauce]] nicer, even if it may be less authentic\n\n{{RecipeIngredients\n| 150 ml [[Mayonnaise|mayonnaise]] - try our cheats mayonnaise, it's quick and easy.\n| 2 tablespoons [[Capers|capers]], chopped\n| 1 small [[Pickled gherkin|pickled gherkin]], chopped\n| Squeeze of fresh [[Lemon juice|lemon juice]]\n| [[Salt]] and [[Freshly ground black pepper|freshly ground black pepper]]\n| 2 tablespoons finely chopped [[Parsley|parsley]] (optional)\n| 2 tablespoons finely chopped [[Dill|dill]] (optional)\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all of the ingredients together in a small bowl and serve immediately.\n}}\n===Storage===\nIt will keep reasonably well if [[Refrigerated|refrigerated]]\n==See also==\n* [[Tartare sauce (Mrs Beeton's)]]\n* [[Tartare Sauce (TM)]]\n* A huge variety of [[Garlic mayonnaise recipes|different mayonnaise recipes]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:British recipes]]\n[[Category:Cookery cheats]]\n[[Category:Dips and sauces]]\n[[Category:Fish recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#dill #quicktartaresauce #sauce #parsley #capers #garlicmayonnaiserecipes #refrigerated #gherkins #pickledgherkin #fridge #lemonjuice </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

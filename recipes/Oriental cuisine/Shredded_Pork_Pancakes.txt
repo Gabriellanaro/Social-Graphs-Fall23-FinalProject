@@ -1,0 +1,16 @@
+title": "Shredded Pork Pancakes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Shredded Pork Pancakes, Chinese recipe \n|titlemode=replace\n|keywords=#pork #shreddedporkpancakes #cucumber #springonions #hoisinsauce #fivespice #groundnutoil #seeds #wok #sauce #chinesepancakes \n|hashtagrev=032020\n|description=A pork version of crispy duck. Best prepared using higher-welfare pork, labelled Freedom Food, outdoor reared, outdoor bred, free-range or organic\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 489\n|PortionCalories = 61\n|DatePublished=31st October 2012\n|Author=Chef\n|Servings = Serves 8\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 5 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Shredded Pork Pancakes recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Simple!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">NBot fancy, but nice, and easy too.  Thanks.</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nA [[Pork|pork]] version of [[Crispy duck|crispy duck]]. Best prepared using higher-welfare pork, labelled Freedom Food, outdoor reared, outdoor bred, free-range or organic.\n\n{{RecipeIngredients\n| 160g [[Shredded|shredded]], cooked higher welfare [[Pork|pork]]\n| &frac12; teaspoons Chinese [[Five spice|five spice]]\n| 2 tablespoons [[Groundnut oil|groundnut oil]]\n| 80ml [[Hoisin sauce|hoisin sauce]]\n| 8 ready-made [[Chinese-style pancakes]], warmed\n| 1 bunch [[Spring onions|spring onions]], cut into matchsticks\n| &frac12; [[Cucumber|cucumber]], halved, [[Seeds|seeds]] removed and cut into matchsticks\n}}\n===Method===\n\n{{RecipeMethod\n| Toss the [[Pork|pork]] in the Chinese [[Five spice|five spice]]. Heat the [[Oil|oil]] in a [[Frying pan|frying pan]] or [[Wok|wok]] and add the pork.\n| [[Stir-fry]] for 3-4 minutes until heated through. Add the [[Hoisin sauce|hoisin sauce]], toss and heat gently until the [[Pork|pork]] is thickly coated with the [[Sauce|sauce]].\n}}\n===Serving suggestions===\nPile the [[Pork|pork]] onto a plate and serve with the [[Spring onions|spring onions]] and [[Cucumber|cucumber]] and the warmed [[Chinese pancakes]].\n===Chef's notes===\n{{Template:ThinkPig}}\n{{RecipeLine}}\n[[Category:Recipes|Pork]]\n[[Category:Meat recipes|Pork]]\n[[Category:Pork recipes]]\n[[Category:Chinese recipes]]\n[[Category:Oriental cuisine|Prawns]]\n[[Category:Stir fried]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pork #shreddedporkpancakes #cucumber #springonions #hoisinsauce #fivespice #groundnutoil #seeds #wok #sauce #chinesepancakes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

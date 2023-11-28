@@ -1,0 +1,15 @@
+ 
+
+title": "Johnny cakes (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Johnny cakes a vegetarian recipe \n|titlemode=replace\n|keywords=#bakingpowder #deepfried #flour #plainflour #dough #cakes #deepfrying #vegetableoil #deepfry #johnnycakesv #snack \n|hashtagrev=032020\n|description=These Jamaican 'cakes' are known as journey cakes because they are ideal as a travelling snack\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2086\n|PortionCalories = 347\n|DatePublished=23rd October 2012\n|Author=Chef\n|Servings = 6\n |Difficulty = 2\n |TotalTime = 25 minutes \n |PrepTime = 10 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Johnny cakes recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Johhny cakes?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">2.5</span>/5</span>\n\n<span class=\"reviewDesc\">They're bread rolls, shurely?</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nThese Jamaican '[[Cakes|cakes]]' are also known as '''journey cakes''' because they are ideal as a travelling [[Snack|snack]].\n\n{{RecipeIngredients\n| 500g [[Plain flour|plain flour]]\n| 2 teaspoons [[Baking powder|baking powder]]\n| 1 teaspoon [[Salt|salt]]\n| 30g [[vegetable oil]]\n| Water\n| [[oil]] for [[Deep frying|deep frying]]\n}}\n===Method===\n\n{{RecipeMethod\n| Sift the [[Flour|flour]], [[Baking powder|baking powder]] and [[Salt|salt]] into a bowl.\n| Mix in the [[oil]] and enough water to make a stiff [[Dough|dough]].\n| Shape them into 5 cm balls and [[Deep fry|deep fry]] them in moderately hot [[Oil|oil]] until they are [[Brown|brown]].\n}}\n===Serving suggestions===\nServe for breakfast.  \n{{RecipeLine}}\n[[Category:Recipes|Johnny cakes]]\n[[Category:Accompaniments|Johnny cakes]]\n[[Category:Bread and baking|Johnny cakes]]\n[[Category:Jamaican recipes|Johnny cakes]]\n[[Category:Snacks and light bites|Johnny cakes]]\n[[Category:Vegan recipes|Johnny cakes]]\n[[Category:Vegetarian recipes|Johnny cakes]]\n[[Category:Breakfast recipes|Johnny cakes]]\n[[Category:Deep fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bakingpowder #deepfried #flour #plainflour #dough #cakes #deepfrying #vegetableoil #deepfry #johnnycakesv #snack </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

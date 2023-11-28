@@ -1,0 +1,16 @@
+title": "Kruidige rodekool (Spiced red cabbage)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Kruidige rodekool (Spiced red cabbage) recipe\n|titlemode=replace\n|keywords=#apples #butter #simmer #shredded #vegetable #vinegar #redwinevinegar #cabbage #kruidigerodekoolspicedredcabbage #saucepan #boiledorsimmeredcabbage \n|hashtagrev=032020\n|description=A Dutch vegetable recipe with apples from Holland\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=31st December 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  1 hour, 5 minutes\n|PrepTime =  15 minutes\n|CookTime =  50 minutes\n|TotalCalories = 1180\n|PortionCalories = 295 \n|Image = [[Image:Kruidige rodekool Spiced red cabbage recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Cabbage and apples</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">What's not to like?</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nA [[Vegetable|vegetable]] recipe with [[Apples|apples]] from Holland\n{{RecipeIngredients\n\n| 115g [[Butter|butter]]\n| 250ml water\n| [[Salt]]\n| 1 small [[Red cabbage|red cabbage]], finely [[Shredded|shredded]]\n| 2 cooking [[Apples|apples]], peeled, cored and sliced\n| 3 [[Cloves|cloves]]\n| 1 tablespoon [[Sugar|sugar]]\n| Dash of [[Red wine vinegar|red wine vinegar]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| In a [[Saucepan|saucepan]], heat 1 tablespoon of the [[Butter|butter]], the water and the [[Salt|salt]].\n| Add the [[Cabbage|cabbage]], [[Apples|apples]] and [[Cloves|cloves]] and [[Simmer|simmer]] for 45 minutes.\n| Add the remaining [[Butter|butter]], the [[Sugar|sugar]] and the [[Vinegar|vinegar]] and [[Simmer|simmer]] for a further 5 minutes.\n| Remove the [[Cloves|cloves]] before serving.\n}}\n===Serving suggestions===\nGoes well with [[Hachee (Dutch hash)]]\n{{RecipeLine}}\n[[Category:Recipes|Cabbage]]\n[[Category:Dutch recipes|Cabbage]]\n[[Category:Accompaniments|Cabbage]]\n[[Category:Vegetarian recipes|Cabbage]]\n[[Category:Fruit recipes|Cabbage]]\n[[Category:Vegetable recipes|Cabbage]]\n[[Category:Boiled or simmered|Cabbage]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#apples #butter #simmer #shredded #vegetable #vinegar #redwinevinegar #cabbage #kruidigerodekoolspicedredcabbage #saucepan #boiledorsimmeredcabbage </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

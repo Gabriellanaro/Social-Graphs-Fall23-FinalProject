@@ -1,0 +1,16 @@
+title": "Guiso de lentejas con arroz, zanahorias y carballo",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Guiso de lentejas con arroz, zanahorias y carballo recipe\n|titlemode=replace\n|keywords=#guisodelentejasconarrozzanahoriasycarballo #spanishrecipes \n|hashtagrev=032020\n|description=Lentil stew with rice, carrots and pumpkin\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 724\n|PortionCalories = 181\n|DatePublished=25th May 2015\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime =  35 minutes\n|PrepTime =  10 minutes\n|CookTime =  25 minutes\n|Image = [[Image:Guiso de lentejas con arroz, zanahorias y carballo recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A nice veggy soup</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">A winter warmer</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\nGuiso de lentejas con arroz, zanahorias y carballo, [''Lentil stew with rice, carrots and pumpkin'']\n{{RecipeIngredients\n\n| 1 taza de lentejas\n| 3 tazas de agua tibia\n| \u00bd taza de arroz blanco cocido\n| 2 cucharadas de aceite\n| 1 taza de zapallo camote cortado en cuadros\n| 1/2 taza de cebolla morada picada en cuadros\n| 1/4 Kg. de carne molida de vacuno\n| 2 longanizas cortadas en rodajas\n| 100 grs. de tocino\n| 1 diente de ajo picado fino\n| Sal, pimienta, aj\u00ed color, or\u00e9gano, comino a gusto\n| \u00bd taza de queso parmesano\n| 2 huevos duros molidos\n}}\n\n===Method===\n{{RecipeMethod\n\n| En una olla mediana se colocan las lentejas con agua tibia y se cuecen por unos 20 minutos o hasta que est\u00e9n blandas.\n| Cuando hayan ablandado, colocar los trozos de zapallo y el arroz.\n| Mientras esto se cocina, en un sart\u00e9n se fr\u00ede la cebolla y ajo con una cucharada de aceite por unos 4 minutos, luego se agrega la carne, la longaniza cortada en rodajas y el tocino. \n| Cocinar unos 3 minutos m\u00e1s. Se agrega a la olla en la que se cocinaron las lentejas. Unir todo muy bien. Cocinar unos 3 minutos y dejar reposar.\n| Servir en una plato hondo con queso parmesano y huevo duro encima.\n}}\n===Recipe source===\n\n* [[User:Mv.valdivia]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Spanish recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#guisodelentejasconarrozzanahoriasycarballo #spanishrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

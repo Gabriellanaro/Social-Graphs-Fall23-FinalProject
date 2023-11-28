@@ -1,0 +1,16 @@
+title": "Fluffernutter",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Fluffernutter, Vegetarian recipe \n|titlemode=replace\n|keywords=#fluffernutter #sandwich #bread #peanutbutter #cream #whitebread #marshmallowcreme \n|hashtagrev=032020\n|description=A fluffernutter is a sandwich made with peanut butter and marshmallow creme\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 291\n|PortionCalories = 291\n|DatePublished=16th August 2012\n|Author=Chef\n|ImageComment = A fluffernutter sandwich\n |Servings = Serves 1 - Makes 1 [[Sandwich|sandwich]]\n |Difficulty = 1\n |TotalTime = 2 minutes\n |PrepTime = 2 minutes\n |CookTime = None\n |Image = [[Image:Fluffernutter recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Yuerk!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">Tried this twice and still can't like it.</span>\n \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nA fluffernutter is a [[Sandwich|sandwich]] made with [[Peanut butter|peanut butter]] and marshmallow creme. Its name comes from the common use of \"Marshmallow Fluff\" brand marshmallow creme. It is particularly popular in the Northeastern United States and has been proposed as the official Massachusetts state sandwich.\n\n{{RecipeIngredients\n| 2 slices of sliced processed [[white bread]]\n| 1 tablespoon [[Marshmallow creme]]\n| 1 tablespoon [[Peanut butter]] (crunchy or smooth)\n}}\n===Method===\n\n{{RecipeMethod\n| Spread the marshmallow [[Cream|cream]] on on slice of [[Bread|bread]]\n| Spread the [[Peanut butter|peanut butter]] on the other slice of [[Bread|bread]]\n| Make a [[Sandwich|sandwich]] of the two slices of [[Bread|bread]], filling to filling\n| Eat!\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:North American recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#fluffernutter #sandwich #bread #peanutbutter #cream #whitebread #marshmallowcreme </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

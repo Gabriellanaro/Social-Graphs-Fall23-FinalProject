@@ -1,0 +1,15 @@
+ 
+
+title": "Daube",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Daube, the classic French recipe Cooking Wiki\n|titlemode=replace\n|keywords=#daube #chicken #chickenladaube #fish #beef #lamb #tuna #frenchrecipes #wine #daubedethon #mauritianrecipes \n|hashtagrev=12032020\n|description=Daube is a classic Provencal (or more broadly, French) stew made with inexpensive beef braised in wine, vegetables, garlic, and herbes de Provence\n|datePublished=2013-01-22\n}}\n<!-- /seo -->\n\n[[Image:Chicken La Daube.jpg|thumb|300px|right|[[Chicken La Daube]]]]\n'''Daube''' is a classic Provencal (or more broadly, French) stew made with inexpensive beef braised in [[wine]], [[vegetables]], [[Garlic|garlic]], and [[herbes de Provence]], and traditionally cooked in a daubi\u00e8re, a braising pan.\n\nA daube can be made with [[beef]], [[chicken]], [[lamb]] or [[fish]].\nCurrently our daube recipes are all [[Mauritian]] in origin.\n* [[Chicken La Daube]] - [[Chicken]] daube\n* [[Daube de Thon]] - [[Tuna]] daube\n* [[Daube de Poisson]] - [[Fish]] daube\n{{disambig}}\n{{CategoryLine}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Mauritian recipes]]\n[[Category:French recipes]]\n[[Category:Stewed, braised or pot roasted]]\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#daube #chicken #chickenladaube #fish #beef #lamb #tuna #frenchrecipes #wine #daubedethon #mauritianrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Whole orange juice (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Whole orange juice - A Thermomix recipe \n|titlemode=replace\n|keywords=#thermomix #oranges #spanish #lemon #steaming #juice #drink \n|hashtagrev=032020\n|description=A Spanish drink made from whole oranges\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 364\n|PortionCalories = 60\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Serves 6\n|Difficulty = 1\n|TotalTime = 10 minutes \n|PrepTime = 10 minutes\n|CookTime = None \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thermie juice</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I love my Thermi!</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nA [[Spanish]] [[Drink|drink]] made from whole [[Oranges|oranges]]\n\n{{RecipeIngredientsTM\n| 5 juicy [[Oranges|oranges]], peeled, pith and pips removed\n| 1 [[Lemon|lemon]], pith and pips removed\n| 6 ice cubes\n| 100g [[Sugar|sugar]] or 10g saccharine [100g sugar is a lot and I would suggest starting with 60g]\n| 500g water\n}}\n===Method===\n\n{{RecipeMethod\n| Put all the ingredients in the bowl, except for the water '''1 minute / Speed 5'''\n| Next, '''2 minutes / Speed 5-10 progressively'''\n| It should be well pulverised, but repeat the operation if necessary\n| Add the water and mix for a '''few seconds / Speed 2'''\n| Put the internal [[Steaming|steaming]] basket into the bowl and holding it in with the spatula, pour the [[Juice|juice]] into a jug with ice cubes\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n{{RecipeLine}}\n[[Category:Recipes|Orange juice]]\n[[Category:Spanish recipes|Orange juice]]\n[[Category:Drink and beverage recipes|Orange juice]]\n[[Category:Vegan recipes|Orange juice]]\n[[Category:Vegetarian recipes|Orange juice]]\n[[Category:Fruit recipes|Orange juice]]\n[[Category:Thermomix recipes|Orange juice]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #oranges #spanish #lemon #steaming #juice #drink </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

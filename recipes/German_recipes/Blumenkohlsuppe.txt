@@ -1,0 +1,16 @@
+title": "Blumenkohlsuppe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Blumenkohlsuppe, Egg recipe \n|titlemode=replace\n|keywords=#blumenkohlsuppe #soup #cauliflower #butter #nutmeg #grated #eggyolks #sieve #german #stock #litres \n|hashtagrev=032020\n|description=German cauliflower soup\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 973\n|PortionCalories = 243\n|DatePublished=20th January 2013\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 35 minutes\n |PrepTime = 10 minutes\n |CookTime = 25 minutes\n |Image = [[Image:Blumenkohlsuppe recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Parp!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice with dark-rye bread though</span>\n \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\n[[German]] [[Cauliflower|cauliflower]] [[Soup|soup]].\n\n{{RecipeIngredients\n| 1 small [[Cauliflower|cauliflower]], leaves removed and broken into florets.\n| 1.2 [[Litres|litres]] [[Vegetable Stock|vegetable stock]]\n| 30 g [[Butter|butter]]\n| 30 g [[Plain flour|plain flour]]\n| 50 ml [[Dry white wine|dry white wine]]\n| 2 [[Egg yolks|egg yolks]], beaten\n| Seasoning\n| Freshly [[Grated|grated]] [[Nutmeg|nutmeg]]\n}}\n===Method===\n\n{{RecipeMethod\n| [[Boil]] the [[Cauliflower|cauliflower]] in the [[Stock|stock]] until it is just cooked.\n| Pur\u00e9e in [[Blender|blender]] or rub through a [[Sieve|sieve]].\n| Return the the [[Soup|soup]] to the pan, reserving a little in a small bowl.\n| Make a paste with the [[Flour|flour]], [[Butter|butter]] and reserved [[Soup|soup]] and pour into the saucepan.\n| Stir, still on the heat, and allow to thicken slightly.\n| Just before serving, stir in the [[Egg yolks|egg yolks]] and the [[Wine|wine]], season to taste and gently heat through.\n| Serve with a few twists of freshly [[Grated|grated]] [[Nutmeg|nutmeg]] on the top.\n}}\n===Serving suggestions===\nBlack [[Pumpernickel|pumpernickel]] or [[Rye|rye]] [[Bread|bread]] is a good [[Accompaniment|accompaniment]].\n===Variations===\nSome recipes for this [[Soup|soup]] also include [[Cream|cream]], but personally I think it is rich enough without it.\n{{RecipeLine}}\n[[Category:Recipes|Blumenkohlsuppe]]\n[[Category:Egg recipes|Blumenkohlsuppe]]\n[[Category:German recipes|Blumenkohlsuppe]]\n[[Category:Soup and stock recipes|Blumenkohlsuppe]]\n[[Category:Starters|Blumenkohlsuppe]]\n[[Category:Vegetable recipes|Blumenkohlsuppe]]\n[[Category:Vegetarian recipes|Blumenkohlsuppe]]\n[[Category:Cooking with wine|Blumenkohlsuppe]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#blumenkohlsuppe #soup #cauliflower #butter #nutmeg #grated #eggyolks #sieve #german #stock #litres </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

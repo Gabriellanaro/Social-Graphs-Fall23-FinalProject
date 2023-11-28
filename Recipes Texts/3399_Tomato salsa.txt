@@ -1,0 +1,15 @@
+ 
+
+title": "Tomato salsa",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tomato salsa, Vegetarian recipe \n|titlemode=replace\n|keywords=#tomatosalsa #onions #tomatoes #garlic #brownsugar #salsa #parsley #whitewinevinegar #coriander #springonions \n|hashtagrev=032020\n|description=Make this salsa when you need it, it's nice and zingy when fresh. Play about with the ingredients to suit your taste\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 195\n|PortionCalories = 32\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 6\n|Difficulty = 1\n|TotalTime = 40 minutes incl infuse time\n|PrepTime = 40 minutes\n|CookTime = None\n|Image = [[Image:Tomato salsa recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice and fresh</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.67</span>/5</span>\n\n<span class=\"reviewDesc\">This went great with grilled chicken</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nMake this [[salsa]] when you need it, it's nice and zingy when fresh.\n\nPlay about with the ingredients to suit your taste\n\n{{RecipeIngredients\n| 2  [[onions]] ,finely chopped\n| 2 [[Garlic|garlic]] cloves, peeled and crushed\n| 3 peeled and seeded [[tomatoes]], unless, like me, you have better things to do than peel and de-seed tomatoes!\n| 1 teaspoon [[brown sugar]]\n| 4 tablespoons of chopped [[coriander]]\n| 6 tablespoons of chopped [[parsley]]\n| 50 ml [[white wine vinegar]]\n| [[Sea salt]] and [[freshly ground black pepper]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Finely chop the [[onions]] and [[tomatoes]] and add to a serving bowl\n| Add the rest of the ingredients apart from the herbs to another bowl and leave for 30 minutes or more to infuse.\n| Add the herbs to the [[tomatoes]] and toss in the dressing\n}}\n===Serving suggestion===\n\nServe chilled\n\n===Variations===\n\nUse a bunch of [[spring onions]] instead of [[onions]].  Add any suitable ''fridge forage'' that can be found.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Salad recipes]]\n[[Category:Tex-Mex recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tomatosalsa #onions #tomatoes #garlic #brownsugar #salsa #parsley #whitewinevinegar #coriander #springonions </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,15 @@
+ 
+
+title": "Easy frito pie",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Easy frito pie a cheese recipe \n|titlemode=replace\n|keywords=#chili #easyfritopie #chips #corn #sauce #fritopie #cheese #tortillachips #grated \n|hashtagrev=032020\n|description=This is the cheating way to make frito pie on the hoof!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 237\n|PortionCalories = 237\n|DatePublished=10th August 2012\n|Author=Chef\n|Servings = Serves 1\n|Difficulty = 1\n|TotalTime = 2 minutes\n|PrepTime = 2 minutes\n|CookTime = None!\n|Image = [[Image:Easy frito pie recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">So Easy!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">I'd never thought of this; but I'm not American, so perhaps that's why?</span>\n \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nThis is a cheats way to make frito pie on the hoof!\n\nIf you want cook the real thing, there is [[Frito pie|a recipe here]].\n\n{{RecipeIngredients\n| 1 99\u00a2 Grab-Bag of Fritos. ([[corn]] [[tortilla chips]])\n| '''other brands of tortilla chips are available''' \ud83d\ude1c\n}}\n===Method===\n\n{{RecipeMethod\n| Buy a 99\u00a2 Grab-Bag of Fritos.\n| Buy a basic 99\u00a2 cup of [[chili]] from Wendy's (or wherever you like to buy [[chili]])\n| Carefully open the bag without ripping the sides\n| Pour the [[chili]] over the top of the [[chips]] in the bag.\n| Pour on the hot [[sauce]] from the little packets, and a little more [[grated]] [[cheese]].\n| Carefully eat it right out of the bag with a plastic fork, and enjoy.\n}}\n{{Tortillas-See also}}\n{{RecipeLine}}\n[[Category:Recipes|Frito]]\n[[Category:Cheese recipes|Frito]]\n[[Category:Meat recipes|Frito]]\n[[Category:Spicy recipes|Frito]]\n[[Category:Snacks and light bites|Frito]]\n[[Category:Tex-Mex recipes|Frito]]\n[[Category:North American recipes]]\n[[Category:Pies tarts and flans|Frito]]\n[[Category:Student recipes]]\n[[Category:Cookery cheats]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chili #easyfritopie #chips #corn #sauce #fritopie #cheese #tortillachips #grated </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

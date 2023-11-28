@@ -1,0 +1,16 @@
+title": "Grapefruit salsa",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=A Grapefruit salsa recipe \n|titlemode=replace\n|keywords=#grapefruitsalsa #grapefruit #duck #pork #monkfish #redonion #chillies #onion \n|hashtagrev=032020\n|description=This tangy salsa works wonderfully in Sea bass with grapefruit salsa but would be equally good with other fish dishes as monkfish\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 56\n|PortionCalories = 14\n|DatePublished=19th October 2012\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 40 minutes incl. chill-time \n |PrepTime = 10 minutes\n |CookTime = None\n|Image = [[Image:Grapefruit salsa.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Clean tasting</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5</span>\n\n<span class=\"reviewDesc\">Very refreshing</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nThis tangy salsa works wonderfully in [[Sea bass with grapefruit salsa]] but would be equally good with other fish dishes as [[monkfish]]\nBecause it has a clean sharpness, it might work with [[pork]] and [[duck]] too.\n\n{{RecipeIngredients\n| Salt and [[freshly ground black pepper]]\n| 2 fresh green or red [[chillies]] (not too hot)\n| 1 [[grapefruit]]\n| 1 small [[red onion]]\n| Olive oil\n}}\n===Method===\n\n{{RecipeMethod\n| [[Roast the chillies and remove the skins]]\n| Remove and discard the seeds and slice the chillies thinly and add to a a bowl\n| Peel the [[grapefruit]] and cut into segments, removing as much pith and segment-skin as possible, add to the bowl\n| Cut the [[onion]] into very thin rings and mix with the other ingredients\n| Chill for 30 minutes\n}}\n===Serving suggestions===\nServe cold as an accompaniment\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Dips and sauces]]\n[[Category:Chilli pepper recipes]]\n[[Category:Spicy recipes]]\n[[Category:Accompaniments]]\n[[Category:Tex-Mex recipes]]\n[[Category:Fruit recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#grapefruitsalsa #grapefruit #duck #pork #monkfish #redonion #chillies #onion </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

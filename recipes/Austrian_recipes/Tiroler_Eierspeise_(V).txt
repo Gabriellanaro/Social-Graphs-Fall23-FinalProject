@@ -1,0 +1,16 @@
+title": "Tiroler Eierspeise (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tiroler Eierspeise vegetarian Egg recipe \n|titlemode=replace\n|keywords=#parsley #eggs #potatoes #potato #breadcrumbs #dried #singlecream #anchovies #baked #miseenplace #tirolereierspeisev \n|hashtagrev=032020\n|description=Eggs, baked in layers of potato slices, eaten as a snack or first course. This recipe is vegetarian\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1768\n|PortionCalories = 442\n|DatePublished=20th January 2013\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 40 minutes\n |PrepTime = 10 minutes\n |CookTime = 30 minutes\n |Image = [[Image:Basa and cheese pasta bake recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I prefer this cold, in slices</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">But I am a little odd \ud83d\ude01</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n[[Eggs]], [[Baked|baked]] in layers of [[Potato|potato]] slices, eaten as a snack or first course.\n\n{{RecipeIngredients\n| 4 large [[Potatoes|potatoes]], peeled, cooked and sliced\n| 4 [[Eggs|eggs]], hard [[Boiled|boiled]] and sliced\n| 2 tablespoons [[Parsley|parsley]], chopped\n| 125 ml [[Single cream|single cream]]\n| Pinch of [[Salt|salt]]\n| [[Ground black pepper]], to taste\n| 125 g [[Dried|dried]] [[Breadcrumbs|breadcrumbs]]\n\n}}\n\n===[[Mise en place]]===\n* Preheat the [[Oven|oven]] to 180\u00b0 C (350\u00b0 F - gas 4).\n===Method===\n\n{{RecipeMethod\n| Grease a [[Casserole dish|casserole dish]] and arrange one third of the [[Potato|potato]] slices on the bottom.\n| Cover with a layer of half the [[Eggs|eggs]] and [[Anchovies|anchovies]].\n| Repeat the layers, having the final third of the [[Potatoes|potatoes]] on the top.\n| Sprinkle with half the [[Parsley|parsley]].\n| Mix the [[Cream|cream]] with the remaining [[Parsley|parsley]] and the seasoning and pour over the [[Potatoes|potatoes]].\n| Sprinkle over the [[Breadcrumbs|breadcrumbs]] and [[Bake|bake]] for 30 minutes.\n}}\n{{RecipeLine}}\n[[Category:Recipes|Tiroler eierspeise]]\n[[Category:Accompaniments|Tiroler eierspeise]]\n[[Category:Austrian recipes|Tiroler eierspeise]]\n[[Category:Egg recipes|Tiroler eierspeise]]\n[[Category:Potato recipes|Tiroler eierspeise]]\n[[Category:Snacks and light bites|Tiroler eierspeise]]\n[[Category:Starters|Tiroler eierspeise]]\n[[Category:Vegetarian recipes|Tiroler eierspeise]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#parsley #eggs #potatoes #potato #breadcrumbs #dried #singlecream #anchovies #baked #miseenplace #tirolereierspeisev </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

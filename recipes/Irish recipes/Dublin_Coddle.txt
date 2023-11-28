@@ -1,0 +1,16 @@
+title": "Dublin Coddle",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Dublin Coddle, Irish recipe \n|titlemode=replace\n|keywords=#dublincoddle #sausage #simmer #stock #onions #pork #stew #sodabread #greaseproofpaper #smokedbacon #unusualrecipes \n|hashtagrev=032020\n|description=A sausage and bacon stew, which is a traditional Saturday evening meal. It can also be served as a snack or a first course\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3211\n|PortionCalories = 802\n|DatePublished=19th January 2013\n|Author=Chef\n|Servings = Serves 4-6\n |Difficulty = 2\n |TotalTime = 1 hour\n |PrepTime = 15 minutes\n |CookTime = 45 minutes\n |Image = [[Image:Dublin Coddle recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Sausage stew</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">Meh!</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nA  [[Sausage|sausage]] and [[Bacon|bacon]] [[Stew|stew]], which is a traditional Saturday evening meal.  It can also be served as a snack or a first course.\n\n{{RecipeIngredients\n| 4 large [[potatoes]], peeled and sliced\n| 450 g [[Onions|onions]], thinly sliced\n| 8 [[Smoked bacon|smoked bacon]] rashers, cut into large pieces\n| 450 g thick [[Pork|pork]] [[Sausages|sausages]], cut into chunks\n| [[Pepper]]\n| 300 ml [[Boiling|boiling]] water or light [[Stock|stock]]\n}}\n===Method===\n\n{{RecipeMethod\n| Place all the ingredients into a saucepan.\n| Cover the pan with a piece of [[Greaseproof paper|greaseproof paper]] and then a tight fitting lid.\n| [[Simmer]] gently for 45-60 minutes until cooked.\n}}\n===Serving suggestions===\nFor a main meal serve with [[Soda bread|soda bread]] and a glass of [[Guinness]].\n{{RecipeLine}}\n[[Category:Recipes|Dublin coddle]]\n[[Category:Irish recipes|Dublin coddle]]\n[[Category:Main courses|Dublin coddle]]\n[[Category:Meat recipes|Dublin coddle]]\n[[Category:Potato recipes|Dublin coddle]]\n[[Category:Pork recipes|Dublin coddle]]\n[[Category:Snacks and light bites|Dublin coddle]]\n[[Category:Stews and casseroles|Dublin coddle]]\n[[Category:Starters|Dublin coddle]]\n[[Category:Student recipes|Dublin coddle]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#dublincoddle #sausage #simmer #stock #onions #pork #stew #sodabread #greaseproofpaper #smokedbacon #unusualrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

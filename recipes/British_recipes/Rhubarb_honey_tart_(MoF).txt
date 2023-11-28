@@ -1,0 +1,16 @@
+title": "Rhubarb honey tart (MoF)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Rhubarb honey tart (MoF), a fruit recipe \n|titlemode=replace\n|keywords=#honey #rhubarb #dates #flakypastry #flour #bake #brush \n|hashtagrev=032020\n|description=A recipe for Rhubarb and honey tart. Post war cookery advice from the UK Ministry of Food\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 471\n|PortionCalories = 117\n|DatePublished=20th January 2013\n|Author=Chef\n|ImageComment = Ministry of Food Cookery calendar - 1951\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 40 minutes\n|PrepTime = 10 minutes\n|CookTime = 30 minutes\n|Image = [[Image:Ministry of Food Cookery calendar - 1951.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Just as good now, as it was then!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">You can't improve on perfection!</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\n\"Housekeeping's most important secret nowadays is to know how to make best use of the foods available.  Here are some practical suggestions for improving your inside knowledge without undue expense.\"\n'''Ministry of food Cookery Calendar - April..May 1951'''\n\n{{RecipeIngredients\n| [[Flaky pastry]] using 6 oz [[flour]]\n| 1 lb [[rhubarb]] stems, cut into 1\" lengths\n| 3 oz [[dates]], chopped\n| 2 level teaspoons [[honey]]\n| 1 tablespoon water\n}}\n''Glaze:''\n* 1 level teaspoons [[honey]] dissolved in 1 teaspoon water\n\n\n===Method===\n\n{{RecipeMethod\n| Line a deep tart plate (7\" diameter) with two thirds of the pastry and fill the case with alternate layers of [[rhubarb]], [[dates]] and [[honey]]\n| Pour over the water\n| Roll out the remaining pastry and cut into thin strips\n| Place the strips across the fruit in a criss-cross design and [[brush]] with the glaze\n| [[Bake]] in a moderately hot (200\u00b0 C - 400\u00b0 F - Gas 6) oven for 25-30 minutes\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Historic recipes]]\n[[Category:Sweets and desserts]]\n[[Category:British recipes]]\n[[Category:Fruit recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#honey #rhubarb #dates #flakypastry #flour #bake #brush </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

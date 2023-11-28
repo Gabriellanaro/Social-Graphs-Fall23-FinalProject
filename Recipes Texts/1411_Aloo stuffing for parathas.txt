@@ -1,0 +1,15 @@
+ 
+
+title": "Aloo stuffing (for parathas)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Aloo stuffing (for parathas) an Indian recipe\n|titlemode=replace\n|keywords=#potatoes #corianderleaves #mash #chiliflakes #stuffedparathas #cuminseeds #potato #aloostuffingforparathas #boil #garammasala #potatoricer \n|hashtagrev=032020\n|description=Primarily for making stuffed parathas but I make this recipe separate as it occurred to me that a spicy potato stuffing might be useful on its own\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 486\n|PortionCalories = 60\n|DatePublished=25th October 2012\n|Author=Chef\n|Servings = Serves 8 - Enough to make 8 parathas\n|Difficulty = 2\n|TotalTime = 30 minutes\n|PrepTime = 30 minutes\n|CookTime = None\n|Image = [[Image:Aloo stuffing for parathas.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Potato stuffing</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.3</span>/5</span>\n\n<span class=\"reviewDesc\">Cheap and cheerful!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nPrimarily for making [[stuffed parathas]] but I make this recipe separate as it occurred to me that a spicy [[potato]] stuffing might be useful on its own\n\n{{RecipeIngredients\n| 2 medium [[potatoes]] (Desiree, King Edward) \n| &#189; teaspoon [[garam masala]]\n| &#189; teaspoon [[salt]]\n| &#189; teaspoon [[cumin seeds]]\n| &#188; teaspoon [[turmeric]]\n| &#188; teaspoon [[chili flakes]]\n| Handful [[coriander leaves]], chopped\n}}\n===Method===\n\n{{RecipeMethod\n| [[Boil]] the [[potatoes]] in their skins until a knife penetrates easily\n| Allow to cool a little\n| Rub the skins off\n| Pass through a [[potato ricer]] or [[mash]] thoroughly\n| Add the remaining ingredients and mix well\n| Divide into eight even sized balls\n| Set aside ready to fill the parathas\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Bread and baking]]\n[[Category:Indian recipes]]\n[[Category:Starters]]\n[[Category:Potato recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoes #corianderleaves #mash #chiliflakes #stuffedparathas #cuminseeds #potato #aloostuffingforparathas #boil #garammasala #potatoricer </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

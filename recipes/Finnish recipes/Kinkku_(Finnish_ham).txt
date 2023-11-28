@@ -1,0 +1,16 @@
+title": "Kinkku (Finnish ham)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Kinkku (Finnish ham) recipe\n|titlemode=replace\n|keywords=#prunes #gammon #onion #roast #stock #ham #apple #parsley #kinkkufinnishham #skewers #blend \n|hashtagrev=032020\n|description=A roast gammon recipe using the ubiquitous apples and prunes\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=9th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime =  1 hour, 20 minutes\n|PrepTime =  20 minutes\n|CookTime =  1 hour\n|TotalCalories = 3043\n|PortionCalories = 760 \n|Image = [[Image:Kinkku Finnish ham recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Finnish ham?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.65</span>/5</span>\n\n<span class=\"reviewDesc\">Needs more apples</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\nA [[Roast|roast]] [[Gammon|gammon]] recipe using the ubiquitous [[Apples|apples]] and [[Prunes|prunes]]\n{{RecipeIngredients\n\n| 1 kg boneless [[Gammon|gammon]] (in one piece)\n| Seasoning\n| 1 medium cooking [[Apple|apple]], sliced\n| 1 medium [[Onion|onion]], chopped\n| 10 [[Prunes|prunes]], stones removed\n| 1 tablespoon [[Parsley|parsley]], chopped\n| 250ml [[Boiling|boiling]] [[Ham|ham]] [[Stock|stock]]\n}}\n===[[Mise en place]]===\n\n* Pre-heat the [[Oven|oven]] to 180\u00b0 C (350\u00b0 F - gas 4), [fan oven 160\u00b0 C]\n\n===Method===\n{{RecipeMethod\n\n| Score the top of the [[Ham|ham]] in a diamond pattern\n| Cut a large pocket in the [[Meat|meat]] directly under the top, cutting from the side\n| Season the inside of the pocket\n| Stuff the pocket with the [[Apple|apple]], [[Onion|onion]], [[Prunes|prunes]] and [[Parsley|parsley]]\n| Fasten the opening with [[Cocktail sticks|cocktail sticks]] or [[Skewers|skewers]]\n| Place in a [[Roasting tin|roasting tin]] and [[Roast|roast]] for about 40-50 minutes (or until the internal temperature is 68\u00b0 C - it should come up to 71\u00b0 C after resting)\n| Remove the [[Meat|meat]] and wrap in [[Foil|foil]] to keep warm\n| Pour off the excess [[Fat|fat]]\n| Stir the [[Stock|stock]] into the pan and [[Blend|blend]] with the pan juices\n| Serve with the [[Gravy|gravy]]\n}}\n\n===Serving suggestions===\nServe with [[Muhennetut perunat (Finnish stewed potatoes)]]) and [[Vegetables|vegetables]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Finnish recipes ]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#prunes #gammon #onion #roast #stock #ham #apple #parsley #kinkkufinnishham #skewers #blend </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

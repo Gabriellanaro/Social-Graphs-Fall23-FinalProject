@@ -1,0 +1,16 @@
+title": "Braised bamboo shoots",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Braised bamboo shoots recipe Accompaniments\n|titlemode=replace\n|keywords=#braisedbambooshoots #bambooshoots #sesameoil #shaoxingwine #peanutoil #oystersauce #stewedbraisedorpotroasted #lightsoysauce #braise #wok #soysauce \n|hashtagrev=032020\n|description=Another simple, quick and inspiring recipe from Robin. Do take the time to view her blog and Flickr pages\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 191\n|PortionCalories = 95\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 5 minutes  \n |CookTime = 10 minutes\n |Image = [[Image:Braised bamboo shoots recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Strange</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">I made this with canned bamboo shoots and was not impressed.  Sorry</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nAnother simple, quick and inspiring recipe from [[User:Robin|Robin]]. Do take the time to view her blog and Flickr pages. If you are a true 'foodie' you will not be disappointed.\n[[User:Robin|Robin]] mentions that she has been unable to find fresh baby [[Bamboo shoots|bamboo shoots]], though I guess if you have bamboo growing in the garden, you can probably harvest that. Our bamboo grows at quite a rate and it's only a miniature type. Use the [[Talk:Braised_bamboo_shoots|comments]] page to let us know what you think.\n\n{{RecipeIngredients\n| 280 g Baby [[Bamboo shoots|bamboo shoots]], cut in pieces\n| 1 tablespoon [[Peanut oil|peanut oil]]\n| 1 tablespoon [[Oyster sauce|oyster sauce]]\n| 1 tablespoon [[Light soy sauce|light soy sauce]]\n| 1 tablespoon [[Sugar|sugar]]\n| 1 tablespoon [[Shaoxing wine|shaoxing wine]]\n| 1 tablespoon [[Sesame oil|sesame oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the [[Peanut oil|peanut oil]] in a [[Wok|wok]] and [[Stir-fry|stir-fry]] the [[Bamboo shoots|bamboo shoots]] for 3 minutes\n| Add the [[Oyster sauce|oyster sauce]], [[Soy sauce|soy sauce]], [[Sugar|sugar]] and [[Shaoxing wine|shaoxing wine]] and [[Braise|braise]] for a couple more minutes\n| Stir in the [[Sesame oil|sesame oil]] and serve\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Vegetable recipes]]\n[[Category:FotoosVanRobin recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Stewed, braised or pot roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#braisedbambooshoots #bambooshoots #sesameoil #shaoxingwine #peanutoil #oystersauce #stewedbraisedorpotroasted #lightsoysauce #braise #wok #soysauce </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

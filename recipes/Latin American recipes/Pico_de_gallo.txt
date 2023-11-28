@@ -1,0 +1,16 @@
+title": "Pico de gallo",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pico de gallo, Vegetarian recipe \n|titlemode=replace\n|keywords=#picodegallo #diced #salsa #onions #mexican #lemonjuice #avocados #tortillachips #corianderleaves #serranochillies #chiles \n|hashtagrev=032020\n|description=A delicious Mexican salsa recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 919\n|PortionCalories = 153\n|DatePublished=27th September 2012\n|Author=JuliaBalbilla\n|Servings = Serves 6 plus as a side dish\n |Difficulty = 1\n |TotalTime =  30 minutes\n |PrepTime = 30 minutes\n |CookTime = None\n|Image = [[Image:Pico de Gallo recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Fresh and zesty!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice with tortillas and refried beans</span> \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nA [[Mexican]] [[Salsa|salsa]].\n\n{{RecipeIngredients\n| 800 g [[Tomatoes, peeled|tomatoes, peeled]], de-seeded and [[Diced|diced]]\n| 200 g [[Onions|onions]], finely [[Diced|diced]]\n| 100 g [[Serrano chillies]], finely chopped\n| 80 g [[Coriander leaves|coriander leaves]], chopped\n| 20 ml [[Lemon juice|lemon juice]]\n| [[Salt]] to taste\n| 2 Avocados (optional)\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all of the ingredients and season to taste.\n}}\n===Serving suggestions===\nExcellent with [[Tortilla chips|tortilla chips]].\n===Variations===\nIf you cannot find Serrano [[Chiles|chiles]], you can substitute with Jalape\u00f1os.\n\nYou can also add some peeled [[avocados]].\n{{RecipeLine}}\n[[Category:Recipes|Pico de gallo]]\n[[Category:Accompaniments|Pico de gallo]]\n[[Category:Dips and sauces|Pico de gallo]]\n[[Category:Latin American recipes|Pico de gallo]]\n[[Category:Mexican recipes]]\n[[Category:Spicy recipes|Pico de gallo]]\n[[Category:Vegetable recipes|Pico de gallo]]\n[[Category:Vegetarian recipes|Pico de gallo]]\n[[Category:Vegan recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#picodegallo #diced #salsa #onions #mexican #lemonjuice #avocados #tortillachips #corianderleaves #serranochillies #chiles </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

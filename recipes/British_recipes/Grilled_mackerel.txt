@@ -1,0 +1,16 @@
+title": "Grilled mackerel",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Grilled mackerel, British recipe \n|titlemode=replace\n|keywords=#grilledmackerel #mackerel #horseradishcream #oliveoil #grapefruitsalsa #zest #lime #griddled #barbecued #citrus #grilled \n|hashtagrev=032020\n|description=As mackerel is quite an oily fish, it's nice to have clean citrus flavours to cut the oil\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 493\n|PortionCalories = 123\n|DatePublished=12th April 2013\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 20 minutes\n|PrepTime = 5 minutes\n|CookTime = 15 minutes\n|Image = [[Image:Grilled mackerel recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice on a pizza</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Had mackerel pizza yesterday - yummy</span>\n \n<span class=\"reviewAuthor\"> - [[User:PSmith]] </span></span>\n}}\n\nAs mackerel is quite an [[oil]]y [[fish]], it's nice to have clean [[citrus]] flavours to cut the oil.  This would be nice with a dollop of [[horseradish cream]] and a [[grapefruit salsa]].\n\nYour fishmonger will fillet mackerel if you ask.\n\n{{RecipeIngredients\n| 2 fresh [[mackerel]] fillets\n| [[Olive oil]]\n| [[Zest]] and juice of a [[lime]]\n| [[Freshly ground black pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| With a sharp knife, slash the skin at regular intervals, not cutting all the way through\n| Season each side with [[salt]], [[pepper]] and [[lime]] [[zest]] and juice and then drizzle with a little [[olive oil]]\n| Grill for 5 minutes per side then set aside to rest for 5 minutes\n}}\n===Serving suggestions===\n\nServe hot or cold with a dollop of [[horseradish cream]] and [[grapefruit salsa]]\n\n===Chef's notes===\nDon't be tempted to add [[salt]] as processed [[mackerel]] can be quite salty already.\n{{RecipeLine}}\n[[Category:Recipes|Mackerel]]\n[[Category:Fish recipes|Mackerel]]\n[[Category:Sea fish recipes|Mackerel]]\n[[Category:Main courses|Mackerel]]\n[[Category:Starters|Mackerel]]\n[[Category:British recipes]]\n[[Category:Student recipes]]\n[[Category:Grilled, griddled or barbecued]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#grilledmackerel #mackerel #horseradishcream #oliveoil #grapefruitsalsa #zest #lime #griddled #barbecued #citrus #grilled </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

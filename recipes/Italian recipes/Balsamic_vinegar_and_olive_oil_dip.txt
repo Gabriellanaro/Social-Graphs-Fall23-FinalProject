@@ -1,0 +1,16 @@
+title": "Balsamic vinegar and olive oil dip",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Balsamic vinegar and olive oil dip an Italian recipe\n|titlemode=replace\n|keywords=#balsamicvinegarandoliveoildip #balsamicvinegar #pittabread #ciabatta #focacciabread #frenchstick #oliveoil \n|hashtagrev=032020\n|description=I think I first had this in a pub in Croydon\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 482\n|PortionCalories = 241\n|DatePublished=13th November 2013\n|Author=Chef\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime = 2 minutes\n|PrepTime = 2 minutes\n|CookTime = None\n|Image = [[Image:RecipeBalsamic vinegar and olive oil dip.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Simple is best</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">So easy, so nice!</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nI think I first had this in a pub in Croydon.  Because of this dip, I ate so much bread that I left most of the main course.\n\nAs well as tasting so good, it looks so wonderful.\n\nGreat with diagonally sliced, toasted [[French stick]], [[pitta bread]], [[ciabatta]] or [[focaccia bread]].\n\n{{RecipeIngredients\n| 30 ml [[extra virgin olive oil]]\n| 15 ml [[balsamic vinegar]]\n}}\n\n===Method===\n{{RecipeMethod\n| On a white plate or large saucer, pour out the [[olive oil]]\n| Drizzle the [[balsamic vinegar]] randomly into the oil\n| Serve\n}}\n===Serving suggestions===\n\nServe as a dip to accompany [[pitta bread]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Starters]]\n[[Category:Marinades_dressings_and_butters]]\n[[Category:Italian recipes]]\n[[Category:Student recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#balsamicvinegarandoliveoildip #balsamicvinegar #pittabread #ciabatta #focacciabread #frenchstick #oliveoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

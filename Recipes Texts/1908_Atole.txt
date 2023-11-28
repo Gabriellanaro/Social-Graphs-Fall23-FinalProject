@@ -1,0 +1,15 @@
+ 
+
+title": "Atole",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Atole: Cooking Wiki\n|titlemode=replace\n|keywords=#atole #masa #cornmeal #chocolate #riceflour #fruit #cornstarch #toasted #beverages #piloncillo #vanilla \n|hashtagrev=12032020\n|description=Atole is a traditional cornstarch-based Mexican and Central American (where it is known as atol) hot drink\n}}\n<!-- /seo -->\n\n\n[[Image:Mas vale atole.jpg|300px|thumb|right|M\u00e1s vale atole con risas, que chocolate con l\u00e1grimas]]\n'''Atole''' is a traditional [[cornstarch]]-based Mexican and Central American (where it is known as atol) hot drink. [[Chocolate]] atole is known as champurrado. It is typically accompanied with [[tamales]], and very popular during the Christmas holiday season (Las Posadas).\n\nThe drink typically includes [[masa]] ([[corn meal]]), water, [[piloncillo]], [[cinnamon]], [[vanilla]] and optional [[chocolate]] or [[fruit]]. The mixture is blended and heated before serving. The resulting blends vary in texture, ranging from a porridge to a very thin liquid consistency. Atole can also be prepared with [[rice flour]] or [[oatmeal]] in place of [[masa]]. In northern Mexico there is also a variation using pinole (sweetened toasted corn meal). Although atole is one of the traditional drinks of the Mexican holiday Day of the Dead, it is very common during breakfast and dinnertime at any time of year. It is usually sold as street food.\n\nOther derivations exist. In New Mexico, blue corn atole is finely ground [[cornmeal]] [[toasted]] for cooking, consumed as a grainy porridge-style drink served warm, usually sweetened with [[sugar]] and/or thinned with [[milk]]. It is usually served at breakfast like cream of wheat or oatmeal. It is said that elders would drink Atole because it gave them energy and if a mother is nursing it gives them more [[milk]]. \n\nSalvadoran varieties include atol shuco (\"dirty\" atol, a reference to its darker colour), particularly popular in the Caba\u00f1as region.\n{{CategoryLineIngredients}}\n[[Category:Ingredients]]\n[[Category:Beverages]]\n[[Category:Tex-Mex recipes]]\n[[Category:Latin American recipes]]\n[[Category:Non-alcoholic beverages]]\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#atole #masa #cornmeal #chocolate #riceflour #fruit #cornstarch #toasted #beverages #piloncillo #vanilla </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,15 @@
+ 
+
+title": "Potato, cheese and bacon pie",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Potato, cheese and bacon pie a cheese recipe\n|titlemode=replace\n|keywords=#bacon #potatoes #potatocheeseandbaconpie #cheese #baking #butter #miseenplace #grated #bake #potato #gruyerecheese \n|hashtagrev=032020\n|description=Potato, cheese and bacon pie British Cheese and potato recipes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2371\n|PortionCalories = 592\n|DatePublished=20th January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 1 hour 10 minutes\n |PrepTime = 10 minutes\n |CookTime = 1 hour\n |Image = [[Image:Potato, cheese and bacon pie recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Tasty</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">This was nice cold, sliced thinly.</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\n{{FindAlbertBartlett}}\n\n{{RecipeIngredients\n| 1kg of Bartlett Rooster potatoes peeled & thinly sliced \n| 15g Melted [[Butter|butter]] \n| 200g Thinly sliced streaky [[Bacon|bacon]] \n| 100g [[Grated]] [[Gruyere cheese]] \n| [[Salt]] & [[Pepper|pepper]] to taste\n\n}}\n\n===[[Mise en place]]===\n* You will need a 9 inch ovenproof [[Baking|baking]] dish preferably non-stick. \n* Preheat [[Oven|oven]] to 425\u00b0F/220\u00b0C or Gas mark 7.\n===Method===\n\n{{RecipeMethod\n| [[Butter]] the [[Baking|baking]] dish, arrange the [[Bacon|bacon]] onto the bottom and sides of the pan. \n| Allow the [[Bacon|bacon]] to slightly overhang the edge of the dish.\n| Wash the sliced [[Potatoes|potatoes]] and dry in a towel.\n| Arrange 1/3 of the [[Potatoes|potatoes]] onto the [[Bacon|bacon]] and sprinkle with 1/3 of the [[Cheese|cheese]]. \n| Repeat, creating two additional layers of [[Potato|potato]] and [[Cheese|cheese]]. \n| Fold the overhanging [[Bacon|bacon]] onto the [[Potatoes|potatoes]].\n| [[Bake]] uncovered for 50 minutes, test the [[Potatoes|potatoes]] are cooked by piercing them with a knife.\n}}\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Albert Bartlett recipes]]\n[[Category:Recipes from other sites]]\n[[Category:British recipes]]\n[[Category:Cheese recipes]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Potato recipes]]\n[[Category:Pork recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bacon #potatoes #potatocheeseandbaconpie #cheese #baking #butter #miseenplace #grated #bake #potato #gruyerecheese </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

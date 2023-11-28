@@ -1,0 +1,16 @@
+title": "Marzipan recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=A British Marzipan recipe that needs no cooking\n|titlemode=replace\n|keywords=#almondextract #lemonjuice #almondessence #groundalmonds #eggs #marzipanrecipe #brandy #castersugar #sugars #icingsugar #marzipan \n|hashtagrev=032020\n|description=This version is a marzipan made with eggs that needs no cooking. It's quick, simple and easy to make. More than can be said for icing a cake!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3244\n|PortionCalories = 324\n|DatePublished=25th October 2012\n|Author=Chef\n|Servings = Servings: 10 - Enough for 1 large cake\n|Difficulty = 2\n|ImageComment = Marzipan Christmas cake\n|TotalTime = 15 minutes\n|PrepTime = 15 minutes \n|CookTime = None\n|Image = [[Image:Marzipan.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Almondy!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">..and a must for Christmas cakes</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nThis version is [[marzipan]] made with [[eggs]] that needs no cooking.  It's quick, simple and easy to make.  More than can be said for icing a cake!\n\n{{RecipeIngredients\n| 450g (16oz) [[ground almonds]]\n| 225g (8oz) [[caster sugar]]\n| 225g (8oz) [[icing sugar]]\n| 2 [[free range eggs]]\n| 1 [[egg yolk]]\n| 1 teaspoon [[almond extract]] or [[almond essence]]\n| 1 tablespoon [[lemon juice]]\n| 2 teaspoons [[brandy]] or [[sweet sherry]]\n}}\n===Method===\n\n{{RecipeMethod\n| Whisk all of the [[eggs]], the [[almond extract]] or [[almond essence]] and the [[lemon juice]] and [[brandy]]\n| Mix in the [[ground almonds]] and both [[sugars]]\n| Use your hands and [[Kneading bread|knead]] well to form to a pliable '[[dough]]'\n| Cover in greaseproof paper and refrigerate until required\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Egg recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Sweets and desserts]]\n[[Category:British recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#almondextract #lemonjuice #almondessence #groundalmonds #eggs #marzipanrecipe #brandy #castersugar #sugars #icingsugar #marzipan </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Chip shop Friday - A great recipe idea",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chip shop Friday - A great recipe idea \n|titlemode=replace\n|keywords=#chips #filletsteak #airfryer #wok #unusualrecipes #sausages #chipshopfridayagreatrecipeidea #fish \n|hashtagrev=032020\n|description=So simple, so obvious yet I've only just thought of doing this. Cook your own special main meal element like a nice fillet steak\n}}\n<!-- /seo -->\n\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 956\n|PortionCalories = 1912\n|DatePublished=15th February 2016\n|Author=Chef\n|ImageComment = Re-heat those anemic chip-shop chips and turn them golden brown and crispy (15 minutes)\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  10 minutes\n|PrepTime =  0 minutes\n|CookTime =  10 minutes\n|Image = [[Image:Tefal ActiFry AL806040 - Reheating chips.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Chip shop cheat</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Fab idea, might even work on frozen-then-defrosted chip shop chips?</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nSo simple, so obvious yet I've only just thought of doing this.\n\nCook your own special main meal element like a nice [[Fillet steak|fillet steak]], special [[Sausages|sausages]], [[Steak and kidney pie|steak and kidney pie]], you get the idea. Then serve it with [[Chips|chips]] from your favourite chip shop.\n\nIf you have a willing victim (''partner'') then you can probably get them collected directly from the chip shop and serve them straight to the plate.\n\nIf not then we find keeping them wrapped in a warm [[Oven|oven]], then refresh by heating in an [[Air Fryer]] for 10 minutes or by [[Stir-frying|stir-frying]] in a very hot [[Wok|wok]] for a minute or two.\n\nHowever you cook homemade [[Chips|chips]], you can;t beat chips from a good [[Fish|fish]] and chip shop.\n\n===Ingredients===\n{{RecipeIngredients\n| 1 large bag of chips from the chip shop\n| A pinch of [[salt]]\n}}\n\n===Method===\n{{RecipeMethod\n| Add the chips to the air-fryer\n| Add a pinch of [[salt]]\n| Shake well to distribute evenly\n| Cook for 5 to 10 minutes\n}}\n\n\n[[Category:Recipes]]\n{{RecipeLine}}\n[[Category:British recipes]]\n[[Category:Cookery cheats]]\n[[Category:Deep fried]]\n[[Category:Favourite recipes]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chips #filletsteak #airfryer #wok #unusualrecipes #sausages #chipshopfridayagreatrecipeidea #fish </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

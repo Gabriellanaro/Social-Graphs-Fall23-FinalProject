@@ -1,0 +1,16 @@
+title": "Prawns and spinach",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Prawns and spinach, Indian recipe \n|titlemode=replace\n|keywords=#spinach #onions #lime #garlic #prawnsandspinach #fry #ghee #tomatoes #chilipowder #starter #spices \n|hashtagrev=032020\n|description=A colourful and tasty combination that works just as well as a starter or a main course\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 770\n|PortionCalories = 385\n|DatePublished=31st October 2012\n|Author=Chef\n|Servings = Serves 2 as a [[Main course|main course]], 4 as a [[Starter|starter]]\n|Difficulty = 2\n|TotalTime = 30 minutes\n|PrepTime = 15 minutes\n|CookTime = 15 minutes\n|Image = [[Image:Prawns.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Surf and greens</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Sharon's mum loves this</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nA colourful and tasty combination that works just as well as a starter or a main course.\n\n{{RecipeIngredients\n| 225 g (8 oz) [[Peeled prawns|peeled prawns]]\n| 225 g (8 oz) [[Spinach|spinach]] leaves\n| 2 [[Onions|onions]], peeled and chopped\n| 4 [[Cloves|cloves]] of [[Garlic]], peeled and crushed\n| 4 [[Tomatoes|tomatoes]], chopped\n| 1 fresh green [[Chili|chili]], deseeded and sliced\n| &#189; teaspoon [[Garam masala|garam masala]]\n| &#189; teaspoon [[Chili powder|chili powder]]\n| 2 tablespoons [[Ghee|ghee]]\n| [[Sea Salt|sea salt]] to taste\n}}\n\n'''To garnish'''\n* Slices of [[Lime|lime]]\n\n===Method===\n\n{{RecipeMethod\n| Heat the [[Ghee|ghee]] in a [[Wok|wok]] and [[Fry|fry]] the [[Onions|onions]] and [[Garlic|garlic]] for 4 minutes\n| Add the [[Spices|spices]]\n| [[Stir-fry]] the [[Tomatoes|tomatoes]] and [[Fry|fry]] for a further 3 minutes\n| Add the [[Spinach|spinach]] and cook for 5 minutes\n| Add the [[Prawns|prawns]] and cook until they turn pink, this will be dependant upon the size of the prawns\n| Remove from the heat, season to taste with [[Sea Salt|sea salt]]\n}}\n===Serving suggestions===\n\nGarnish with quarters of [[Lime|lime]] and serve while hot\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Fish recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Garlic recipes]]\n[[Category:Indian recipes]]\n[[Category:Main courses]]\n[[Category:Shellfish recipes]]\n[[Category:Spicy recipes]]\n[[Category:Starters]]\n[[Category:Stir fried]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#spinach #onions #lime #garlic #prawnsandspinach #fry #ghee #tomatoes #chilipowder #starter #spices </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

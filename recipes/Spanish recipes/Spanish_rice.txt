@@ -1,0 +1,16 @@
+title": "Spanish rice",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Spanish rice, Spanish recipe \n|titlemode=replace\n|keywords=#rice #spanishrice #tomatoes #fry #oregano #boil #chiliflakes #onion #oliveoil #garlic #chickenstock \n|hashtagrev=032020\n|description=Another staple for your Spanish or Mexican evening. Can be served cold as a salad dish\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 879\n|PortionCalories = 219\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 40 minutes\n|PrepTime = 10 minutes\n|CookTime = 30 minutes\n|Image = [[Image:Spanish rice recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Looks like Pilau rice</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I love that, so this should be good too</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n\nAnother staple for your [[Spanish]] or [[Mexican]] evening.\n\nCan be served cold as a [[salad]] dish.\n\n{{RecipeIngredients\n| 1.5 cups of [[long grain rice]]\n| 1 [[onion]], finely chopped\n| 2 tablespoons [[olive oil]]\n| 1 [[clove]] of [[Garlic|garlic]], minced\n| 3 cups of [[chicken stock]] or [[vegetable stock]]\n| Pinch of [[oregano]]\n| &#189; teaspoon freshly ground [[white cumin]] seeds\n| &#189; teaspoon [[sea salt]]\n| 1 cup of fresh [[tomatoes]], chopped\n| &#189; teaspoon [[chili flakes]]\n}}\n===Method===\n\n{{RecipeMethod\n| Rinse the [[rice]] in a sieve under cold running water until it runs clear\n| In a [[frying]] pan or [[wok]], heat the [[olive oil]] and gently [[fry]] the [[onion]] and [[Garlic|garlic]] until soft and translucent\n| Mix in the [[rice]] and [[fry]] for a further few minutes to ensure that it's well coated with [[oil]]\n| In a large pan, bring the [[stock]] to the [[boil]]\n| Add the [[rice]], [[oregano]], [[cumin]] and [[salt]], stir once and then cover  \n| [[Simmer]] for 20 minutes, checking that it does not  [[boil]] dry\n| Remove from the heat a leave, covered for 5 minutes\n| Stir in the [[tomatoes]] and [[chili flakes]] and fluff up with a fork\n}}\n===Serving suggestions===\n\nServe hot or cold\n{{RecipeLine}}\n[[Category:Recipes|Rice]]\n[[Category:Accompaniments|Rice]]\n[[Category:Rice recipes]]\n[[Category:Salad recipes|Rice]]\n[[Category:Spanish recipes|Rice]]\n[[Category:Tex-Mex recipes|Rice]]\n[[Category:Vegetable recipes|Rice]]\n[[Category:Boiled or simmered]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#rice #spanishrice #tomatoes #fry #oregano #boil #chiliflakes #onion #oliveoil #garlic #chickenstock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

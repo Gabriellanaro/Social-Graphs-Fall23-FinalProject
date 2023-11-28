@@ -1,0 +1,15 @@
+ 
+
+title": "Mushrooms with smokey bacon",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mushrooms with smokey bacon a British recipe\n|titlemode=replace\n|keywords=#mushrooms #mace #oliveoil #nutmeg #mushroomswithsmokeybacon #fry #garlic #parsley #homesmokedbacon #simmer #buttonmushrooms \n|hashtagrev=032020\n|description=A great combination and another use for your home smoked bacon\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 513\n|PortionCalories = 128\n|DatePublished=20th January 2013\n|Author=Chef\n|ImageComment = Saut\u00e9ed mushrooms in red wine\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 20 minutes\n|PrepTime = 5 minutes\n|CookTime = 15 minutes\n|Image = [[Image:Sauteed mushrooms and red wine.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I can smell that from here</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">..and that's just from the picture!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n\nA great combination and another use for your [[home smoked bacon]].\n\n{{RecipeIngredients\n| 400g (14 oz) [[button mushrooms]]\n| 4 tablespoons [[olive oil]]\n| &#189; teaspoon ground [[mace]] or [[grated]] [[nutmeg]]\n| [[Freshly ground black pepper]]\n| 4 rashers of [[home smoked bacon]], chopped into strips\n| 3 [[cloves]] of [[Garlic]]\n| 1 glass of good [[red wine]]\n| 3 tablespoons chopped [[parsley]]\n}}\n===Method===\n\n{{RecipeMethod\n| [[Brush]] the [[mushrooms]] clean, don't wash [[mushrooms]].\n| Heat the [[olive oil]] in a heavy pan and [[fry]] the [[mushrooms]] until they have taken a little colour and start to [[sweat]].\n| Season with [[pepper]] and [[mace]] or [[nutmeg]]\n| Add the [[bacon]] and [[Garlic|garlic]] and [[fry]] for 3 minutes, stirring often\n| [[Deglaze]] the pan with the [[wine]], reduce the heat and [[simmer]] for 5 minutes - the aim is to reduce the wine to just a little [[sauce]]\n| Stir in the [[parsley]], remove from the heat and serve immediately\n}}\n===Serving suggestions===\n\nServe hot\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Starters]]\n[[Category:Vegetable recipes]]\n[[Category:British recipes]]\n[[Category:Cooking with wine]]\n[[Category:Pan fried]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mushrooms #mace #oliveoil #nutmeg #mushroomswithsmokeybacon #fry #garlic #parsley #homesmokedbacon #simmer #buttonmushrooms </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

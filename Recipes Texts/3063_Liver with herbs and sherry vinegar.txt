@@ -1,0 +1,15 @@
+ 
+
+title": "Liver with herbs and sherry vinegar",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Liver with herbs and sherry vinegar a Spanish recipe\n|titlemode=replace\n|keywords=#sherryvinegar #parsley #fry #liverwithherbsandsherryvinegar #sage #butter #boil #panfried #redwinevinegar #simmer #onions \n|hashtagrev=032020\n|description=Another great use for my condiment of the moment, sherry vinegar\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1141\n|PortionCalories = 285\n|DatePublished=20th January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 20 minutes\n|PrepTime = 10 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Liver salad.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Better than it looks</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">And it looks fancy (for liver) \ud83d\ude1c</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nAnother great use for my condiment of the moment, [[sherry vinegar]]. The vinegar and the [[herbs]] work really well with liver, especially if its not over cooked.\n\n{{RecipeIngredients\n| 50 g (2 oz) [[butter]]\n| 1 [[onion]], peeled and chopped\n| 450 g (1 lb) calves liver, washed, rinsed, trimmed and sliced as thinly as you can\n| 3 tablespoons chopped [[parsley]]\n| 3 tablespoons chopped [[sage]]\n| [[Sea salt]] and [[freshly ground black pepper]]\n| 30 ml (2 tablespoons) [[sherry vinegar]] - [[red wine vinegar]] will do , but it's worth getting [[sherry vinegar]] anyway, you won't regret it!\n}}\n===Method===\n\n{{RecipeMethod\n| [[Fry]] the [[onions]] in the [[butter]] until soft, about 4 minutes\n| Add the liver, [[sage]] and half of the [[parsley]] and season to taste with [[salt]] and [[pepper]]\n| [[Fry]] until [[browned]] and tender, but don't overcook it or it will be as tough as old boots. (It's quite ok to eat liver rare)\n| Reserve the [[liver and onions]] and keep warm\n| Deglaze the pan with the [[sherry vinegar]] by bringing it to the [[boil]] whilst stirring.  Reduce the heat and [[simmer]] for a minute\n| Pour the hot [[sherry]] over the liver and sprinkle with the remaining [[parsley]]\n}}\n===Serving suggestions===\n\nServe hot\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Spanish recipes]]\n[[Category:Offal recipes]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sherryvinegar #parsley #fry #liverwithherbsandsherryvinegar #sage #butter #boil #panfried #redwinevinegar #simmer #onions </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

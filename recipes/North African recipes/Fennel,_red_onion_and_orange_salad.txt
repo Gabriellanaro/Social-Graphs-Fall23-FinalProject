@@ -1,0 +1,16 @@
+title": "Fennel, red onion and orange salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Fennel, red onion and orange salad Accompaniments recipe\n|titlemode=replace\n|keywords=#orange #mint #fennelredonionandorangesalad #pestleandmortar #oliveoil #duck #cumin #onion #fish #onions #zest \n|hashtagrev=032020\n|description=Another Middle Eastern influenced dish. Fennel, red onion and orange salad is great with grilled chicken, duck or fish\n}}\n<!-- /seo -->\n{{Template:AdvancePreparationIcon}}\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 175\n|PortionCalories = 43\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 3 hours\n|PrepTime = 3 hours, 10 minutes\n|CookTime = None\n|Image = [[Image:Fennel Red onion and orange salad recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Glorious!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">This salad tastes as good as it looks!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n[[Image:Fennel red onion orange salad.jpg|thumb|300px|right|Three simple ingredients]]\nAnother Middle Eastern influenced dish.  This salad is great with [[grilled]] [[chicken]], [[duck]] or [[fish]].\n\n{{RecipeIngredients\n| 1 the zest, flesh and juice of a large [[orange]]\n| 1 [[fennel bulb]], thinly sliced (as you would an [[onion]])\n| 2 [[red onions]], peeled and thinly sliced into rings\n| 1 teaspoon of [[cumin seeds]], cracked in a [[pestle and mortar]]\n| 1 tablespoon freshly chopped [[mint]]\n| 1 teaspoon [[caraway seeds]], cracked in a [[pestle and mortar]]\n| A good grind of [[freshly ground black pepper|black pepper]]\n| 3 to 4 tablespoons of [[olive oil]]\n| Freshly picked [[mint]] sprigs to garnish\n| [[Sea salt]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| [[Zest]] the [[orange]]\n| Peel and slice the [[orange]], reserving any juice\n| Arrange the [[fennel]], [[onions]] and [[orange]] slices in layers into a shallow serving dish\n| Sprinkle the [[orange zest]], [[caraway]], [[cumin]] [[salt]], [[pepper]], [[mint]]  and [[olive oil]] over each layer\n| Pour any reserved [[orange]] juice over the top\n| Chill and rest for 2 hours\n}}\n===Serving suggestions===\n\nScatter torn mint leaves over the top\n\n===Variations===\n\nServe with [[black olives]]\n{{RecipeLine}}\n[[Category:Recipes|Orange]]\n[[Category:Accompaniments|Orange]]\n[[Category:North African recipes|Orange]]\n[[Category:Salad recipes|Orange]]\n[[Category:Starters|Orange]]\n[[Category:Vegetable recipes|Orange]]\n[[Category:Favourite recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#orange #mint #fennelredonionandorangesalad #pestleandmortar #oliveoil #duck #cumin #onion #fish #onions #zest </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

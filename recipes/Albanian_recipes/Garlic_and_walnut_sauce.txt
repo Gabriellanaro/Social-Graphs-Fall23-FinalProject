@@ -1,0 +1,16 @@
+title": "Garlic and walnut sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Garlic and walnut sauce, Garlic recipe \n|titlemode=replace\n|keywords=#garlicandwalnutsauce #walnuts #plainflour #eggyolks #stock #meats #unusualrecipes #flour #oliveoil #butter #garlic \n|hashtagrev=032020\n|description=This recipe is part of Gjelle me arra (Chicken with walnuts), but was so good that it deserves to be a recipe in its own right. It would make a nice\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1712\n|PortionCalories = 856\n|DatePublished=17th January 2013\n|Author=Chef\n|Servings = Serves 2 - Makes enough sauce for 2 people\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 5 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Garlic and walnut sauce recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Looks strange</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Tastes fab.</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nThis recipe is part of [[Gjell\u00eb me arra (Chicken with walnuts)]], but was so good that it deserves to be a recipe in its own right.\n\nIt would make a nice topping or accompaniment for most [[meats]] or [[vegetables]].\n\n{{RecipeIngredients\n| Extra virgin [[Olive oil]]\n| 1.5 tablespoons [[plain flour]]\n| 60 g [[Butter|butter]]\n| 15 crushed shelled [[Walnuts|walnuts]]\n| 6 fat cloves of [[Garlic]], crushed\n| 2 beaten [[Egg|egg]] yolks\n| A few tablespoons of hot [[stock]] or hot water.\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Flour|flour]] in a pan and dry-cook until it becomes light [[Brown|brown]] in colour.\n| In another pan, add the butter and saut\u00e9 the garlic until lightly coloured.\n| Add the flour to the butter and mix well until combined.\n| Remove from the heat, stir in the [[Walnuts|walnuts]] and whisk in the [[Egg yolks|egg yolks]]. \n| Add a little hot water or stock so the sauce loosens a little.\n| Finally add stir a few tablespoons of olive oil into the dip so it has a little glaze.\n| Enjoy!\n}}\n===Variations===\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Garlic recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Favourite recipes]]\n[[Category:Albanian recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlicandwalnutsauce #walnuts #plainflour #eggyolks #stock #meats #unusualrecipes #flour #oliveoil #butter #garlic </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

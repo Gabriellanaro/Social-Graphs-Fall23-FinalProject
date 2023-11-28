@@ -1,0 +1,16 @@
+title": "Chinese coleslaw",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chinese coleslaw, Chinese recipe \n|titlemode=replace\n|keywords=#nampla #limejuice #jaggery #salad #springonions #chinesecoleslaw #marinate #carrots #mandoline #peanutoil #foodprocessor \n|hashtagrev=032020\n|description=An oriental slant (sic) on a common salad dish. Ideal for barbecues\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 732\n|PortionCalories = 183\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 15 minutes\n|PrepTime = 15 minutes\n|CookTime = None\n|Image = [[Image:ChineseCole.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">This is different</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\"> This went nicely with beanburgers</span>\n \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nAn oriental slant (sic) on a common [[salad]] dish.  Ideal for barbecues.\n{{RecipeIngredients\n| Half a [[Chinese cabbage]], shredded\n| 2 [[carrots]], peeled and grated\n| 6 [[spring onions]], thinly [[sliced on the diagonal]]\n| A handful of [[coriander]] leaves\n| 20g (3/4 oz) [[jaggery]], shaved with a [[mandoline]]\n| 2 tablespoons [[nam pla]]\n| 3 tablespoons [[lime juice]]\n| [[Freshly ground black pepper]]\n| 3 tablespoons [[peanut oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Toss the [[cabbage]], [[carrot]], [[spring onions]] and coriander together in a bowl\n| Dissolve the [[jaggery]] in the [[lime juice]] and [[nam pla]]\n| Add a twist of [[black pepper]] and add the oil whilst whisking vigorously\n| Pour over the [[salad]] and toss well\n}}\n==Footnote==\n\nWell, the best laid plans of mice and men... I couldn't get Chinese cabbage so used a sweetheart cabbage.  I forgot and used all of the coriander in the [[marinate]] for the [[ginger-spiced lamb]] and after dropping (and of course, breaking) a full bottle of olive oil, time was tight, so everything went in the [[food processor]].  Anyway, it still tasted great! \n{{Template:PeelingGinger}}\n{{RecipeLine}}\n[[Category:Recipes|Coleslaw]]\n[[Category:Accompaniments|Coleslaw]]\n[[Category:Oriental cuisine|Coleslaw]]\n[[Category:Chinese recipes|Colesalw]]\n[[Category:Marinades dressings and butters|Coleslaw]]\n[[Category:Salad recipes|Coleslaw]]\n[[Category:Starters|Coleslaw]]\n[[Category:Vegetable recipes|Coleslaw]]\n[[Category:Vegetarian recipes|Coleslaw]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#nampla #limejuice #jaggery #salad #springonions #chinesecoleslaw #marinate #carrots #mandoline #peanutoil #foodprocessor </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

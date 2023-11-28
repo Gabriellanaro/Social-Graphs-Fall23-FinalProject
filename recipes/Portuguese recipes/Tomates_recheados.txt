@@ -1,0 +1,16 @@
+title": "Tomates recheados",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tomates recheados a cheese recipe \n|titlemode=replace\n|keywords=#tomatesrecheados #tomatoes #tomato #watercress #creamcheese #garlic #brush #prawns #seeds #chives #oliveoil \n|hashtagrev=032020\n|description=From Portugal, this is a recipe for tomatoes stuffed with prawns and cream cheese\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3052\n|PortionCalories = 763\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|ImageComment = Tomates recheados (unpeeled and garnished with basil)\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 15 minutes\n |CookTime = None\n|Image = [[Image:Tomates recheados recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Very nice indeed!</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nFrom Portugal, this is a recipe for [[Tomatoes|tomatoes]] stuffed with [[Prawns|prawns]] and [[Cream cheese|cream cheese]].\n\n{{RecipeIngredients\n| 8 large [[Tomatoes|tomatoes]], skinned\n| [[Salt]] and [[Pepper|pepper]]\n| 115 g [[Cream cheese|cream cheese]]\n| 340 g [[Peeled prawns|peeled prawns]]\n| 2 tablespoons [[Chives|chives]], snipped\n| 55 ml [[Double cream|double cream]]\n| [[Garlic]] to taste, crushed\n| [[Watercress]], to garnish\n}}\n===Method===\n\n{{RecipeMethod\n| Slice off the top of each [[Tomato|tomato]] and remove the pulp and [[Seeds|seeds]].\n| Sprinkle the [[Tomatoes|tomatoes]] with [[Salt|salt]] and turn upside down to drain.\n| Meanwhile, mix the remaining ingredients, except the [[Watercress|watercress]] and stuff the [[Tomatoes|tomatoes]].\n| Put on the [[Tomato|tomato]] tops and serve with the [[Watercress|watercress]] and some vinaigrette.\n}}\n===Chef's notes===\nYou can leave the [[Tomato|tomato]] skins on if you wish, in which case, [[Brush|brush]] the [[Tomatoes|tomatoes]] on the outside with [[Olive oil|olive oil]].\n{{RecipeLine}}\n[[Category:Recipes|Tomates recheados]]\n[[Category:Accompaniments|Tomates recheados]]\n[[Category:Cheese recipes|Tomates recheados]]\n[[Category:Garlic recipes]]\n[[Category:Portuguese recipes|Tomates recheados]]\n[[Category:Shellfish recipes|Tomates recheados]]\n[[Category:Snacks and light bites|Tomates recheados]]\n[[Category:Starters|Tomates recheados]]\n[[Category:Vegetable recipes|Tomates recheados]]\n[[Category:Uncooked]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tomatesrecheados #tomatoes #tomato #watercress #creamcheese #garlic #brush #prawns #seeds #chives #oliveoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

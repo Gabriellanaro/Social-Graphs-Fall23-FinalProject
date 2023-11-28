@@ -1,0 +1,16 @@
+title": "Moro crispbread",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Moro crispbread recipe Accompaniments \n|titlemode=replace\n|keywords=#morocrispbread #butter #unusualrecipes #pittabreads #pittas \n|hashtagrev=032020\n|description=The wonderful idea comes from Sam & Sam Clark who run the Moro restaurant, whom I had the pleasure to meet a while back\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 730\n|PortionCalories = 365\n|DatePublished=6th October 2012\n|Author=Chef\n|ImageComment = Toasted and butter absorbed\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime = 25 minutes\n|PrepTime = 10 minutes\n|CookTime = 15 minutes\n|Image = [[Image:Moro crispbread toasted.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Spectacular!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Such a simple idea, you won't believe how fabulous this is.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Image:Moro crispbread buttered.jpg|thumb|right|300px|Glistening with butter]]\nThe wonderful idea comes from Sam & Sam Clark who run the [http://www.moro.co.uk/ Moro restaurant], whom I had the pleasure to meet a while back.\n\nTry this out, you won't believe how good it is.\n\n{{RecipeIngredients\n| 25g [[butter]]\n| 2 [[pitta breads]] (brown or white)\n}}\n===Method===\n\n{{RecipeMethod\n| Preheat the oven to 180\u00b0 C( 350\u00b0 F/Gas 4)\n| Melt the [[butter]] in a pan over a very low heat\n| Split the [[pittas]] in half lengthwise (so each pitta is two sheets)\n| [[Butter]] both sides\n| Cut in half again (so you now have 8 half-moon shaped breads)\n| Place on a tray in the middle of the oven for 10-15 minutes\n| Remove and cool.\n}}\n===Serving suggestions===\n\nServe with any [[:Category:Dips and sauces|dip]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Bread and baking]]\n[[Category:Starters]]\n[[Category:Snacks and light bites]]\n[[Category:Tex-Mex recipes]]\n[[Category:Favourite recipes]]\n[[Category:Baked or roasted]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#morocrispbread #butter #unusualrecipes #pittabreads #pittas </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

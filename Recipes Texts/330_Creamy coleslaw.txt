@@ -1,0 +1,15 @@
+ 
+
+title": "Creamy coleslaw",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Creamy coleslaw, a fruit recipe \n|titlemode=replace\n|keywords=#creamycoleslaw #foodprocessor #yogurt #apple #greekyogurt #raisins #driedapricots #fats #vegetables #sultanas #cabbage \n|hashtagrev=032020\n|description=This is very cheap and easy to make and it's pretty healthy too\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 624\n|PortionCalories = 78\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 8 - Make 850 g coleslaw\n|Difficulty = 2\n|TotalTime = 40 minutes, includes chill time\n|PrepTime = 40 minutes\n|CookTime = None\n|Image = [[Image:Coleslaw recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Wow - just wow!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">So nice, so easy and SO MUCH OF IT!!!</span>\n \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nThis is very cheap and easy to make and it's pretty healthy too.  If you're watching your [[fats]], go for a low fat [[yogurt]].\n\nThis is made easier with the chopping attachment of a [[food processor]].\n\n{{RecipeIngredients\n| &#189; red [[cabbage]]\n| 2 [[carrots]], peeled\n| 1 [[apple]], peeled and cored\n| Handful of [[raisins]], [[sultanas]] or [[dried apricots]]\n| 500g pot [[Greek yogurt]] (large pot)\n}}\n===Method===\n\n{{RecipeMethod\n| Chop all of the [[vegetables]] in the [[food processor]]\n| Chop the [[apricots]] if using\n| Mix together and stir in the [[yogurt]]\n| If you want to be a bit spartan, use less yogurt or even a small pot, but then it won't be creamy coleslaw!\n| Chill for 30 minutes before serving\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Fruit recipes]]\n[[Category:Salad recipes]]\n[[Category:Starters]]\n[[Category:Snacks and light bites]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:British recipes]]\n[[Category:Student recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#creamycoleslaw #foodprocessor #yogurt #apple #greekyogurt #raisins #driedapricots #fats #vegetables #sultanas #cabbage </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

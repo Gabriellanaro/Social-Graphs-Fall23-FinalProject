@@ -1,0 +1,15 @@
+ 
+
+title": "Parsley sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Parsley sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#parsley #fish #parsleysauce #butter #thermomix #parsleysaucetm #gammon #boiledorsimmered #cornflour #vegetablestock #pies \n|hashtagrev=032020\n|description=A basic parsley sauce for making with a Thermomix\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 756\n|PortionCalories = 63\n|DatePublished=13th November 2013\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Servings: 12 - Makes just over 500ml\n|Difficulty = 1\n|TotalTime =  9 minutes\n|PrepTime =  2 minutes\n|CookTime =  7 minutes\n|Image = [[Image:Parsley sauce TM recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thermomix Rules</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Especially for quick sauces</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\nA basic [[Parsley sauce|parsley sauce]] for making with a [[Thermomix]].\n\n{{RecipeIngredientsTM\n\n| 50g [[Butter|butter]]\n| 40g [[Corn flour|corn flour]]\n| 500g [[Milk|milk]]\n| Seasoning or a [[Vegetable Stock|vegetable stock]] cube\n| A handful of [[Parsley|parsley]]\n\n}}\n\n===Method===\n\n{{RecipeMethod\n\n| Put all of the ingredients into the bowl, except for the [[Parsley|parsley]] '''7 minutes / 90\u00b0C / Speed 4'''.\n| Add the [[Parsley|parsley]] '''10 seconds / Speed 8'''.\n}}\n===Serving suggestions===\nServe with [[Fish|fish]] or [[Gammon|gammon]] or add to [[Fish|fish]] [[Pies|pies]].\n==See also==\n\n* [[Parsley sauce]] the conventional way\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#parsley #fish #parsleysauce #butter #thermomix #parsleysaucetm #gammon #boiledorsimmered #cornflour #vegetablestock #pies </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

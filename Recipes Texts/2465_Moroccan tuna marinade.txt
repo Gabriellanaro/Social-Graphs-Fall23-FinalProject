@@ -1,0 +1,15 @@
+ 
+
+title": "Moroccan tuna marinade",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Moroccan tuna marinade, Fish recipe \n|titlemode=replace\n|keywords=#moroccantunamarinade #barbecued #sherryvinegar #marinade #grill #grilled #oliveoil #marinate #pomegranatemolasses #fry #griddled \n|hashtagrev=032020\n|description=This weird dish is absolutely delicious, invented and tested last night! Just remember to rest for 5 minutes after cooking, it makes all the difference\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 139\n|PortionCalories = 69\n|DatePublished=23rd October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 2 - Enough to marinade 2 [[Tuna|tuna]] steaks\n|Difficulty = 1\n|TotalTime = 45 minutes\n|PrepTime = 35 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Pan-seared tuna fillets.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Great way to cook tuna</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Easy and delicious</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\nThis weird dish is absolutely delicious, invented and tested last night!\n\nJust remember to rest for 5 minutes after cooking, it makes all the difference.\n\n{{RecipeIngredients\n| 2 tablespoons [[pomegranate molasses]]\n| 1 teaspoon [[Ras el hanout]]\n| 2 teaspoons [[sherry vinegar]]\n| 1 tablespoon [[olive oil]]\n| A pinch of salt\n}}\n===Method===\n\n{{RecipeMethod\n| Whisk the ingredients together in a shallow dish.\n| Toss the steaks in the [[marinade]].\n| Leave to [[marinate]] for at least 15 minutes per side.\n| [[Grill]] or pan [[Fry|fry]] for 2 to 4 minutes per side, dependent upon the thickness of the steaks.\n| Rest for 5 minutes before serving.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Moroccan recipes]]\n[[Category:North African recipes]]\n[[Category:Fish recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Sea fish recipes]]\n[[Category:Freshwater fish recipes]]\n[[Category:Pan fried]][[Category:Grilled, griddled or barbecued]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#moroccantunamarinade #barbecued #sherryvinegar #marinade #grill #grilled #oliveoil #marinate #pomegranatemolasses #fry #griddled </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

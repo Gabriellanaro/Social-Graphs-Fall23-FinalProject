@@ -1,0 +1,15 @@
+ 
+
+title": "Biga",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Biga, Italian recipe \n|titlemode=replace\n|keywords=#biga #flour #yeast #fridge #starter #ferment #whitebread #italian #clingfilm #bread \n|hashtagrev=032020\n|description=Biga is an Italian bread starter which helps to develop flavour and create a more open texture and chewy crust. It is often used when making ciabatta\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 662\n|PortionCalories = 62\n|DatePublished=10th July 2012\n|Author = JuliaBalbilla\n|Servings = 10\n |Difficulty = 1\n |TotalTime = 1 day\n |PrepTime = 1 day\n |CookTime = None\n|Image = [[Image:Biga recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thanks Julia</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Makes a lovely light and airy bread with loads of big holes in it.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n{{Template:AdvancePreparationIcon}}\n\nBiga is an [[Italian]] [[Bread|bread]] [[Starter|starter]] which helps to develop flavour and create a more open texture and chewy crust.  It is often used when making [[Ciabatta with biga|ciabatta]].  You need to make this the day before you use it\n\n{{RecipeIngredients\n| 150ml tepid water\n| 3mg fresh [[Yeast|yeast]]\n| 250g strong [[White bread|white bread]] [[Flour|flour]]\n}}\n===Method===\n\n{{RecipeMethod\n| Dissolve the [[Yeast|yeast]] and the water and place the [[Flour|flour]] in a bowl.\n| Once the [[Yeast|yeast]] has completely dissolved, mix throroughly with the [[Flour|flour]].\n| Cover the bowl with [[Cling film|cling film]] and leave to [[Ferment|ferment]] overnight.\n| If your kitchen is hot, keep it in the [[Fridge|fridge]], but allow it to come to room temperature before using.\n}}\n===Servings===\n400g of biga\n===Chef's notes===\nThe mixture does seem quite dry, but it will hold together with a little perseverance.  It can be left in the [[Fridge|fridge]] for a couple of days longer if you wish.\n\n{{Template:Ciabatta bread recipes}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Bread and baking]]\n[[Category:Italian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#biga #flour #yeast #fridge #starter #ferment #whitebread #italian #clingfilm #bread </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

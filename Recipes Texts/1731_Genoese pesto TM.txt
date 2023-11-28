@@ -1,0 +1,15 @@
+ 
+
+title": "Genoese pesto (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Genoese pesto - A Thermomix recipe \n|titlemode=replace\n|keywords=#thermomix #basilleaves #cheeses #thermomixrecipespesto #ewes #parmesancheese #pinenut #oliveoil #pinenuts #garlicclove #garlic \n|hashtagrev=032020\n|description=A basic pesto recipe for the Thermomix\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 503\n|PortionCalories = 31\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Servings: 16 - Makes about 500g\n|Difficulty = 1\n|TotalTime =  3 minutes\n|PrepTime =  2 minutes\n|CookTime =  1 minute\n|Image = [[Image:Genoese pesto (TM).jpg|250px|thumb|right|Genoese pesto (TM)|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thermy Pesto</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Good and green</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA basic [[Pesto|pesto]] recipe for the [[Thermomix]]\n\n{{RecipeIngredientsTM\n| 50g [[Parmesan cheese]]\n| 30g [[Ewes]] [[Cheese|cheese]] (optional)\n| 1 [[Clove|clove]] [[Garlic|garlic]]\n| 30g [[Pine nuts|pine nuts]]\n| 80g [[Basil leaves|basil leaves]]\n| [[Salt]], to taste\n| 150g [[Olive oil|olive oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Wash the [[Basil leaves|basil leaves]] and dry them thoroughly.\n| Put them in the bowl together with the [[Cheeses|cheeses]], [[Pine nut|pine nut]] and [[Garlic clove|garlic clove]] '''20 seconds / Speed 7'''.\n| Add the [[Oil|oil]] and the [[Salt|salt]]  and emulsify '''20 seconds / Speed 7'''.\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n{{RecipeLine}}\n[[Category:Recipes|Pesto]]\n[[Category:Italian recipes|Pesto]]\n[[Category:Dips and sauces|Pesto]]\n[[Category:Vegetarian recipes|Pesto]]\n[[Category:Cheese recipes|Pesto]]\n[[Category:Thermomix recipes|Pesto]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #basilleaves #cheeses #thermomixrecipespesto #ewes #parmesancheese #pinenut #oliveoil #pinenuts #garlicclove #garlic </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

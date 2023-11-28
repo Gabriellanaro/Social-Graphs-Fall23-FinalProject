@@ -1,0 +1,16 @@
+title": "Tortitas de papa (Potato pancakes)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tortitas de papa (Potato pancakes) a cheese recipe\n|titlemode=replace\n|keywords=#potatoes #grated #cheese #mash #potatopancakes #salsa #accompaniment #snack #souredcream #eggs #plainflour \n|hashtagrev=032020\n|description=Crisp on the outside, fluffy in the middle, these potato pancakes make an nice accompaniment or a tasty snack when served with salsa and soured cream\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2739\n|PortionCalories = 684\n|DatePublished=27th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4 - Makes about 12 [[Pancakes|pancakes]]\n |Difficulty = 2\n |TotalTime = 40 minutes\n |PrepTime = 30 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Tortitas de papa (Potato pancakes) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Make these!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">They are gorgeous!</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nCrisp on the outside, fluffy in the middle, these [[Potato pancakes|potato pancakes]] make an nice [[Accompaniment|accompaniment]] or a tasty [[Snack|snack]] when served with [[Salsa|salsa]] and [[Soured cream|soured cream]].\n\n{{RecipeIngredients\n| 6 [[Potatoes|potatoes]] \n| a little [[Milk|milk]] - if the mixture is too dry.\n| 1 cup of [[Grated|grated]] [[Cheese|cheese]]\n| 2 large [[free range eggs]]\n| [[Vegetable oil]] for [[Frying|frying]]\n| [[Salt]]\n| [[Plain flour]]\n}}\n===Method===\n\n{{RecipeMethod\n| Wash the [[Potatoes|potatoes]].\n| [[Boil]] the [[Potatoes|potatoes]] whole in their skin until cooked. \n| Rub the skin off. \n| [[Mash]] the [[Potatoes|potatoes]] and mix with the [[Grated|grated]] [[Cheese|cheese]],[[Milk|milk]], [[Eggs|eggs]] and [[Salt|salt]].\n| Make small tortitas, add a little [[Flour|flour]] if the mixture is too wet.\n| [[Fry]] them on both sides until [[Brown|brown]] and crispy.\n| Serve with any [[Salad|salad]] of your choice.\n}}\n\n''recipe by [[User:Eddx|Eduardo Navarro]]''\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Latin American recipes]]\n[[Category:Mexican recipes]]\n[[Category:Tex-Mex recipes]]\n[[Category:Accompaniments]]\n[[Category:Bread and baking]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegetarian recipes]]\n[[Category:Cheese recipes]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoes #grated #cheese #mash #potatopancakes #salsa #accompaniment #snack #souredcream #eggs #plainflour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

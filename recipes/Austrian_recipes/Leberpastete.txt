@@ -1,0 +1,16 @@
+title": "Leberpastete",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Leberpastete recipe Accompaniments \n|titlemode=replace\n|keywords=#leberpastete #onion #marjoram #liver #lard #foodprocessor #spices #boil #unusualrecipes #pork #fry \n|hashtagrev=032020\n|description=Liver paste\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 801\n|PortionCalories = 80\n|DatePublished=20th January 2013\n|Author=Chef\n|Servings = Servings: 10 - Makes 500g of Liver paste\n |Difficulty = 2\n |TotalTime = 1 hour\n |PrepTime = 20 minutes\n |CookTime = 40 minutes \n |Image = [[Image:Leberpastete recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">It's Liver pate!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5 </span>\n\n<span class=\"reviewDesc\">Liver pate with a posh name.  Tastes good though.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Liver]] paste.\n\n{{RecipeIngredients\n| 250 g [[Pork shoulder|pork shoulder]]\n| [[Salt]] and [[Pepper|pepper]]\n| Knob of [[Lard|lard]]\n| 1 large [[Onion|onion]], chopped\n| 250 g [[Pig's liver|pig's liver]], finely sliced\n| [[Marjoram]]\n}}\n===Method===\n\n{{RecipeMethod\n| [[Boil]] the [[Pork|pork]] in seasoned water until the [[Meat|meat]] is tender.\n| Meanwhile, melt the [[Lard|lard]] in a [[Frying pan|frying pan]] and add the [[Onion|onion]].\n| When the [[Onion|onion]] is almost soft, add the [[Liver|liver]] and [[Fry|fry]] until the liver is cooked.\n| Add the [[Marjoram|marjoram]] and some [[Pepper|pepper]].\n| Place all of the ingredients into a [[Food processor|food processor]] or mincer and process until  it has a spreadable consistency.\n| Put into small jars or pots.\n}}\n===Serving suggestions===\nServe with toast, or as part of a cold platter.\n===Variations===\nAdjust the recipe to include [[Herbs|herbs]] and [[Spices|spices]] of your choice.\n===Chef's notes===\n{{Template:ThinkPig}}\n{{RecipeLine}}\n[[Category:Recipes|Leberpastete]]\n[[Category:Accompaniments|Leberpastete]]\n[[Category:Austrian recipes|Leberpastete]]\n[[Category:Meat recipes|Leberpastete]]\n[[Category:Offal recipes|Leberpastete]]\n[[Category:Pork recipes|Leberpastete]]\n[[Category:Snacks and light bites|Leberpastete]]\n[[Category:Starters|Leberpastete]]\n[[Category:Boiled or simmered]]\n [[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#leberpastete #onion #marjoram #liver #lard #foodprocessor #spices #boil #unusualrecipes #pork #fry </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Poundies",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Poundies Cooking Wiki\n|titlemode=replace\n|keywords=#poundies #boxty #champ #irishrecipes #boxtyrecipe \n|hashtagrev=12032020\n|description=Poundy or poundies could refer to one of the following potato dishes originating from Ireland: other-pages Boxty Champ\n}}\n<!-- /seo -->\n\n[[Image:Potato cakes recipe.jpg|thumb|300px|right|[[Boxty recipe]]|alt=Boxty potato cakes]]\n'''Poundy''' or '''poundies''' could refer to one of the following potato dishes originating from Ireland:\n\n* [[Boxty]]\n* [[Champ]]\n{{CategoryLineIngredients}}\n{{disambig}}\n\n[[Category:Irish recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#poundies #boxty #champ #irishrecipes #boxtyrecipe </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

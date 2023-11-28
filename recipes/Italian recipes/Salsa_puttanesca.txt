@@ -1,0 +1,16 @@
+title": "Salsa puttanesca",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Salsa puttanesca, Italian recipe \n|titlemode=replace\n|keywords=#tomatoes #sauce #salsaputtanesca #garlic #capers #anchovies #butter #parsley #blackolives #simmer #oliveoil \n|hashtagrev=032020\n|description=Literally meaning 'whore's sauce', this Roman sauce is made with anchovies, garlic, olives, capers and tomatoes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1410\n|PortionCalories = 352\n|DatePublished=28th February 2013\n|Author = JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  55 minutes\n|PrepTime =  30 minutes\n|CookTime =  25 minutes\n|Image = [[Image:Salsa puttanesca recipe.jpg|alt=Electus]]\n<span class=\"review\">  <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Whore's sauce?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">Can you say that nowdays? Probaby not \ud83d\ude1c</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nLiterally meaning 'whore's [[Sauce|sauce]]', this Roman [[Sauce|sauce]] is made with [[Anchovies|anchovies]], [[Garlic|garlic]], [[Olives|olives]], [[Capers|capers]] and [[Tomatoes|tomatoes]].\n\n{{RecipeIngredients\n\n| 30ml [[Olive oil|olive oil]]\n| 50g [[Butter|butter]]\n| [[Garlic]], to taste, chopped\n| 4 [[Anchovies|anchovies]], rinsed and chopped\n| 150g stoned [[Black olives|black olives]], chopped\n| [[Chilli flakes]], to taste\n| 1 tablespoon [[Capers|capers]]\n| 2 tablespoons of flat leaf [[Parsley|parsley]], chopped\n| Seasoning\n| 200g tinned [[Tomatoes|tomatoes]] or fresh equivalent if sufficiently ripe, chopped\n}}\n===Method===\n\n{{RecipeMethod\n\n| Heat the [[Butter|butter]] and the [[Oil|oil]] in a saucepan and add all of the ingredients except for the [[Tomatoes|tomatoes]].\n| Saut\u00e9 gently for about 10 minutes.\n| Add the [[Tomatoes|tomatoes]] and [[Simmer|simmer]] for a further 15 minutes.\n}}\n===Serving suggestions===\nPour the [[Sauce|sauce]] over a warmed bowl of cooked, long [[Pasta|pasta]] such [[Spaghetti|spaghetti]] and taglitelli.\n{{RecipeLine}}\n[[Category:Recipes|Puttanesca]]\n[[Category:Italian recipes|Puttanesca]]\n[[Category:Accompaniments|Puttanesca]]\n[[Category:Dips and sauces|Puttanesca]]\n[[Category:Fish recipes|Puttanesca]]\n[[Category:Garlic recipes|Puttanesca]]\n[[Category:Sea fish recipes|Puttanesca]]\n[[Category:Stews and casseroles|Puttanesca]]\n[[Category:Boiled or simmered|Puttanesca]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tomatoes #sauce #salsaputtanesca #garlic #capers #anchovies #butter #parsley #blackolives #simmer #oliveoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

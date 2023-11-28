@@ -1,0 +1,16 @@
+title": "Luxembourg cheesecake",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[Kaes kuch]]\n[[Category:Recipes|Cheesecake]]\n[[Category:Luxembourg recipes|Cheesecake]]\n[[Category:Bread and baking|Cheesecake]]\n[[Category:Cheese recipes|Cheesecake]]\n[[Category:Pies tarts and flans|Cheesecake]]\n[[Category:Sweets and desserts|Cheesecake]]\n[[Category:Vegetarian recipes|Cheesecake]]\n[[Category:Baked or roasted|Cheesecake]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

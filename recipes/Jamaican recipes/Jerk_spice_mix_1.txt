@@ -1,0 +1,16 @@
+title": "Jerk spice mix 1",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Jerk spice mix version 1, Barbecue recipe\n|titlemode=replace\n|keywords=#ground #grilling #roasting #cayennepepper #driedthyme #dried #jerkspicemix1 #spice #barbecuing #nutmeg #onion \n|hashtagrev=032020\n|description=Jamaican jerk spice mix recipe.  This one is more herby that my first recipe. I use it to flavour meats before grilling or roasting\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 38\n|PortionCalories = 38\n|DatePublished=24th October 2012\n|Author=Chef\n|ImageComment = Pork ribs dry rubbed with jerk pork seasoning\n |Servings = 1\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = none\n |Image = [[Image:Jerk spice mix.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Spicy</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Great for the barbecue</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nJamaican jerk [[Spice|spice]] is a pungent, hot mixture of [[Spices|spices]] used to flavour [[Meats|meats]]  before [[Grilling|grilling]] or [[Roasting|roasting]].\n\n{{RecipeIngredients\n| 2 tablespoons [[Cayenne pepper|cayenne pepper]]\n| 1 teaspoon [[Cinnamon|cinnamon]], [[Ground|ground]]\n| 1 teaspoon [[Nutmeg|nutmeg]], [[Ground|ground]]\n| 1 teaspoon [[Allspice|allspice]], [[Ground|ground]]\n| 1 teaspoon [[Dried|dried]] [[Onion|onion]] powder\n| 2 teaspoons [[Dried thyme|dried thyme]]\n| 1 tablespoon [[Sugar|sugar]]\n| 1 tablespoon [[Dried minced garlic|dried minced garlic]]\n| 1 tablespoon [[Salt|salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the ingredients together and store in an airtight container.\n| Rub on [[Meat|meat]] and leave for a few hours in a cool place before [[Grilling|grilling]], [[Roasting|roasting]] or [[Barbecuing|barbecuing]].\n}}\n===Servings===\nServes 10 - Will prepare meat for 10 people\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Barbecue recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Dips and sauces]]\n[[Category:Jamaican recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Spicy recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#ground #grilling #roasting #cayennepepper #driedthyme #dried #jerkspicemix1 #spice #barbecuing #nutmeg #onion </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Chapati",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chapati, Indian recipe \n|titlemode=replace\n|keywords=#chapati #dough #foodprocessor #unleavened #tava #panfried #vegetableoil #indiandishes #flour #frying #yogurt \n|hashtagrev=032020\n|description=Chapati is a staple flat bread of North India and Western India. It is rather thin, unleavened cooked dough\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1104\n|PortionCalories = 184\n|DatePublished=2nd January 2013\n|Author=Chef\n|ImageComment = Whole wheat chapati\n |Servings = Servings: 6 - Makes 6 chapatis\n |Difficulty = 1\n |TotalTime = 50 minutes\n |PrepTime = 35 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Whole wheat chapati recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">An easy \ud83d\udc73 recipe</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Worth making</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nChapati is a staple flat [[bread]] of North India and Western India. It is rather thin, [[unleavened]] cooked [[dough]]. It is a type of [[roti]].\n\nWhilst kneading [[dough]] can be therapeutic, if time is your enemy, then the [[food processor]] is your friend.\n\nChapatis are the perfect accompaniment to most [[Indian dishes]].\n\n{{RecipeIngredients\n| 1 cup [[whole wheat atta flour]] or [[strong whole wheat flour]]\n| 2 tablespoons [[vegetable oil]]\n| [[Salt]] and [[freshly ground black pepper]] to taste\n| 2 tablespoons [[yogurt]] (optional) \n| &#189; cup water\n}}\n===Method===\n\n{{RecipeMethod\n| Tip all of the ingredients and half of the water into the [[food processor]] with a plastic blade or dough hook attachment\n| Blitz the mixture whilst adding a more water a little at a time until you have a soft, pliable dough that is not too sticky\n| Remove from the processor, dust with a little [[flour]] and rest for 30 minutes in a bowl, covered with a damp tea-towel\n| Divide into 6 equal parts and roll into balls\n| With a rolling pin on a floured surface, roll each chapati out into a disc, about 2.5 mm (1/8 \") thick\n| Without using any [[oil]], heat a [[tava]] or [[frying]] pan until very hot\n| Cook each chapati for about 2 minutes a side, they should puff up slightly\n}}\n===Serving suggestions===\nKeep warm whilst the remainder are cooked\n{{RecipeLine}}\n[[Category:Recipes|Chapati]]\n[[Category:Accompaniments|Chapati]]\n[[Category:Bread and baking|Chapati]]\n[[Category:Indian recipes|Chapati]]\n[[Category:Starters|Chapati]]\n[[Category:Snacks and light bites]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chapati #dough #foodprocessor #unleavened #tava #panfried #vegetableoil #indiandishes #flour #frying #yogurt </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Salsa de Naranja y Frutos Secos (Orange and Dried Fruit Sauce) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Salsa de Naranja y Frutos Secos - Thermomix fruit sauce recipe\n|titlemode=replace\n|keywords=#wine #prunes #cream #thermomix #raisins #apricots #thermomixrecipesorange #dried #curdle #blend #orangejuice \n|hashtagrev=032020\n|description=This Orange and Dried Fruit Sauce recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2574\n|PortionCalories = 85\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 30 - Makes 1 litre\n |Difficulty = 1\n |TotalTime = 45 minutes\n |PrepTime = 5 minutes\n |CookTime = 40 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Chicken sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.1</span>/5</span>\n\n<span class=\"reviewDesc\">Sweet and hot</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 200g [[Orange juice|orange juice]]\n| 70g [[Dried apricots|dried apricots]]\n| 50g seedless [[Raisins|raisins]]\n| 70g stoneless [[Dried|dried]] [[Prunes|prunes]]\n| 400g Pedro Xim\u00e9nez [[Wine|wine]] (sweet, dark [[Sherry|sherry]] or M\u00e1laga [[Wine|wine]])\n| 360g cooking [[Cream|cream]] (I think this means [[Double cream|double cream]] as single can [[Curdle|curdle]] if cooked on a high heat)\n| [[Salt]]\n| [[Pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Juice|juice]], [[Apricots|apricots]], [[Raisins|raisins]], [[Prunes|prunes]] and [[Wine|wine]] in the bowl '''30 minutes / Temp. Varoma / Speed 1'''.\n| Nest, add the [[Cream|cream]], a pinch of [[Salt|salt]] and [[Pepper|pepper]] to taste.\n| [[Blend]] '''20 seconds / Speed 10'''.\n| Cook '''8 minutes / 100\u00b0 / Speed 2'''.\n| Remove from the bowl and pour into a serving dish.\n}}\n===Serving suggestions===\nThis [[Sauce|sauce]] is served hot.  It is suitable for [[Poultry|poultry]] and [[Game|game]] dishes.  \n===Variations===\nThe Pedro Xim\u00e9nez [[Wine|wine]] can be substituted with any other sweet [[Wine|wine]] with similar characteristics.\n{{RecipeLine}}\n[[Category:Recipes|Orange]]\n[[Category:Spanish recipes|Orange]]\n[[Category:Dips and sauces|Orange]]\n[[Category:Vegetarian recipes|Orange]]\n[[Category:Fruit recipes|Orange]]\n[[Category:Thermomix recipes|Orange]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#wine #prunes #cream #thermomix #raisins #apricots #thermomixrecipesorange #dried #curdle #blend #orangejuice </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

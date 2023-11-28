@@ -1,0 +1,15 @@
+ 
+
+title": "Noodles with ginger and spring onions",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Noodles with ginger and spring onions Accompaniments recipe\n|titlemode=replace\n|keywords=#noodles #ginger #stock #noodleswithgingerandspringonions #springonions #sesameoil #oystersauce #simmer #boil #wok #chickenstock \n|hashtagrev=032020\n|description=The Asian style dish is great as a light snack or as a side-dish\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1327\n|PortionCalories = 331\n|DatePublished=25th October 2012\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 20 minutes \n |PrepTime = 5 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Noodles with ginger and spring onions recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Clean tasting</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Ideal as a side-dish</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n\nThe Asian style dish is great as a light snack or as a side-dish.\n\n{{RecipeIngredients\n| 900 ml [[Chicken stock|chicken stock]]\n| 1 tablespoon [[Groundnut oil|groundnut oil]]\n| 225 g (8 oz) [[Dried|dried]] [[Egg noodles|egg noodles]]\n| &frac12; teaspoon [[Sesame oil|sesame oil]]\n| 4 large [[Spring onions|spring onions]], finely chopped\n| 2 slices of [[Ginger|ginger]], [[Julienned|julienned]]\n| 1 tablespoon [[Oyster sauce|oyster sauce]]\n}}\n===Method===\n\n{{RecipeMethod\n| In a [[Wok|wok]], [[Boil|boil]] the [[Stock|stock]] and add the [[Noodles|noodles]]. [[Simmer]] uncovered fro 15 minutes or until soft.\n| Ladle the [[Noodles|noodles]] to a warm serving dish and keep warm.\n| Add the [[Sesame oil|sesame oil]], [[Ginger|ginger]] and [[Spring onions|spring onions]] to the [[Stock|stock]]and [[Simmer|simmer]] on a low heat for 5 minutes so the spring [[Onions|onions]] wilt and sth stock reduces.\n| Add the [[Spring onions|spring onions]] and [[Ginger|ginger]] to the [[Noodles|noodles]] and as much [[Stock|stock]] as is needed.\n| Dot with [[Oyster sauce|oyster sauce]] and serve immediately.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Pasta recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Vegetable recipes]]\n[[Category:Boiled or simmered]][[Category:Stir fried]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#noodles #ginger #stock #noodleswithgingerandspringonions #springonions #sesameoil #oystersauce #simmer #boil #wok #chickenstock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

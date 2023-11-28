@@ -1,0 +1,15 @@
+ 
+
+title": "Salsa templada (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Salsa templada - A Thermomix recipe \n|titlemode=replace\n|keywords=#vegetables #thermomix #sauce #nuts #salads #spanish #walnuts #cabbage #thermomixrecipes #spinach #chicory \n|hashtagrev=032020\n|description=This is a warm Spanish sauce for salads and vegetables\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 855\n|PortionCalories = 85\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 10 - Makes about 400g\n|Difficulty = 1\n|TotalTime = 10 minutes\n|PrepTime = 5 minutes  \n|CookTime = 5 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Hot sauce?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.9</span>/5</span>\n\n<span class=\"reviewDesc\">\u2026almost \ud83d\ude04</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThis is a warm [[Spanish]] [[Sauce|sauce]] for [[Salads|salads]] and [[Vegetables|vegetables]]\n\n{{RecipeIngredientsTM\n| 70g [[Walnuts|walnuts]]\n| 150g [[Extra virgin olive oil|extra virgin olive oil]]\n| 50g [[Butter|butter]]\n| 50g [[Soya sauce|soya sauce]]\n| 1 tablespoon [[Mustard|mustard]]\n| A dash of [[Tabasco]]\n}}\n===Method===\n\n{{RecipeMethod\n| Chop the [[Nuts|nuts]] in the bowl '''3-4 seconds / Speed 4'''\n| Remove and reserve\n| Next, put the rest of the ingredients into the bowl '''4 minutes / 60\u00b0 / Speed 4'''\n| Add the reserved [[Nuts|nuts]] '''1 minute / 60\u00b0 / Speed 1'''.\n}}\n===Serving suggestions===\nUse this [[Sauce|sauce]] for [[Salads|salads]] of endives, raw [[Spinach|spinach]], [[Asparagus|asparagus]], [[Chicory|chicory]], [[Cabbage|cabbage]], [[Lettuce|lettuce]] etc.  Also for cooked [[Vegetables|vegetables]].\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#vegetables #thermomix #sauce #nuts #salads #spanish #walnuts #cabbage #thermomixrecipes #spinach #chicory </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

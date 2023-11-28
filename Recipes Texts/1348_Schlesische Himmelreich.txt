@@ -1,0 +1,15 @@
+ 
+
+title": "Schlesische Himmelreich",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Schlesische Himmelreich, German recipe \n|titlemode=replace\n|keywords=#schlesischehimmelreich #fruit #porkchops #butter #tea #miseenplace #driedfruit #boiledpotatoes #salad #freshfruit #browned \n|hashtagrev=032020\n|description=Silesian pork, a pork and fruit stew from the north of Germany\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2639\n|PortionCalories = 659\n|DatePublished=12th April 2013\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 12 hours 50 minutes\n |PrepTime = 12 hours 10 minutes\n |CookTime = 40 minutes\n |Image = [[Image:Schlesische Himmelreich recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Funky</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Very funky indeed!</span> \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\n{{Template:AdvancePreparationIcon}}\n\nSilesian [[Pork|pork]], a pork and [[Fruit|fruit]] [[Stew|stew]] from the north of Germany.\n\n{{RecipeIngredients\n| 500 g [[Dried|dried]] or [[Fresh fruit|fresh fruit]] (such as [[Apples|apples]], [[Pears|pears]] and [[Apricots|apricots]]) \n| 4 [[Pork chops|pork chops]], weighing about 125 g each\n| 50 g [[Butter|butter]]\n\n}}\n\n===[[Mise en place]]===\n* If using [[Dried fruit|dried fruit]], soak overnight in cold [[Tea|tea]].  Use just enough to cover.\n===Method===\n\n{{RecipeMethod\n| Peel and quarter the dresh [[Fruit|fruit]], if using.\n| [[Fry]] the [[Pork chops|pork chops]] in the [[Butter|butter]] in a saucepan until both sides are [[Browned|browned]].\n| Add the [[Fruit|fruit]] and the cold [[Tea|tea]], if used.\n| Cover and [[Simmer|simmer]] for 30-40 inutes until the [[Fruit|fruit]] is soft and the chops are cooked.\n}}\n===Serving suggestions===\nServe with [[Boiled potatoes|boiled potatoes]] or [[Dumplings|dumplings]] and [[salad]].\n===Chef's notes===\n{{Template:ThinkPig}}\n{{RecipeLine}}\n[[Category:Recipes|Schlesische himmelreich]]\n[[Category:German recipes|Schlesische himmelreich]]\n[[Category:Main courses|Schlesische himmelreich]]\n[[Category:Meat recipes|Schlesische himmelreich]]\n[[Category:Pork recipes|Schlesische himmelreich]]\n[[Category:Fruit recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#schlesischehimmelreich #fruit #porkchops #butter #tea #miseenplace #driedfruit #boiledpotatoes #salad #freshfruit #browned </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

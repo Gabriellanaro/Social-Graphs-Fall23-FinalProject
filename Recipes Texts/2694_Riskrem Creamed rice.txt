@@ -1,0 +1,15 @@
+ 
+
+title": "Riskrem (Creamed rice)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Riskrem (Creamed rice) recipe\n|titlemode=replace\n|keywords=#rice #almonds #wholemilk #blanched #saucepan #jam #simmer #doublecream #boil #ricepudding #fruit \n|hashtagrev=032020\n|description=A Norwegian version of Rice rice pudding\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=4th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  1 hour, 10 minutes\n|PrepTime =  5 minutes\n|CookTime =  1 hour, 5 minutes\n|TotalCalories = 948\n|PortionCalories = 237 \n|Image = [[Image:Riskrem (Creamed rice).jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Appearances can be misleading</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">That looks disgusting!</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nA Norwegian version of [[Rice pudding|rice pudding]]\n{{RecipeIngredients\n\n| 570ml [[Whole milk|whole milk]]\n| 60g short grained [[Rice|rice]]\n| Pinch of [[Salt|salt]]\n| 250ml [[Double Cream|double cream]]\n| 1 tablespoon [[Sugar|sugar]]\n| 1 tablespoon [[Blanched|blanched]] [[Almonds|almonds]], chopped\n}}\n\n===Method===\n{{RecipeMethod\n\n| Bring the [[Milk|milk]] to the [[Boil|boil]] in a [[Saucepan|saucepan]]\n| Scatter the [[Rice|rice]] over the [[Milk|milk]]\n| [[Simmer]] gently for 1 hour and add the [[Salt|salt]]\n| Meanwhile, whip the [[Cream|cream]] with the [[Sugar|sugar]]\n| Stir into the [[Rice|rice]] mixture\n| Add the chopped [[Almonds|almonds]] and serve\n}}\n===Serving suggestions===\nServe with [[Jam|jam]] or [[Fruit|fruit]] pur\u00e9e\n{{RecipeLine}}\n[[Category:Recipes|Rice creamed]]\n[[Category:Norwegian recipes|Rice creamed]]\n[[Category:Sweets and desserts|Rice creamed]]\n[[Category:Rice recipes|Rice creamed]]\n[[Category:Boiled or simmered|Rice creamed]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#rice #almonds #wholemilk #blanched #saucepan #jam #simmer #doublecream #boil #ricepudding #fruit </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

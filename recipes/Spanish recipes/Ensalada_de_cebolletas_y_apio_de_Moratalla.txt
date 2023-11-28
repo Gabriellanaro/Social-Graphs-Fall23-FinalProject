@@ -1,0 +1,16 @@
+title": "Ensalada de cebolletas y apio de Moratalla",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ensalada de cebolletas y apio de Moratalla a Spanish recipe\n|titlemode=replace\n|keywords=#lemonjuice #ensaladadecebolletasyapiodemoratalla #springonions #salad #celery #bread #marinade #cidervinegar #fat #whitepepper #onions \n|hashtagrev=032020\n|description=A spring onion and celery salad from the medieval town of Moratalla in the province of Murcia\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 224\n|PortionCalories = 56\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = 4 or 8 as a [[Tapa|tapa]]\n |Difficulty = 1\n |TotalTime = 1 hour\n |PrepTime = 1 hour\n |CookTime = None\n |Image = [[Image:Ensalada de cebolletas y apio de Moratalla recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Good for my celery glut</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Neat salad as well.</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n\nA [[Spring onion|spring onion]] and [[Celery|celery]] [[Salad|salad]] from the medieval town of Moratalla in the province of Murcia.  The recipe has been translated and adapted from ''Cocina de la Huerta Murciana'' (ISBN 9788497362436) by Gloria Sanju\u00e1n.\n\n{{RecipeIngredients\n| 3 [[Fat|fat]] [[Spring onions|spring onions]], finely sliced\n| 60 ml [[Lemon juice|lemon juice]]\n| [[Salt]], to taste\n| 1 head of [[Celery|celery]], cut into 1 cm chunks\n| 4 large, firm [[Tomatoes|tomatoes]], roughly chopped\n| A pinch of [[Ground|ground]] [[White pepper|white pepper]]\n| A pinch of [[Ground cloves|ground cloves]]\n| 90 ml [[Olive oil|olive oil]]\n| 1 tablespoon [[Cider vinegar|cider vinegar]]\n}}\n===Method===\n\n{{RecipeMethod\n| [[Marinade]] the [[Spring onions|spring onions]], with the [[Salt|salt]] and [[Lemon juice|lemon juice]], for about an hour in the [[Refrigerator|refrigerator]].\n| Place the remaining ingredients in a [[Salad|salad]] bowl and when the [[Spring onions|spring onions]] are cold, pour in the spring [[Onions|onions]] with the [[Lemon juice|lemon juice]].\n}}\n===Serving suggestions===\nGood with [[Bread|bread]] for mopping uo the liquid.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Salad recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Spanish recipes]]\n[[Category:Starters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Uncooked]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#lemonjuice #ensaladadecebolletasyapiodemoratalla #springonions #salad #celery #bread #marinade #cidervinegar #fat #whitepepper #onions </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

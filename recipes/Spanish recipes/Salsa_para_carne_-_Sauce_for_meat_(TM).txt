@@ -1,0 +1,16 @@
+title": "Salsa para carne - Sauce for meat (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Salsa para carne - Sauce for meat - A Thermomix recipe\n|titlemode=replace\n|keywords=#wine #sauce #spanish #stockcube #redwine #garlic #carrots #thermomixrecipes #thermomix #cream #mushrooms \n|hashtagrev=032020\n|description=This is a Spanish recipe for Salsa para carne (a thick Sauce for meat)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 399\n|PortionCalories = 24\n|DatePublished=15th January 2013\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Servings: 16 - Makes 500ml\n|Difficulty = 1\n|TotalTime = 30 minutes \n|PrepTime = 5 minutes\n|CookTime = 25 minutes \n|Image = [[Image:Salsa para carne - Sauce for meat (TM).jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Sticky stock?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.8</span>/5</span>\n\n<span class=\"reviewDesc\">Not sure what you do with this once it's made?</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis is a [[Spanish]] recipe for [[Salsa]] para carne (a thick [[Sauce]] for [[Meat|meat]]).\n\n{{RecipeIngredientsTM\n| 300g [[Onions|onions]]\n| 150g [[Mushrooms|mushrooms]]\n| 2 [[Cloves|cloves]] [[Garlic|garlic]]\n| 100g [[Carrots|carrots]]\n| 50g [[Extra virgin olive oil|extra virgin olive oil]]\n| 200g [[Red wine|red wine]]\n| 1 [[Meat stock|meat stock]] cube\n}}\n===Method===\n\n{{RecipeMethod\n| Put all of the ingredients into the bowl except for the [[Wine|wine]] and the [[Stock cube|stock cube]] '''4 seconds / Speed 5'''\n| Using the spatula, scrape down the inside of the bowl.\n| Program '''20 minutes / Temp. Varoma / Speed 1'''.\n| Add the [[Wine|wine]] and [[Stock cube|stock cube]] '''5 minutes / Temp. Varoma / Speed 4'''\n| If you want a smoother [[Sauce|sauce]] blitz '''1 minute / Speed 7''' and check the seasoning\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n===Variations===\nYou can substitute the [[Red wine|red wine]] with [[Cream|cream]], [[Yoghurt|yogurt]], [[Cider|cider]], white [[Wine|wine]] etc\n{{RecipeLine}}\n[[Category:Recipes]]\n==See also==\n* [[Gravy recipes|Other gravy recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetable recipes]]\n[[Category:Cooking with wine]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#wine #sauce #spanish #stockcube #redwine #garlic #carrots #thermomixrecipes #thermomix #cream #mushrooms </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

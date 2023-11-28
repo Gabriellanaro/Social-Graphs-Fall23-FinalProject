@@ -1,0 +1,16 @@
+title": "Bouneschlupp (Green bean soup)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bouneschlupp (Green bean soup) recipe\n|titlemode=replace\n|keywords=#potatoes #bacon #flour #chervil #sourcream #soup #stock #onions #simmer #butter #belgium \n|hashtagrev=032020\n|description=This is a traditional soup from Luxembourg which is also eaten in the adjoining regions of Belgium and Germany\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=20th December 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  1 hour, 20 minutes\n|PrepTime =  15 minutes\n|CookTime =  1 hour, 5 minutes\n|TotalCalories = 1935\n|PortionCalories = 483\n|Image = [[Image:Bouneschlupp Green bean soup recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Rich soup</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5</span>\n\n<span class=\"reviewDesc\">Especially like the bacon Julia!</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nThis is a traditional [[Soup|soup]] from Luxembourg which is also eaten in the adjoining regions of [[Belgium]] and [[Germany]].\n{{RecipeIngredients\n\n| 30g [[Butter|butter]]\n| 2 [[Onions|onions]], peeled and finely chopped\n| 4 rashers of [[Bacon|bacon]]\n| 2 [[Soup|soup]] spoons [[Flour|flour]]\n| 1 litre hot [[Stock|stock]]\n| 500g [[French beans]], topped and tailed and cut into pieces\n| 3 [[Potatoes|potatoes]], peeled and chopped into smallish pieces\n| 2 sprigs [[Chervil|chervil]]\n| Seasoning\n| 2 tablespoons [[Sour cream]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Melt the [[Butter|butter]] in a heavy bottomed pan.\n| Add the [[Onions|onions]] and [[Bacon|bacon]] and saut\u00e9 until the [[Onion|onion]] are soft.\n| Stir and the [[Flour|flour]] and gently cook for about 4 minutes - do not allow to burn.\n| Gradually stir in the hot [[Stock|stock]], ensuring there are no lumps.\n| Add the [[Beans|beans]] and [[Chervil|chervil]] and [[Simmer|simmer]] for 45 minutes.\n| Add the [[Potatoes|potatoes]] and season lightly.\n| [[Simmer]] for a further 15 minutes, or until the [[Potatoes|potatoes]] are cooked.\n| Adjust seasoning.\n| Serve with the [[Sour cream|sour cream]].\n}}\n{{RecipeLine}}\n[[Category:Recipes|Bean soup]]\n[[Category:Luxembourg recipes|Bean soup]]\n[[Category:Soup and stock recipes|Bean soup]]\n[[Category:Starters|Bean soup]]\n[[Category:Vegetarian recipes|Bean soup]]\n[[Category:Vegetable recipes|Bean soup]]\n[[Category:Student recipes|Bean soup]]\n[[Category:Boiled or simmered|Bean soup]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoes #bacon #flour #chervil #sourcream #soup #stock #onions #simmer #butter #belgium </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

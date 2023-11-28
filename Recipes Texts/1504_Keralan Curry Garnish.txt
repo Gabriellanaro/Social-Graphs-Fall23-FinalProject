@@ -1,0 +1,15 @@
+ 
+
+title": "Keralan Curry Garnish",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Keralan Curry Garnish, Indian recipe \n|titlemode=replace\n|keywords=#shallots #coconutoil #keralancurrygarnish #panfried #fry #mustardseeds #curries #curryleaves \n|hashtagrev=032020\n|description=To quote Nik or Edwina:\"This is a nice touch, a garnish added to many Keralan curries to zizz them up a little\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 476\n|PortionCalories = 238\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Coconut oil\n |Servings = 2 to 4 as a garnish\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 5 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Coconut oil.jpg|200px|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Simplicity itself!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">Thanks Nik</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n\nTo quote Nik or Edwina:\n''\"This is a nice touch, a garnish added to many Keralan [[Curries|curries]] to zizz them up a little. Make just a bit each time you need it and use it fresh\"''\n\n{{RecipeIngredients\n| 3 tablespoons [[Coconut oil|coconut oil]]\n| 1 teaspoon [[Mustard seeds|mustard seeds]]\n| 3 or 4 [[Shallots|shallots]], finely sliced\n| 10 [[Curry leaves|curry leaves]]\n}}\n===Method===\n\n{{RecipeMethod\n| [[Fry]] all the ingredients gently in a little [[Coconut oil|coconut oil]] till the [[Shallots|shallots]] and leaves are golden\n| Sprinkle a little over a curry just before serving\n}}\n==See also==\n[[Shallots|Peeling shallots]]\n[http://www.hollandandbarrett.com/pages/product_detail.asp?pid=690&prodid=733 Holland and Barrett stock it] in the UK\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Indian recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Nik and Edwina's Cookbook recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#shallots #coconutoil #keralancurrygarnish #panfried #fry #mustardseeds #curries #curryleaves </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

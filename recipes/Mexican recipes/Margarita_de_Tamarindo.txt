@@ -1,0 +1,16 @@
+title": "Margarita de Tamarindo",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Margarita de Tamarindo, Cocktail recipe \n|titlemode=replace\n|keywords=#margaritadetamarindo #tamarindo #tequila #chillipowder #tajin #blender #margaritas \n|hashtagrev=032020\n|description=Margaritas are a great summer drink and are nowadays mixed with anything. If you love flavoured margaritas try this quick easy recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 78 \n|PortionCalories = 78\n|DatePublished=21st August 2012\n|Author=Chef\n|Servings = 1\n |Difficulty = 1\n |TotalTime = 2 minutes\n |PrepTime = 2 minutes\n |CookTime = None\n |Image = [[Image:Margarita de Tamarindo.jpg|alt=Electus]]\n}}\n\n[[Margaritas]] are a great summer drink and are nowadays mixed with anything. If you love flavoured margaritas try this quick easy recipe.\n\n{{RecipeIngredients\n| 1 part [[Tequila]]\n| 1 part [[Tamarindo]]\n| 1 part ice cubes\n}}\n===Method===\n\n{{RecipeMethod\n| Add the ingredients to a [[blender]] & mix well\n| Pour into glasses have have been rimmed with [[tajin]].\n}}\n===Chef's notes===\nA mixture of [[Chilli powder]] and fine [[sea salt]] is probably an acceptable substitute you cannot obtain tajin.\n''thank you: [[User:Amberunomx|Amberunomx]]''\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Where's the umbrella?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.4</span>/5 </span>\n\n<span class=\"reviewDesc\">I would just rather have a pint!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n\n{{RecipeLine}}\n[[Category:Recipes|Flavoured Margarita]]\n[[Category:Drink and beverage recipes|Flavoured Margarita]]\n[[Category:Mexican recipes|Flavoured Margarita]]\n[[Category:Recipes|Margarita recipe (flavoured)]]\n[[Category:Drink and beverage recipes|Margarita recipe (flavoured)]]\n[[Category:Mexican recipes|Margarita recipe (flavoured)]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#margaritadetamarindo #tamarindo #tequila #chillipowder #tajin #blender #margaritas </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Guacamole (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Guacamole - A Thermomix recipe \n|titlemode=replace\n|keywords=#onion #tomatoes #lemon #avocados #coriander #seeds #tomato #corntortillas #nachos #lemonjuice #accompaniment \n|hashtagrev=032020\n|description=This Guacamole recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 735\n|PortionCalories = 183\n|DatePublished=4th September 2012\n|Author=JuliaBalbilla\n|ImageComment = Guacamole (TM)\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice dip</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">What's the garnish Julia, a tomato?</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n |Image = [[Image:Guacamole (TM).jpg|alt=Electus]]\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 2 ripe [[Avocados|avocados]]\n| 200g [[Tomatoes|tomatoes]]\n| 1 small [[Onion|onion]]\n| &frac12; [[Lemon|lemon]]\n| 1 teaspoon fresh [[Coriander|coriander]]\n| A pinch of [[Pepper|pepper]]\n| A pinch of [[Salt|salt]]\n| A pinch of [[Sugar|sugar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Peel and chop the [[Avocados|avocados]] and [[Onion|onion]].\n| Wash and chop the [[Tomatoes|tomatoes]] and remove the [[Seeds|seeds]].\n| Squeeze the [[Juice|juice]] from the [[Lemon|lemon]] half.\n| Put the [[Avocado|avocado]], [[Tomato|tomato]], [[Onion|onion]], [[Coriander|coriander]] and [[Lemon juice|lemon juice]] into the bowl.\n| Beat at '''Speed 4''' to obtain a thick pur\u00e9e.\n| Add the [[Salt|salt]], [[Pepper|pepper]] and [[Sugar|sugar]] and [[Blend|blend]] again at '''Speed 4'''.\n}}\n===Serving suggestions===\nThe most popular way to eat [[Guacamole|guacamole]] is as an [[Accompaniment|accompaniment]] to [[Corn tortillas|corn tortillas]] or [[Nachos|nachos]].\n===See also===\n{{GuacamoleRecipes}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Mexican recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#onion #tomatoes #lemon #avocados #coriander #seeds #tomato #corntortillas #nachos #lemonjuice #accompaniment </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

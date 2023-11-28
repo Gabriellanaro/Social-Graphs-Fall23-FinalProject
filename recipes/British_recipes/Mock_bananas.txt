@@ -1,0 +1,16 @@
+title": "Mock bananas",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mock bananas, A British Wartime recipe \n|titlemode=replace\n|keywords=#parsnips #mockbananas #unusualrecipes #banana #bananas \n|hashtagrev=032020\n|description=This is more of a story than a recipe. I was talking to my Mum about the historic recipes section and she mentioned this\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 102\n|PortionCalories = 25\n|DatePublished=21st January 2013\n|Author=Chef\n|ImageComment = My Mum, 1947!\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 35 minutes\n |PrepTime = 20 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Mum.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Yuck!!!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">1</span>/5 </span>\n\n<span class=\"reviewDesc\">I cannot think of anything more vile.  Period!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis is more of a story than a recipe...\n\nI was talking to my Mum about the historic recipes section and she mentioned this.\n\n\u201cAfter the war, when I worked at Unilever House as a secretary, sometimes, as a treat, Mum used to make me [[banana]] sandwiches.  \n\nWe had no [[bananas]] after the war, so they were made with sliced [[parsnips]] flavoured with banana essence!\u201d\n\nI found the recipe below in [http://www.amazon.com/Well-Eat-Again-Marguerite-Patten/dp/0600325245 ''We'll Eat Again'': Marguerite Patten]\n\n{{RecipeIngredients\n| 3 [[Parsnips]]\n| Banana essence or extract\n| Sugar to taste\n}}\n\n===Method===\n{{RecipeMethod\n| Choose young [[parsnips]] if possible for they are more tender and have a sweeter taste. Peel the [[parsnips]], do not slice. \n| Either cook in a small amount of unsalted water until tender or put into a steamer, cover and cook over boiling water.\n| If boiling the [[parsnips]], then dry well on kitchen paper. If steaming the parsnips, simply remove from the steamer and dry.\n| Slice the cooked parsnips and put into a bowl and mash, add a few drops only of banana essence or extract. The easiest way to obtain a small amount of essence or extract is to dip a skewer into the bottle and then hold this over the bowl so the drops fall.\n| Continue adding banana flavouring until you get the right taste. Add [[sugar]] to taste then mash until smooth.\n}}\n\nUse as a sandwich filling or as a pudding with yogurt or custard.\n{{RecipeLine}}\n[[Category:Recipes|Bananas]]\n[[Category:Historic recipes|Bananas]]\n[[Category:Sweets and desserts|Bananas]]\n[[Category:British recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#parsnips #mockbananas #unusualrecipes #banana #bananas </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Verdura cruda al parmigiano",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Verdura cruda al parmigiano a cheese recipe\n|titlemode=replace\n|keywords=#verduracrudaalparmigiano #oliveoil #parmesan #blackpepper #julienned #radishes #carrots #antipasto #celery #greenpepper #garlic \n|hashtagrev=032020\n|description=A colourful and very easy antipasto which can also be served as an accompaniment\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 390\n|PortionCalories = 97\n|DatePublished=1st April 2013\n|Author=Chef\n|ImageComment=Verduras Crudas\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None \n |Image = [[Image:Verdura cruda al parmigiano recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Simply good</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.6</span>/5 </span>\n\n<span class=\"reviewDesc\">And the simple things are best.</span>\n \n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]])</span></span>\n}}\n\nA colourful and very easy [[Antipasto|antipasto]] which can also be served as an accompaniment.\n\n{{RecipeIngredients\n| 1 bunch small [[Radishes|radishes]], trimmed and thinly sliced\n| 3 [[Celery|celery]] sticks, thinly [[Sliced on the diagonal|sliced on the diagonal]]\n| 1 [[Green pepper|green pepper]], [[Julienned|julienned]]\n| 2 medium [[Carrots|carrots]], thinly [[Sliced on the diagonal|sliced on the diagonal]]\n| 45ml [[Olive oil|olive oil]]\n| Seasoning\n| 50g [[Parmesan]], shaved\n}}\n===Method===\n\n{{RecipeMethod\n| Arrange all the ingredients on a serving plate and lightly [[Salt|salt]].\n| Drizzle with the [[Olive oil|olive oil]].\n| Add the [[Parmesan]] shavings and grind some [[Black pepper|black pepper]] over the top.\n}}\n===Variations===\nAdd some Crushed [[Garlic|garlic]] if desired.\n{{RecipeLine}}\n[[Category:Recipes|Verdura cruda al parmigiano]]\n[[Category:Accompaniments|Verdura cruda al parmigiano]]\n[[Category:Cheese recipes|Verdura cruda al parmigiano]]\n[[Category:Italian recipes|Verdura cruda al parmigiano]]\n[[Category:Salad recipes|Verdura cruda al parmigiano]]\n[[Category:Snacks and light bites|Verdura cruda al parmigiano]]\n[[Category:Starters|Verdura cruda al parmigiano]]\n[[Category:Vegetable recipes|Verdura cruda al parmigiano]]\n[[Category:Vegetarian recipes|Verdura cruda al parmigiano]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#verduracrudaalparmigiano #oliveoil #parmesan #blackpepper #julienned #radishes #carrots #antipasto #celery #greenpepper #garlic </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

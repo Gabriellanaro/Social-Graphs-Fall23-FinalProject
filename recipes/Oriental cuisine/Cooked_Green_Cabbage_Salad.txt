@@ -1,0 +1,16 @@
+title": "Cooked Green Cabbage Salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cooked Green Cabbage Salad a vegetarian recipe\n|titlemode=replace\n|keywords=#cabbage #spinach #snowpeas #cookedgreencabbagesalad #steam #vegetable #sweetpepper #sesameseeds #seaweed #steamed #salad \n|hashtagrev=032020\n|description=A Tasty Asian style cooked vegetable salad\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 580\n|PortionCalories = 193\n|DatePublished=6th April 2013\n|Author=Chef\n|ImageComment=Shredded cabbage\n |Servings = Serves 3\n |Difficulty = 2\n |TotalTime = 20 minutes\n |PrepTime = 5 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Cooked Green Cabbage Salad recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nicer than it sounds</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Not a cabbage fan usually, but this was ok</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nA Tasty Asian style cooked [[Vegetable|vegetable]] [[Salad|salad]]\n\n{{RecipeIngredients\n| 3 cups of green [[Cabbage|cabbage]]\n| 1 cup of [[Snow peas|snow peas]]\n| 1 [[Sweet red pepper|sweet red pepper]]\n| 4 cups of raw baby [[Spinach|spinach]]\n| 1 tablespoon of [[Roasted|roasted]] [[Sesame oil|sesame oil]]\n| [[Rice|rice]] seasoning ([[Sesame seeds|sesame seeds]], [[Salt|salt]], [[Seaweed|seaweed]])\n}}\n===Method===\n\n{{RecipeMethod\n| shred green [[Cabbage|cabbage]]\n| cut [[Snow peas|snow peas]] into thirds\n| cut [[Sweet pepper|sweet pepper]] into small slices\n| [[Steam|steam]] baby [[Spinach|spinach]] in water for a few minutes\n| then drain, but use some of the [[Spinach|spinach]] water to [[Steam|steam]] [[Cabbage|cabbage]], [[Snow peas|snow peas]], and [[Pepper|pepper]] together for 5-10 minutes and drain.\n| mix [[Cabbage|cabbage]], [[Snow peas|snow peas]], and [[Pepper|pepper]] with [[Oil|oil]] and seasoning and serve over cooked [[Spinach|spinach]]\n}}\n===Variations===\nUse other [[Vegetables|vegetables]] too\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Accompaniments]]\n[[Category:Main courses]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Salad recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Steamed]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cabbage #spinach #snowpeas #cookedgreencabbagesalad #steam #vegetable #sweetpepper #sesameseeds #seaweed #steamed #salad </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

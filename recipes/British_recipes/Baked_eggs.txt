@@ -1,0 +1,16 @@
+title": "Baked eggs",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Baked eggs recipe Cooking Wiki\n|titlemode=replace\n|keywords=#bakedeggs #eggs #britishrecipes #oventemperatures #baking #eggrecipes #vegetables #baked #kippers #mushrooms #recipes \n|hashtagrev=12032020\n|description=As a rule eggs are not usually cooked alone by baking as there is no specific benefit and it is inefficient\n|datePublished=2013-01-22\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n[[Image:Eggs.jpg|right|300px|Free range eggs]]\n\nAs a rule [[eggs]] are not usually cooked alone by [[baking]] as there is no specific benefit and it is inefficient.  They are usually [[baked]] together with other items such as [[kippers]], [[vegetables]], [[mushrooms]]. \n<GoogleBanner>recipe-pages</GoogleBanner>\nI don't currently have a specific recipe for baked [[eggs]] however, I though [[oven temperatures]] and times would be useful. \n\n===Oven temperatures and cooking times===\n* 177\u00b0 C (350\u00b0 F - Gas 4 - Moderate/Medium) :- Bake for 10 to 15 minutes in an exposed container\n* 204\u00b0 C (400\u00b0 F - Gas 6 - Moderately hot) :- Bake for 8 to 10 minutes in an exposed container\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Egg recipes]]\n[[Category:British recipes]]\n[[Category:Baked or roasted]]\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#bakedeggs #eggs #britishrecipes #oventemperatures #baking #eggrecipes #vegetables #baked #kippers #mushrooms #recipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

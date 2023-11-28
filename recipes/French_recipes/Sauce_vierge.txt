@@ -1,0 +1,16 @@
+title": "Sauce vierge",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sauce vierge recipe\n|titlemode=replace\n|keywords=#saucevierge #juice #chive #shellfish #lemon #fish #shallots #chervil #sauce #oliveoil #whitefish \n|hashtagrev=032020\n|description=A sauce for fish and sometimes pasta, which can be served warm or cold\n}}\n<!-- /seo -->\n\n\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=22nd December 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  8 minutes\n|PrepTime =  5 minutes\n|CookTime =  3 minutes\n|TotalCalories = 96\n|PortionCalories = 24 \n|Image = [[Image:Sauce vierge recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Superb with seafood</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5 </span>\n\n<span class=\"reviewDesc\">Great with seafood and I love to dip breadsticks in this too.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA [[Sauce|sauce]] for [[Fish|fish]] and sometimes [[Pasta|pasta]], which can be served warm or cold\n{{RecipeIngredients\n\n| 2 very ripe [[Tomatoes|tomatoes]], chopped\n| 2 [[Shallots|shallots]], finely chopped\n| 20 sprigs of [[Chervil|chervil]], finely chopped\n| 10 [[chive]] leaves, snipped\n| The [[Juice|juice]] of 1 [[Lemon|lemon]] \n| 100ml [[Olive oil|olive oil]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Mix all of the ingredients in a bowl, using a fork\n| If you like, you can warm it through in a pan\n}}\n===Serving suggestions===\nParticularly good with [[Shellfish|shellfish]] and delicate [[White fish|white fish]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:French recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#saucevierge #juice #chive #shellfish #lemon #fish #shallots #chervil #sauce #oliveoil #whitefish </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

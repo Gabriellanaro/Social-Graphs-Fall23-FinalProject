@@ -1,0 +1,16 @@
+title": "Horseradish pickle",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Horseradish pickle, British recipe \n|titlemode=replace\n|keywords=#horseradish #vinegar #horseradishpickle #salted #miseenplace #grating #onions #grated #pickle #horseradishsauce #whitewinevinegar \n|hashtagrev=032020\n|description=A hot pickle that can be used on its own or drained and used to make horseradish sauce. As the picture shows, grating horseradish can be worse than\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 385\n|PortionCalories = 11\n|DatePublished=24th December 2012\n|Author=Chef\n|ImageComment = Grinding horseradish- at \"The Pickle Guys\", New York City\n |Servings = Servings: 33 - 1 Jar\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 15 minutes\n |CookTime = None\n|Image = [[Image:Grinding horseradish.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Yow!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.8</span>/5</span>\n\n<span class=\"reviewDesc\">My lips are still burning!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nA hot [[Pickle|pickle]] that can be used on its own or drained and used to make [[Horseradish sauce|horseradish sauce]].\n\nAs the picture shows, [[Grating|grating]] [[Horseradish|horseradish]] can be worse than slicing [[Onions|onions]], so be prepared!\n\n{{RecipeIngredients\n| 300g [[Grated]] [[Horseradish|horseradish]] root\n| 284 ml [[White wine vinegar]]\n| Cooking [[Salt|salt]]\n\n}}\n\n===[[Mise en place]]===\n* Mix 1 teaspoon of [[Salt|salt]] to every 284 ml (&frac12; pint) of [[Vinegar|vinegar]]\n===Method===\n{{RecipeMethod\n| Peel and grate the [[Horseradish|horseradish]] root and loosely pack into small jars\n| Cover with the [[Salted|salted]] [[Vinegar|vinegar]]\n| Seal with [[Vinegar|vinegar]]-proof lids\n| Store in a cool place until needed\n}}\n===Chef's notes===\nUse [[frozen horseradish]] or freshly dug [[Horseradish|horseradish]] roots as they lose their flavour and pungency very quickly after pulling and cutting\n{{Template:HorseradishSeeAlso}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:British recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Pickles and preserves]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Pickled]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#horseradish #vinegar #horseradishpickle #salted #miseenplace #grating #onions #grated #pickle #horseradishsauce #whitewinevinegar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

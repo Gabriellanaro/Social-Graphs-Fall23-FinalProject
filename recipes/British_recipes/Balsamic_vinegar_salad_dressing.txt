@@ -1,0 +1,16 @@
+title": "Balsamic vinegar salad dressing",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Balsamic vinegar salad dressing an Italian recipe\n|titlemode=replace\n|keywords=#balsamicvinegarsaladdressing #saladdressing #balsamicvinegar #muscovadosugar #sauce #boiledorsimmered #bubble #newpotatoes #images #salad \n|hashtagrev=032020\n|description=The origin of this salad dressing is from a meat recipe: Fillet steak salad with watercress, however, vegetarians\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 48\n|PortionCalories = 24\n|DatePublished=4th April 2014\n|Author=Chef\n|ImageComment = Belazu Balsamic vinegar\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  20 minutes\n|PrepTime =  3 minutes\n|CookTime =  17 minutes\n|Image = [[Image:Belazu Balsamic vinegar.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice dressing</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">Balsamic vinegar makes a great salad dressing but it doesn't have to be Belazu; any balsmic will do, and it will be cheaper and just as good.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n{{Template:AdvancePreparationIcon}}\n\n\nThe origin of this [[Salad dressing|salad dressing]] is from a [[Meat|meat]] recipe: [[Fillet steak salad with watercress]], however, vegetarians will be pleased to know it has nothing to do with [[Meat|meat]], it just makes a simply fabulous [[Salad dressing|salad dressing]] which is very similar to a sweet & sour [[Sauce|sauce]].\n\nWhen making this, you will need to leave enough time for the dressing to cool down before using.\n\n{{RecipeIngredients\n\n| 8 tablespoons of [[Balsamic vinegar|balsamic vinegar]]\n| 2 tablespoons of [[Muscovado sugar|muscovado sugar]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Add the ingredients to a small pan.\n| Heat the [[Balsamic vinegar|balsamic vinegar]] until it boils.\n| Allow to [[Bubble|bubble]] and reduce for 5 minutes, stirring now and then.\n| Let the dressing cool before using.\n}}\n===Serving suggestions===\nDrizzle over a [[Salad|salad]].\n===Variations===\nThis would be fabulous drizzled over warm [[New Potatoes|new potatoes]]!\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Italian recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Student recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#balsamicvinegarsaladdressing #saladdressing #balsamicvinegar #muscovadosugar #sauce #boiledorsimmered #bubble #newpotatoes #images #salad </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

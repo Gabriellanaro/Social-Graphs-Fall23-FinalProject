@@ -1,0 +1,16 @@
+title": "How to cook taco shells in an air fryer",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=How to cook taco shells in an air fryer\n|titlemode=replace\n|keywords=#tacoshells #airfryer #howtocooktacoshellsinanairfryer #breadandbaking #vegetarianrecipes #airfry #airfriedrecipes #recipes #grainandbeanrecipes #britishrecipes #snacksandlightbites\n|hashtagrev=12032020\n|description=Cook Taco taco shells in your Air air fryer; Much better than using a microwave\n}}\n<!-- /seo -->\n\n\n{{Template:CookTools}}\n\n{{Template:PageAwaitingImage}}\n{{recipesummary\n|DatePublished=17th May 2023\n|Author=Chef\n|ImageComment = \n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  5 minutes\n|PrepTime =  \n|CookTime =  5 minutes\n|TotalCalories = 736\n|PortionCalories = 368\n|Image = [[Image:How to cook taco shells in an air fryer recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">It just works</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Better than oven, grilling or toasting</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jeremy]] </span></span>\n}}\nCook [[Taco shells|taco shells]] in your [[Air Fryer|air fryer]]; the result is way superior to using a micro wave and they even go a little toasty!\n{{RecipeIngredients\n\n| A 12 pack of Asda [[Taco shells|taco shells]]\n| These are much cheaper than El Paso and just as good\n}}\n\n===Method===\n{{RecipeMethod\n\n| Tip the [[Taco shells|taco shells]] into your [[Air Fryer|air fryer]] basket\n| [[Air fry]] for 15 minutes at 180\u00b0 C\n| Serve immediately\n}}\n<gallery widths=300px heights=300px perrow=5>\nImage:20230516 194640.jpg|Asda Taco Shells are best cooked in an airfryer\n</gallery>\n===Serving suggestions===\nServe with [[Aldi's Fiesta Chilli Con Carne with Cubed Steak]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Mexican recipes]]\n[[Category:Tex-Mex recipes]]\n[[Category:Bread and baking]]\n[[Category:Snacks and light bites]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Grain and bean recipes]]\n[[Category:Air fried recipes]]\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#tacoshells #airfryer #howtocooktacoshellsinanairfryer #breadandbaking #vegetarianrecipes #airfry #airfriedrecipes #recipes #grainandbeanrecipes #britishrecipes #snacksandlightbites</code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

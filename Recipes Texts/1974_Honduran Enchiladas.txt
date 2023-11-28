@@ -1,0 +1,15 @@
+ 
+
+title": "Honduran Enchiladas",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Honduran Enchiladas recipe Cooking Wiki\n|titlemode=replace\n|keywords=#honduranenchiladas #salsa #spicyrecipes #picodegallo #boiledeggs #latinamericanrecipes #wholetortillas #recipes \n|hashtagrev=12032020\n|description=This is a typical dish from Honduras. It is very easy to prepare and the ingredients are also easy to find\n|datePublished=2013-01-22\n}}\n<!-- /seo -->\n\n[[Image:Honduran Enchiladas.jpg|thumb|300px|right|Honduran Enchiladas.jpg]]\nThis is a typical dish from Honduras. It is very easy to prepare and the ingredients are also easy to find. \n\n===You will need:===\n* Fried [[whole tortillas]]\n* ground (minced) [[meat]] (as needed)\n* [[Pico de gallo]] (as needed) \n* [[boiled eggs]] (one slice per enchilada)\n* [[salsa]] (as desired)\n\n===Procedure:===\nPrepare the ground meat as desired, once the meat is ready all what you have to do is assemble the enchiladas. Grab the tortilla and cover it with the meat. Use the pico de gallo as your topping. Cut the boiled eggs into slices and top each enchilada with once slice. Finally, pour the salsa over the enchilada and you are done!\n\nEnjoy!\n{{Tortillas-See also}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Latin American recipes]]\n[[Category:Spicy recipes]]\n{{BottomBanner}}\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#honduranenchiladas #salsa #spicyrecipes #picodegallo #boiledeggs #latinamericanrecipes #wholetortillas #recipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

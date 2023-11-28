@@ -1,0 +1,15 @@
+ 
+
+title": "Tomates farcies aux crevettes (Tomatoes stuffed with prawns)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tomates farcies aux crevettes (Tomatoes stuffed with prawns) recipe\n|titlemode=replace\n|keywords=#tomatoes #worcestershiresauce #prawns #parsley #mayonnaise #papertowels #tomatoketchup #onion #tomatesfarciesauxcrevettestomatoesstuffedwithprawns #belgium #onions \n|hashtagrev=032020\n|description=An easy recipe from Belgium and unusually, the tomatoes are not cooked\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=19th December 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  15 minutes\n|PrepTime =  10 minutes\n|CookTime =  5 minutes\n|TotalCalories = 557\n|PortionCalories = 139\n|Image = [[Image:Tomatoes stuffed with prawns recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Farcical tomatoes?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Probably... \ud83d\ude0f</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nAn easy recipe from [[Belgium]] and unusually, the [[Tomatoes|tomatoes]] are not cooked\n{{RecipeIngredients\n\n| 8 small [[Tomatoes|tomatoes]]\n| 160g cooked [[Prawns|prawns]]\n| 1 small [[Onion|onion]] finely chopped\n| 2 tablespoons [[Mayonnaise|mayonnaise]]\n| 1 tablespoon [[Tomato ketchup|tomato ketchup]]\n| \u00bc teaspoon [[Salt|salt]]\n| [[Freshly ground black pepper]]\n| Dash of [[Worcestershire sauce|worcestershire sauce]]\n| 8 sprigs [[Parsley|parsley]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Slice of the tops of the [[Tomatoes|tomatoes]] and spoon out the pulp.\n| Place the [[Tomatoes|tomatoes]] upside down on [[Paper towels|paper towels]] to drain.\n| Mix the [[Prawns|prawns]] with the [[Onions|onions]].\n| Season with [[Salt|salt]], [[Pepper|pepper]] and [[Worcestershire sauce|worcestershire sauce]].\n| Stuff the [[Tomatoes|tomatoes]] with this mixture and garnish with a sprig of [[Parsley|parsley]].\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Belgian recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Fish recipes]]\n[[Category:Shellfish recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tomatoes #worcestershiresauce #prawns #parsley #mayonnaise #papertowels #tomatoketchup #onion #tomatesfarciesauxcrevettestomatoesstuffedwithprawns #belgium #onions </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

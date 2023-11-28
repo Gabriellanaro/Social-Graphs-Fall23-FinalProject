@@ -1,0 +1,16 @@
+title": "Ox head",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ox head a beef recipe \n|titlemode=replace\n|keywords=#oxhead #bones #unusualrecipes \n|hashtagrev=032020\n|description=This recipe for cooking an ox head comes from the marvelous book: :Cookbook: Food In England. I only add it for a bit of fun because I can't image that\n}}\n<!-- /seo -->\n\n{{Template:AdvancePreparationIcon}}\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2192\n|PortionCalories = 274\n|DatePublished=21st January 2013\n|Author=Chef\n|ImageComment = Food in England - Dorothy Hartley\n |Servings = 8\n |Difficulty = 3\n |TotalTime = 28 hours\n |PrepTime = 24 hours\n |CookTime = 4 hours\n |Image = [[Image:Food In England.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Those were the days...</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">..my friend, we thought they'd never end.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n==Ox head==\n\nThis recipe for cooking an ox head comes from the marvelous book: [[:Cookbook: Food In England]]\n\nI only add it for a bit of fun because I can't image that you would be able to obtain a complete ox head very easily.\n\nOur local Sainsbury's doesn't stock them.\n\n{{RecipeIngredients\n| 1 ox head\n| A few [[peppercorns]]\n| A bunch of fresh [[herbs]]\n}}\n===Method===\n{{RecipeMethod\n|Get this prepared by the butcher, who will send it to you split in two.\n| Lay it in strong salty water overnight and rinse under a briskly running tap til thoroughly clear. The tongue should be salted separately.\n|Put the head into a pan with water to cover, a few peppercorns, salt ,a bunch of herbs , and vegetable trimmings.\n| Simmer till the [[bones]] and meat all fall to pieces, then drain into a basin.\n| Take out every scrap of bone and gristle and chop the meat  finely, sprinkling with powdered herbs and pepper.\n| Press into a mould set with a weight on top, and turn out when cold.\n| Garnish with parsley and serve with pickles and roast potatoes.\n| The broth, strained and boiled with oatmeal, onions, or a strongly flavoured vegetable such as celery, makes a meaty soup.\n}}\n\n''Note'':  Be sure you put the  remnants, [[bones]], vegetables, etc., out for the fowls to pick clean.  There is enough miscellaneous picking on an ox-head to keep an industrious hen busy for hours\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Beef recipes]]\n[[Category:Historic recipes]]\n[[Category:Meat recipes]]\n[[Category:Offal recipes]]\n[[Category:British recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#oxhead #bones #unusualrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

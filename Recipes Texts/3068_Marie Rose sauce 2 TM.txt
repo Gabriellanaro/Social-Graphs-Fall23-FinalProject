@@ -1,0 +1,15 @@
+ 
+
+title": "Marie Rose sauce 2 (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Marie Rose sauce 2 - A Thermomix recipe \n|titlemode=replace\n|keywords=#thermomix #spanish #sauce #horseradish #juice #eggyolks #tabasco #brandy #tomatoketchup #orange \n|hashtagrev=032020\n|description=This is another Spanish version for Thermomix of this famous sauce\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2883\n|PortionCalories = 480\n|DatePublished=15th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 6 - Makes about 500g\n|Difficulty = 2\n|TotalTime =  3 minutes\n|PrepTime =  3 minutes\n|CookTime =  None\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Not thought of adding horseradish</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I'll give that a try as we have loads of roots in our garden</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThis is another [[Spanish]] version for [[Thermomix]] of this famous [[Sauce|sauce]]\n\n{{RecipeIngredientsTM\n| 3 [[Egg yolks|egg yolks]]\n| The [[Juice|juice]] of &frac12; an [[Orange|orange]]\n| 80g [[Tomato ketchup|tomato ketchup]]\n| 2 tablespoons [[Brandy|brandy]]\n| A few dashes of [[Tabasco]]\n| [[Salt]]\n| 300g [[Oil|oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put all of the ingredients into the bowl except for the [[Oil|oil]], and mix '''10 seconds / Speed 4'''\n| With the MC in place, set to '''Speed 4''' and pour the [[Oil|oil]], little by little, onto the lid\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n===Variations===\nIf you like, you can add half a teaspoon of [[Horseradish|horseradish]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Egg recipes]]\n[[Category:Fruit recipes]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #spanish #sauce #horseradish #juice #eggyolks #tabasco #brandy #tomatoketchup #orange </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

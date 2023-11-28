@@ -1,0 +1,15 @@
+ 
+
+title": "Crispy noodles",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Crispy noodles, | Dinner recipes from the cook's Wiki\n|titlemode=replace\n|keywords=#crispynoodles #noodles #sesameoil #eggnoodles #boiling #stirfried #fry #dried #chinese #boil \n|hashtagrev=032020\n|description=A different way to cook Chinese egg noodles\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1517\n|PortionCalories = 758\n|DatePublished=25th October 2012\n|Author=Chef\n|ImageComment = \n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  15 minutes\n|PrepTime =  5 minutes\n|CookTime =  10 minutes\n|Image = [[Image:Crispy noodles recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nicer if not burnt!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">But I do love these, with or without the carbon.</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nA different way to cook [[Chinese]] [[Egg noodles|egg noodles]]\n\n{{RecipeIngredients\n| 410 g fresh [[Egg noodles|egg noodles]]\n| [[Sesame oil]]\n}}\n'''OR'''\n* 2 'sheets' of [[Dried|dried]] [[Egg noodles|egg noodles]]\n\n===Method===\n\n{{RecipeMethod\n| Cook the [[Noodles|noodles]] as directed.  \n| Fresh noodles: soak in [[Boiling|boiling]] water for a few minutes. \n| Dried noodles: soak or [[Boil|boil]] for 3 or 4 minutes or until soft.\n| Drain very well.\n| So they can be served immediately, cook the [[Noodles|noodles]] in separate pans if you are able.\n| Heat a tablespoon of [[Sesame oil|sesame oil]] in each [[Frying pan|frying pan]] and then tip half of the [[Noodles|noodles]] into each pan.\n| Shimmy the pan so they spread over the whole surface.\n| [[Fry]] for about 3 minutes a site without disturbing them.\n| Flip them over, adding a little more [[Sesame oil|sesame oil]] if needed.\n| Cook for 2 minutes on this side.\n}}\n<gallery widths=300px heights=300px perrow=5>\nImage:Crispy noodles_other_side.jpg|thumb|300px|right|Crispy noodles, the other side\nImage:Crispy noodles_one_side.jpg|thumb|300px|right|Crispy noodles, the first side\n</gallery>\n===Serving suggestions===\nServe immediately as a 'plate' for a [[stir-fry]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Chinese recipes]]\n[[Category:Vietnamese recipes]]\n[[Category:Accompaniments]]\n[[Category:Snacks and light bites]]\n[[Category:Pasta recipes]]\n[[Category:Boiled or simmered]][[Category:Pan fried]][[Category:Stir fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#crispynoodles #noodles #sesameoil #eggnoodles #boiling #stirfried #fry #dried #chinese #boil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Hush puppies",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Hush puppies, Vegetarian recipe \n|titlemode=replace\n|keywords=#hushpuppies #bakingpowder #freerangeeggs #deepfrying #gumbo #fry #batter #sidedish #eggs #fishdishes #plainflour \n|hashtagrev=032020\n|description=Hush puppies are a quick and easy to make and go really well with fish dishes, gumbo and Hoppin' John\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2252\n|PortionCalories = 375\n|DatePublished=23rd October 2012\n|Author=JuliaBalbilla\n|ImageComment = Take-away hush puppies\n |Servings = Serves 6 as a [[Side dish|side dish]]\n |Difficulty = 2\n |TotalTime = 20 minutes\n |PrepTime = 10 minutes \n |CookTime = 10 minutes\n |Image = [[Image:Hush puppies recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Strange american food!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.2</span>/5 </span>\n\n<span class=\"reviewDesc\">Deep fried food is never my favourite; this recipe is another that I will only be making as an experiment!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n\n}}\n\nHush puppies are a quick and easy to make and go really well with [[Fish dishes|fish dishes]], [[Gumbo|gumbo]] and [[Hoppin' John|Hoppin' John]].\n\n{{RecipeIngredients\n| 350 g [[Cornmeal|cornmeal]]\n| 150 g [[Plain flour|plain flour]]\n| 2 teaspoons [[Baking powder|baking powder]]\n| 1 teaspoon [[Sea Salt|sea salt]]\n| 4 [[Spring onions|spring onions]]\n| 250 ml cold [[Milk|milk]]\n| 2 [[Free range eggs|free range eggs]]\n| [[Oil]] for [[Deep frying|deep frying]]\n}}\n===Method===\n\n{{RecipeMethod\n| Beat the [[Eggs|eggs]] and mix into the [[Milk|milk]]\n| Add the remaining ingredients to a bowl, add the [[Milk|milk]] mixture and mix well so you have a smooth [[batter]]\n| Heat a little [[Oil|oil]] in a heavy based [[Frying pan|frying pan]] and when hot, drop tablespoons of the mixture into the oil in small batches\n| [[Fry]] until golden [[Brown|brown]]\n| Remove and drain on kitchen paper\n}}\n==See also==\n* http://en.wikipedia.org/wiki/Cuisine_of_the_Southern_United_States\n* http://en.wikipedia.org/wiki/Hushpuppy\n* http://www.foodnetwork.com/recipes/paula-deen/hushpuppies-recipe/index.html\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Grain and bean recipes]]\n[[Category:Latin American recipes]]\n[[Category:Historic recipes]]\n[[Category:Starters]]\n[[Category:Snacks and light bites]]\n[[Category:Tex-Mex recipes]]\n[[Category:North American recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Deep fried]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#hushpuppies #bakingpowder #freerangeeggs #deepfrying #gumbo #fry #batter #sidedish #eggs #fishdishes #plainflour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

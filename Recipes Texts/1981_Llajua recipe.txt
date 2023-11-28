@@ -1,0 +1,15 @@
+ 
+
+title": "Llajua recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Llajua recipe Cooking with chillies \n|titlemode=replace\n|keywords=#tomatojuice #sauce #llajuarecipe #onion #plumtomatoes #tomatoes #refrigerator #blender #chilipeppers #foodprocessor #chillies \n|hashtagrev=032020\n|description=A Bolivian spicy sauce, commonly served with Chicharron\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 176\n|PortionCalories = 10\n|DatePublished=29th May 2012\n|Author=JuliaBalbilla\n|ImageComment = Red chillies\n|Servings = Servings: 18 - Makes 1 bottle of [[sauce]]\n|Difficulty = 1\n|TotalTime = 20 minutes\n|PrepTime = 20 minutes\n|CookTime = None\n|Image = [[Image:Piri piri sauce recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Porky sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5</span>\n\n<span class=\"reviewDesc\">Another chilli sauce to pour over everything!</span> \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\n\nA Bolivian spicy [[sauce]], commonly served with [[Chicharr\u00f3n]]\n\n{{RecipeIngredients\n| 1 450 g can of [[plum tomatoes]]\n| 4 fresh [[red chili peppers]], seeds removed\n| 3 fresh green [[chili peppers]], seeds removed\n| 2 tablespoons chopped [[onion]]\n| 1 teaspoon of [[sea salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Reserve the [[tomato juice]] from the can\n| In a [[food processor]], blend the [[tomatoes]], [[chillies]], [[onion]] and [[salt]] until you have a smooth paste\n| Add about half of the reserved [[tomato juice]] back into the [[blender]] and blitz for a few seconds\n| Store in the [[refrigerator]]\n}}\n==See also==\n* [[Chilli sauce|Many other chilli sauce recipes]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chilli pepper recipes]]\n[[Category:Dips and sauces]]\n[[Category:Latin American recipes]]\n[[Category:Spicy recipes]]\n[[Category:Tex-Mex recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tomatojuice #sauce #llajuarecipe #onion #plumtomatoes #tomatoes #refrigerator #blender #chilipeppers #foodprocessor #chillies </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

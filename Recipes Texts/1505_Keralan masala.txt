@@ -1,0 +1,15 @@
+ 
+
+title": "Keralan masala",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Keralan masala, Indian recipe \n|titlemode=replace\n|keywords=#keralanmasala #spice #madtarbark #cinnamonsticks #aniseed #cardamom #peppercorns \n|hashtagrev=032020\n|description=This masala recipe comes from the wonderful Nik and Edwina's Cookbook\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 10\n|PortionCalories = 10\n|DatePublished=8th July 2012\n|Author=Chef\n|ImageComment = Kerelan masala\n |Servings = 1\n |Difficulty = 2\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:Keralan masala recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice with rice</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">..and dead easy to make</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis masala recipe comes from the wonderful [[Nik and Edwina's Cookbook]].  I have added it here because it is used in two other of their recipes that look so good that they will be added here shortly: [[Leelu's Keralan Chicken Curry]] and [[Madtarbark]] (a sort of Thai samosa)\n\n{{RecipeIngredients\n| A handful of broken up [[Cinnamon sticks|cinnamon sticks]]\n| Half a handful of [[Cloves|cloves]]\n| Half a handful of [[Aniseed|aniseed]]\n| 5 to 8 pods of black or green [[Cardamom|cardamom]], peeled\n| 1 tablespoon [[Peppercorns|peppercorns]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the masala ingredients together, then whiz to a powder in a liquidiser or [[Spice|spice]] grinder.\n| Store in an airtight container, and keep it in your [[Spice|spice]] rack, it\u0092s a lovely, subtle, quite sweet spice mix.\n}}\n===Servings===\nMakes 4 portions\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Indian recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Nik and Edwina's Cookbook recipes]]\n[[Category:Recipes from other sites]]\n\n[[Category:Uncooked]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#keralanmasala #spice #madtarbark #cinnamonsticks #aniseed #cardamom #peppercorns </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,15 @@
+ 
+
+title": "Tex-Mex beans (Fast)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tex-Mex beans (Fast), Vegetarian recipe \n|titlemode=replace\n|keywords=#bakedbeans #microwaved #butter \n|hashtagrev=032020\n|description=A really quick accompaniment for any Tex-Mex meal. Kids will love them\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 361\n|PortionCalories = 180\n|DatePublished=21st January 2013\n|Author=Chef\n|ImageComment = Tex-Mex beans (Fast)\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime = 5 minutes\n|PrepTime = 2 minutes\n|CookTime = 3 minutes\n|Image = [[Image:Tex-Mex beans (Fast) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n<span class=\"reviewTitle\">Fast beans</span>\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Really fast!</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\nA really quick accompaniment for any Tex-Mex meal.  Kids will love them.  If you have not made any [[Tex-Mex seasoning]], then just use a tablespoon of El Paso taco seasoning, store the rest for another time in a screwtop jar.\n\n{{RecipeIngredients\n| 1 tin [[baked beans]]\n| 1 tablespoon [[Tex-Mex seasoning]]\n| 1 teaspoon [[butter]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all the ingredients together in a small pan and heat gently.\n| Alternatively, add to a bowl, mix well and microwave for 3 minutes\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Grain and bean recipes]]\n[[Category:Main courses]]\n[[Category:Spicy recipes]]\n[[Category:Starters]]\n[[Category:Tex-Mex recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:North American recipes]]\n[[Category:Student recipes]]\n[[Category:Microwaved]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bakedbeans #microwaved #butter </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

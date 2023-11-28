@@ -1,0 +1,15 @@
+ 
+
+title": "Quick lemon sorbet (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Quick lemon sorbet - A Thermomix recipe \n|titlemode=replace\n|keywords=#thermomix #sorbet #spanish #glasses #lemon #cream #lemons \n|hashtagrev=032020\n|description=A Spanish Thermomix recipe for an easy lemon sorbet\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 225\n|PortionCalories = 37\n|DatePublished=2nd January 2013\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Serves 6\n|Difficulty = 1\n|TotalTime = 10 minutes \n|PrepTime =  10 minutes\n|CookTime =  None\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Sharp and tangy</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Really lemony, a lovely fragrance</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nA [[Spanish]] [[Thermomix]] recipe for an easy [[Lemon|lemon]] [[Sorbet|sorbet]]\n\n{{RecipeIngredientsTM\n| 3-4 [[Lemons|lemons]], peeled with pith and pips removed\n| 200g [[Sugar|sugar]]\n| 800g ice cubes\n}}\n===Method===\n\n{{RecipeMethod\n| Put all the ingredients into the bowl '''2 minutes / Speed 5-10 progressively''', keeping the '''first 30 seconds''' at '''Speed 5'''.\n| Check that the texture is that of a thick [[Cream|cream]].\n| If the [[Sorbet|sorbet]] is liquid, add more ice cubes and repeat the process at the same speed.\n| Pour into [[Glasses|glasses]].\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n\n{{Soft ice cream}}\n{{RecipeLine}}\n[[Category:Recipes|Lemon sorbet]]\n[[Category:Spanish recipes|Lemon sorbet]]\n[[Category:Sweets and desserts|Lemon sorbet]]\n[[Category:Vegan recipes|Lemon sorbet]]\n[[Category:Vegetarian recipes|Lemon sorbet]]\n[[Category:Fruit recipes|Lemon sorbet]]\n[[Category:Ice-cream recipes|Lemon sorbet]]\n[[Category:Thermomix recipes|Lemon sorbet]]\n[[Category:Frozen]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #sorbet #spanish #glasses #lemon #cream #lemons </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

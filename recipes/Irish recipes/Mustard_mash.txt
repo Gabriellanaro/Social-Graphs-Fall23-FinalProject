@@ -1,0 +1,16 @@
+title": "Mustard mash",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ken's mustard mash\n|titlemode=replace\n|keywords=#mustardmash #mustard #potatoes #cream #gravy #britishrecipes #recipes #cookerycheats #bangersandmash #irishrecipes #butter\n|hashtagrev=12032020\n|description=An easy way to spice up mashed potatoes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=13th January 2021\n|Author=Chef\n|ImageComment = Ken's original picture from Facebook\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  30 minutes\n|PrepTime =  5 minutes\n|CookTime =  25 minutes\n|TotalCalories = 600\n|PortionCalories = 300\n|Image = [[Image:Mustard mash Ken's recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Brilliant one Ken!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Another surprising staple, added to my repertoire.</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nThey say that the simple things are best, well this couldn't be better or simpler!\n\nKen, one of our neighbours, posted a picture of [[Bangers and mash|bangers and mash]] on Facebook, with the comment 'mustard mash'. As you can see, it looks fab. That was a new one to me, so I asked him for the secret!\n{{RecipeIngredients\n\n| 1 portion of [[Mashed potato recipe|mashed potates]] for two people\n| 2 teaspoons of ready-made [[Mustard|mustard]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| While mixing the [[Butter|butter]] and [[Milk|milk]] (or [[Cream|cream]]) into the [[Potatoes|potatoes]], add two teaspoons of [[Mustard|mustard]].\n| Mash until well mixed.\n| Serve with [[Sausages|sausages]], [[Vegetables|vegetables]] and [[Gravy|gravy]].\n}}\n<gallery widths=300px heights=300px perrow=5>\nImage:Ken doing what he does best.jpg|Ken doing what he does best!\n</gallery>\n\n===Recipe source===\n\n* Our neighbour Ken - happy fishing mate!\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Irish recipes]]\n[[Category:Accompaniments]]\n[[Category:Spicy recipes]]\n[[Category:Potato recipes]]\n[[Category:Cookery cheats]]\n[[Category:Boiled or simmered]]\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#mustardmash #mustard #potatoes #cream #gravy #britishrecipes #recipes #cookerycheats #bangersandmash #irishrecipes #butter</code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

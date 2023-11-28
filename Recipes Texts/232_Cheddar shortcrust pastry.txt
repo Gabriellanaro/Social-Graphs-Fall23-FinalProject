@@ -1,0 +1,15 @@
+ 
+
+title": "Cheddar shortcrust pastry",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Cheddar shortcrust pastry, British recipe\n|titlemode=replace\n|keywords=#cheddarshortcrustpastry #foodprocessor #pastry #cheddar #butter #flour #dough #freeze #plainflour #pies #sieve \n|hashtagrev=032020\n|description=This is a lovely crisp pastry, perfect for meat pies or quiches and now I use nothing else now due to protests from my hubby!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 4236\n|PortionCalories = 1059\n|DatePublished=5th April 2013\n|Author=Chef\n|ImageComment = \n|Servings = Serves 4 - makes about 600g\n|Difficulty = 1\n|TotalTime =  15 minutes\n|PrepTime =  15 minutes\n|CookTime = None\n|Image = [[Image:Cheddar shortcrust pastry recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Makes great savouries</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">This makes such a difference to savoury pastries and is such a simple idea.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis is a lovely crisp [[Pastry|pastry]], perfect for [[Meat|meat]] [[Pies|pies]] or quiches and now I use nothing else now due to protests from my hubby!\n\n{{RecipeIngredients\n| 500g [[Plain flour]]\n| 250g [[Butter]]\n| 125g Mature [[Cheddar]] (yellow)\n| 3-5tbsp cold water\n| extra [[Flour|flour]] for dusting\n\n}}\n</div>\n===[[Mise en place]]===\n* [[Food processor]] with plastic blade required\n===Method===\n\n{{RecipeMethod\n| [[Sieve]] [[Flour|flour]], cut [[Butter|butter]] into 1cm cubes and grate [[Cheddar|cheddar]].\n| Add everything to [[Food processor|food processor]] and pulse until mixed into chucky crumbs.\n| Add water one tablespoon at a time and pulse [[Food processor|food processor]] until ball of [[Dough|dough]] is formed.\n| Use immediately or [[Freeze|freeze]] for future use\n}}\n===Serving suggestions===\nThis makes 6 individual pie crusts and lids or\n2x quiche crusts or\n1x large pie crust and lid\n===Chef's notes===\nUsing a orange coloured [[Cheese|cheese]] will make the cheese noticeable in the [[Pastry|pastry]]\n{{Quiche - See also}}\n\n{{RecipeLine}}\n\n[[Category:Recipes|Pastry]]\n[[Category:British recipes|Pastry]]\n[[Category:Bread and baking|Pastry]]\n[[Category:Snacks and light bites]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cheddarshortcrustpastry #foodprocessor #pastry #cheddar #butter #flour #dough #freeze #plainflour #pies #sieve </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

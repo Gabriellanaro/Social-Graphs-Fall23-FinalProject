@@ -1,0 +1,16 @@
+title": "Domatakia toursi (Pickled tomatoes)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Domatakia toursi (Pickled tomatoes) a Greek recipe\n|titlemode=replace\n|keywords=#garlic #vinegar #cherrytomatoes #paprika #tomatoes #pickled #appetiser #cumin #groundcumin \n|hashtagrev=032020\n|description=Pickled cherry tomatoes, which are served as an appetiser. Prepare 2 days ahead\n}}\n<!-- /seo -->\n{{Template:AdvancePreparationIcon}}\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 361\n|PortionCalories = 90\n|DatePublished=24th October 2012\n|Author=Chef\n|ImageComment = Halved cherry tomatoes\n |Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 2 days, 2 hours\n |PrepTime = 2 days, 2 hours\n |CookTime = None\n |Image = [[Image:Domatakia toursi recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Tom. Pickles</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice and garlicy too</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\n[[Pickled]] [[Cherry tomatoes|cherry tomatoes]], which are served as an [[Appetiser|appetiser]].  Prepare 2 days ahead.\n\n{{RecipeIngredients\n| 1 kg [[Cherry tomatoes|cherry tomatoes]]\n| [[Salt]]\n| 2 bulbs [[Garlic]], peeled and crushed\n| 1 teaspoon each of [[Ground cumin|ground cumin]] and sweet, unsmoked [[Paprika|paprika]] or more to taste\n| 500 ml white [[Vinegar|vinegar]]\n| Water\n}}\n===Method===\n\n{{RecipeMethod\n| Cut the [[Tomatoes|tomatoes]] in half and lightly sprinkle some [[Salt|salt]] on the cut sides. Turn upside-down and allow to drain.\n| Mix the [[Garlic|garlic]] with the [[Cumin|cumin]] and [[Paprika|paprika]].\n| Once the [[Tomatoes|tomatoes]] have drained, stuff them with the [[Garlic|garlic]] mixture and put them in a jar with the [[Vinegar|vinegar]].\n| Top up with water to cover and leave the for two days.\n}}\n{{RecipeLine}}\n[[Category:Recipes|Tomatoes pickled]]\n[[Category:Greek recipes|Tomatoes pickled]]\n[[Category:Pickles and preserves|Tomatoes pickled]]\n[[Category:Salad recipes|Tomatoes pickled]]\n[[Category:Vegetable recipes|Tomatoes pickled]]\n[[Category:Vegetarian recipes|Tomatoes pickled]]\n[[Category:Pickled]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlic #vinegar #cherrytomatoes #paprika #tomatoes #pickled #appetiser #cumin #groundcumin </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

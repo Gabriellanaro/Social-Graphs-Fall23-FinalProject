@@ -1,0 +1,15 @@
+ 
+
+title": "Easy Peasy Mango Ice Cream",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Easy Peasy Mango Ice Cream, a fruit recipe\n|titlemode=replace\n|keywords=#easypeasymangoicecream #condensedmilk #natcomangopulp #images #cream #freeze #mint #mangopulp #cuban #icecreammaker #whippingcream \n|hashtagrev=032020\n|description=Make this Cuban favourite the very easy way!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 686\n|PortionCalories = 171\n|DatePublished=21st May 2014\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  5 hours\n|PrepTime =  5 hours\n|CookTime = None\n|Image = [[Image:Easy Peasy Mango Ice Cream recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Must be dressed with mint!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Minty mango is the way to go.</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\n[[Image:Natco mango pulp.jpg|thumb|200px|right|[[Natco mango pulp]]]]\nMake this [[Cuban]] favourite the very easy way!\n\n{{RecipeIngredients\n\n| 1 cup sweetened [[Condensed milk|condensed milk]]\n| 1 cup [[Whipping cream|whipping cream]]\n| \u00bd cup [[Natco mango pulp]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Whip [[Cream|cream]] until stiff\n| Fold in sweetened [[Condensed milk|condensed milk]] and [[Mango pulp|mango pulp]]\n| [[Freeze]]\n}}\n===Serving suggestion===\nServe with a sprig of [[mint]].\n===Variations===\nThis can also be made in an [[Ice cream maker|ice cream maker]].  Just add the finished mixture into your [[Ice-cream maker|ice-cream maker]] and follow the makers instructions.\n===Recipe source===\n* {{RecipeCourtesyOfCubanCuisine}}\n\n{{Soft ice cream}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:Sweets and desserts]]\n[[Category:Vegetarian recipes]]\n[[Category:Fruit recipes]]\n[[Category:Ice-cream recipes]]\n[[Category:CubanCuisine.co.uk]]\n[[Category:Frozen]]\n[[Category:Uncooked]]\n[[Category:Recipes from other sites]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#easypeasymangoicecream #condensedmilk #natcomangopulp #images #cream #freeze #mint #mangopulp #cuban #icecreammaker #whippingcream </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

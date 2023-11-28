@@ -1,0 +1,16 @@
+title": "Flavoured butters (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Flavoured butters - A Thermomix recipe \n|titlemode=replace\n|keywords=#butter #tarragon #thermomix #celerysalt #doublecream #butters #anchovybutter #preserved #fat #finesherbes #bakedpotatoes \n|hashtagrev=032020\n|description=This recipe requires you to make your own butter first\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 4013\n|PortionCalories = 133\n|DatePublished=15th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 30 - Makes about 600g\n|Difficulty = 1\n|TotalTime =  7 minutes\n|PrepTime =  7 minutes\n|CookTime = None\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Anchovy butter for me</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.1</span>/5 </span>\n\n<span class=\"reviewDesc\">It's great on fillet steak.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis recipe requires you to make your own [[Butter|butter]] first.\n\n{{RecipeIngredientsTM\n| 600g [[double cream]] (35% [[Fat|fat]] minimum)\n}}\n\n'''[[Fines herbes]] [[Butter|butter]]'''\n{{RecipeIngredientsNB\n| 30g [[Chives|chives]], chopped\n| 10g [[Celery salt|celery salt]]\n}}\n\n'''[[Tarragon]] [[Butter|butter]]'''\n{{RecipeIngredientsNB\n| 20g [[Capers|capers]]\n| 10g fresh [[Tarragon|tarragon]], chopped\n}}\n\n'''[[Anchovy butter]]'''\n{{RecipeIngredientsNB\n| 6 semi-[[Preserved|preserved]] [[Anchovy fillets|anchovy fillets]]\n}}\n\n===Method===\n\n{{RecipeMethod\n| Make the [[Butter|butter]] according to [[Thermomix butter - Spanish recipe (TM)|this recipe]] using 600g [[Cream|cream]].\n| Once made, the [[Butter|butter]] can be flavoured to your taste.\n| Add your chosen ingredients to the [[Butter|butter]] in the bowl and mix '''5 seconds / Speed 5'''.\n}}\n===Serving suggestions===\nThe flavoured [[Butters|butters]] can be used as a [[Sauce|sauce]] in hot plates of [[Pasta|pasta]], [[Baked potatoes|baked potatoes]], [[Meat|meat]] or [[Fish|fish]].\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n{{RecipeLine}}\n[[Category:Recipes|Butter flavoured]]\n[[Category:Spanish recipes|Butter flavoured]]\n[[Category:Dips and sauces|Butter flavoured]]\n[[Category:Marinades dressings and butters|Butter flavoured]]\n[[Category:Fish recipes|Butter flavoured]]\n[[Category:Sea fish recipes|Butter flavoured]]\n[[Category:Thermomix recipes|Butter flavoured]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#butter #tarragon #thermomix #celerysalt #doublecream #butters #anchovybutter #preserved #fat #finesherbes #bakedpotatoes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

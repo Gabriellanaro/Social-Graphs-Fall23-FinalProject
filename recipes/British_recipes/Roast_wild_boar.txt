@@ -1,0 +1,16 @@
+title": "Roast wild boar",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Roast wild boar, Game recipe \n|titlemode=replace\n|keywords=#roastwildboar #unusualrecipes #wildboar #herbs #vegetables #restfor #roasting #miseenplace #roastingtin #garlic #fat \n|hashtagrev=032020\n|description=This is a basic recipe for roasting wild boar\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1520\n|PortionCalories = 380\n|DatePublished=13th November 2013\n|Author = JuliaBalbilla\n|Servings = 4\n|Difficulty = 1\n|TotalTime =  2 hours 45 minutes\n|PrepTime = 15 minutes \n|CookTime = 2 hours 30 minutes\n|Image = [[Image:Roast wild boar recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">As good with normal porkers</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5 </span>\n\n<span class=\"reviewDesc\">I cannot find wild boar easily so I used pork, just as good in my opinion.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis is a basic recipe for [[Roasting|roasting]] [[Wild boar|wild boar]].\n\n{{RecipeIngredients\n| 1 wild boar joint\n| A good pinch of [[salt]]\n| 6 cloves of [[garlic]],unpeeled\n| Big sprig of [[sage]] leaves\n}}\n\n===[[Mise en place]]===\n* Preheat the [[Oven|oven]] to 200\u00b0 C (400\u00b0 F - gas 6), [fan oven 180\u00b0 C & reduce cooking time by 10 mins per hour]\n\n===Method===\n\n{{RecipeMethod\n| Score the rind/[[Fat|fat]] with a sharp knife and the rub with plenty of [[Sea Salt|sea salt]].\n| Place the [[Herbs|herbs]] and [[Garlic|garlic]] in the centre of a [[Roasting tin|roasting tin]] then place the joint on top of them.\n| [[Roast]] in the centre of the [[Oven|oven]] for 25 minutes then reduce the heat to 180\u00b0 C (350\u00b0 F - gas 4), [fan oven 160\u00b0 C & reduce cooking time by 10 mins per hour]\n| Allow 40 minutes per kg plus 40 minutes - if it is a [[Shoulder|shoulder]] joint, cook for a little longer.\n| When the [[Meat|meat]] is cooked, allow to [[Rest for|rest for]] 10 minutes or so, wrapped in [[Foil|foil]].\n}}\n===Serving suggestions===\nServe with [[Vegetables|vegetables]] or cold in sandwiches etc.\n==See also==\n* '''[[Meat cooking time calculator Metric|A comprehensive guide to roast meat cooking times]]''' - give the time you want to carve your roast and we'll give you a timed step by step roasting guide\n{{RecipeLine}}\n[[Category:Recipes|Boar]]\n[[Category:British recipes|Boar]]\n[[Category:Main courses|Boar]]\n[[Category:Game recipes|Boar]]\n[[Category:Meat recipes|Boar]]\n[[Category:Pork recipes|Boar]]\n[[Category:Baked or roasted|Boar]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#roastwildboar #unusualrecipes #wildboar #herbs #vegetables #restfor #roasting #miseenplace #roastingtin #garlic #fat </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

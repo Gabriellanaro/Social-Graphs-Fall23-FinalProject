@@ -1,0 +1,15 @@
+ 
+
+title": "Zwiebelauflauf",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Zwiebelauflauf a cheese recipe \n|titlemode=replace\n|keywords=#zwiebelauflauf #onions #cheese #breadcrumbs #butter #miseenplace #bake #unusualrecipes #dutchcheeses #onion #casserole \n|hashtagrev=032020\n|description=A rich onion casserole\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1927\n|PortionCalories = 481\n|DatePublished=20th January 2013\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 35 minutes\n |PrepTime = 5 minutes\n |CookTime = 30 minutes\n |Image = [[Image:Zwiebelauflauf recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Mmm, that's rich</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Lovely and cheesy - especially with the emmenthal</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n\nA rich [[Onion|onion]] [[Casserole|casserole]].\n\n{{RecipeIngredients\n| 1 kg [[Onions|onions]], thickly sliced\n| 60 g [[Butter|butter]]\n| A little [[Milk|milk]]\n| 140 ml [[Sour cream|sour cream]]\n| 2 [[Egg yolks|egg yolks]]\n| 150g [[emmental cheese]], [[Grated|grated]]\n| 120g [[Breadcrumbs]]\n| [[Salt]], [[Pepper|pepper]] and [[Paprika|paprika]]\n\n}}\n\n===[[Mise en place]]===\n* Preheat [[Oven|oven]] to 180\u00b0 C (350\u00b0 F - gas 4).\n===Method===\n\n{{RecipeMethod\n| [[Stew]] the [[Onions|onions]] in the [[Butter|butter]] and [[Milk|milk]] in a pan until soft.\n| Transfer to a [[Casserole dish|casserole dish]].\n| Beat together the [[Yolks|yolks]], [[Cream|cream]], [[Salt|salt]] and [[Pepper|pepper]] and pour over the [[Onions|onions]].\n| Sprinkle with the [[Cheese|cheese]] and [[Breadcrumbs|breadcrumbs]].\n| [[Bake]] for 20 minutes.\n}}\n===Serving suggestions===\nServe with [[Salad|salad]].\n===Chef's notes===\nA [[Dutch cheeses|Dutch]] or [[:Category:Swiss cheeses|Swiss]] style [[Cheese|cheese]] would be the best to use for this dish.\n{{RecipeLine}}\n[[Category:Recipes|Zwiebelauflauf]]\n[[Category:Cheese recipes|Zwiebelauflauf]]\n[[Category:German recipes|Zwiebelauflauf]]\n[[Category:Main courses|Zwiebelauflauf]]\n[[Category:Vegetable recipes|Zwiebelauflauf]]\n[[Category:Vegetarian recipes|Zwiebelauflauf]]\n[[Category:Baked or roasted]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#zwiebelauflauf #onions #cheese #breadcrumbs #butter #miseenplace #bake #unusualrecipes #dutchcheeses #onion #casserole </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

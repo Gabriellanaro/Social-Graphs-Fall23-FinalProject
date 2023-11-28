@@ -1,0 +1,15 @@
+ 
+
+title": "Easy tomato topping for pizza",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Easy tomato topping for pizza an Italian recipe\n|titlemode=replace\n|keywords=#easytomatotoppingforpizza #tomatoes #driedoregano #pizzas #deeppanpizza #sieve #baking #recipesfromothersites #plumtomatoes \n|hashtagrev=032020\n|description=This cookery cheat comes from an idea used in one of American Julia's recipes. She used it on a deep pan pizza\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 72\n|PortionCalories = 18\n|DatePublished=28th February 2013\n|Author=Chef\n|ImageComment = After 30 minutes draining, liquid discarded\n|Servings = Serves 4 - Enough sauce to top 2 pizzas\n|Difficulty = 1\n|TotalTime =  30 minutes\n|PrepTime =  30 minutes\n|CookTime = None\n|Image = [[Image:Easy tomato topping for pizza recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Neat trick</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Simple ideas are often the best.</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nThis cookery cheat comes from an idea used in one of [[I believe I can fry|American Julia's recipes]].\n\nShe used it on a [[deep pan pizza]].  I've been using it for [[Pizzas|pizzas]] ever since.\n\nNo cooking required, just wait 30 minutes for a tin of [[Tomatoes|tomatoes]] to drain.\n\n{{RecipeIngredients\n| 1 tin of chopped [[Plum tomatoes|plum tomatoes]]\n| [[Sea Salt|sea salt]] and [[Freshly ground black pepper|freshly ground black pepper]]\n| &#189; teaspoon [[Dried oregano|dried oregano]]\n}}\n===Method===\n\n{{RecipeMethod\n| If you are using a can of whole tomatoes, roughly chop then whilst still in the tin by using a small knife\n| Pour the can of [[Tomatoes|tomatoes]] into a [[Sieve|sieve]] placed over a bowl\n| Leave to drain for 30 minutes\n| Season to taste with [[Salt|salt]] and [[Pepper|pepper]]\n| Stir in the [[Dried oregano|dried oregano]]\n| Discard the drained liquid\n| Spread on you [[Pizzas|pizzas]] just before [[Baking|baking]]\n}}\n===Recipe source===\n* [[I believe I can fry]] recipes\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Italian recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Cookery cheats]]\n[[Category:I believe I can fry recipes]]\n[[Category:Uncooked]]\n[[Category:Recipes from other sites]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#easytomatotoppingforpizza #tomatoes #driedoregano #pizzas #deeppanpizza #sieve #baking #recipesfromothersites #plumtomatoes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

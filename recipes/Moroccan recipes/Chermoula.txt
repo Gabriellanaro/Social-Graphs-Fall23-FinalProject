@@ -1,0 +1,16 @@
+title": "Chermoula",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chermoula, Sauce recipe \n|titlemode=replace\n|keywords=#chermoula #garlic #marinade #coriander #groundcumin #fish #herbs #saffronstrands #tagine #paprika #lemonjuice \n|hashtagrev=032020\n|description=Chermoula or charmoula is a marinade used in Algerian, Moroccan and Tunisian cooking\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 42\n|PortionCalories = 10\n|DatePublished=20th December 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4 - Will marinade meat for 4 to 6 people\n |Difficulty = 1\n |ImageComment = [[Tagine]] cooked with chermoula [[marinade]]\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n|Image = [[Image:Chermoula.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Best on Basa</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Nice fish marinade with easy to find ingredients</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nChermoula or charmoula is a [[marinade]] used in [[Algerian]], [[Moroccan]] and [[Tunisian]] cooking. It is usually used to flavour [[fish]] or [[seafood]], but it can be used on other [[meats]] or [[vegetables]].\n\nChermoula is often made of a mixture of [[herbs]], [[oil]], [[lemon juice]], [[preserved lemons]], [[Garlic|garlic]], [[cumin]], and [[salt]]. It may also include [[onion]], fresh [[coriander]], ground [[chilli peppers]], [[black pepper]], or [[saffron]].\n\n{{RecipeIngredients\n| 2 tablespoons roughly chopped [[Coriander|coriander]] \n| 3 [[Garlic|garlic]] cloves, chopped \n| 1 &frac12; teaspoons [[Ground cumin|ground cumin]] \n| &frac12; medium-hot long red [[Chilli|chilli]], seeded and chopped \n| &frac12; teaspoon [[Saffron strands|saffron strands]] \n| 80ml [[Extra virgin olive oil|extra virgin olive oil]] \n| [[Juice]] of 1 [[Lemon|lemon]] \n| &frac12; teaspoon [[Paprika|paprika]]\n}}\n===Method===\n\n{{RecipeMethod\n| To make [[chermoula]], place all ingredients into a [[Food processor|food processor]] and process until smooth. Season with [[Salt|salt]] and [[Pepper|pepper]].\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Algerian recipes]]\n[[Category:Moroccan recipes]]\n[[Category:North African recipes]]\n[[Category:Tunisian recipes]]\n[[Category:Dips and sauces]]\n[[Category:Ingredients]]\n[[Category:Prepared foods]]\n[[Category:Store cupboard items]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chermoula #garlic #marinade #coriander #groundcumin #fish #herbs #saffronstrands #tagine #paprika #lemonjuice </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Taste Sensation Nacho Cheese Yogurt Dip",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Taste Sensation Nacho Cheese Yogurt Dip\n|titlemode=replace\n|keywords=#tastesensationsmokedpaprikapowder #tastesensationnachocheeseseasoning #vegetables #frenchfries #tastesensationnachocheeseyogurtdip #tacochips #dip #snacksandlightbites #recipes #dipsandsauces #marinadesdressingsandbutters\n|hashtagrev=12032020\n|description=A very way to make a fabulous dip for French fries, Taco taco chips, vegetables; well almost anything. So tasty!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=7th January 2023\n|Author=Chef\n|ImageComment = \n|Servings = 2\n|Difficulty = 1\n|TotalTime =  2 minutes\n|PrepTime =  2 minutes\n|CookTime = None\n|TotalCalories = 60\n|PortionCalories = 30\n|Image = [[Image:Taste Sensation Nacho Cheese Yogurt Dip.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Super spicy dip</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Great with French fries</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jeremy]] </span></span>\n}}\nA very way to make a fabulous [[Dip|dip]] for [[French fries]], [[Taco chips|taco chips]], [[Vegetables|vegetables]]; well almost anything.  So tasty!\n{{RecipeIngredients\n\n| 2 heaped tablespoons [[Taste Sensation Nacho Cheese Seasoning]]\n| 4 tablespoons [[Greek-style yogurt]]\n| Pinch of [[Taste Sensation Smoked Paprika Powder]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Add 4 tablespoons of [[Greek-style yogurt]] to a mixing bowl\n| Stir in 2 heaped tablespoons of [[Taste Sensation Nacho Cheese Seasoning]]\n| Mix really well\n| Spoon into a serving bowl\n| Sprinkle with a pinch of [[Taste Sensation Smoked Paprika Powder]] - ''just for show!''\n}}\n\n<gallery widths=250px heights=250px perrow=5>\nImage:My Taste Sensation Nacho Cheese seasoning.jpg|My packet of nacho seasoning\n</gallery>\n\n===Serving suggestions===\nServe as a [[Dip|dip]] for [[Potato chips|potato chips]], [[Taco chips|taco chips]], [[French fries]], raw [[Vegetables|vegetables]], etc.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Mexican recipes]]\n[[Category:North American recipes]]\n[[Category:Tex-Mex recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Cheese recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Garlic recipes]]\n[[Category:Uncooked]]\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#tastesensationsmokedpaprikapowder #tastesensationnachocheeseseasoning #vegetables #frenchfries #tastesensationnachocheeseyogurtdip #tacochips #dip #snacksandlightbites #recipes #dipsandsauces #marinadesdressingsandbutters</code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

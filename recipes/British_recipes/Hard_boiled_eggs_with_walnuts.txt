@@ -1,0 +1,16 @@
+title": "Hard boiled eggs with walnuts",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Hard boiled eggs with walnuts, Egg recipe\n|titlemode=replace\n|keywords=#butter #eggs #hardboiledeggswithwalnuts #parsley #boiledorsimmered #walnut #anchovyfillets #lemon \n|hashtagrev=032020\n|description=An interesting take on hard boiled eggs\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1864\n|PortionCalories = 466\n|DatePublished=31st January 2013\n|Author=Chef\n|ImageComment = Free range eggs\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 20 minutes\n|PrepTime = 10 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Eggs.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">What can't you do with walnuts?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Shame we didn't get enough this year</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nAn interesting take on hard boiled eggs.\n\n{{RecipeIngredients\n| 4 Free range [[eggs]]\n| 12 [[walnut]] halves\n| 4 [[anchovy fillets]], chopped finely \n| 40g (1.5oz) softened [[butter]]\n| Juice from &#189; [[lemon]]\n| [[Parsley]] to garnish\n| Salt & [[pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Hard-boil the [[eggs]] for 8 minutes in boiling water, refresh in cold water then peel and slice in half lenghtways\n| Remove the yolks, place in a bowl and mash with a fork\n| Finely chop 4 of the walnut halves\n| Add the chopped walnuts, chopped anchovies, [[butter]] and lemon juice to the egg yolks. Mix well\n| Season mixture with salt and [[pepper]]\n| Fill the egg white halves with the mixture, placing a walnut half on top of each one\n| garnish with chopped [[parsley]] and serve\n}}\n{{RecipeLine}}\n[[Category:Recipes|Eggs]]\n[[Category:Egg recipes|Eggs]]\n[[Category:Starters|Eggs]]\n[[Category:Snacks and light bites]]\n[[Category:British recipes]]\n[[Category:Boiled or simmered]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#butter #eggs #hardboiledeggswithwalnuts #parsley #boiledorsimmered #walnut #anchovyfillets #lemon </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Large sandwich loaf",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Large sandwich loaf, British recipe \n|titlemode=replace\n|keywords=#largesandwichloaf #dough #butter #bread #flour #groundnutoil #knead #fridge #driedyeast #baked #yeast \n|hashtagrev=032020\n|description=This loaf is baked in a 1.8kg (4lb) loaf tin and these are produced by Alan Silverwood. Grease the tin well with groundnut oil\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3011\n|PortionCalories = 301\n|DatePublished=27th October 2012\n|Author = JuliaBalbilla\n|ImageComment = \n|Servings = Servings: 10 - 1 large loaf\n|Difficulty = 2\n|TotalTime =  13 hours, 10 minutes\n|PrepTime =  12 hours 20 minutes\n|CookTime =  50 minutes\n|Image = [[Image:Large sandwich loaf recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Big Bread!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">This would feed a big family for days</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Image:The crumb.jpg|thumb|300px|right|The crumb]]\nThis loaf is [[Baked|baked]] in a 1.8kg (4lb) loaf tin and these are produced by Alan Silverwood.  Grease the tin well with [[Groundnut oil|groundnut oil]].  Start making this the evening before you want to eat the [[Bread|bread]].\n\n{{RecipeIngredients\n| 1kg [[Strong white bread flour|strong white bread flour]]\n| 650ml cold water\n| 50g [[butter]]\n| 7g [[Dried yeast|dried yeast]]\n| 2 teaspoons [[Salt|salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the [[Flour|flour]] and water and leave to autolyse for 30 minutes.\n| Incorporate the [[butter]], [[Yeast|yeast]] and [[Salt|salt]] and then [[Knead|knead]] according to your chosen method.\n| Shape into a ball, place in a bowl, cover and [[Refrigerate|refrigerate]] overnight.\n| The next morning, remove from the [[Fridge|fridge]] and wait until the [[Dough|dough]] has risen sufficiently.\n| Divide the [[Dough|dough]] into 4 equal pieces and shape into balls.\n| Place the balls, side by side, in the greased loaf tin, cover, and leave to rise until almost double in size.\n| Preheat the [[Oven|oven]] to 230\u00b0 C (450\u00b0 F - gas 8), [fan oven 210\u00b0 C].\n| Shake some [[Flour|flour]] over the top.\n| Place the [[Bread|bread]] in the [[Oven|oven]] and reduce the temperature to 200\u00b0 C (400\u00b0 F - gas 6), [fan oven 180\u00b0 C & reduce cooking time by 10 mins per hour].\n| [[Bake]] for about 50 minutes.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Bread and baking]]\n[[Category:Vegetarian recipes]][[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#largesandwichloaf #dough #butter #bread #flour #groundnutoil #knead #fridge #driedyeast #baked #yeast </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

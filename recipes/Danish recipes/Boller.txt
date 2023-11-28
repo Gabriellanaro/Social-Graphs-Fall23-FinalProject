@@ -1,0 +1,16 @@
+title": "Boller",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Boller, Baking recipe \n|titlemode=replace\n|keywords=#dough #boller #egg #degrees #yeast #breadrolls #coffee #flour #yogurt #cinnamon #baking \n|hashtagrev=032020\n|description=Traditional Danish bread rolls\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2996\n|PortionCalories = 187\n|DatePublished=27th October 2012\n|Author=Chef\n|Servings = 16 rolls\n |Difficulty = 1\n |TotalTime = 1 hour 25 minutes\n |PrepTime = 1 hour 10 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Boller recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice little rolls</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.1</span>/5</span>\n\n<span class=\"reviewDesc\">Cute, don't you think?</span>\n \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nTraditional Danish [[Bread rolls|bread rolls]]\n\n{{RecipeIngredients\n| 50 g fresh [[Yeast|yeast]]\n| 200 ml water\n| 200 ml [[Milk|milk]] and/or [[Yogurt|yogurt]]\n| 75 g [[Margarine|margarine]]\n| 1 large [[Egg|egg]]\n| 1 teaspoon [[Salt|salt]]\n| 600 g [[Flour]] (estimated quantity)\n| 1 medium [[Egg|egg]], beaten, for glaze\n\n}}\n\n===[[Mise en place]]===\n* 220 [[Degrees|degrees]] centigrade [[Oven|oven]]\n===Method===\n\n{{RecipeMethod\n| Mix the water and [[Milk|milk]]/[[Yogurt|yogurt]] together\n| [[Crumble]] in the [[Yeast|yeast]]\n| Add the other ingredients (add [[Flour|flour]] until the [[Dough|dough]] reaches an elastic consistency)\n| Knead the [[Dough|dough]] and let it rise 30 minutes\n| Knead the [[Dough|dough]] and form into 16 small round rolls\n| Place on [[Baking paper|baking paper]] on an [[Oven|oven]] tray and allow to rise for a further 30 minutes.\n| [[Brush]] the beaten [[Egg|egg]] onto the rolls.\n| Cook in the [[Oven|oven]] 10-15 minutes at 220 [[Degrees|degrees]] [[Centigrade|centigrade]]\n}}\n===Serving suggestions===\nThe rolls should be cut in half and buttered before serving with [[Coffee|coffee]]\n===Variations===\nAdd 1 tablespoon of [[Sugar|sugar]] to the [[Dough|dough]] before first rising.\n\nSprinkle [[Sugar|sugar]] and/or [[Cinnamon|cinnamon]] onto the rolls after glazing and before [[Baking|baking]].\n===Chef's notes===\nNo Danish gathering is complete without these [[Bread rolls|bread rolls]] to be served with the [[Coffee|coffee]].\n{{RecipeLine}}\n[[Category:Recipes|Bread]]\n[[Category:Bread and baking]]\n[[Category:Danish recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#dough #boller #egg #degrees #yeast #breadrolls #coffee #flour #yogurt #cinnamon #baking </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

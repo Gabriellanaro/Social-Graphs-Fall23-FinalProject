@@ -1,0 +1,16 @@
+title": "Courgette 'garnish' (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Courgette 'garnish' - A Thermomix recipe \n|titlemode=replace\n|keywords=#courgettes #thermomix #marrow #garlic #spanish #marrows #thermomixrecipescabbagered \n|hashtagrev=032020\n|description=This recipe can be made using courgettes or marrows\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 125\n|PortionCalories = 20\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = 6\n|Difficulty = 1\n|TotalTime =  32 minutes\n|PrepTime =  7 minutes\n|CookTime =  25 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Not marrows Julia</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">Nice with courgettes, not nice with marrows, no flavour.</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nThis recipe can be made using [[courgettes]] or [[marrows]].\n\n{{RecipeIngredientsTM\n| 50g [[extra virgin olive oil]]\n| 3 cloves [[garlic]]\n| 400g [[courgettes]] (or [[marrow]]), cut into fingers\n| [[Salt]] and [[pepper]], to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[oil]] in the bowl '''4 minutes / Temp. Varoma / Speed 1'''\n| Add the [[garlic]], chop '''6 seconds / Speed 5''' and then '''6 minutes / Temp. Varoma / Speed 1'''\n| Put the '''Butterfly''' on the blades, add the [[courgettes]] or [[marrow]], [[salt]] and [[pepper]] '''15 minutes / Temp. Varoma / Speed Spoon'''.\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n{{RecipeLine}}\n[[Category:Recipes|Cabbage red]]\n[[Category:Spanish recipes|Cabbage red]]\n[[Category:Accompaniments|Cabbage red]]\n[[Category:Vegan recipes|Cabbage red]]\n[[Category:Vegetarian recipes|Cabbage red]]\n[[Category:Fruit recipes|Cabbage red]]\n[[Category:Vegetable recipes|Cabbage red]]\n[[Category:Thermomix recipes|Cabbage red]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#courgettes #thermomix #marrow #garlic #spanish #marrows #thermomixrecipescabbagered </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

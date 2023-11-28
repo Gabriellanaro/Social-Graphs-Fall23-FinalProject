@@ -1,0 +1,15 @@
+ 
+
+title": "Chili oil recipe (quick)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chili oil, (quick) an Indian recipe \n|titlemode=replace\n|keywords=#groundnutoil #szechuanpepper #chilipowder #chiliflakes #chili #boiledorsimmered #simmer \n|hashtagrev=032020\n|description=This quick recipe for chili oil make a small amount for a single dish. We have a slightly more elaborate version too\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 490\n|PortionCalories = 122\n|DatePublished=3rd November 2012\n|Author=Chef\n|ImageComment = Home-made chili oil\n |Servings = 60 ml (4 tablespoons) of [[Chili|chili]] [[Oil|oil]]\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 5 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Homemade chili oil.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">So easy</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">And so good!</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis quick recipe for chili oil make a small amount for a single dish.\n\nWe have a [[Chili oil recipe|slightly more elaborate version]] too.\n\n{{RecipeIngredients\n| 60 ml (4 tablespoons) [[Groundnut oil|groundnut oil]]\n| 1 teaspoon [[Chili powder|chili powder]] or [[chili flakes]]\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the [[Oil|oil]] and [[Chili powder|chili powder]] in a small pan until it foams\n| [[Simmer]] for 3 minutes\n| Allow to cool completely\n| Strain the [[Oil|oil]], discarding the sediment\n}}\n===Chef's note===\nI made a slightly more interesting version using a bottle of Morrisons [[Szechuan pepper]] oil (and some of the pepper 'sludge') instead of the [[groundnut oil]].  The [[Szechuan pepper]] gives a wonderful 'warmth' and the chillies, a 'hot' hit.  Very good indeed - A big batch to be made next time!\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chilli pepper recipes|Chicken]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n[[Category:Indian recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Spicy recipes]]\n[[Category:Boiled or simmered]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#groundnutoil #szechuanpepper #chilipowder #chiliflakes #chili #boiledorsimmered #simmer </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

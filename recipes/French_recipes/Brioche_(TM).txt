@@ -1,0 +1,16 @@
+title": "Brioche (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Brioche - A Thermomix recipe \n|titlemode=replace\n|keywords=#butter #yeast #thermomix #bread #brioche #strongflour #spanish #thermomixrecipes #dough #baked #bake \n|hashtagrev=032020\n|description=Brioche are normally baked in a fluted pan, but work just as well using an ordinary bread tin\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2062\n|PortionCalories = 206\n|DatePublished=30th August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 10 - Makes a 700g loaf\n|Difficulty = 1\n|TotalTime = 2 hours 35 minutes \n|PrepTime = 2 hours\n|CookTime = 35 minutes \n |Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Bread in my Thermy</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Or shouild I say Brioche\ud83d\ude03</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n[[Brioche]] are normally [[Baked|baked]] in a fluted pan, but work just as well using an ordinary [[Bread|bread]] tin\n\n{{RecipeIngredientsTM\n| 150g [[Milk|milk]]\n| 50g [[Sugar|sugar]]\n| 50g [[Butter|butter]]\n| 3 [[Egg yolks|egg yolks]]\n| 20g fresh [[Bread|bread]] [[Yeast|yeast]]\n| 375g [[Strong flour|strong flour]]\n| 1 pinch [[Salt|salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Tip the [[Milk|milk]], [[Sugar|sugar]] and [[Butter|butter]] into the bowl 1 minute / 37\u00b0 / Speed 2&frac12;\n| Add the [[Yolks|yolks]] and [[Yeast|yeast]] and mix 10 seconds / Speed 4\n| Add the [[Flour|flour]] and the [[Salt|salt]] 15 seconds / Speed 6 and then 2 minutes / Speed Dough\n| Put the [[Dough|dough]] in a greased [[Mould|mould]], then glaze with beaten [[Egg|egg]] and leave until double in volume\n| [[Bake]] in the [[Oven|oven]] for 25-35 minutes @ 220\u00b0 C (425\u00b0 F - gas 7), [fan oven 200\u00b0 C & reduce cooking time by 10 mins per hour]\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:French recipes]]\n[[Category:Bread and baking]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#butter #yeast #thermomix #bread #brioche #strongflour #spanish #thermomixrecipes #dough #baked #bake </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Pomegranate molasses recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pomegranate molasses, a fruit recipe \n|titlemode=replace\n|keywords=#pomegranatemolasses #simmer #lemonjuice #pomegranate #boiledorsimmered #juice #sterilisedjar #pomegranatemolassesrecipe #whitesugar \n|hashtagrev=032020\n|description=Make your own pomegranate molasses with this simple recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 663\n|PortionCalories = 41\n|DatePublished=17th January 2013\n|Author=JuliaBalbilla\n|ImageComment = Pomegranate molasses\n |Servings = Servings: 16 - Makes just over 1 cup of [[Pomegranate molasses|pomegranate molasses]]\n |Difficulty = 1\n |TotalTime = 1 hour 15 minutes\n |PrepTime = 5 minutes\n |CookTime = 1 hour 10 minutes\n |Image = [[Image:Pomegranate molasses.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">And don't drop the pan</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">It tastes great, but boy, does it make a mess on the floor!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nMake your own [[Pomegranate molasses|pomegranate molasses]] with this simple recipe.\n\n{{RecipeIngredients\n| 4 cups [[Pomegranate|pomegranate]] [[Juice|juice]]\n| &#189; cup [[White sugar|white sugar]]\n| &#188; cup [[Lemon juice|lemon juice]]\n}}\n===Method===\n\n{{RecipeMethod\n| Add all of the ingredients to a large saucepan and bring to a [[Simmer|simmer]], uncovered,  stirring now and then until the [[Sugar|sugar]] has dissolved.\n| Reduce the heat  to a very slow [[Simmer|simmer]] and leave it for about an hour to reduce, still uncovered.\n| By this time it should have reduced to just more than 1 cup and be quite syrupy.\n| Allow to cool and store in a [[Sterilised jar|sterilised jar]] or bottle.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Dips and sauces]]\n[[Category:Middle Eastern recipes]]\n[[Category:North African recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Fruit recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pomegranatemolasses #simmer #lemonjuice #pomegranate #boiledorsimmered #juice #sterilisedjar #pomegranatemolassesrecipe #whitesugar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

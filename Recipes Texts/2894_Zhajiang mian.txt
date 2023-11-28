@@ -1,0 +1,15 @@
+ 
+
+title": "Zhajiang mian",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Zhajiang mian, a Chinese recipe Cooking Wiki\n|titlemode=replace\n|keywords=#zhajiangmian #yellowsoybeanpaste #stirfried #yellowbeanpaste #sweetnoodlesauce #noodles #hoisinsauce #pork #springonions #garlic #doubanjiang \n|hashtagrev=12032020\n|description=Zhajiang mian (lit\n}}\n<!-- /seo -->\n\n\n[[Image:Zhajiang mian.jpg|thumb|300px|right|Zhajiang mian]]\n\n'''Zhajiang mian''' (lit. \"fried sauce noodles\") is a northern Chinese dish consisting of thick wheat [[noodles]] topped with a mixture of [[ground]] [[pork]] [[stir fried]] with fermented [[Yellow bean paste|soybean paste]].\n\nIn Beijing cuisine, [[yellow soybean paste]] is used, while in Tianjin and other parts of China [[sweet noodle sauce]], [[hoisin sauce]] , or [[doubanjiang]] may be used in place of the [[yellow soybean paste]]. In the cuisines of Beijing, Tianjin, and northeastern China, the [[Yellow bean paste|soybean paste]] is stir fried and oil is not used.\n\n===Recipe outline===\n* Chop the [[spring onions]] and [[Garlic|garlic]].\n* [[Stir-fry]] the [[minced]] [[pork]] until it is slightly [[brown]]. Remove the [[meat]] from the [[wok]].\n* Stir-fry the [[spring onions]] and [[Garlic|garlic]] until they are slightly brown. (One could also add shredded tofu or soybeans at this stage).\n* Place the meat back into the wok.\n* Add the [[yellow soybean paste]], [[sweet noodle sauce]], [[broad bean paste]], or [[hoisin sauce]] to the mixture with some water and simmer.\n* Serve this meat sauce over [[noodles]]. If desired, add condiments like shredded [[carrots]], shredded [[cucumbers]], [[bean sprouts]], [[scrambled eggs]], fresh [[soybeans]] and hot sauce.\n\nUnlike Korean '''jajangmyeon''', [[cornflour]] is not used to thicken the sauce.\n{{CategoryLine}}\n[[Category:Ingredients]]\n[[Category:Prepared foods]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Main courses]]\n[[Category:Pork recipes]]\n[[Category:Spicy recipes]]\n[[Category:Stir fried]]\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#zhajiangmian #yellowsoybeanpaste #stirfried #yellowbeanpaste #sweetnoodlesauce #noodles #hoisinsauce #pork #springonions #garlic #doubanjiang </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

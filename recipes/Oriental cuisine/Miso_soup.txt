@@ -1,0 +1,16 @@
+title": "Miso soup",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Miso soup, Fish recipe \n|titlemode=replace\n|keywords=#misosoup #tofu #soup #misopaste #simmer #dashi #boil #dashisoupstock #miso #springonions #boiledorsimmered \n|hashtagrev=032020\n|description=Miso soup is a traditional Japanese soup consisting of a stock called \"dashi\" into which is mixed softened miso paste\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2031\n|PortionCalories = 507\n|DatePublished=12th April 2013\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 7 minutes\n |PrepTime = 2 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Miso soup recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Strange!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">..but true.</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nMiso soup is a traditional Japanese soup consisting of a stock called \"[[dashi]]\" into which is mixed softened [[miso paste]]. Although the suspension of [[miso paste]] into [[dashi]] is the only characteristic that actually defines miso soup, many other ingredients are added depending on regional and seasonal recipes, and personal preference.\n\n{{RecipeIngredients\n| 750 ml (3 cups) [[dashi soup stock]]\n| 1 block [[Tofu|tofu]]\n| 3 tablespoons [[miso paste]]\n| 2 large or 4 small [[Spring onions, chopped|spring onions, chopped]]\n}}\n===Method===\n\n{{RecipeMethod\n| Add the [[dashi soup stock]] to a medium sized pan and bring to a [[Boil|boil]].\n| Reduce the heat to a [[Simmer|simmer]], cut the [[Tofu|tofu]] into small cubes and add them to the pan - don't allow the [[Soup|soup]] to [[Boil|boil]] once you have added the [[Tofu|tofu]].\n| [[Simmer]] for a few minutes.\n| Add a few tablespoons of the [[Soup|soup]] to a small bowl add the [[Miso|miso]] paste and stir well to mix the miso.\n| Little by little, add all of the [[Miso|miso]] mix back to the [[Soup|soup]], stirring as you do,.\n| Remove from the heat, add the [[Spring onions|spring onions]], divide into 4 bowls and serve.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Snacks and light bites]]\n[[Category:Soup and stock recipes]]\n[[Category:Fish recipes]]\n[[Category:Sea fish recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#misosoup #tofu #soup #misopaste #simmer #dashi #boil #dashisoupstock #miso #springonions #boiledorsimmered </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

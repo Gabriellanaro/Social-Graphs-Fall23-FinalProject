@@ -1,0 +1,16 @@
+title": "Rosemary butter",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Rosemary butter, Vegetarian recipe \n|titlemode=replace\n|keywords=#butter #rosemarybutter #refrigerate #rosemaryleaves #microwave #crispbread #garlic \n|hashtagrev=032020\n|description=A nice spread for crispbread\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 366\n|PortionCalories = 91\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Herb butter\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 20 minutes\n |PrepTime = 20 minutes (to allow to chill)\n |CookTime = None\n |Image = [[Image:Herb butters.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">An acquired taste</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.3</span>/5</span>\n\n<span class=\"reviewDesc\">Rosemary always reminds me of disinfectant.</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA nice spread for [[crispbread]].\n\n{{RecipeIngredients\n| 50 g (2 oz) softened [[Butter|butter]]\n| 1 tablespoon freshly picked [[Rosemary leaves|rosemary leaves]], finely chopped\n| 1 Clove of [[Garlic|garlic]], peeled and crushed\n| [[Freshly ground black pepper]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Beat the [[Butter|butter]] until soft or [[microwave]] for a few seconds.\n| Add the remaining ingredients\n| Using [[Cling-film|cling-film]], shape into a roll\n| [[Refrigerate]] until required\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Finnish recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Swedish recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#butter #rosemarybutter #refrigerate #rosemaryleaves #microwave #crispbread #garlic </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

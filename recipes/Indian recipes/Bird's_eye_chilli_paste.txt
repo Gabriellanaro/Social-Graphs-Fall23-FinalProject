@@ -1,0 +1,16 @@
+title": "Bird's eye chilli paste",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bird's eye chilli paste, Indian recipe \n|titlemode=replace\n|keywords=#birdseyechillipaste #chillies #dried #boil #indiandishes #simmer #foodprocessor #fridge #boiledorsimmered \n|hashtagrev=032020\n|description=A very hot paste for use in many Indian dishes\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 40\n|PortionCalories = 40\n|DatePublished=3rd November 2012\n|Author = JuliaBalbilla\n|Servings = 1\n |Difficulty = 2\n |TotalTime = 2 hours, 20 minutes (mostly cooling time)\n |PrepTime = 2 hours, 10 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Bird's eye chilli paste recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">This ROCKS!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">I make batches of this every couple of years and freeze the results; fantastic stuff!</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA very hot paste for use in many [[Indian dishes]]\n\n{{RecipeIngredients\n| 100g [[Dried|dried]] [[Bird's Eye chillies|bird's eye chillies]]\n| 5 ml tap water\n}}\n===Method===\n\n{{RecipeMethod\n| Place the [[Chillies|chillies]] in a saucepan and add enough water to cover.\n| Bring to the [[Boil|boil]], reduce the heat and [[Simmer|simmer]] for about 5 minutes.\n| Allow to cool in the liquid and drain.\n| Blend the [[Chillies|chillies]] in a [[Food processor|food processor]], adding a little of the water in which it cooked, if necessary.\n| Store in an airtight container in the [[Fridge|fridge]].\n}}\n===Servings===\nServings: 40 - Makes about 350-400ml\n===Variations===\nYou can make this with any [[Dried|dried]] [[Chillies|chillies]], but if you use milder ones you may need to add more of the paste to your recipe.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Indian recipes]]\n[[Category:Pickles and preserves]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#birdseyechillipaste #chillies #dried #boil #indiandishes #simmer #foodprocessor #fridge #boiledorsimmered </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Garlic yogurt",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Garlic yogurt, Garlic recipe \n|titlemode=replace\n|keywords=#garlic #garlicyogurt #chive #unusualrecipes #dolma #greekyogurt \n|hashtagrev=032020\n|description=In Turkish it is called samersakli yogurt and is a good dip for spicy food\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 141\n|PortionCalories = 35\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4 as a starter dip\n|Difficulty = 1\n|TotalTime = 5 minutes\n|PrepTime = 5 minutes\n|CookTime = None\n|Image = [[Image:Garlic yogurt recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice and easy</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">If you can't make this, you can't cook</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\n\nIn Turkish it is called ''samersakli yogurt'' and is a good dip for spicy food\n\n{{RecipeIngredients\n| 200g [[Greek yogurt]]\n| 2 tablespoons [[milk]]\n| 1 small [[Garlic|garlic]] clove\n| Good pinch sea [[salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| In a mortar and pestle, grind the [[Garlic|garlic]] to a paste with the sea salt\n| Add the milk to the [[Garlic|garlic]] and mix\n| Pour the milk into the yogurt and mix well\n| Pour into a bowl and serve\n}}\n===Serving suggestions===\n\nServe chilled.  It is the usual accompaniment for [[Dolma|dolmas]].\n\n===Variations===\n\nSprinkle with [[chive]] flowers if in season\n{{RecipeLine}}\n[[Category:Recipes|Yogurt]]\n[[Category:Accompaniments|Yogurt]]\n[[Category:Dips and sauces|Yogurt]]\n[[Category:Garlic recipes]]\n[[Category:Starters|Yogurt]]\n[[Category:Snacks and light bites|Yogurt]]\n[[Category:Turkish recipes|Yogurt]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlic #garlicyogurt #chive #unusualrecipes #dolma #greekyogurt </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

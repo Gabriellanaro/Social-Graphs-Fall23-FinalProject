@@ -1,0 +1,16 @@
+title": "Char masala",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Char masala, Indian recipe \n|titlemode=replace\n|keywords=#charmasala #cassiabark #indianspice #clovebuds #cardamomseeds #garammasala #spices #cuminseeds #dryfried \n|hashtagrev=032020\n|description=An Indian spice mix which can be used to substitute garam masala\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 12\n|PortionCalories = 12\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Cassia bark - top, cinnamon - bottom\n |Servings = 1\n |Difficulty = 2\n |TotalTime = 10 minutes\n |PrepTime = 5 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Cassia, cinnamon differences.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Very Indian!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5 </span>\n\n<span class=\"reviewDesc\">Very strong spice mix, might also be good for toothache \ud83d\ude02</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nAn [[Indian spice]] mix which can be used to substitute [[Garam masala|garam masala]].\n\n{{RecipeIngredients\n| 20g [[Cassia bark|cassia bark]]\n| 20g [[Cumin seeds|cumin seeds]]\n| 10g [[Cardamom seeds|cardamom seeds]]\n| 10g [[Clove buds]]\n}}\n===Method===\n\n{{RecipeMethod\n| [[Dry-fry]] the [[Spices|spices]]\n| Grind and keep in an airtight container or [[Lock&lock box|Lock&Lock box]]\n}}\n===Servings===\nServings: 10 - Makes about 50g\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Indian recipes]]\n[[Category:Spicy recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Spices]]\n[[Category:Dry fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#charmasala #cassiabark #indianspice #clovebuds #cardamomseeds #garammasala #spices #cuminseeds #dryfried </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Mango chutney",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mango chutney, Indian recipe \n|titlemode=replace\n|keywords=#mangochutney #mangoes #redcurrants #ginger #vinegar #chutney #chillipowder #sterilised #julienne #freshginger #jam \n|hashtagrev=032020\n|description=This easy to make mango chutney does not need to be matured so can be eaten as soon as it has been made. You can adjust the flavour of the pickle by\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 2432\n|PortionCalories = 36\n|DatePublished=24th December 2012\n|Author=Chef\n|ImageComment = Fresh mangoes\n |Servings = Servings: 66 - Makes 2 kg of [[Chutney|chutney]]\n |Difficulty = 1\n |TotalTime = 35 minutes\n |PrepTime = 15 minutes\n |CookTime = 20 minutes\n |Image = [[Image:Mangoes.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Hard to find mangoes</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.8</span>/5</span>\n\n<span class=\"reviewDesc\">I wonder if they are seasonal?</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis easy to make [[Mango chutney|mango chutney]] does not need to be matured so can be eaten as soon as it has been made.\n\nYou can adjust the flavour of the [[Pickle|pickle]] by varying the type of [[Vinegar|vinegar]], or even blending [[Vinegars|vinegars]]\n\n{{RecipeIngredients\n| 1 kg (2 lb) green [[Mangoes|mangoes]]\n| 450 g [[redcurrants]]\n| 225 g (8 oz) [[Fresh ginger|fresh ginger]], peeled\n| 1.8 kg (4 lb) [[Sugar|sugar]] or [[Jaggery|jaggery]]\n| 150 ml (1/4 pint) [[Vinegar|vinegar]]\n| 3 tablespoons [[Chilli powder|chilli powder]]\n| 1 tablespoon [[Sea Salt|sea salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Peel the [[Mangoes|mangoes]] with a peeler or [[Mandoline|mandoline]] and with a very sharp knife, slice the mangoes\n| Blend half of the [[Ginger|ginger]] and half of the [[redcurrants]] in a feed processor\n| [[Julienne]] the remaining [[Ginger|ginger]]\n| Add the remaining ingredients apart from the [[Mangoes|mangoes]] to a pan and cook for 20 minutes, stirring frequently\n| Add the [[Mangoes|mangoes]] and [[Simmer|simmer]] gently until the [[Chutney|chutney]] has the consistency of [[Jam|jam]] and the mangoes are tender\n| Allow to cool and store in [[Sterilised|sterilised]], airtight jars jars\n}}\n{{Template:PeelingGinger}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chilli pepper recipes]]\n[[Category:Indian recipes]]\n[[Category:Pickles and preserves]]\n[[Category:Spicy recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Pickled]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mangochutney #mangoes #redcurrants #ginger #vinegar #chutney #chillipowder #sterilised #julienne #freshginger #jam </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

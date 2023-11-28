@@ -1,0 +1,16 @@
+title": "Nuoc cham",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Nuoc cham recipe Cooking with chillies \n|titlemode=replace\n|keywords=#nuoccham #nampla #jaggery #chillies #grated #lime #zest #garlic #nuocmam #carrots #limejuice \n|hashtagrev=032020\n|description=The Vietnamese chili dipping sauce goes great with chicken, beef, noodles and seafood. It will last a month if refrigerated\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 148\n|PortionCalories = 24\n|DatePublished=20th October 2012\n|Author=Chef\n|ImageComment = Nuoc cham ingredients\n |Servings = Servings: 6 - Makes 200 ml\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 15 minutes\n |CookTime = None\n|Image = [[Image:Nuoc cham (chili dipping sauce) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Great chip dip</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Especially good with Stott's chips</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nThe Vietnamese [[chili]] dipping [[sauce]] goes great with [[chicken]], [[beef]], [[noodles]] and [[seafood]].\n\nIt will last a month if refrigerated\n\n{{RecipeIngredients\n| 4 tablespoons [[nuoc mam]] or [[nam pla]]\n| Juice of 2 [[limes]]\n| Finely chopped [[zest]] of &#188; of a [[lime]]\n| 2 red Thai [[chillies]], deseeded and sliced\n| 1 tablespoon [[jaggery]]\n| 4 [[Garlic|garlic]] cloves, peeled and chopped\n| 2 tablespoons finely [[grated]] [[carrots]]\n}}\n===Method===\n\n{{RecipeMethod\n| Grind the [[chillies]], [[Garlic|garlic]], and [[jaggery]] and [[lime]] [[zest]] to a paste in a [[mortar and pestle]]\n| Add the [[nuoc mam]] or [[nam pla]], [[lime juice]] and 5 tablespoons water\n| Mix well, add the [[grated]] [[carrots]] and store in a jar\n}}\n==See also==\n* [[Chilli sauce|Many other chilli sauce recipes]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chilli pepper recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n[[Category:Spicy recipes]]\n[[Category:Ingredients]]\n[[Category:Condiments]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#nuoccham #nampla #jaggery #chillies #grated #lime #zest #garlic #nuocmam #carrots #limejuice </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

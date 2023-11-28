@@ -1,0 +1,16 @@
+title": "Olive oil foam (WS)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": " <!-- seo -->\n{{#seo:\n|title=Olive oil foam whipping syphon recipe\n|titlemode=replace\n|keywords=#fish #whippingsyphon #nitrousoxide #whipped #oils #images #vegetables #oliveoil #glycerine \n|hashtagrev=032020\n|description=Oil foams were originally made by Albert and Ferran Adri\u00e0 of El Bull\u00ed fame.  This foam can be made using other oils\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3200\n|PortionCalories = 266\n|DatePublished=15th August 2014\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Servings: 12\n|Difficulty = 1\n|TotalTime =  5 minutes\n|PrepTime =  2 minutes\n|CookTime =  3 minutes\n|Image = [[Image:Gata-Hurdes.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Whippy what?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Wierd!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n[[Oil]] foams were originally made by Albert and Ferran Adri\u00e0 of El Bull\u00ed fame.  This foam can be made using other [[Oils|oils]].\n\n{{RecipeIngredients\n\n| 400g [[Olive oil|olive oil]]\n| 32g [[Mono and Diglyceride (Glice)|mono and diglyceride]] ([[Glycerine|glycerine]]) flakes (Glice)\n}}\n\n===Method===\n{{RecipeMethod\n\n| Place the [[Oil|oil]] and the [[Mono and Diglyceride (Glice)|Glice]] in a saucepan.\n| Heat to just over 60\u00b0C to dissolve the [[Mono and Diglyceride (Glice)|Glice]].\n| Mix thoroughly.\n| Pour into a 1 litre [[Whipping syphon|whipping syphon]] and charge with 3 [[Nitrous oxide|nitrous oxide]] chargers.\n| Set aside until ready to dispense.\n}}\n===Serving suggestions===\nDelicious with [[Fish|fish]] and [[Vegetables|vegetables]].\n===Chef's notes===\nIf you want the foam to cool quickly, you can just heat half the [[Oil|oil]] to dissolve the [[Mono and Diglyceride (Glice)|Glice]] and add the remaining [[Oil|oil]] afterwards.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Whipping syphon recipes]]\n[[Category:Uncooked]]\n[[Category:Whipped]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#fish #whippingsyphon #nitrousoxide #whipped #oils #images #vegetables #oliveoil #glycerine </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

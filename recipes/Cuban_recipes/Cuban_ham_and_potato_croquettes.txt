@@ -1,0 +1,16 @@
+title": "Cuban ham and potato croquettes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Gluten free Cuban ham and potato croquettes | Coeliac recipe| Coeliac\n|titlemode=replace\n|keywords=#cubanhamandpotatocroquettes #butter #smokedham #mashedpotatoes #onion #breadcrumbs #glutenfree #deepfry #saute #plantainflour #goyasazonadortotal \n|hashtagrev=032020\n|description=This Cuban cuisine recipe makes delicious gluten free ham and potato croquetes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 4780\n|PortionCalories = 1195\n|DatePublished=5th October 2014\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime =  1 hour, 30 minutes\n|PrepTime =  1 hour, 15 minutes\n|CookTime =  15 minutes\n|Image = [[Image:Cuban ham and potato croquettes recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Coeliac friendly</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5 </span>\n\n<span class=\"reviewDesc\">These go well with most things.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis [[Cuban]] recipe makes delicious [[Gluten free|gluten free]] [[Ham|ham]] and [[Potato|potato]] croquetes\n\n{{RecipeIngredients\n\n| 4 tablespoons [[Butter|butter]]\n| 1 cup finely [[Minced|minced]] [[Onion|onion]]\n| 1 tablespoon [[Dry sherry|dry sherry]]\n| 4 cups finely [[Shredded|shredded]] [[Smoked ham|smoked ham]]\n| 1 &#189; cups cooked [[Mashed potatoes|mashed potatoes]]\n| &#188; cup [[Plantain flour|plantain flour]]\n| 2 tablespoons melted [[Butter|butter]]\n| 1 tablespoon [[Goya Sazonador Total]]\n| 3 [[free range eggs]]\n| 1 cup fine [[Bread crumbs|bread crumbs]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| [[Saute]] finely chopped [[Onion|onion]] in [[Butter|butter]] and then stir in [[Flour|flour]] to make a [[Roux|roux]].\n| Stir in [[Smoked ham|smoked ham]], then [[Mashed potatoes|mashed potatoes]] and sazonador.\n| Remove from heat and season to taste.\n| [[Refrigerate]].for at least one hour.\n| Roll out croquettes, then [[Dip|dip]] in [[Egg|egg]] and [[Bread crumbs|bread crumbs]].\n| [[Deep fry]] until golden [[Brown|brown]].\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Potato recipes]]\n[[Category:Pork recipes]]\n[[Category:Vegetable recipes]]\n[[Category:CubanCuisine.co.uk]]\n[[Category:Dry fried]]\n===Recipe source===\n{{Template:RecipeCourtesyOfCubanCuisine}}\n[[Category:Recipes from other sites]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cubanhamandpotatocroquettes #butter #smokedham #mashedpotatoes #onion #breadcrumbs #glutenfree #deepfry #saute #plantainflour #goyasazonadortotal </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

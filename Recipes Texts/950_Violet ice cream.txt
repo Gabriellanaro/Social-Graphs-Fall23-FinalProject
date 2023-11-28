@@ -1,0 +1,15 @@
+ 
+
+title": "Violet ice cream",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Violet ice cream (ice cream maker recipe)\n|titlemode=replace\n|keywords=#violeticecream #freezer #cream #blend #doublecream #stickblender #lakeland #castersugar #fat #frozen #fridge \n|hashtagrev=032020\n|description=An unusual violet flavoured ice cream for an ice cream maker\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3201\n|PortionCalories = 177\n|DatePublished=18th March 2015\n|Author=Chef\n|ImageComment = \n|Servings = Servings: 18 - Makes about 1.5 litres\n|Difficulty = 1\n|TotalTime =  4 hours including chilling and churning time\n|PrepTime =  4 hours including chilling and churning time\n|CookTime = None\n|Image = [[Image:Violet ice cream recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Hopeless ice cream maker</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5 </span>\n\n<span class=\"reviewDesc\">The recipe is fine, this ice cream maker is expensive and noisy. Avoid Cuisinart like the plague.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Ice-cream]] made with violet extract.  If your [[Ice-cream maker|ice-cream maker]] has no built-in [[Freezer|freezer]], place your bowl in the freezer for a minimum of 12 hours before using.\n\n{{RecipeIngredients\n\n| 330g [[Caster Sugar|caster sugar]]\n| 330ml full [[Fat|fat]] [[Milk|milk]]\n| 600ml [[Double Cream|double cream]]\n| \u00bc teaspoon violet extract (or to taste) - I used extract from [[Lakeland]] but different makes will vary in strength.\n| Natural violet food colouring (optional)\n}}\n\n===Method===\n{{RecipeMethod\n\n| Put all of the ingredients except for the [[Cream|cream]] into a bowl or tall jug\n| [[Blend]] until the mixture is smooth using a [[Stick blender|stick blender]]\n| Add the [[Cream|cream]] and [[Blend|blend]] briefly\n| Allow to chill in the [[Fridge|fridge]] for at least 1 hour\n| Pour into your [[Ice-cream maker|ice-cream maker]] and churn according to the manufacturer's instructions\n| Transfer into a container and keep in the [[Freezer|freezer]]\n}}\n\n{{Soft ice cream}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Sweets and desserts]]\n[[Category:Vegetarian recipes]]\n[[Category:Fruit recipes]]\n[[Category:Ice-cream recipes]]\n[[Category:Frozen]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#violeticecream #freezer #cream #blend #doublecream #stickblender #lakeland #castersugar #fat #frozen #fridge </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

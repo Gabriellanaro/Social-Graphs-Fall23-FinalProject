@@ -1,0 +1,15 @@
+ 
+
+title": "Boiled carrots (Mrs Beeton's)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Boiled carrots (Mrs Beeton's) a British recipe\n|titlemode=replace\n|keywords=#carrots #salted #boiledorsimmered #boil #boiling #pints \n|hashtagrev=032020\n|description=This recipe is here for a bit of fun. The recommended cooking times are unbelievable\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 92\n|PortionCalories = 46\n|DatePublished=25th October 2012\n|Author=Chef\n|ImageComment = Other publications - circa 1945\n|Servings = 450 g (1 lb) serves 2 to 3\n|Difficulty = 1\n|TotalTime = 35 minutes\n|PrepTime = 5 minutes \n|CookTime = 30 minutes\n|Image = [[Image:BeetonsAd.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Are you mad, woman?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">2</span>/5</span>\n\n<span class=\"reviewDesc\">Crazy, or very strange carrots!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThis recipe is here for a bit of fun.  The recommended cooking times are unbelievable.    I'm surprised that there would be anything left after boiling for an hour and a half!  This would be how to make carrot puree.  Anyway, this is how it would have been done in her day!\n\n{{RecipeIngredients\n| To each 4 [[pints]] water allow 1 heaped teaspoon of [[salt]]\n| &#189; lb [[carrots]] per person\n}}\n===Method===\n\n{{RecipeMethod\n| Cut off the green tops, wash and scrape the [[carrots]], and remove any black specks.\n| If the [[carrots]] are very large, cut them in halves , divide them lengthwise into four pieces and put them into [[boiling]] water, [[salted]] in the above proportion;\n| Let them [[boil]]  until tender which may be ascertained by piercing the [[carrots]] with a fork, then drain well\n| Young [[carrots]] should be [[boiled]] whole\n}}\n===Time===\n# Young [[carrots]], about half an hour\n# Old ones from 1 hour to 1 and a half hours\n\n===Sufficient===\n# Allow 1lb for 2 or 3 persons\n{{RecipeLine}}\n[[Category:Recipes|Carrots]]\n[[Category:Accompaniments|Carrots]]\n[[Category:Historic recipes|Carrots]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes|Carrots]]\n[[Category:Vegetarian recipes|Carrots]]\n[[Category:British recipes]]\n[[Category:Boiled or simmered]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#carrots #salted #boiledorsimmered #boil #boiling #pints </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

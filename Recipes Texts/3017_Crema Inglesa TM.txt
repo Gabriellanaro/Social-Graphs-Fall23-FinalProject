@@ -1,0 +1,15 @@
+ 
+
+title": "Crema Inglesa (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Crema Inglesa - A Thermomix recipe \n|titlemode=replace\n|keywords=#custard #sauce #pastries #caramel #creams #thermomixrecipes #vanilla #icingsugar #coffee #eggyolks #chocolate \n|hashtagrev=032020\n|description=This is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones) and is very similar to custard\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 381\n|PortionCalories = 95\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|ImageComment = Crema Inglesa\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 13 minutes\n |PrepTime = 5 minutes\n |CookTime = 8 minutes\n|Image = [[Image:Crema Inglesajpg.jpeg|250px|Crema Inglesa|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">English Cream</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">\u2026or custard \ud83d\ude09</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con Thermomix (Susaeta Ediciones)''' and is very similar to [[Custard|custard]].\n\n{{RecipeIngredientsTM\n| 300g [[Milk|milk]]\n| 3 [[Egg yolks|egg yolks]]\n| 75g [[Icing sugar|icing sugar]]\n| A few drops of [[Vanilla|vanilla]] essence\n}}\n===Method===\n\n{{RecipeMethod\n| Add the ingredients to the TM and cook '''8 minutes / 90\u00b0 / Speed 4'''.\n| The result should be a light [[Sauce|sauce]], but a little creamy.\n| Pour it into a bowl and keep stirring with a wooden spoon until it has completely cooled, to avoid it forming a skin.\n}}\n===Serving suggestions===\nThis is similar to the [[Custard|custard]] used in [[Pastries|pastries]] but is much lighter and less dense.  It has many uses:  use it to decorate dishes and also a basis for ice [[Creams|creams]] and mousses. \n===Variations===\nIt can be made with different flavours by adding [[Chocolate|chocolate]], [[Caramel|caramel]], [[Coffee|coffee]] etc to the [[Milk|milk]].  \n===Chef's Notes===\nTo save stirring the sauce for ages, just cover it with cling-film to prevent skin formation.\n\n===See also===\n*[[Cr\u00e8me Anglaise]] to make this recipe using conventional methods\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#custard #sauce #pastries #caramel #creams #thermomixrecipes #vanilla #icingsugar #coffee #eggyolks #chocolate </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,11 @@
+title": "Fricass%5Cu00e9e_de_poulet_au_vinaigre_doux_(Fricass%5Cu00e9e_of_chicken_with_sweet_vinegar)",
+                "invalidreason": "The requested page title contains invalid characters: \"%5C\".",
+                "invalid": ""
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

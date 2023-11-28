@@ -1,0 +1,16 @@
+title": "Mustard popcorn",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mustard popcorn, Indian recipe \n|titlemode=replace\n|keywords=#mustardpopcorn #popcorn #drymustardpowder #groundblackpepper #freshlypoppedcorn #chilipowder \n|hashtagrev=032020\n|description=Yet another variation on the popular snack. I first got the urge to try flavoured popcorn when watching a now, long forgotten cartoon; as mummy dragon\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 229\n|PortionCalories = 57\n|DatePublished=2nd July 2012\n|Author=Chef\n|ImageComment = Fresh popcorn\n|Servings = Serves 4 - Make 1.5 litres [[popcorn]]\n|Difficulty = 1\n|TotalTime = 5 minutes\n|PrepTime = 5 minutes\n|CookTime = None\n|Image = [[Image:Mustard popcorn recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">An acquired taste</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5 </span>\n\n<span class=\"reviewDesc\">I like odd flavoured popcorn, that's for certain but not sure about this one!</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nYet another variation on the popular snack.\n[[Image:Popping corn.jpg|300px|thumb|right|75 g of popping corn]] \n\nI first got the urge to try flavoured [[popcorn]] when watching a now, long forgotten cartoon; as mummy dragon was about to go shopping, she warned the two baby dragons not to make garlic popcorn whilst she was gone.  Guess what I did next?\n\n{{RecipeIngredients\n| 1.5 litres warm [[freshly popped corn]]\n| 1 teaspoon [[dry mustard powder]]\n| 1/2 fresh thyme, chopped finely\n| &#189; teaspoon [[sea salt]]\n| Pinch of [[chili powder]]\n| Good twist of freshly [[ground black pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[popcorn]] in a large bowl\n| Sprinkle with the remaining ingredients\n| Mix well\n}}\n===Serving suggestions===\n\nServe warm\n{{RecipeLine}}\n[[Category:Recipes|Popcorn]]\n[[Category:Popcorn recipes]]\n[[Category:Indian recipes]]\n[[Category:Spicy recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Unusual recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mustardpopcorn #popcorn #drymustardpowder #groundblackpepper #freshlypoppedcorn #chilipowder </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

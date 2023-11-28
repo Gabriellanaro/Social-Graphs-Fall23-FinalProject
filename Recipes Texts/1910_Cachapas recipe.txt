@@ -1,0 +1,15 @@
+ 
+
+title": "Cachapas recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cachapas, a Venezuelan cheese and corn pancake recipe\n|titlemode=replace\n|keywords=#corn #cheese #blender #cachapasrecipe #unusualrecipes #cachapas #arepas #maize #pancakes #griddlepan \n|hashtagrev=032020\n|description=Cachapas are a part of traditional Venezuelan street vendor's cuisine\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1638\n|PortionCalories = 409\n|DatePublished=20th January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4 to 6 people\n|Difficulty = 2\n|ImageComment = Cachapa with grated cheese\n|TotalTime = 35 minutes\n|PrepTime = 15 minutes\n|CookTime = 20 minutes\n|Image = [[Image:Cachapa with grated cheese.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Think cornmeal tortillas</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5 </span>\n\n<span class=\"reviewDesc\">Nice with cheddar cheese.  that's how I like these.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n\n}}\n[[Cachapas]] are a part of traditional Venezuelan cuisine. Like [[arepas]] it is a popular \"outdoors\" food, particularly in roadside stands.\n\nThis version is the [[corn]] ([[maize]]) variety\n\n{{RecipeIngredients\n| 10 ears of [[corn]]\n| 2 tablespoons [[sugar]] (avoid if the [[corn]] is too sweet)\n| &#188; cup [[milk]]\n| A pinch of [[salt]]\n| [[Corn]] [[oil]], for sauteing\n| 112g strong [[cheese]], grated [4 oz]\n}}\n===Method===\n\n{{RecipeMethod\n| Remove kernels form husk of [[corn]] using a sharp knife\n| Pure\u00e9 in a [[blender]]\n| Mix in the [[sugar]], [[milk]], and [[salt]]\n| Heat a [[griddle pan]] to medium heat, lightly coat with [[corn]] [[oil]]\n| Spoon mixture onto hot griddle to form \"[[pancakes]]\" of any desired size\n| Cook for 2 minutes on each side, and serve with grated [[cheese]]\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cheese recipes]]\n[[Category:Starters]]\n[[Category:Latin American recipes]]\n[[Category:Tex-Mex recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Grilled, griddled or barbecued]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#corn #cheese #blender #cachapasrecipe #unusualrecipes #cachapas #arepas #maize #pancakes #griddlepan </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,15 @@
+ 
+
+title": "Ocopa de Camarones",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[Ocopa arequipe\u00f1o (Ocopa from Arequipa)]]\n[[|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]\n[[Category:Cheese recipes|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]\n[[Category:Chilli pepper recipes|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]\n[[Category:Egg recipes|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]\n[[Category:Latin American recipes|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]\n[[Category:Main courses|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]\n[[Category:Peruvian recipes|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]\n[[Category:Potato recipes|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]\n[[Category:Spicy recipes|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]\n[[Category:Vegetable recipes|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]\n[[Category:Vegetarian recipes|Ocopa arequipe\u00f1o (ocopa from arequipa) ]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

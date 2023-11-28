@@ -1,0 +1,16 @@
+title": "Scottish porridge",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Scottish porridge, British recipe \n|titlemode=replace\n|keywords=#scottishporridge #simmer #oatmeal #porridge #boiledorsimmered #boil \n|hashtagrev=032020\n|description=This is the proper stuff as it should be made!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 23\n|PortionCalories = 23\n|DatePublished=21st January 2013\n|Author = JuliaBalbilla\n|Servings = Serves 1\n |Difficulty = 1\n |TotalTime = 30 minutes\n |PrepTime = 5 minutes\n |CookTime = 25 minutes\n |Image = [[Image:Scottish porridge.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">It might be wrong</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">..but I prefer sugar or syrup with mine</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis is the proper stuff as it should be made!\n\n{{RecipeIngredients\n| 250ml water\n| 35g medium [[Oatmeal|oatmeal]]\n| [[Salt]] to taste - you only need a little\n}}\n===Method===\n\n{{RecipeMethod\n| Bring the water to the [[Boil|boil]] in a non-stick saucepan.\n| Add the [[Porridge|porridge]] in a steady trickle whilst stirring vigorously - there should be no lumps.\n| Reduce the heat, cover and gently [[Simmer|simmer]] for about 15 minutes.\n| Stir in the [[Salt|salt]], cover and [[Simmer|simmer]] for a further 5 minutes or so.\n| You will know when it is done as the [[Oatmeal|oatmeal]] will have absorbed the water to such an extent that it has a crater appearance when [[Simmer|simmer]].\n}}\n===Serving suggestions===\nI love this with a generous pouring of cold [[Milk|milk]].\n===Variations===\nAdd a little [[Sugar|sugar]] if you wish, but do not omit the [[Salt|salt]].\n{{RecipeLine}}\n[[Category:Recipes|Porridge]]\n[[Category:British recipes|Porridge]]\n[[Category:Breakfast recipes|Porridge]]\n[[Category:Vegetarian recipes|Porridge]]\n[[Category:Grain and bean recipes|Porridge]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#scottishporridge #simmer #oatmeal #porridge #boiledorsimmered #boil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

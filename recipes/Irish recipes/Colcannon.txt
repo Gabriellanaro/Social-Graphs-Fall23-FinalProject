@@ -1,0 +1,16 @@
+title": "Colcannon",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Colcannon, Irish recipe \n|titlemode=replace\n|keywords=#colcannon #potatoes #kale #leeks #butter #boil #simmer #ham #bacon #mash #unusualrecipes \n|hashtagrev=032020\n|description=A traditional Irish recipe made from mashed potatoes and kale, which is traditionally eaten at Hallowe'en. To make this, you will need to have three\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2831\n|PortionCalories = 707\n|DatePublished=20th January 2013\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 42 minutes\n |PrepTime = 12 minutes\n |CookTime = 30 minutes\n |Image = [[Image:Colcannon recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Lovely kale recipe</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Great with cheese too</span>\n \n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\nA traditional Irish recipe made from [[Mashed potatoes|mashed potatoes]] and  [[Kale|kale]], which is traditionally eaten at Hallowe'en.\n\nTo make this, you will need to have three saucepans on the go at once.\n\n{{RecipeIngredients\n| 8 large [[Potatoes|potatoes]], peeled\n| 450 g [[Curly kale|curly kale]], finely chopped\n| 350 ml [[Vegetable stock|vegetable stock]] \n| 2 small [[Leeks|leeks]], chopped\n| 280 ml full-[[Fat|fat]] [[Milk|milk]]\n| 30 g [[Butter|butter]]\n| Seasoning\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Potatoes|potatoes]] in a pan of cold water and [[Boil|boil]] until cooked.\n| When the [[Potatoes|potatoes]] have started to [[Boil|boil]], place the [[Kale|kale]] in another pan with the [[Ham|ham]] or [[Bacon|bacon]] [[Stock|stock]] and [[Simmer|simmer]] until tender.\n| Meanwhile, [[Simmer|simmer]] the [[Leeks|leeks]] in the [[Milk|milk]] in a third pan until soft.\n| Drain and [[Mash|mash]] the [[Potatoes|potatoes]] and beat in the [[Leeks|leeks]], [[Milk|milk]] and [[Butter|butter]].\n| Add the [[Kale|kale]] and seasoning, and mix thoroughly.\n}}\n===Serving suggestions===\nServe with additional [[Butter|butter]].\n===Variations===\n[[Cabbage]] can be used instead of [[Kale|kale]].  \n{{RecipeLine}}\n[[Category:Recipes|Colcannon]]\n[[Category:Accompaniments|Colcannon]]\n[[Category:Irish recipes|Colcannon]]\n[[Category:Potato recipes|Colcannon]]\n[[Category:Snacks and light bites|Colcannon]]\n[[Category:Vegetable recipes|Colcannon]]\n[[Category:Vegetarian recipes|Colcannon]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#colcannon #potatoes #kale #leeks #butter #boil #simmer #ham #bacon #mash #unusualrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

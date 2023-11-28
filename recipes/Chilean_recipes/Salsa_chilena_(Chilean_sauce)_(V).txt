@@ -1,0 +1,16 @@
+title": "Salsa chilena (Chilean sauce) (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Salsa chilena (Chilean sauce) a vegetarian chilli recipe\n|titlemode=replace\n|keywords=#blender #coriander #salsa #vegetableoil #greenchillies #parsley #onions #whitewinevinegar \n|hashtagrev=032020\n|description=Salsa chilena uses onions as opposed to tomatoes as the base ingredient. It therefore has better keeping qualities\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 219\n|PortionCalories = 21\n|DatePublished=15th October 2012\n|Author=JuliaBalbilla\n|Servings = Servings: 10 - Makes 225 ml\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n|Image = [[Image:Salsa chilena (Chilean sauce) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Onion sauce?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Good for your onion glut</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nSalsa chilena uses onions as opposed to tomatoes as the base ingredient.  It therefore has better keeping qualities than the tomato based [[Pebre chileno (Chilean hot pepper sauce)|Pebre chileno]]\n\n{{RecipeIngredients\n| 2 or more [[Green chillies|green chillies]], finely chopped\n| 1 tablespoon [[Vegetable oil|vegetable oil]]\n| 1 tablespoon [[White wine vinegar|white wine vinegar]]\n| 100 ml water\n| 2 medium [[Onions|onions]], peeled and finely chopped\n| 2 tablespoons [[Parsley|parsley]] or [[Coriander|coriander]], finely chopped\n| 1 teaspoon [[Salt|salt]] or to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Put all the ingredients in a [[Blender|blender]] and process briefly until the [[Salsa|salsa]] is mixed, but not too smooth.\n| Taste and adjust seasonings as necessary.\n}}\n{{RecipeLine}}\n[[Category:Recipes|Salsa chilena (chilean sauce)]]\n[[Category:Accompaniments|Salsa chilena (chilean sauce)]]\n[[Category:Chilean recipes|Salsa chilena (chilean sauce)]]\n[[Category:Chilli pepper recipes|Salsa chilena (chilean sauce)]]\n[[Category:Dips and sauces|Salsa chilena (chilean sauce)]]\n[[Category:Latin American recipes|Salsa chilena (chilean sauce)]]\n[[Category:Spicy recipes|Salsa chilena (chilean sauce)]]\n[[Category:Vegetable recipes|Salsa chilena (chilean sauce)]]\n[[Category:Vegan recipes|Salsa chilena (chilean sauce)]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#blender #coriander #salsa #vegetableoil #greenchillies #parsley #onions #whitewinevinegar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

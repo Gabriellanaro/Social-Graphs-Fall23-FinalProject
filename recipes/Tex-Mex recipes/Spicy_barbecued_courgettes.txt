@@ -1,0 +1,16 @@
+title": "Spicy barbecued courgettes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Spicy barbecued courgettes recipe \n|titlemode=replace\n|keywords=#courgettes #barbecue #spicybarbecuedcourgettes #miseenplace #griddle #marinade #grilled #griddled #barbecued #spices #oliveoil \n|hashtagrev=032020\n|description=A lovely way to barbecue courgettes (zucchini), even those who wouldn't eat them normally might be tempted to change their minds with this recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 66\n|PortionCalories = 33\n|DatePublished=11th September 2014\n|Author=Chef\n|ImageComment = \n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  36 minutes\n|PrepTime =  30 minutes\n|CookTime =  6 minutes\n|Image = [[Image:Spicy barbecued courgettes recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A different way of cooking zucchini!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">\ud83e\udd52\ud83e\udd52\ud83e\udd52</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nA lovely way to [[Barbecue|barbecue]] [[Courgettes|courgettes]], even those who wouldn't eat them might be tempted to change their minds.\n[[Image:Courgettes marinading.jpg|300px|thumb|right|After 30 minutes]]\n\n{{RecipeIngredients\n\n| 2 [[Courgettes|courgettes]], sliced, not too thinly\n| 1 tablespoon [[Old India Taco Seasoning]] or [[Tex-Mex seasoning]]\n| 1 tablespoon [[Olive oil|olive oil]]\n}}\n===[[Mise en place]]===\n\n* Add all of the ingredients to a [[Lock & Lock box]]\n* Close the lid and shake well to coat the [[Courgettes|courgettes]]\n* Leave to [[Marinade|marinade]] while the [[Barbecue|barbecue]] warms up\n\n===Method===\n{{RecipeMethod\n| Drain the courgettes - the salt in the seasoning will cause the courgettes to leech some water.\n| [[Griddle]] on the [[Barbecue|barbecue]] for about 3 minutes a side, turning once.\n}}\n===Serving suggestions===\nServe hot!\n===Variations===\nUse any combination of [[Spices|spices]] - crushed [[Garlic|garlic]] would be a nice addition.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Tex-Mex recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Spicy recipes]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Barbecue recipes]]\n[[Category:Grilled, griddled or barbecued]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#courgettes #barbecue #spicybarbecuedcourgettes #miseenplace #griddle #marinade #grilled #griddled #barbecued #spices #oliveoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

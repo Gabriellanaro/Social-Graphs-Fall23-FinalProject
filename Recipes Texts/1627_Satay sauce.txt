@@ -1,0 +1,15 @@
+ 
+
+title": "Satay sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Satay sauce recipe Accompaniments \n|titlemode=replace\n|keywords=#sataysauce #turmeric #demerarasugar #coconutmilk #boiledorsimmered #peanuts #onion #cinnamon #arrowroot #skewers #cornflour \n|hashtagrev=032020\n|description=This delicious peanut sauce can be made in minutes and spices up any cold meat\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1734\n|PortionCalories = 289\n|DatePublished=31st October 2012\n|Author=Chef\n|ImageComment = Satay sauce and [[skewers]] of [[Ponorogo]]\n|Servings = Servings: 6 - Makes 250ml (8 fl oz) of sauce\n|Difficulty = 2\n|TotalTime = 15 minutes\n|PrepTime = 5 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Peanut sauce.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Chilli needed</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">I like my Satay HOT \ud83c\udf36\ud83c\udf36\ud83c\udf36</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nThis delicious sauce can be made in minutes and spices up any cold meat\n\n{{RecipeIngredients\n| 50g (2 oz) roasted [[peanuts]] \n| 200 ml (7 fl oz) [[coconut milk]]\n| 1 small [[onion]], chopped finely\n| 1 tablespoon [[light soy sauce]]\n| 3 tablespoons [[groundnut oil]]\n| 1 teaspoon fresh ground [[Cumin|cumin]]\n| 1 teaspoon [[turmeric]] powder\n| &#188; teaspoon ground [[Cinnamon|cinnamon]]\n| 1 teaspoon [[sea salt]]\n| 1 teaspoon [[Demerara sugar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Blend all ingredients in a [[food processor]] until smooth\n| Place sauce in a pan and bring to the boil\n| Reduce the heat and simmer for 5 minutes\n| Good with chicken or beef kebabs\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Dips and sauces]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Indonesian recipes]]\n[[Category:Boiled or simmered]]\n===Chef's note===\n\nI have just made this for a third time, this time using double quantities.  It has turned out very runny, yet I don't recall it being so when I made with the above quantities. A teaspoon of [[cornflour]] or [[arrowroot]] pre-mixed in cold water should resolve the problem though.\n\n==See also==\n*[[Peanut sauce]]\n*My favourite condiment of all time: [[Lee Kum Kee Satay Sauce]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sataysauce #turmeric #demerarasugar #coconutmilk #boiledorsimmered #peanuts #onion #cinnamon #arrowroot #skewers #cornflour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

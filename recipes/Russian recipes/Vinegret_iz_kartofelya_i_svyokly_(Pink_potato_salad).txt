@@ -1,0 +1,16 @@
+title": "Vinegret iz kartofelya i svyokly (Pink potato salad)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Vinegret iz kartofelya i svyokly Pink potato salad) Vegetarian recipe\n|titlemode=replace\n|keywords=#diced #oliveoil #beetroot #dill #vinegretizkartofelyaisvyoklypinkpotatosalad #vegetables #capers #groundblackpepper #potatoes #potato #garlic \n|hashtagrev=032020\n|description=Potato and beetroot salad\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 697\n|PortionCalories = 174\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 10 minutes (with pre cooked ingredients)\n |PrepTime = 10 minutes\n |CookTime = None\n |Image = [[Image:Vinegret iz kartofelya i svyokly recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A great salad</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">I especially love the cucumber in this</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\n[[Potato]] and [[Beetroot|beetroot]] [[Salad|salad]].\n\n{{RecipeIngredients\n| 450 g [[Potatoes|potatoes]], peeled, [[Boiled|boiled]] and cut into chunks\n| 1 medium [[Beetroot|beetroot]], peeled, [[Boiled|boiled]] and cut into chunks\n| &frac12; [[Cucumber|cucumber]], peeled and [[Diced|diced]]\n| 3 [[Gherkins|gherkins]], chopped\n| 1 medium [[Onion|onion]], [[Diced|diced]]\n| [[Garlic]] to taste, crushed\n| 2 teaspoons [[Capers|capers]], chopped\n| 1 tablespoon [[Olive oil|olive oil]]\n| 1 tablespoon [[White wine vinegar|white wine vinegar]]\n| [[Ground black pepper]], to taste\n| 2 teaspoons fresh [[Dill|dill]], chopped\n| 75 ml [[Sour cream|sour cream]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the first 7 ingredients together in a bowl.\n| Make a dressing with the [[Olive oil|olive oil]], [[Wine vinegar|wine vinegar]], [[Pepper|pepper]] and [[Dill|dill]].\n| Stir into the [[Vegetables|vegetables]] and finally stir in the [[Cream|cream]].\n}}\n===Serving suggestions===\nServe with small savoury [[Pies|pies]].\n{{RecipeLine}}\n[[Category:Recipes|Potato salad]]\n[[Category:Accompaniments|Potato salad]]\n[[Category:Potato recipes|Potato salad]]\n[[Category:Russian recipes|Potato salad]]\n[[Category:Salad recipes|Potato salad]]\n[[Category:Snacks and light bites|Potato salad]]\n[[Category:Starters|Potato salad]]\n[[Category:Vegetable recipes|Potato salad]]\n[[Category:Vegetarian recipes|Potato salad]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#diced #oliveoil #beetroot #dill #vinegretizkartofelyaisvyoklypinkpotatosalad #vegetables #capers #groundblackpepper #potatoes #potato #garlic </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

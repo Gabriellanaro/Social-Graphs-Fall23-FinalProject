@@ -1,0 +1,16 @@
+title": "Air fried roasted chestnuts",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Air fried roasted chestnuts recipe\n|titlemode=replace\n|keywords=#airfryer #airfriedroastedchestnuts #chestnut #chestnuts \n|hashtagrev=032020\n|description=Did you wonder Can you roast chestnuts in an Air air fryer? If you did the answer is yes! Works rather well and takes one hour. \n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=3rd December 2018\n|Author=Chef\n|ImageComment = \n|Servings = 4\n|Difficulty = 1\n|TotalTime =  42 minutes\n|PrepTime =  2 minutes\n|CookTime =  40 minutes\n|TotalCalories = 524\n|PortionCalories = 131\n|Image = [[Image:Air fried roasted chestnuts recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">This Works!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">As good as any brazier!</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nDid you wonder \"Can you roast chestnuts in an [[Air Fryer|air fryer]]?\"\n\nIf you did the answer is yes! Works rather well and takes one hour.\n{{RecipeIngredients\n\n| 400 g sweet [[Chestnuts|chestnuts]]\n| A good shake of [[salt]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Using a sharp pointed knife, stab a slit in each [[Chestnut|chestnut]], this stops them exploding and makes then a little easier to peel, once cooked.\n| Add a shake of [[salt]]\n| Pop then in the [[Air Fryer|air fryer]] for one hour\n| Allow to cook for 10 minutes, then peel and eat!\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Historic recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Grain and bean recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Air fried recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#airfryer #airfriedroastedchestnuts #chestnut #chestnuts </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Noodles with ginger and spring onions (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Noodles with ginger and spring onions Vegetarian recipe\n|titlemode=replace\n|keywords=#ginger #noodles #stock #springonions #sesameoil #simmer #soysauce #boil #noodleswithgingerandspringonionsv #onions #vegetablestock \n|hashtagrev=032020\n|description=The vegetarian Thai style dish is great as a light snack or as a side-dish\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1327\n|PortionCalories = 331\n|DatePublished=25th October 2012\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 20 minutes \n |PrepTime = 5 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Noodles with ginger and spring onions recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice and gingery</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5</span>\n\n<span class=\"reviewDesc\">Perfect with white fish</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThe Thai style dish is great as a light snack or as a side-dish.\n\n{{RecipeIngredients\n| 900 ml [[Vegetable stock]]\n| 1 tablespoon [[Groundnut oil|groundnut oil]]\n| 225 g (8 oz) [[Dried|dried]] [[Egg noodles|egg noodles]]\n| &frac12; teaspoon [[Sesame oil|sesame oil]]\n| 4 large [[Spring onions|spring onions]], finely chopped\n| 2 slices of [[Ginger|ginger]], [[Julienned|julienned]]\n| 1 tablespoon [[Soy sauce|soy sauce]]\n}}\n===Method===\n\n{{RecipeMethod\n| In a [[Wok|wok]], [[Boil|boil]] the [[Stock|stock]] and add the [[Noodles|noodles]]. [[Simmer]] uncovered fro 15 minutes or until soft.\n| Ladle the [[Noodles|noodles]] to a warm serving dish and keep warm.\n| Add the [[Sesame oil|sesame oil]], [[Ginger|ginger]] and [[Spring onions|spring onions]] to the [[Stock|stock]]and [[Simmer|simmer]] on a low heat for 5 minutes so the spring [[Onions|onions]] wilt and sth stock reduces.\n| Add the [[Spring onions|spring onions]] and [[Ginger|ginger]] to the [[Noodles|noodles]] and as much [[Stock|stock]] as is needed.\n| Dot with [[Soy sauce|soy sauce]] and serve immediately.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Pasta recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Boiled or simmered]][[Category:Stir fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#ginger #noodles #stock #springonions #sesameoil #simmer #soysauce #boil #noodleswithgingerandspringonionsv #onions #vegetablestock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

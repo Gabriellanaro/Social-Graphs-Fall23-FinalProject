@@ -1,0 +1,15 @@
+ 
+
+title": "Shortbread",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Shortbread, British recipe \n|titlemode=replace\n|keywords=#shortbread #butter #castersugar #whiteflour #bake #plainflour #miseenplace #baking #oatmeal #whitesugar #flour \n|hashtagrev=032020\n|description=Shortbread, a biscuit traditionally made from one part white sugar, two parts butter, and three parts oatmeal (although plain white flour is more\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1600\n|PortionCalories = 160\n|DatePublished=10th June 2012\n|Author=Chef\n|Servings = Servings: 10 - Makes 10 to 12 shortbreads\n|Difficulty = 2\n|TotalTime = 40 minutes\n|PrepTime = 20 minutes\n|CookTime = 20 minutes \n|Image = [[Image:Shortbread recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Anne loves these</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">..so do I!</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\n\nShortbread, a biscuit traditionally made from one part [[White sugar|white sugar]], two parts [[Butter|butter]], and three parts [[Oatmeal|oatmeal]] (although plain [[White flour|white flour]] is more common today)\n\nQuick and easy to make, don't eat too many of them!\n\n{{RecipeIngredients\n| 125 g (4 oz) [[Butter|butter]] at room temperature\n| 55 g (2 oz) [[Caster sugar|caster sugar]]\n| 180 g (6 oz)  [[Plain flour|plain flour]], sifted\n\n}}\n\n===[[Mise en place]]===\n* Preheat the oven to 190\u00b0 C (375\u00b0 F - Gas 5)\n\n===Method===\n\n{{RecipeMethod\n| Beat the [[Butter|butter]] and the [[Sugar|sugar]] together\n| Mix in the [[Flour|flour]] to get a smooth paste\n| Turn out to a work surface and gently roll out until the paste is 1 cm (&frac12; in) thick.\n| Cut into rounds or fingers and sprinkle with a little extra [[Caster sugar|caster sugar]], prick with a fork to make a pattern on the top\n| Place on a [[Baking|baking]] sheet and chill for 20 minutes\n| [[Bake]] for 15-20 minutes until pale golden\n| Cool on a wire grid\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Bread and baking]]\n[[Category:Sweets and desserts]]\n[[Category:British recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#shortbread #butter #castersugar #whiteflour #bake #plainflour #miseenplace #baking #oatmeal #whitesugar #flour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

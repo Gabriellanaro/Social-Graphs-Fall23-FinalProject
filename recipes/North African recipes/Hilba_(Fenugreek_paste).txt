@@ -1,0 +1,16 @@
+title": "Hilba (Fenugreek paste)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Hilba (Fenugreek paste) Cooking with chillies recipe\n|titlemode=replace\n|keywords=#fenugreekseeds #corianderleaves #dip #lemonjuice #garlic #unusualrecipes #greenchillies #fridge #miseenplace #blender \n|hashtagrev=032020\n|description=A spicy Libyan paste which is often used as a cooking ingredient and also as a spread or dip\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 59\n|PortionCalories = 59\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|ImageComment = Hilba\n |Servings = 1\n |Difficulty = 1\n |TotalTime = 1 day, 10 minutes\n |PrepTime = 1 day, 10 minutes\n |CookTime = None\n |Image = [[Image:Hilba.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Curry sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">That's what this tastes like!  Nice...</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nA spicy Libyan paste which is often used as a cooking [[Ingredient|ingredient]] and also as a spread or [[Dip|dip]].  You will need to start this at least 24 hours before required.\n\n{{RecipeIngredients\n| 2 teaspoons [[Fenugreek seeds|fenugreek seeds]]\n| 180 ml cold water\n| 3 or more Cloves [[Garlic|garlic]]\n| 75 g [[Coriander leaves|coriander leaves]], chopped\n| 1 teaspoon [[Salt|salt]]\n| 1 tablespoon [[Lemon juice|lemon juice]]\n| 2 small hot [[Green chillies|green chillies]]\n}}\n\n===[[Mise en place]]===\n* Soak the [[Fenugreek seeds|fenugreek seeds]] in the water for 24 hours.\n===Method===\n\n{{RecipeMethod\n| Drain the [[Fenugreek seeds|fenugreek seeds]] and place in a [[Blender|blender]].\n| Add the remaining ingredients and blend to a smooth paste.\n| Transfer into a jar, seal and keep in the [[Fridge|fridge]] until needed.\n}}\n===Servings===\nServings: 11 - Make 220 ml of Hilba\n\n{{RecipeLine}}\n[[Category:Recipes|Hilba (fenugreek paste)]]\n[[Category:Chilli pepper recipes|Hilba (fenugreek paste)]]\n[[Category:Dips and sauces|Hilba (fenugreek paste)]]\n[[Category:Garlic recipes|Hilba (fenugreek paste)]]\n[[Category:Libyan recipes|Hilba (fenugreek paste)]]\n[[Category:North African recipes|Hilba (fenugreek paste)]]\n[[Category:Spicy recipes|Hilba (fenugreek paste)]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes|Hilba (fenugreek paste)]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#fenugreekseeds #corianderleaves #dip #lemonjuice #garlic #unusualrecipes #greenchillies #fridge #miseenplace #blender </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

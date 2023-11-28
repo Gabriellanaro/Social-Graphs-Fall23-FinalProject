@@ -1,0 +1,16 @@
+title": "Salsa de Cebolla (Onion Sauce) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Salsa de Cebolla (Onion Sauce) - A Thermomix recipe\n|titlemode=replace\n|keywords=#thermomix #paprika #onion #sauce #oliveoil #redpepper #garlic #ginger #blackpepper #blend #parsley \n|hashtagrev=032020\n|description=This is a translation and light adaptation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 124\n|PortionCalories = 20\n|DatePublished=16th September 2013\n|Author=JuliaBalbilla\n|ImageComment = [[Thermomix]] TM31 - the ultimate gadget!\n |Servings = Serves 6 - Makes 150 ml\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n |Image = [[Image:Salsa de Cebolla (Onion Sauce).jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Tasty sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">The mustard makes this nice</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis is a translation and light adaptation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 1 small sweet [[Onion|onion]]\n| A pinch of [[Black pepper|black pepper]]\n| A pinch of [[Salt|salt]] \n| &frac12; teaspoon [[Sugar|sugar]]\n| &frac12; teaspoons sweet, smoked [[Paprika|paprika]] \n| 1 teaspoon ground [[mustard]] seeds\n| 150g [[Olive oil|olive oil]]\n| &frac12; teaspoon [[Ginger|ginger]]\n| 3 tablespoons [[cider vinegar]])\n}}\n===Method===\n\n{{RecipeMethod\n| Peel and cut the [[Onion|onion]] and chop it in the bowl '''6 seconds / Speed 6'''.  \n| Add the remaining ingredients in the order given.\n| [[Blend]] the mixture '''5 seconds / Speed 6''' or until it has achieved the desired consistency.\n}}\n===Serving suggestions===\nIt is very suitable for [[Meat|meat]], [[Fish|fish]] or any other dish.  In some countries this is a very common [[Sauce|sauce]].  \n===Variations===\nTo vary the flavours omit the [[Paprika|paprika]] and add chopped [[Parsley|parsley]], finely chopped [[Red pepper|red pepper]], [[Garlic|garlic]], etc.\n{{Template:PeelingGinger}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #paprika #onion #sauce #oliveoil #redpepper #garlic #ginger #blackpepper #blend #parsley </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

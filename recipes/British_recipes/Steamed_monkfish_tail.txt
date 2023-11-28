@@ -1,0 +1,16 @@
+title": "Steamed monkfish tail",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=How to cook frozen monkfish tails recipe\n|titlemode=replace\n|keywords=#monkfish #dill #frozen #steamer #steamedmonkfishtail #steaming #prawns #whitefish #herbs #steamed #boiling \n|hashtagrev=032020\n|description=Steaming the frozen monkfish tail with a bunch of dill added a lovely herb flavour\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 66\n|PortionCalories = 33\n|DatePublished=30th December 2015\n|Author=Chef\n|ImageComment = \n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  20 minutes\n|PrepTime =  5 minutes\n|CookTime =  15 minutes\n|Image = [[Image:Steamed monkfish tail recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Dill the dog. I'm a dog called Dill</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.2</span>/5 </span>\n\n<span class=\"reviewDesc\">Anne always sings that when I made this meal!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Monkfish|monkfish]] is a superb firm [[White fish|white fish]], with a taste similar to [[King prawns|king prawns]].  It is now widely available at a reasonable price.  If it has been filleted and deboned it can be used exactly like [[Prawns|prawns]], however it is often sold  sold on the bone as [[monkfish]] tail.  Removing the [[Meat|meat]] from the bone while the fish is raw can be tricky and wasteful. However, once cooked the meat just falls off.\n\nThe method below worked very well with a [[Frozen|frozen]] [[Monkfish|monkfish]] tail, the [[Dill|dill]] gave it a really nice [[Herbs|herbs]] flavour.\n\n{{RecipeIngredients\n\n| 1 [[Monkfish|monkfish]] tail - [[Frozen|frozen]] is fine\n| 1 bunch of [[Dill|dill]]\n| Pinch of [[Sea Salt|sea salt]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Make a bed of the [[Dill|dill]] in the [[Steamer|steamer]] basket\n| Sit the [[Monkfish|monkfish]] tail on the [[Dill|dill]], sprinkle with [[Sea Salt|sea salt]] and drop a few sprigs of dill over the top\n| Add [[Boiling|boiling]] water to the [[Steamer|steamer]] and [[Steam|steam]], covered for 15 minutes\n| I cooked mine from [[Frozen|frozen]] so after 15 minutes of [[Steaming|steaming]] I took the pan off the heat and let it sit for 10 minutes.\n| Once cooled a little the flesh just falls off the gelatinous bone.\n}}\n===Serving suggestions===\nI used the monkfish meat in [[Cheesy monkfish jacket potatoes]] - plenty for two people.\n[[Category:Recipes]]\n{{RecipeLine}}\n[[Category:British recipes]]\n[[Category:Main courses]]\n[[Category:Fish recipes]]\n[[Category:Sea fish recipes]]\n[[Category:Steamed]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#monkfish #dill #frozen #steamer #steamedmonkfishtail #steaming #prawns #whitefish #herbs #steamed #boiling </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

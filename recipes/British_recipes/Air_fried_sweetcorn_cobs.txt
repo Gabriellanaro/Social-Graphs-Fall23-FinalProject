@@ -1,0 +1,16 @@
+title": "Air fried sweetcorn cobs",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "\n<!-- seo -->\n{{#seo:\n|title=Air fried sweetcorn cobs recipe\n|titlemode=replace\n|keywords=#butter #airfryer #airfriedsweetcorncobs #sweetcorn #airfriedrecipes #roast #corn #airfry \n|hashtagrev=032020\n|description=Using an Air Fryer is a ridiculously easy way to roast buttery Corn on the corn on the cob and get it perfect every time.\n}}\n<!-- /seo -->\n\n\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=28th September 2016\n|Author=Chef\n|ImageComment = An ideal accompaniment for Chile con carne\n|Servings = 2\n|Difficulty = 1\n|TotalTime =  21 minutes\n|PrepTime =  1 minute\n|CookTime =  20 minutes\n|TotalCalories = 149\n|PortionCalories = 74\n|Image = [[Image:Air fried sweetcorn cobs recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Simple is best</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5 </span>\n\n<span class=\"reviewDesc\">So easy and so healthy, and it's one of your 5 a day!</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\n[[Image:Air fried sweetcorn cobs.jpg|thumb|300px|right|1 teaspoon of butter and a pinch of salt is all that's needed.]]\nUsing an [[Air Fryer]] is a ridiculously easy way to [[Roast|roast]] buttery [[Corn on the cob|corn on the cob]] and get it perfect every time.  The [[Corn|corn]] cobs need to be cut in half to fit in the [[Air fryer|air fryer]], but this is also how they are often sold (in the UK).\n\nThe [[Tefal ActiFry AL806040 Air Fryer]] is still my favourite cooking tool.  It's so ugly it needs to be stored in the conservatory but it's still brought into use a couple of times a week.  It is also a ''must-have'' for the motorhome!\n{{RecipeIngredients\n\n| 1 [[Sweetcorn|sweetcorn]] cob cut into two halves\n| Pinch of [[Salt|salt]]\n| 1 teaspoon of [[Butter|butter]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Pop the halved [[Sweetcorn|sweetcorn]] cobs in the airfryer with a teaspoon of [[Butter|butter]] and a pinch of [[Salt|salt]].\n| [[Air fry]] for 20 minutes.\n}}\n===Serving suggestions===\nServe with a little extra [[Butter|butter]]\n===Chef's notes===\nThe start photograph shown 1 tablespoon of [[Butter|butter]], but that was far too much.  A teaspoonful is all that's needed.  Any more just gets left in the [[Air Fryer|air fryer]] when the food is removed.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:North American recipes]]\n[[Category:Accompaniments]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Air fried recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#butter #airfryer #airfriedsweetcorncobs #sweetcorn #airfriedrecipes #roast #corn #airfry </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

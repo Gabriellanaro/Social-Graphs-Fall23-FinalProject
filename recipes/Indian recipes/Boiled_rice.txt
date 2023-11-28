@@ -1,0 +1,16 @@
+title": "Boiled rice",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Perfect boiled rice recipe \n|titlemode=replace\n|keywords=#boiledrice #brownrice #indiancookery #basmatirice #rice #boiledorsimmered #sieve #thermomix \n|hashtagrev=032020\n|description=When I did my Indian cookery course, we weren't allowed to go any further until we could cook this successfully!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 97\n|PortionCalories = 49\n|DatePublished=31st January 2013\n|Author=Chef\n|Servings = 150g serves 2 people\n|Difficulty = 1\n|TotalTime = 17 minutes\n|PrepTime = 2 minutes\n|CookTime = 15 minutes\n|Image = [[Image:Boiled_rice.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Practice until perfect</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5 </span>\n\n<span class=\"reviewDesc\">Basmati rice is the best for authentic curries, it has such a lovely scent.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nWhen I did my [[Indian cookery]] course, we weren't allowed to go any further until we could cook this successfully!  \n\nIf you wish to steam your rice in a [[Thermomix]], see the recipe [[Steamed rice (TM)|here]].\n\n{{RecipeIngredients\n| 75 g [[basmati rice]] per person (about &#189; cup per person)\n| A pinch of [[salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Rinse in a [[sieve]] under cold running water until the water runs clear. (To remove excess starch)\n| &#189; fill a large pan with water, add a piunch of salt and bring to the boil\n| Add the rice, bring back to the boil and boil uncovered for 12-15 minutes\n| Top up with boiling water if required\n| Remove from heat, strain but don't rinse\n| Serve hot\n}}\n===Variations===\n\n'''[[Brown rice]]'''; increase to cooking time from 12-15 to 35-40 minutes. Tasting regularly to check it's to your liking.\n\n===Chef's tip===\n\n[[Rice]] can be cooked before the meal is due to be served, providing it is properly stored and used the same day.  Allow the rice to cool and refrigerate until required. Microwave when needed, ensuring it is piping hot.  Do not reheat rice that is more than 1 day old or rice that may not have been properly stored.\n{{RecipeLine}}\n[[Category:Recipes|Rice]]\n[[Category:Indian recipes|Rice]]\n[[Category:Rice recipes|Rice]]\n[[Category:Accompaniments|Rice]]\n[[Category:Vegetable recipes|Rice]]\n[[Category:Vegetarian recipes|Rice]]\n[[Category:Vegan recipes]]\n[[Category:Student recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#boiledrice #brownrice #indiancookery #basmatirice #rice #boiledorsimmered #sieve #thermomix </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

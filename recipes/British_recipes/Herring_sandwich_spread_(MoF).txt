@@ -1,0 +1,16 @@
+title": "Herring sandwich spread (MoF)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Herring sandwich spread (MoF) a British recipe\n|titlemode=replace\n|keywords=#margarine #onion #parsley #vinegar #herring \n|hashtagrev=032020\n|description=From the Ministry of Food leaflet I found; \"All about Herrings\" - reprinted in 1948!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 332\n|PortionCalories = 55\n|DatePublished=24th October 2012\n|Author=Chef\n|ImageComment = All about Herrings - 1948\n|Servings = Serves 6 - Makes one jar\n|Difficulty = 1\n|TotalTime = 5 minutes\n|PrepTime = 5 minutes\n|CookTime = None\n|Image = [[Image:All_about_Herrings.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Love the leaflet</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">My mum had these too.</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nFrom the Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948!\n\n{{RecipeIngredients\n| 6 oz cooked, flaked [[herring]]\n| &#189; oz [[margarine]], melted\n| 1 level teaspoon [[salt]]\n| Pinch of [[pepper]]\n| &#189; level tablespoon finely chopped [[onion]]\n| 1 level tablespoon chopped [[parsley]]\n| 2 teaspoons [[vinegar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mash the ingredients together with a fork to form a smooth paste\n| Use as required for sandwich filling or hot on toast\n| If preferred the [[onion]] may be fried in the melted [[margarine]] before adding to the mixture\n}}\n{{RecipeLine}}\n[[Category:Recipes|Herring]]\n[[Category:Fish recipes|Herring]]\n[[Category:Sea fish recipes]]\n[[Category:Salad recipes|Herring]]\n[[Category:Historic recipes|Herring]]\n[[Category:British recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#margarine #onion #parsley #vinegar #herring </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

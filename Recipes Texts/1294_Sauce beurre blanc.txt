@@ -1,0 +1,15 @@
+ 
+
+title": "Sauce beurre blanc",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sauce beurre blanc, French recipe \n|titlemode=replace\n|keywords=#sauce #vinegar #onion #saucebeurreblanc #butter #boiledorsimmered #whitewinevinegar #unsaltedbutter #curdle #boiling \n|hashtagrev=032020\n|description=This delicious sauce originates from the Loire Valley\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1909\n|PortionCalories = 477\n|DatePublished=16th March 2013\n|Author=Chef\n|ImageComment = Purple asparagus in Beurre blanc sauce\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime =  20 minutes\n|PrepTime =  5 minutes\n|CookTime =  15 minutes\n|Image = [[Image:Purple asparagus with Beurre blanc sauce.jpg|alt=Electus]]\n<span class=\"review\">\n\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Exquisite!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.8</span>/5 </span>\n\n<span class=\"reviewDesc\">A pleasure to eat and a pleasure to look at</span>\n \n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]])</span></span>\n}}\nThis delicious [[Sauce|sauce]] originates from the Loire Valley.\n\n{{RecipeIngredients\n\n| 1 small [[Onion|onion]], finely chopped\n| 90ml [[White wine vinegar|white wine vinegar]]\n| 250g [[Unsalted butter|unsalted butter]], chilled and chopped into small pieces\n}}\n\n===Method===\n\n{{RecipeMethod\n\n| Cook the [[Onion|onion]] in the [[Vinegar|vinegar]] in a small pan until there are only 4 tablespoons mixture remaining.\n| Strain and discard the [[Onion|onion]].\n| Return the [[Vinegar|vinegar]] to the pan.\n| With the [[Vinegar|vinegar]] on a very, vey low heat, gradually add the small pieces of [[Butter|butter]] and whisk constantly.\n| The [[Butter|butter]] should make a thick [[Sauce|sauce]].\n}}\n===Recipe source===\n\n* '''Classic French Cooking''' by ''Elisabeth Luard'' (ISBN 1840727241)\n===Chef's notes===\nShould the [[Sauce|sauce]] [[Curdle|curdle]], pour it out of the pan and start again by whisking it little by little into a tablespoon of [[Boiling|boiling]] water.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:French recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sauce #vinegar #onion #saucebeurreblanc #butter #boiledorsimmered #whitewinevinegar #unsaltedbutter #curdle #boiling </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Eggy bread",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Eggy bread, Egg recipe \n|titlemode=replace\n|keywords=#eggybread #garlicoliveoil #marmite #eggs #tabascosauce #panfried #blackpepper #freerangeeggs #tabasco \n|hashtagrev=032020\n|description=We always called this egg-bread or eggy-bread, but that was when we were 5 years old!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 384\n|PortionCalories = 384\n|DatePublished=23rd October 2012\n|Author=Chef\n|ImageComment = Eggy bread in the pan\n|Servings = 1 person for a good breakfast\n|Difficulty = 1\n|TotalTime = 11 minutes\n|PrepTime = 5 minutes\n|CookTime = 6 minutes\n|Image = [[Image:Eggy bread recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">The Best Breakfast!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Especually if it has Marmite in the sandwich.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Image:Eggy bread recipe2.jpg|thumb|300px|right|Eggs soaked up]]\nWe always called this egg-bread or eggy-bread, but that was when we were 5 years old!  I think it's also called French toast, though I'm not certain about that.\n\nIt's one of the very few occasions where processed bread is better than home baked bread.  The soft processed bread tends to soak up the egg mixture better.\n\n{{RecipeIngredients\n| 2 slices of sliced brown wholemeal bread\n| 2 [[free range eggs]]\n| 3 tablespoons [[milk]]\n| A dash of [[Tabasco sauce]]\n| [[Freshly ground black pepper]]\n| 2 tablespoons [[garlic olive oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| In a large shallow dish, break the two [[eggs]]\n| Add the [[milk]], [[Tabasco]], [[black pepper]] and whisk until well mixed\n| Place the bread in the mixture and leave for a minute\n| Turn the bread over and leave until the mixture has soaked into the bread\n| Heat a large frying pan and add the [[garlic olive oil]]\n| Fry for 3 minutes a side\n| Make a sandwich with the optional [[Marmite]] in the middle\n}}\n===Serving suggestions===\nI love mine with a squeeze of [[marmite]]!\nServe hot with fresh orange juice\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Bread and baking]]\n[[Category:Egg recipes]]\n[[Category:Spicy recipes]]\n[[Category:Snacks and light bites]]\n[[Category:British recipes]]\n[[Category:Breakfast recipes]]\n[[Category:Student recipes]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#eggybread #garlicoliveoil #marmite #eggs #tabascosauce #panfried #blackpepper #freerangeeggs #tabasco </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

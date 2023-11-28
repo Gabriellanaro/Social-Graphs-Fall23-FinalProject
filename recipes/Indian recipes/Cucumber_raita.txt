@@ -1,0 +1,16 @@
+title": "Cucumber raita",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cucumber raita, Indian recipe \n|titlemode=replace\n|keywords=#cucumberraita #mint #mintsauce #yoghurt #tablesalt #accompaniment #fridge #unusualrecipes #indian #cucumber \n|hashtagrev=032020\n|description=A great accompaniment for any Indian recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 228\n|PortionCalories = 28\n|DatePublished=2nd March 2014\n|Author=Chef\n|ImageComment = \n|Servings = Serves 8\n|Difficulty = 1\n|TotalTime =  5 minutes\n|PrepTime =  5 minutes\n|CookTime = None\n|Image = [[Image:Cucumber raita recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Unusual</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">This was nice with a curry \ud83c\udf5b</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n\nA great [[Accompaniment|accompaniment]] for any [[Indian]] recipe.  This will keep in the [[Fridge|fridge]] for a many days and can be made any time of year, even when fresh [[Mint|mint]] is not available.\n\nDon't add any [[Sugar|sugar]] if the [[Mint sauce|mint sauce]] is already sweetened.\n\n{{RecipeIngredients\n\n| Half a [[Cucumber|cucumber]], peeled and chopped into small cubes\n| 1 large pot of creamy [[Yoghurt|yogurt]]\n| 2 tablespoons of chopped [[Mint|mint]] or 4 teaspoon of [[Mint sauce|mint sauce]]\n| 1 teaspoon [[Sugar|sugar]]\n| &#189; teaspoon [[Table salt|table salt]]\n}}\n\n\n===Method===\n{{RecipeMethod\n\n| Mix all of the ingredients together\n| Chill and serve\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Indian recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Starters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Cookery cheats]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cucumberraita #mint #mintsauce #yoghurt #tablesalt #accompaniment #fridge #unusualrecipes #indian #cucumber </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

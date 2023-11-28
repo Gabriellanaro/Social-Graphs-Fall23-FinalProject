@@ -1,0 +1,16 @@
+title": "The hottest hot dogs",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=The hottest hot dogs, British recipe \n|titlemode=replace\n|keywords=#sausages #frenchbread #salad #smoked #chilli #belazu #thehottesthotdogs #unusualrecipes #grill #frenchbaguette \n|hashtagrev=032020\n|description=Hot-dogs made with the best quality sausages and crusty French bread are a far cry from the floppy, tasteless objects sold from vendors vans\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3086\n|PortionCalories = 514\n|DatePublished=13th November 2013\n|Author=Chef\n|ImageComment = Hot dog statue\n |Servings = Serves 6\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 5 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Hot dog statue.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I can make them hotter</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">With my own chili sauce</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n\nHot-dogs made with the best quality [[Sausages|sausages]] and crusty [[French bread]] are a far cry from the floppy, tasteless objects sold from vendors vans.  Give these a try!\n\n{{RecipeIngredients\n| 6 high quality [[Sausages|sausages]]\n| 1 Crusty [[French baguette]]\n| [[Salad]] leaves\n| 90g  [[Belazu]] [[Smoked]] [[Chilli]] Jelly (1 jar)\n}}\n\n===Method===\n\n{{RecipeMethod\n| [[Grill]] the good quality [[Sausages|sausages]] until cooked.\n| Stuff the [[Sausages|sausages]] between slices of crusty [[French bread]] with some [[Salad|salad]] leaves.\n| Top with [[Belazu]] [[Smoked]] [[Chilli]] Jelly.\n}}\n(''Daily Mail : Week end'')\n\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Belazu recipes]]\n[[Category:Recipes from other sites]]\n[[Category:British recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Meat recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Spicy recipes]]\n[[Category:Grilled, griddled or barbecued]]\n{{Template:Belazu attribution}}\n===Belazu products used in this recipe===\n* [http://www.mybelazu.com/details/smoked-chilli-jelly.html Belazu Smoked Chilli Jelly]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sausages #frenchbread #salad #smoked #chilli #belazu #thehottesthotdogs #unusualrecipes #grill #frenchbaguette </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

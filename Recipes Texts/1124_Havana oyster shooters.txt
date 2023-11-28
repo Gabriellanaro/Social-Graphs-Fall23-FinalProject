@@ -1,0 +1,15 @@
+ 
+
+title": "Havana oyster shooters",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Havana oyster shooters - A Cuban chilli recipe\n|titlemode=replace\n|keywords=#havanaoystershooters #salsaajinativo #oysters #sauces #habaneropepper #unusualrecipes #adobo #oyster #cuban \n|hashtagrev=032020\n|description=Did you know the Habanero chilli pepper derives its name from the city of Havana?\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 360\n|PortionCalories = 180\n|DatePublished=24th December 2013\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  10 minutes\n|PrepTime =  10 minutes\n|CookTime = None\n|Image = [[Image:Havana oyster shooters recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Gulp!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">..and down they go.  Yumm!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n\nDid you know the [[habanero pepper]] derives its name from the city of Havana? So how about a spicy [[oyster]] shooter, the [[Cuban]] way, using a sprinkle of [[Goya's adobo with habanero]], a dash of [[Baron's Green Seasoning]] and [[Salsa Aji Nativo]]\n\n{{RecipeIngredients\n\n| 12 fresh [[Oysters|oysters]] on the half shell, chilled\n| [[Goya\u00ae Adobo con Chile Habanero]], to taste\n| [[Baron's Green Seasoning]]\n| [[Salsa Aji Nativo]]\n}}\n\n\n===Method===\n{{RecipeMethod\n\n| Carefully sprinkle the [[Adobo|adobo]] mix over the [[Oysters|oysters]] and add a dash of the other [[Sauces|sauces]].\n|  Serve.\n}}\n===Recipe source===\n\n* {{RecipeCourtesyOfCubanCuisine}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:Historic recipes]]\n[[Category:Spicy recipes]]\n[[Category:Starters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Chilli pepper recipes]]\n[[Category:Fish recipes]]\n[[Category:Sea fish recipes]]\n[[Category:Shellfish recipes]]\n[[Category:CubanCuisine.co.uk]]\n[[Category:Uncooked]]\n[[Category:Recipes from other sites]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#havanaoystershooters #salsaajinativo #oysters #sauces #habaneropepper #unusualrecipes #adobo #oyster #cuban </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

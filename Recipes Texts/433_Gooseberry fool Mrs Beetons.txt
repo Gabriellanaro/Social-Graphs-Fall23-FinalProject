@@ -1,0 +1,15 @@
+ 
+
+title": "Gooseberry fool (Mrs Beeton's)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Gooseberry fool (Mrs Beeton's) a fruit recipe\n|titlemode=replace\n|keywords=#gooseberries #butter #whippedcream #unusualrecipes #bake #cream \n|hashtagrev=032020\n|description=Not sure what to do your glut of gooseberries? Make this simple and delicious sweet\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 633\n|PortionCalories = 158\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Gooseberry fool. (Not Mrs Beeton's!)\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 45 minutes plus cooling time\n|PrepTime = 15 minutes\n|CookTime = 30 minutes\n|Image = [[Image:Gooseberry fool (Mrs Beeton's) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Looks lovely</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice and sharp</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nNot sure what to do your glut of gooseberries?  Make this simple and delicious sweet.\n\n{{RecipeIngredients\n| 1 pint (568 ml) [[gooseberries]] (topped and tailed)\n| &#188; pint (142 ml) stiffly [[whipped cream]]\n| [[Sugar]] to taste\n| 1 tablespoon [[butter]]\n}}\n===Method===\n\n{{RecipeMethod\n| [[Bake]] or stew the [[gooseberries]]\n| ''Heat the [[butter]] in a pan, add the [[sugar]] and gooseberries, stew on a low heat until the gooseberries are soft and mushy (30 minutes)''\n| Pass the pulp through a fine sieve, discarding the pips and skin\n| Stir in the [[cream]]\n| ''Allow to cool''\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Historic recipes]]\n[[Category:Sweets and desserts]]\n[[Category:British recipes]]\n[[Category:Fruit recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#gooseberries #butter #whippedcream #unusualrecipes #bake #cream </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

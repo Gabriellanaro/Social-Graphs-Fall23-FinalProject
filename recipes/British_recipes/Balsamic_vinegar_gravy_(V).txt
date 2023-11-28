@@ -1,0 +1,16 @@
+title": "Balsamic vinegar gravy (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Balsamic vinegar gravy vegetarian British recipe\n|titlemode=replace\n|keywords=#gravybrowning #boiling #balsamicvinegar #roasted #deglaze #cuminseeds #bubble #stock #balsamicvinegargravyv #gravy #garlic \n|hashtagrev=032020\n|description=The vegetables shown were roasted with lots of garlic and cumin seeds so the resulting gravy had a delicious and unique flavour\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 28\n|PortionCalories = 14\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Roast vegetables\n |Servings = 2\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 5 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Roasted vegetables.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I love balsamic vinegar</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">The idea of using it to make gravy is AWESOME!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}} \nThe [[Vegetables|vegetables]] shown were [[Roasted|roasted]] with lots of [[Garlic|garlic]] and [[Cumin seeds|cumin seeds]] so the resulting gravy had a delicious and unique flavour.\n\n{{RecipeIngredients\n| A good glug of [[Balsamic vinegar|balsamic vinegar]] (about 6 tablespoons)\n| 284mls (1/2 pint) [[Boiling|boiling]] water\n| 1 tablespoon (or to taste) of good vegetable stock powder, such as [[Marigold Swiss bouillon powder]]\n| 1 teaspoon [[gravy browning]] (optional)\n}}\n===Method===\n\n{{RecipeMethod\n| To a baking tray, add the [[Bouillon|bouillon]] powder or cube and the [[gravy browning]] to the [[Boiling|boiling]] water and mix well\n| Place on the hob and turn to high\n| Splash a good glug of [[Balsamic vinegar|balsamic vinegar]] onto the tray and with a flat spatula, [[Deglaze|deglaze]] the tray, scraping all of the caramelised goodness from the base\n| Allow to [[Bubble|bubble]] away for 30 seconds\n| Pour in the [[Stock|stock]] mixture, stir well and heat until it thickens a little\n| Strain through a [[Sieve|sieve]] and serve immediately\n}}\n===Servings===\nServes 4 - Makes 284 ml (1/2 pint) of [[Gravy|gravy]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:British recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#gravybrowning #boiling #balsamicvinegar #roasted #deglaze #cuminseeds #bubble #stock #balsamicvinegargravyv #gravy #garlic </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

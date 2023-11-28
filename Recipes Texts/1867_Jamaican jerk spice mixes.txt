@@ -1,0 +1,15 @@
+ 
+
+title": "Jamaican jerk spice mixes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Jamaican jerk spice mixes Cooking Wiki\n|titlemode=replace\n|keywords=#jerkseasoning #jamaicanjerkspicemixes #spices #jerkrecipes #dipsandsauces #jerkspicemix2 #jerkspicemix1 #jamaicanrecipes #grilling #roasting #marinadesdressingsandbutters \n|hashtagrev=12032020\n|description=We have three recipes for Jerk Spice Mix, the pungent Jamaican spice mix used as a rub for meat, prior to grilling or roasting\n}}\n<!-- /seo -->\n\n[[Image:Jamie Oliver's jerk seasoning recipe.jpg|thumb|300px|right|[[Jerk seasoning|Jamie Oliver's jerk seasoning]]|alt=Jamie Oliver's jerk seasoning]]\nWe have three recipes for Jerk Spice Mix, the pungent Jamaican spice mix used as a rub for [[meat]], prior to [[grilling]] or [[roasting]].\n\n* [[Jerk spice mix 1]]\n* [[Jerk spice mix 2]]\n* [[Jerk seasoning|Jamie Oliver's jerk seasoning]]\n\n{{CategoryLineIngredients}}\n{{disambig}}\n\n==See also==\n* [[Jerk recipes]]\n\n[[Category:Jamaican recipes]]\n[[Category:Spices]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#jerkseasoning #jamaicanjerkspicemixes #spices #jerkrecipes #dipsandsauces #jerkspicemix2 #jerkspicemix1 #jamaicanrecipes #grilling #roasting #marinadesdressingsandbutters </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

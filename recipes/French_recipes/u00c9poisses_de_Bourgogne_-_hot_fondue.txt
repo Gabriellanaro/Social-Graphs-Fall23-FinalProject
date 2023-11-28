@@ -1,0 +1,11 @@
+title": "%5Cu00c9poisses_de_Bourgogne_-_hot_fondue",
+                "invalidreason": "The requested page title contains invalid characters: \"%5C\".",
+                "invalid": ""
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

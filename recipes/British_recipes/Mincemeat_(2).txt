@@ -1,0 +1,16 @@
+title": "Mincemeat (2)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mincemeat (2), a fruit recipe \n|titlemode=replace\n|keywords=#apples #orange #marmalade #muscovado #currants #raisins #lime #brandy #sultanas #beef #cinnamon \n|hashtagrev=032020\n|description=The mincemeat is based on an old Yorkshire recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 3253\n|PortionCalories = 65\n|DatePublished=22nd October 2012\n|Author=Chef\n|Servings = Servings: 50 - Fills a 2kg jar\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n |Image=[[Image:Mincemeat2.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I just love old recipes</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">They are the best by far!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThe [[Mincemeat|mincemeat]] is based on an old Yorkshire recipe\n\n{{RecipeIngredients\n| 250g [[Raisins|raisins]]\n| 60g [[Sultanas|sultanas]]\n| 120g [[Currants|currants]]\n| 60g mixed peel\n| 120g [[Muscovado]] [[Sugar|sugar]]\n| 120g [[Beef|beef]] or vegetarian [[Suet|suet]]\n| &frac12; teaspoon each [[Ground cloves|ground cloves]] and [[Cinnamon|cinnamon]]\n| &frac14; teaspoon [[Ground|ground]] [[Ginger|ginger]]\n| &frac14; [[Nutmeg|nutmeg]], fresh [[Grated|grated]]\n| 120g thick cut [[Orange|orange]] [[Marmalade|marmalade]]\n| [[Zest]] and [[Juice|juice]] of &frac12; a [[Lime|lime]]\n| 125ml [[Brandy|brandy]]\n| 250g cooking [[Apples|apples]], peeled, cored and chopped\n}}\n===Method===\n\n{{RecipeMethod\n| At least 2 weeks before required, mix all of the ingredients together.  Keep in an airtight jar.\n}}\n===Chef's notes===\nI used Bramley [[Apples|apples]] and Wilkins of Tiptree 'Tawny' [[Orange]] Thick Cut [[Marmalade|marmalade]].\n{{Template:PeelingGinger}}\n{{RecipeLine}}\n[[Category:Recipes|Mincemeat (2)]]\n[[Category:Bread and baking|Mincemeat (2)]]\n[[Category:British recipes|Mincemeat (2)]]\n[[Category:Pies tarts and flans|Mincemeat (2)]]\n[[Category:Sweets and desserts|Mincemeat (2)]]\n[[Category:Vegetarian recipes|Mincemeat (2)]]\n[[Category:Cooking with wine|Mincemeat (2)]]\n[[Category:Fruit recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#apples #orange #marmalade #muscovado #currants #raisins #lime #brandy #sultanas #beef #cinnamon </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

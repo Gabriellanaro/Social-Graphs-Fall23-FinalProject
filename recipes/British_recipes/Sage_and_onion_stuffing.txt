@@ -1,0 +1,16 @@
+title": "Sage and onion stuffing",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sage and onion stuffing, British recipe \n|titlemode=replace\n|keywords=#sageandonionstuffing #butter #sage #breadcrumbs #onions #dried #lamb #blackpepper #stuffingrecipe #pork #chicken \n|hashtagrev=032020\n|description=Another stuffing recipe from British Onions\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 455\n|PortionCalories = 113\n|DatePublished=20th January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4 to 6\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 5 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Sage and onion stuffing recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nicer than Paxo</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">And sp easy to make</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nAnother [[stuffing recipe]] from British Onions.\n\n{{RecipeIngredients\n| 225g (8oz) [[Onions]]\n| 110g (4oz) Fresh [[Breadcrumbs]]\n| 25g (1oz) [[Butter]]\n| &#189; teaspoon [[Dried]] [[Sage]]\n| 70ml [[Milk]]\n| [[Salt]] & [[Black pepper|black pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Peel and quarter the [[Onions|onions]] and cook in [[Boiling|boiling]] water until tender.\n| Drain and finely chop.\n| Mix with [[Breadcrumbs|breadcrumbs]], [[Sage|sage]] and seasoning.\n| Bind loosely with melted [[Butter|butter]] and [[Milk|milk]].\n| Use to stuff [[Chicken|chicken]], [[Pork|pork]] or [[Lamb|lamb]], or place in a [[Baking|baking]] tin dot with [[Butter|butter]] and [[Bake|bake]] for 15 minutes.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:British recipes]]\n[[Category:British Onions recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Vegetarian recipes]]\n[[Category:Baked or roasted]]\n{{Template:British Onions attribution}}\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sageandonionstuffing #butter #sage #breadcrumbs #onions #dried #lamb #blackpepper #stuffingrecipe #pork #chicken </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

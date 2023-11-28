@@ -1,0 +1,16 @@
+title": "Tomato Coulis (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tomato Coulis - A Thermomix recipe \n|titlemode=replace\n|keywords=#parsley #tomato #tomatoes #chives #thermomix #oliveoil #vinegar #tabasco #tarragon #redpepper #soups \n|hashtagrev=032020\n|description=This Tomato Coulis recipe is a translation of a recipe in Salsas y Alinos con Thermomix\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 83\n|PortionCalories = 83\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = 1\n |Difficulty = 1\n |TotalTime = 19 minutes\n |PrepTime = 15 minutes\n |CookTime = 4 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Tomato sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Made in my Thermy</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]]'''.\n\n{{RecipeIngredientsTM\n| 300g ripe [[Tomatoes|tomatoes]]\n| 60g [[Sweet red pepper|sweet red pepper]]\n| 30g [[Tomato|tomato]] concentrate\n| 3 drops [[Tabasco]]\n| 30g [[Vinegar|vinegar]]\n| 120g [[Olive oil|olive oil]]\n| 6g [[Coarse salt|coarse salt]]\n| 1 teaspoon [[Tarragon|tarragon]]\n| 1 teaspoon [[Chives|chives]]\n| 1 teaspoon [[Parsley|parsley]]\n}}\n===Method===\n\n{{RecipeMethod\n| Chop the [[Tomatoes|tomatoes]] and [[Red pepper|red pepper]] '''10 seconds / Speed 5'''.\n| Once chopped, add successively the [[Tomato|tomato]] concentrate, the [[Vinegar|vinegar]], the [[Tabasco]], the [[Olive oil|olive oil]], the [[Salt|salt]], the [[Tarragon|tarragon]], the [[Chives|chives]] and the [[Parsley|parsley]].\n| Run for '''4 minutes / 70 deg / Speed 4'''.\n| Once the process has finished, pass the mixture through a [[Chinois|chinois]].\n}}\n===Servings===\nServings: 14 - Makes about 600 ml\n===Serving suggestions===\nCoulis is the name for thick [[Sauces|sauces]] made with [[Vegetables|vegetables]].  They are good companions as much for [[Meat dishes|meat dishes]] as for [[Vegetable|vegetable]] ones and also they can be used as a base for [[Soups|soups]] and other sauces.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:French recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#parsley #tomato #tomatoes #chives #thermomix #oliveoil #vinegar #tabasco #tarragon #redpepper #soups </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

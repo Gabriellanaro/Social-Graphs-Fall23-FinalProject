@@ -1,0 +1,16 @@
+title": "Chinese braised beef",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chinese braised beef a beef recipe \n|titlemode=replace\n|keywords=#chinesebraisedbeef #drysherry #blackpepper #stewedbraisedorpotroasted #onion #ginger #lightsoysauce #garlic \n|hashtagrev=032020\n|description=Use the best cuts of beef that you can afford. Quality is more important than quantity\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1225\n|PortionCalories = 306\n|DatePublished=31st January 2013\n|Author=Chef\n|ImageComment = Chopped steak\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 1 hour 50 minutes\n|PrepTime = 10 minutes\n|CookTime = 1 hour 40 minutes\n|Image = [[Image:Stewing steak.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">That looks raw.</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I think I would cook that a little more than you have \ud83d\ude01</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nUse the best cuts of beef that you can afford.  Quality is more important than quantity when it comes to beef\n\n{{RecipeIngredients\n| 3 tablespoons groundnut oil\n| 450 g (1 lb) chuck steak\n| 1 spring [[onion]] (scallion) [[chopped on the diagonal]]\n| 1 [[clove garlic, crushed]]\n| 1 slice [[ginger]] root, grated finely\n| 4 tablespoons [[light soy sauce]]\n| 2 tablespoons rice wine or [[dry sherry]]\n| 1 teaspoon [[salt]]\n| 1 teaspoon [[sugar]]\n| Freshly grated [[black pepper]] to taste\n| 750 ml boiling water\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the oil in a wok and brown the beef on all sides\n| Add the spring onion, [[Garlic|garlic]], ginger, wine, salt, pepper and sugar\n| Bring to the boil stirring often\n| Add the boiling water, bring back to the boil\n| Reduce the heat, cover and simmer for about 90 minutes or until the meat is tender\n| Remove, keep warm and rest for 5 minutes\n| Slice and arrange on a serving dish\n}}\n===Serving suggestions===\n\nServe hot or cold\n{{RecipeLine}}\n[[Category:Recipes|Beef]]\n[[Category:Beef recipes]]\n[[Category:Chinese recipes]]\n[[Category:Oriental cuisine|Beef]]\n[[Category:Main courses|Beef]]\n[[Category:Meat recipes|Beef]]\n[[Category:Cooking with wine]]\n[[Category:Stewed, braised or pot roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chinesebraisedbeef #drysherry #blackpepper #stewedbraisedorpotroasted #onion #ginger #lightsoysauce #garlic </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

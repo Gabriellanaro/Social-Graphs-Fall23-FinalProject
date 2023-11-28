@@ -1,0 +1,15 @@
+ 
+
+title": "Pesto sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pesto sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#pesto #thermomix #italian #sauce #cheese #garlic #oliveoil #parmesancheese #cream #pastadishes #evaporatedmilk \n|hashtagrev=032020\n|description=This is a translation of a pesto recipe in Salsas y Alinos con Thermomix\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 563\n|PortionCalories = 70\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 8 - Makes 200 ml\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n |Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A piece of pesto</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Geddit? \ud83d\ude1c</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis Thermie Pesto Sauce recipe is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]]'''.\n\n{{RecipeIngredientsTM\n| 50g fresh [[Basil|basil]]\n| 3 Cloves [[Garlic|garlic]]\n| 50g shelled [[Walnuts|walnuts]]\n| 100g virgin [[Olive oil|olive oil]]\n| 50g [[Parmesan cheese]]\n| [[Salt]] and [[Pepper|pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Place the [[Cheese|cheese]] in the bowl and grate for '''10 seconds / Speed progressively 5-10'''.\n| Next, add the remaining ingredients and process at '''Speed 6'''.\n| Pulverise until you have a homogenous and thick mixture.\n}}\n===Serving suggestions===\n[[Pesto]] is a cold, aromatic [[Italian]] [[Sauce|sauce]] used to accompany [[Pasta dishes|pasta dishes]]. \n===Variations===\nThe classic [[Pesto|pesto]] is made with [[Pine nuts|pine nuts]] but variations work just as well.\n\nTo make this even tastier, you can add 1-2 tbsps of [[Cream|cream]] or [[Evaporated milk|evaporated milk]].  \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Italian recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Cheese recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pesto #thermomix #italian #sauce #cheese #garlic #oliveoil #parmesancheese #cream #pastadishes #evaporatedmilk </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

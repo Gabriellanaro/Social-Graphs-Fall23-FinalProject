@@ -1,0 +1,16 @@
+title": "Salat malfoof",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Salat malfoof, Garlic recipe \n|titlemode=replace\n|keywords=#lemonjuice #salatmalfoof #carawayseeds #mint #garlic #cabbage #coleslaw #oliveoil #shredded #mayonnaise #sauce \n|hashtagrev=032020\n|description=A garlicky coleslaw type recipe from the Lebanon\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 156\n|PortionCalories = 39\n|DatePublished=2nd December 2013\n|Author=JuliaBalbilla\n|Servings = 4-6\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n |Image = [[Image:Salat malfoof recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Fresh and crunchy</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">I you enjoy garlic, you'll love this!</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\n\nA garlicky [[Coleslaw|coleslaw]] type recipe from the Lebanon\n\n{{RecipeIngredients\n| 5 or more [[Garlic cloves, peeled and crushed|garlic cloves, peeled and crushed]] with 1 teaspoon [[Salt|salt]]\n| 120ml freshly squeezed [[Lemon juice|lemon juice]]\n| 120ml [[Olive oil|olive oil]]\n| 375g Dutch white [[Cabbage|cabbage]], [[Shredded|shredded]]\n| 3 tablespoons [[Mint|mint]], chopped\n| 3 tablespoons of [[Caraway seeds|caraway seeds]]\n| Seasoning\n}}\n===Method===\n\n{{RecipeMethod\n| Place the [[Garlic|garlic]] in a bowl and slowly stir in the [[Lemon juice|lemon juice]].\n| Add the [[Oil|oil]], drop by drop to start with, whisking all the time until you have a soft [[Mayonnaise|mayonnaise]] consistency.\n| Fold in the [[Cabbage|cabbage]], [[Mint|mint]] and [[Caraway seeds|caraway seeds]] until the cabbage is coated with the dressing.\n| Check seasoning and serve immediately.\n}}\n===Serving suggestions===\nGoes well with grills and barbecues.\n===Variations===\nThe [[Sauce|sauce]] can be quite tricky to make, so as an alternative make some [[Allioli a la moderna]] instead, using [[Lemon juice|lemon juice]].   If the allioli is quite thick, thin down with some extra [[Lemon|lemon]] [[Juice|juice]].\n\n===Chef's notes===\nWhen I make this, I omit the [[Caraway seeds|caraway seeds]] as I don't like them, but I also leave out the [[Mint|mint]] as I want that really raw [[Garlic|garlic]] taste.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Garlic recipes]]\n[[Category:Lebanese recipes]]\n[[Category:Middle Eastern recipes]]\n[[Category:Salad recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#lemonjuice #salatmalfoof #carawayseeds #mint #garlic #cabbage #coleslaw #oliveoil #shredded #mayonnaise #sauce </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

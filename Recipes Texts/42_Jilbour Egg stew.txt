@@ -1,0 +1,15 @@
+ 
+
+title": "Jilbour (Egg stew)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Jilbour (Egg stew), Egg recipe \n|titlemode=replace\n|keywords=#tomatoes #eggs #onions #butter #garlic #yolks #simmer #fry #maincourse #mintleaves #stew \n|hashtagrev=032020\n|description=Eggs poached in tomatoes is a better of this recipe from Armenia\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1507\n|PortionCalories = 376\n|DatePublished=20th December 2013\n|Author = JuliaBalbilla\n|Servings = 4\n |Difficulty = 1\n |TotalTime = 25 minutes\n |PrepTime = 5 minutes\n |CookTime = 20 minutes\n |Image = [[Image:Jilbour (Egg stew) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Genius!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Eggs, poached in tomatoes \ud83d\ude0e</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n[[Eggs]] [[Poached|poached]] in [[Tomatoes|tomatoes]] is a better description of this recipe from Armenia.\n\n{{RecipeIngredients\n| 450 g [[Onions|onions]], sliced\n| 130 g [[Butter|butter]]\n| A few torn [[Mint leaves|mint leaves]]\n| 450 g ripe [[Tomatoes|tomatoes]], or 1 tin of tomatoes\n| A little water\n| 4 large [[Eggs]]\n| Seasoning\n}}\n===Method===\n{{RecipeMethod\n| Melt the [[Butter|butter]] in a saucepan, add the [[Onions|onions]] and [[Fry|fry]] until lightly [[Browned|browned]].  \n| Add the [[Mint|mint]], [[Tomatoes|tomatoes]] and a little water.\n| Bring to a [[Simmer|simmer]] and then crack in as many [[Eggs|eggs]] as you want in the [[Stew|stew]].\n| [[Poach]] until the [[Yolks|yolks]] are cooked and serve immediately.\n}}\n===Serving suggestions===\nIt can be eaten as a [[Snack|snack]], first course, part of a [[Main course|main course]] or for breakfast.  \n===Variations===\nAdd a few [[Herbs|herbs]], [[Spices|spices]] or [[Garlic|garlic]] if you wish.\n{{RecipeLine}}\n[[Category:Recipes|Jilbour (egg stew)]]\n[[Category:Armenian recipes|Jilbour (egg stew)]]\n[[Category:Egg recipes|Jilbour (egg stew)]]\n[[Category:Main courses|Jilbour (egg stew)]]\n[[Category:Snacks and light bites|Jilbour (egg stew)]]\n[[Category:Starters|Jilbour (egg stew)]]\n[[Category:Vegetable recipes|Jilbour (egg stew)]]\n[[Category:Vegetarian recipes|Jilbour (egg stew)]]\n[[Category:Breakfast recipes|Jilbour (egg stew)]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tomatoes #eggs #onions #butter #garlic #yolks #simmer #fry #maincourse #mintleaves #stew </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

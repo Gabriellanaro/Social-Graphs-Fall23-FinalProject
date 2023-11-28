@@ -1,0 +1,16 @@
+title": "Bay studded rooster potatoes with rosemary",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bay studded rooster potatoes with rosemary a British recipe\n|titlemode=replace\n|keywords=#potatoes #baystuddedroosterpotatoeswithrosemary #butter #oliveoil #bayleaves #potato #roasting #roast #baste #rosemary #miseenplace \n|hashtagrev=032020\n|description=Bay studded rooster potatoes with rosemary British potato recipes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3454\n|PortionCalories = 863\n|DatePublished=17th January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 50 minutes\n |PrepTime = 5 minutes\n |CookTime = 45 minutes\n |Image = [[Image:Bay studded rooster potatoes with rosemary recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Neat Idea</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">You can taste the bay too</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n\n{{FindAlbertBartlett}}\n\n{{RecipeIngredients\n| 12 Small / Medium Rooster [[Potatoes]] \n| 24 [[Bay leaves|bay leaves]] \n| 6 [[Rosemary#Sprigs_of_rosemary|Sprigs of rosemary]] \n| 4 tablespoons [[Olive oil|olive oil]] \n| 75g [[Butter]] \n| [[Salt]] and [[Pepper]]\n\n}}\n\n===[[Mise en place]]===\n* Preheat [[Oven|oven]] to 200\u00b0C/400\u00b0F/Gas 6 \n===Method===\n\n{{RecipeMethod\n| Cut each [[Potato|potato]] across its width in slices about 5mm apart but stopping about 1cm from the bottom so each potato is still joined at the base. \n| Break the [[Bay leaves|bay leaves]] in half and insert them into the slices, pick sprigs from the [[Rosemary|rosemary]] and again place into the slices. \n| Season with [[Salt|salt]] and [[Pepper|pepper]]. \n| Place the [[Potatoes|potatoes]] into a [[Roasting|roasting]] tin, sprinkle [[Olive oil|olive oil]] over the potatoes. \n| Pour enough cold water into the pan, just enough to cover the bottom of the pan. \n| Cut the [[Butter|butter]] into pieces and place around the [[Potatoes|potatoes]]. \n| Place pan into [[Oven|oven]] to [[Roast|roast]], [[Baste|baste]] regularly with the [[Butter|butter]] until the water evaporates and the [[Potatoes|potatoes]] are tender.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Albert Bartlett recipes]]\n[[Category:British recipes]]\n[[Category:Main courses]]\n[[Category:Potato recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Baked or roasted]]\n{{Template:Albert Bartlett attribution}}\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoes #baystuddedroosterpotatoeswithrosemary #butter #oliveoil #bayleaves #potato #roasting #roast #baste #rosemary #miseenplace </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

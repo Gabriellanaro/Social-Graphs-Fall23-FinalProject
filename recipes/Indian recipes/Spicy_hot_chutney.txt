@@ -1,0 +1,16 @@
+title": "Spicy hot chutney",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Spicy hot chutney, Indian recipe \n|titlemode=replace\n|keywords=#spicyhotchutney #chutney #lemonjuice #foodprocessor #lemon #chilipowder #roasted #cuminseeds #sumac #chillies #asafoetida \n|hashtagrev=032020\n|description=A red hot, spicy chutney that can be eaten as soon as it has been prepared\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 88\n|PortionCalories = 88\n|DatePublished=20th September 2012\n|Author=Chef\n|ImageComment = Asafoetida powders\n|Servings = 1\n|Difficulty = 1\n|TotalTime = 15 minutes\n|PrepTime = 15 minutes\n|CookTime = None\n|Image = [[Image:Asafoetida.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Ready, Steady...Eat!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">It was almost as easy as that!</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nA red hot, spicy [[Chutney|chutney]] that can be eaten as soon as it has been prepared\n\n{{RecipeIngredients\n| 1 big handful of [[Coriander leaves|coriander leaves]],  most stems removed\n| 1 big handful of [[Mint leaves|mint leaves]], most stems removed\n| 6 green [[Chillies|chillies]], deseeded\n| 1 teaspoon hot [[Chili powder|chili powder]]\n| &#189; teaspoon [[Cumin seeds|cumin seeds]], dry [[Roasted|roasted]]\n| 1 pinch [[Asafoetida|asafoetida]]\n| 2 teaspoons [[mango powder]] or [[Sumac|sumac]]\n| Juice of 1 [[Lemon|lemon]]\n| [[Salt]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Add everything to a [[Food processor|food processor]] and blend to a paste\n| Add to a serving bowl and drizzle with [[Lemon juice|lemon juice]]\n}}\n===Serving suggestions===\nServe immediately\n===Servings===\nServings: 10 - Makes 125 g (4 oz) of hot [[Chutney|chutney]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chilli pepper recipes]]\n[[Category:Dips and sauces]]\n[[Category:Indian recipes]]\n[[Category:Pickles and preserves]]\n[[Category:Spicy recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#spicyhotchutney #chutney #lemonjuice #foodprocessor #lemon #chilipowder #roasted #cuminseeds #sumac #chillies #asafoetida </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

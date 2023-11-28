@@ -1,0 +1,15 @@
+ 
+
+title": "Yogurt salad dressing",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Yogurt salad dressing recipe\n|titlemode=replace\n|keywords=#chives #yogurtsaladdressing #crunchysalad #greekyoghurt #oliveoil #yogurt #dressings #mayonaise #yoghurt #lemonjuice \n|hashtagrev=032020\n|description=A very simple dressing that is ideal for large crunchy salad leaves. It can be used in larger quantities than conventional oil based\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 60\n|PortionCalories = 30\n|DatePublished=6th October 2015\n|Author=Chef\n|ImageComment =\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  4 minutes\n|PrepTime =  4 minutes\n|CookTime = None\n|Image = [[Image:Yogurt salad dressing recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Lovely on chopped savoy cabbage!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Wierd, I know, but I love raw cabbage and this dip/dressing is The Dogs! \ud83d\udc96\ud83d\udc96\ud83d\udc96</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nA very simple dressing that is ideal for large [[Crunchy salad|crunchy salad]] leaves.  It can be used in larger quantities than conventional [[Oil|oil]] based [[Dressings|dressings]].  It's almost like a thin [[Mayonaise|mayonaise]].\n{{RecipeIngredients\n\n| 6 tablespoons plain [[Yogurt|yogurt]]\n| 1 tablespoon [[Olive oil|olive oil]]\n| 1 teaspoon [[lemon juice]]\n| A pinch of fine [[Sea Salt|sea salt]]\n| A pinch of [[Freshly ground black pepper|freshly ground black pepper]]\n| A pinch of [[Sugar|sugar]]\n| Up to 3 tablespoons of cold water (''see method'')\n| Chopped [[Chives|chives]] (optional)\n}}\n\n===Method===\n{{RecipeMethod\n\n| Add the ingredients to a bowl and whisk until well combined.\n| I used [[Greek yoghurt]] which is fairly thick so it needed to be thinned with 3 tablespoons of cold water. Natural [[Yoghurt|yoghurt]] may not require as much thinning.\n| Mix in the finely chopped [[Chives|chives]]\n}}\n===Serving suggestions===\nServe in a jug so it can be poured over each serving plate.\n[[Category:Recipes]]\n{{RecipeLine}}\n[[Category:British recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Salad recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chives #yogurtsaladdressing #crunchysalad #greekyoghurt #oliveoil #yogurt #dressings #mayonaise #yoghurt #lemonjuice </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

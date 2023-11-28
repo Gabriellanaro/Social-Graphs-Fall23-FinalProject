@@ -1,0 +1,16 @@
+title": "Ghiveci calugaresti (Monastic vegetables)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ghiveci calugaresti (Monastic vegetables) Vegetarian recipe\n|titlemode=replace\n|keywords=#tomatoes #miseenplace #cauliflower #carrots #gardenpeas #bake #frenchbeans #greenpeppers #stewedbraisedorpotroasted #spices #herbs \n|hashtagrev=032020\n|description=A sort of Romanian ratatouille\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2226\n|PortionCalories = 371\n|DatePublished=19th January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 6\n |Difficulty = 2\n |TotalTime = 1 hour 15 minutes\n |PrepTime = 15 minutes\n |CookTime = 1 hour\n |Image = [[Image:Ghiveci calugaresti (Monastic vegetables) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Roma Veg.</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Looks nice!</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA sort of Romanian ratatouille.\n\n{{RecipeIngredients\n| 1 small [[Cauliflower|cauliflower]], broken into florets\n| 3 medium [[Tomatoes|tomatoes]], quartered\n| 2 medium [[Carrots|carrots]], scraped and sliced crossways, 2.5 cm thick\n| 1 [[Leek|leek]], cut into 2.5 cm slices\n| &frac14; [[Cabbage|cabbage]], sliced\n| 2 [[Green peppers|green peppers]], seeded and thinly sliced\n| 1 medium [[Aubergine|aubergine]], peeled and cut crossways into 1 cm slices\n| 225 g small [[French beans|french beans]], cut in half\n| 225 g [[garden peas]]\n| 225 g [[Okra|okra]] (optional)\n| 2 large [[Onions|onions]], thinly sliced\n| 150 ml [[Oil|oil]]\n| Seasoning\n\n}}\n\n===[[Mise en place]]===\n* Preheat the [[Oven|oven]] to 180\u00b0 C (350\u00b0 F - gas 4)\n===Method===\n\n{{RecipeMethod\n| Lightly grease a large [[Casserole dish|casserole dish]].\n| Mix all of the ingredients and place in the dish.\n| [[Bake]] for 45-60 minutes until the [[Vegetables|vegetables]] are tender.\n}}\n===Variations===\nIf you like, add [[Garlic|garlic]], [[Herbs|herbs]] and [[Spices|spices]], but it is not traditional to do so.\n{{RecipeLine}}\n[[Category:Recipes|Ghiveci calugaresti (monastic vegetables)]]\n[[Category:Main courses|Ghiveci calugaresti (monastic vegetables)]]\n[[Category:Romanian recipes|Ghiveci calugaresti (monastic vegetables)]]\n[[Category:Stews and casseroles|Ghiveci calugaresti (monastic vegetables)]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes|Ghiveci calugaresti (monastic vegetables)]]\n[[Category:Vegetarian recipes|Ghiveci calugaresti (monastic vegetables)]]\n[[Category:Stewed, braised or pot roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tomatoes #miseenplace #cauliflower #carrots #gardenpeas #bake #frenchbeans #greenpeppers #stewedbraisedorpotroasted #spices #herbs </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Tartare sauce 2 (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tartare sauce 2 - A Thermomix recipe \n|titlemode=replace\n|keywords=#egg #onions #spanish #gherkins #parsley #capers #thermomix #hardboiledegg #pickled #quicktartaresauce #juice \n|hashtagrev=032020\n|description=Another Spanish recipe for Tartare sauce\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2828\n|PortionCalories = 235\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 12 - Makes about 300g\n|Difficulty = 1\n|TotalTime = 10 minutes  \n|PrepTime = 10 minutes \n|CookTime = None \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Noisy, but nice.</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Fun with my Thermy!</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nAnother [[Spanish]] recipe for Tartare [[Sauce|sauce]]\n\n{{RecipeIngredientsTM\n| 10g [[Pickled|pickled]] [[Gherkins|gherkins]]\n| 10g baby [[Onions|onions]]\n| 10g [[Capers|capers]]\n| [[Parsley]]\n| 1 [[Hard boiled egg|hard boiled egg]]\n| 1 raw [[Egg|egg]]\n| The [[Juice|juice]] of &frac12; a [[Lemon|lemon]], or [[Vinegar|vinegar]]\n| 25g water\n| [[Salt]], to taste\n| 300g [[Oil|oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Chop the [[Gherkins|gherkins]], [[Onions|onions]], [[Capers|capers]] and [[Parsley|parsley]] in the bowl '''3-4 seconds / Speed 4-5'''.\n| Remove and reserve.\n| Chop the [[Hard boiled egg|hard boiled egg]] '''4 seconds / Speed 4'''.\n| Remove and reserve.\n| Without washing it, put the raw [[Egg|egg]], [[Lemon juice|lemon juice]], water and [[Salt|salt]] into the bowl '''10 seconds / Speed 4'''.\n| With the MC in place on the lid program '''Speed 4''' and pour the [[Oil|oil]] on the lid, little by little.\n| Once the [[Mayonnaise|mayonnaise]] has been made, add the chopped [[Pickles|pickles]] [and the [[Egg|egg]]] and mix well with the spatula.\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n==See also==\n* [[Tartare Sauce (TM)]]\n* [[Quick tartare sauce]]\n* [[Tartare sauce (Mrs Beeton's)]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Egg recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#egg #onions #spanish #gherkins #parsley #capers #thermomix #hardboiledegg #pickled #quicktartaresauce #juice </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

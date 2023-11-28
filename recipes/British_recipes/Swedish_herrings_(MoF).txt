@@ -1,0 +1,16 @@
+title": "Swedish herrings (MoF)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Swedish herrings (MoF), British recipe \n|titlemode=replace\n|keywords=#vinegar #herrings #breadcrumbs #watercress #herring #peppers #boiledpotatoes \n|hashtagrev=032020\n|description=From the Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1255\n|PortionCalories = 313\n|DatePublished=20th January 2013\n|Author=Chef\n|ImageComment = All about Herrings - 1948\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 30 minutes\n|PrepTime = 5 minutes\n|CookTime = 25 minutes\n|Image = [[Image:All_about_Herrings.jpg|thumb|right|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Or use Mackerel</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Because I couldn't find herrings</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nFrom the Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948!\n\n{{RecipeIngredients\n| 4 [[herrings]], cleaned and boned\n| 2 level teaspoons [[salt]]\n| 2 tablespoons [[vinegar]]\n| 2 tablespoons [[sugar]]\n| 1.5 level tablespoons [[sugar]]\n| &#188; level teaspoons [[pepper]]\n| Pinch of ground [[cloves]]\n| 2 level tablespoons [[breadcrumbs]]\n}}\n===Method===\n\n{{RecipeMethod\n| Rub the [[herring]] fillets well with the [[salt]] and place the fillets overlapping slightly, in a flat dish\n| Mix the [[vinegar]], water, [[sugar]], [[peppers]] and [[cloves]] together and pour over the [[herrings]]\n| Sprinkle on the crumbs and bake in a moderate oven (180\u00b0 C / 350\u00b0F / Gas 4) for 20-25 minutes\n}}\n===Serving suggestions===\n\nServe with [[boiled potatoes]] and [[watercress]]\n{{RecipeLine}}\n[[Category:Recipes|Herrings]]\n[[Category:Fish recipes|Herrings]]\n[[Category:Sea fish recipes]]\n[[Category:Main courses|Herrings]]\n[[Category:Historic recipes|Herring]]\n[[Category:British recipes]]\n[[Category:Swedish recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#vinegar #herrings #breadcrumbs #watercress #herring #peppers #boiledpotatoes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Havana Red Beans and Rice",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Havana Red Beans and Rice, All recipe \n|titlemode=replace\n|keywords=#garlic #havanaredbeansandrice #vegetableoil #tomatoes #rice #recipesfromothersites #goyaredbeans #sidedish #cuban #greenbellpepper #simmer \n|hashtagrev=032020\n|description=A historically beloved dish throughout the Caribbean; this version has a Cuban twist\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1357\n|PortionCalories = 339\n|DatePublished=1st August 2014\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = 4\n|Difficulty = 1\n|TotalTime =  31 minutes\n|PrepTime =  10 minutes\n|CookTime =  21 minutes\n|Image = [[Image:Havana Red Beans and Rice recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice and spicy</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5 </span>\n\n<span class=\"reviewDesc\">Thank you Carla - hope you're still doing fine. x</span>\n \n<span class=\"reviewAuthor\"> [[User:Chef|Jerry, aka Chef]])</span></span>\n}}\nA historically beloved dish throughout the Caribbean; this version has a [[Cuban]] twist.\n\n{{RecipeIngredients\n\n| 2 tablespoons [[Vegetable oil|vegetable oil]]\n| 1 [[Clove|clove]] [[Garlic|garlic]], minced\n| 1 cup [[Uncooked|uncooked]] [[Rice|rice]]\n| [[Salt|salt]] and [[Pepper|pepper]] to taste\n| [[Goya Adobo with Habanero]], to taste\n| 1 [[Green bell pepper|green bell pepper]], [[Minced|minced]]\n| 2 medium [[Tomatoes|tomatoes]]\n| 2 cans [[Goya Red beans]]\n| 8 chopped [[Olives with pimento]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| [[Saut\u00e9]] [[Green pepper|green pepper]] first in [[Vegetable oil|vegetable oil]], then add [[Onions|onions]] when softened.  When the [[Onion|onion]] is softened, add the [[Garlic|garlic]], \n| Stir until [[Garlic|garlic]] is golden, then add [[Spices|spices]].\n| After a minute, add the [[Tomatoes|tomatoes]]\n| add in [[Beans and rice|beans and rice]], then reduce to [[Simmer|simmer]] and cook for 20 minutes., until the [[Rice|rice]] is absorbed.\n| Add [[Goya\u00ae Adobo con Chile Habanero]] if you like it hot.\n}}\n===Serving suggestions===\nGreat on its own or as a [[Side dish|side dish]] for any tropical meal.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:Rice recipes]]\n[[Category:CubanCuisine.co.uk]]\n===Recipe source===\n{{Template:RecipeCourtesyOfCubanCuisine}}\n[[Category:Recipes from other sites]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlic #havanaredbeansandrice #vegetableoil #tomatoes #rice #recipesfromothersites #goyaredbeans #sidedish #cuban #greenbellpepper #simmer </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Garlic gravy (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Garlic gravy Thermomix Recipe \n|titlemode=replace\n|keywords=#garlic #butter #flour #plainflour #soysauce #tomato #thermomix #redwine #boiledorsimmeredgravygarlic #gravy #vegetablestock \n|hashtagrev=032020\n|description=I spotted this recipe on Lidls website and just had to adapt it for Thermomix. \n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=10th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  21 minutes\n|PrepTime =  5 minutes\n|CookTime =  16 minutes\n|TotalCalories = 403\n|PortionCalories = 100 \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Ah ha!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">You and your garlic Julia!</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\n{{Template:WorkInProgress}}\nI spotted this recipe on [http://www.lidl.co.uk/en/6888.htm Lidl's website] and just had to adapt it for [[Thermomix]].\n{{RecipeIngredients\n\n| 3 [[Clove|clove]] of [[Garlic|garlic]],peeled\n| 1 tablespoon of [[Butter|butter]]\n| 1 tablespoon of [[Plain flour|plain flour]]\n| 150ml [[Red wine|red wine]], [[boiled]] and reduced to one-third (50ml)\n| 1 tablespoon [[Tomato|tomato]] pur\u00e9e\n| 400ml [[Vegetable Stock|vegetable stock]]\n| 1 tablespoon [[Soy sauce|soy sauce]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Add the [[Garlic|garlic]] to the bowl '''3 secs / Speed 6'''\n| Scrape down the bowl\n| Add the [[Butter|butter]] '''10 minutes / 100\u00b0 C / Speed 1 / MC Off'''\n| Add the [[Flour|flour]] '''4 minutes / 90\u00b0 C / Speed 1'''\n| Add the remaining ingredients '''10 minutes / 100\u00b0 C / Speed 4'''\n}}\n===Serving suggestions===\nUse in place of standard [[Gravy|gravy]]\n{{RecipeLine}}\n[[Category:Recipes|Gravy garlic]]\n[[Category:British recipes|Gravy garlic]]\n[[Category:Dips and sauces|Gravy garlic]]\n[[Category:Vegetarian recipes|Gravy garlic]]\n[[Category:Garlic recipes|Gravy garlic]]\n[[Category:Cooking with wine|Gravy garlic]]\n[[Category:Boiled or simmered|Gravy garlic]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlic #butter #flour #plainflour #soysauce #tomato #thermomix #redwine #boiledorsimmeredgravygarlic #gravy #vegetablestock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

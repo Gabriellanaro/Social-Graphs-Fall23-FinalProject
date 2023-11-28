@@ -1,0 +1,15 @@
+ 
+
+title": "Lemon and parsley sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Lemon and parsley sauce, British recipe \n|titlemode=replace\n|keywords=#lemonandparsleysauce #lemon #butter #parsley #parsleyleaves #zest #boiledorsimmered #blackpepper #fish #juice #fishdishes \n|hashtagrev=032020\n|description=An extremely quick and delicious accompaniment for fish dishes\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 376\n|PortionCalories = 188\n|DatePublished=12th April 2013\n|Author=Chef\n|Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 5 minutes \n |PrepTime = 2 minutes\n |CookTime = 3 minutes\n |Image = [[Image:Lemon and parsley sauce.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">So simple</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">This could not be easier to make.</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nAn extremely quick and delicious [[Accompaniment|accompaniment]] for [[Fish dishes|fish dishes]].\n\n{{RecipeIngredients\n| 50g [[Butter|butter]]\n| 1 [[Lemon|lemon]]\n| Bunch of fresh [[Parsley leaves|parsley leaves]], finely chopped\n| [[Sea Salt|sea salt]] and [[Freshly ground black pepper|freshly ground black pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Melt the [[Butter|butter]] in a small pan\n| Add a twist or two of [[Black pepper|black pepper]]\n| Stir in the [[Juice|juice]] and [[Zest|zest]] of 1 [[Lemon|lemon]]\n| Season to taste\n| Sprinkle in the chopped [[Parsley|parsley]]\n}}\n===Serving suggestions===\nPour over the [[Fish|fish]] and serve\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Fish recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#lemonandparsleysauce #lemon #butter #parsley #parsleyleaves #zest #boiledorsimmered #blackpepper #fish #juice #fishdishes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

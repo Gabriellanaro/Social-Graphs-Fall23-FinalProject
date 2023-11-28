@@ -1,0 +1,16 @@
+title": "Mustard sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mustard sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#cream #butter #thermomix #singlecream #blackpepper #olives #mustard #fridge #sauce #thermomixrecipes #dijonmustard \n|hashtagrev=032020\n|description=This Mustard sauce recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n\n{{recipesummary\n|TotalCalories = 783\n|PortionCalories = 97\n|DatePublished=6th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 8 - Makes 250 ml\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 5 minutes\n |CookTime =5 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n}}\n\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 50g [[Butter|butter]]\n| 30g [[Dijon Mustard|dijon mustard]]\n| 210g [[Single cream|single cream]]\n| [[Black pepper]]\n| [[Salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Butter|butter]] in the bowl and program '''3 minutes / 80\u00b0 / Speed 2'''.\n| Next, add the [[Mustard|mustard]] and program '''1 minute /  90\u00b0 / Speed 1'''.\n| Finally, incorporate the [[Cream|cream]], a pinch of [[Salt|salt]] and [[Pepper|pepper]] to taste.\n| Run '''5 minutes / 90\u00b0 / Speed 3'''.\n| Allow to cool and keep in the [[Fridge|fridge]].\n}}\n===Serving suggestions===\nIt is recommended that you use this [[Sauce|sauce]] to accompany red and white [[Meat|meat]].\n===Variations===\nThere is a variation which includes [[Capers|capers]] and stoned and chopped [[Olives|olives]].  They are added after the [[Cream|cream]] and mixed in for a few seconds at '''Speed 3'''.\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Great with chips</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Sounds a bit Belgian, but this sauce is lovely with just chips alone.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cream #butter #thermomix #singlecream #blackpepper #olives #mustard #fridge #sauce #thermomixrecipes #dijonmustard </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

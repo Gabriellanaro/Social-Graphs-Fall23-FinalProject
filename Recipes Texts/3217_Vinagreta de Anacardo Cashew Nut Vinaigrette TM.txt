@@ -1,0 +1,15 @@
+ 
+
+title": "Vinagreta de Anacardo (Cashew Nut Vinaigrette) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Vinagreta de Anacardo Cashew Nut Vinaigrette recipe\n|titlemode=replace\n|keywords=#nuts #thermomix #toasted #pasta #peas #sauces #walnuts #cheese #cashewnuts #rocket #pinenuts \n|hashtagrev=032020\n|description=This Cashew Nut Vinaigrette recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 559\n|PortionCalories = 139\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">An unusual dressing</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I don't have a Thermomix but I can make this in a mortar and pestle.</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 100g [[Cashew nuts|cashew nuts]]\n| 180g [[Extra virgin olive oil|extra virgin olive oil]]\n| 30g [[Vinegar|vinegar]]\n| [[Pepper]]\n| [[Salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Nuts|nuts]] in TM and grind '''3 seconds / Speed 7'''.\n| Add the remaining ingredients and mix '''1 minute / Speed 1'''.\n| Stir to mix the ingredients.\n| Serve at room temperature.\n}}\n===Serving suggestions===\nThis is a [[Vinaigrette|vinaigrette]] suitable for dressing [[Salads|salads]] ([[Rocket|rocket]], [[Lettuce|lettuce]], [[Swiss chard]], [[Leeks|leeks]], [[Peas|peas]]) and to accompany [[Pasta|pasta]], [[Fish and seafood|fish and seafood]].\n===Variations===\nThe [[Cashews|cashews]] can be substituted with [[Pistachios|pistachios]], [[Toasted|toasted]] [[Pine nuts|pine nuts]], [[Walnuts|walnuts]] or other [[Nuts|nuts]].  It combines well with other [[Sauces|sauces]], such as [[Cheese|cheese]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#nuts #thermomix #toasted #pasta #peas #sauces #walnuts #cheese #cashewnuts #rocket #pinenuts </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,15 @@
+ 
+
+title": "Baked herrings (MoF)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Baked herrings (MoF), British recipe \n|titlemode=replace\n|keywords=#peppercorns #herrings #herring #onion #onions \n|hashtagrev=032020\n|description=From our Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1177\n|PortionCalories = 294\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = All about Herrings - 1948\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 20 minutes\n|PrepTime = 5 minutes\n|CookTime = 15 minutes\n|Image = [[Image:All_about_Herrings.jpg|200px|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice with Mackerel</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">(Can't get fresh herring in Morrisons)</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nFrom the Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948!\n\n{{RecipeIngredients\n| 4 [[herrings]], cleaned and boned\n| 2 level teaspoons [[salt]]\n| 2 level tablespoons finely chopped [[onions]] (if liked)\n| A few [[peppercorns]]\n}}\n===Method===\n\n{{RecipeMethod\n| Season the inside of each [[herring]] with a little [[salt]]\n| Sprinkle on the [[onion]]\n| Pack closely into a greased pie dish or casserole\n| Sprinkle the top with [[salt]] and a few [[peppercorns]]\n| Cover with a piece of greaseproof paper and bake in a moderate oven (180\u00b0 C / 350\u00b0F / Gas 4) for about 10 minutes\n| Then remove paper and allow fish to brown for a further 5 minutes\n}}\n{{RecipeLine}}\n[[Category:Recipes|Herring]]\n[[Category:Fish recipes|Herring]]\n[[Category:Sea fish recipes|Herring]]\n[[Category:Main courses|Herring]]\n[[Category:Historic recipes|Herring]]\n[[Category:British recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#peppercorns #herrings #herring #onion #onions </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

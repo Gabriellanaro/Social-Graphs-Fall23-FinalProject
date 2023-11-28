@@ -1,0 +1,16 @@
+title": "Spekpannenkoeken (Bacon pancakes)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Spekpannenkoeken (Bacon pancakes) recipe\n|titlemode=replace\n|keywords=#bacon #eggs #butter #pancakes #fry #flour #batter #snack #breakfast #honey #smokedbacon \n|hashtagrev=032020\n|description=Ideal for breakfast or as a snack\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=2nd January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 6\n|Difficulty = 1\n|TotalTime =  45 minutes (including resting time)\n|PrepTime =  35 minutes (including resting time)\n|CookTime =  10 minutes\n|TotalCalories = 2383\n|PortionCalories = 397 \n|Image = [[Image:Spekpannenkoeken Bacon pancakes recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A bit rich for breakfast</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">but I expect I can force a few down. \ud83e\udd13</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nIdeal for [[Breakfast|breakfast]] or as a [[Snack|snack]]\n{{RecipeIngredients\n\n| 500ml [[Milk|milk]]\n| 3 [[Eggs|eggs]], beaten\n| 200g [[Flour|flour]], sieved\n| 150 g [[Smoked bacon|smoked bacon]], finely sliced and cut into large pieces\n| A pinch of [[Salt|salt]]\n| 50g [[Butter|butter]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Mix the [[Milk|milk]] and [[Eggs|eggs]] with the [[Flour|flour]] and [[Salt|salt]] until you have a smooth [[Batter|batter]].\n| Leave to [[Rest|rest]], at room temperature for 30-45 minutes.\n| Melt a little of the [[Butter|butter]] in a [[Frying pan|frying pan]] and [[Fry|fry]] the [[Bacon|bacon]] pieces until crispy.\n| Remove the [[Bacon|bacon]] and divide into 6 batches.\n| For each [[Pancake|pancake]], add batch of [[Bacon|bacon]] and pour in enough [[Batter|batter]] to cover the bottom of the pan. \n| [[Fry]] the [[Pancakes|pancakes]] on medium heat until the underside is lightly [[Browned|browned]] and the top is no longer liquid.\n| Continue in this manner until all 6 [[Pancakes|pancakes]] have been made, keeping each one warm whilst cooking the remainder.\n}}\n===Serving suggestions===\nCan be served with something sweet like [[Honey|honey]] or [[Maple syrup|maple syrup]]\n{{RecipeLine}}\n[[Category:Recipes|Bacon pancakes]]\n[[Category:Dutch recipes|Bacon pancakes]]\n[[Category:Breakfast recipes|Bacon pancakes]]\n[[Category:Snacks and light bites|Bacon pancakes]]\n[[Category:Egg recipes|Bacon pancakes]]\n[[Category:Meat recipes|Bacon pancakes]]\n[[Category:Pork recipes|Bacon pancakes]]\n[[Category:Pan fried|Bacon pancakes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bacon #eggs #butter #pancakes #fry #flour #batter #snack #breakfast #honey #smokedbacon </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

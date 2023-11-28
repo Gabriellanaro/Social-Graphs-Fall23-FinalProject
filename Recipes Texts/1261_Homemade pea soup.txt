@@ -1,0 +1,15 @@
+ 
+
+title": "Homemade pea soup",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Homemade pea soup or split pea soup recipe\n|titlemode=replace\n|keywords=#peas #homemadepeasoup #simmer #bayleaf #ham #celery #salad #margarine #stock #onion #savory \n|hashtagrev=032020\n|description=A simple pea soup, ideal for cold winter evenings\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3267\n|PortionCalories = 272\n|DatePublished=17th January 2013\n|Author=Chef\n|ImageComment =\n|Servings = 12\n|Difficulty = 1\n|TotalTime =  11 hours\n|PrepTime =  8 hours\n|CookTime =  3 hours\n|Image = [[Image:Homemade pea soup recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nicer than canned soup</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">Nice complex flavours</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA great homemade [[Pea|pea]] [[Soup|soup]] for the winter days!\n\n{{RecipeIngredients\n\n| 500 ml Dried [[split peas]]; uncooked\n| Water for soaking\n| 3 litres of [[Stock]] of your choice\n| 1 tablespoon Non-hydrogenated [[Margarine|margarine]] Nuvel\n| 1 [[Onion]], peeled and chopped\n| 1 stick of [[Celery]], cut diagonally\n| 1 [[Carrot]] cut into small pieces\n| 1 [[Bay leaf]]\n| 1/2 a teaspoon of [[Savory|Ground savory]]\n| 60 ml [[Ham]] cut into small cubes\n| [[Salt]] and [[Pepper]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n\n| Put the [[Peas|peas]] into a bowl and cover with water\n| Soak [[Peas|peas]] 6 to 8 hours or overnight\n| Discard the soaking water\n| Mix in a [[Salad|salad]] bowl the first ingredients\n| Add the [[Peas|peas]] and remaining ingredients in a saucepan\n| Cover and [[Simmer|simmer]] about 3 hours\n| Serve\n}}\n===Recipe source===\n* Recipe added by [[User:Charles|Charles]], by [[User:Chef|proxy]]\n* http://www.nuvel.ca/en/recipes/soups/pea-soup-2\n{{RecipeLine}}\n[[Category:Recipes|Soup]]\n[[Category:French recipes|Soup]]\n[[Category:Boiled or simmered]]\n[[Category:Vegetable recipes]]\n<!-- footer hashtags --><code 'hashtagrev:032020'>#peas #homemadepeasoup #simmer #bayleaf #ham #celery #salad #margarine #stock #onion #savory </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

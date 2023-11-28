@@ -1,0 +1,16 @@
+title": "Patatas a lo pobre (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Patatas a lo pobre - A Thermomix recipe \n|titlemode=replace\n|keywords=#potatoes #potato #garlic #onion #degrees #thermomix #spanish #veganrecipes #oliveoil \n|hashtagrev=032020\n|description=THIS RECIPE NEEDS TO BE COMPLETELY REVISED\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n'''THIS RECIPE NEEDS TO BE COMPLETELY REVISED.  WHILST IT MAKES IDEAL POTATOES FOR ADDING TO SPANISH OMELETTES, IT IS NO GOOD FOR PATATAS A LO POBRE'''\n{{recipesummary\n|TotalCalories = 656\n|PortionCalories = 164\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Serves 4 to 6\n |Difficulty = 1\n |TotalTime = 35 minutes\n |PrepTime = 10 minutes\n |CookTime = 25 minutes\n |Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">More work needed, me thinks.</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">2</span>/5</span>\n\n<span class=\"reviewDesc\">Try, try, try again...</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n{{Template:WorkInProgress}}\nLiterally '[[Potatoes|potatoes]] for the poor', this is a simple [[Spanish]] [[Potato|potato]] recipe and the following recipe is for cooking in a [[:Category:Thermomix recipes|Thermomix]].  The conventional method of making this dish will be added shortly.\n\n{{RecipeIngredientsTM\n| 100g [[Olive oil|olive oil]]\n| 1 large [[Onion|onion]], peeled\n| 800g [[Potatoes|potatoes]], peeled and sliced\n| [[Garlic]], to taste, sliced\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the [[Oil|oil]] in the bowl for '''3 minutes''' at '''100 [[Degrees|degrees]]''' on '''speed 1'''.\n| Meanwhile sprinkle the [[potato]] slices with a little salt on both sides.\n| Add the [[Onion|onion]] and chop for '''6 seconds''' on '''speed 4\u00bd''';.\n| Scrap down the inside of the bowl.\n| Reduce the '''speed''' to '''1''' and allow to cook for '''5 minutes / MC Off'''.\n| Place the butterfly whisk in the bowl.\n| Add the [[Potatoes|potatoes]], and cook on '''speed 1''' at '''100 [[Degrees|degrees]]''' for '''20 minutes'''.\n| 5 minutes before the end of the cooking time, add the [[garlic]].\n}}\n===Serving suggestions===\nServe as an alternative to [[Boiled|boiled]] or chipped [[Potatoes|potatoes]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Potato recipes]]\n[[Category:Spanish recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoes #potato #garlic #onion #degrees #thermomix #spanish #veganrecipes #oliveoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

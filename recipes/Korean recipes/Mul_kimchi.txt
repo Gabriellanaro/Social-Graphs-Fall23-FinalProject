@@ -1,0 +1,16 @@
+title": "Mul kimchi",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mul kimchi, Vegetarian recipe \n|titlemode=replace\n|keywords=#mulkimchi #radishes #mooli #kimchi #garlic #julienned #diced #daikon #turnips #sidedish #chilliflakes \n|hashtagrev=032020\n|description=A very common accompaniment to Korean meals, mul kimchi is a water pickle and this one is made with radishes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 192\n|PortionCalories = 48\n|DatePublished=24th December 2012\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 2 days, 15\n |PrepTime = 2 days, 15 minutes\n |CookTime = None\n|Image = [[Image:Mul kimchi recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Yukk!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">1</span>/5</span>\n\n<span class=\"reviewDesc\">\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nA very common [[Accompaniment|accompaniment]] to Korean meals, mul [[Kimchi|kimchi]] is a water [[Pickle|pickle]] and this one is made with [[Radishes|radishes]].\n\n{{RecipeIngredients\n| 450 g [[Mooli|mooli]], peeled and cut into 2 cm chunks\n| 4-8 Cloves [[Garlic|garlic]], finely [[Diced|diced]]\n| 2 teaspoons [[Sugar|sugar]]\n| 720 ml water\n| 1 large [[Spring onion|spring onion]], cut into 3 cm lengths\n| 1 large [[Red pepper|red pepper]], [[Julienned|julienned]]\n| 1-2 teaspoons [[Dried|dried]] [[Chilli flakes|chilli flakes]]\n}}\n===Method===\n\n{{RecipeMethod\n| In a large jar or large container, combine all ingredients, and allow to sit at room temperature for 2 days. \n| Serve cold.\n}}\n===Serving suggestions===\nServe as a [[Side dish|side dish]] to Korean main courses.\n===Variations===\nIn theory, this should be made with Korean [[Radishes|radishes]], which look a bit like [[Turnips|turnips]].  I am not sure if they are readily available in the UK, so I have suggested that you use [[Mooli|mooli]] ([[Daikon|daikon]]) instead.\n===Chef's notes===\nThe [[Kimchi|kimchi]] may be stored, chilled, for up to 1 week. \n{{RecipeLine}}\n[[Category:Recipes|Mul kimchi]]\n[[Category:Accompaniments|Mul kimchi]]\n[[Category:Korean recipes|Mul kimchi]]\n[[Category:Pickles and preserves|Mul kimchi]]\n[[Category:Spicy recipes|Mul kimchi]]\n[[Category:Vegetable recipes|Mul kimchi]]\n[[Category:Vegetarian recipes|Mul kimchi]]\n[[Category:Vegan recipes]]\n[[Category:Uncooked]]\n[[Category:Pickled]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mulkimchi #radishes #mooli #kimchi #garlic #julienned #diced #daikon #turnips #sidedish #chilliflakes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

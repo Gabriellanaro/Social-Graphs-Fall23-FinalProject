@@ -1,0 +1,15 @@
+ 
+
+title": "Medaljer (Medal cakes)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Medaljer (Medal cakes) recipe\n|titlemode=replace\n|keywords=#butter #eggyolk #cream #cake #bakingsheet #strawberry #miseenplace #pastry #cakes #strawberries #knead \n|hashtagrev=032020\n|description=In Denmark, these cakes are given as a reward\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=4th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = 6\n|Difficulty = 2\n|TotalTime =  40 minutes\n|PrepTime =  30 minutes\n|CookTime =  10 minutes\n|TotalCalories = 2103\n|PortionCalories = 350 \n|Image = [[Image:Medaljer (Medal cakes).jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Prize puddings, anyone?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">\ud83d\ude1b\ud83d\ude1b\ud83d\ude1b</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nIn Denmark, these [[Cakes|cakes]] are given as a reward\n{{RecipeIngredients\n\n| 85g [[Butter|butter]], softened\n| 1 [[Egg yolk|egg yolk]], beaten\n| 110g [[Plain flour|plain flour]]\n| 140ml [[Double Cream|double cream]], whipped\n| 12 [[Strawberries|strawberries]], hulled and halved\n}}\n===[[Mise en place]]===\n\n* Pre-heat the [[Oven|oven]] for 200\u00b0 C (400\u00b0 F - gas 6), [fan oven 180\u00b0 C]\n\n===Method===\n{{RecipeMethod\n\n| Mix the [[Butter|butter]] and [[Egg yolk|egg yolk]], then [[Blend|blend]] in the [[Flour|flour]].\n| [[Knead]] well.\n| Wrap the [[Dough|dough]] in [[Cling Film|cling film]] and put in a cool place for 1-2 hours.\n| Roll out thinly on a floured surface.\n| Cut circles with a plain edged 2.5cm [[Pastry|pastry]] cutter (about 24 rounds)\n| Place the rounds on a greased [[Baking sheet|baking sheet]] and [[Bake|bake]] for 10 minutes until pale golden [[Brown|brown]].\n| Cool on a wire rack.\n| Use the [[Cream|cream]] to [[Sandwich|sandwich]] the rounds, reserving a little for the tops.\n| Pipe a small dot of [[Cream|cream]] on each [[Cake|cake]] and decorate with a [[Strawberry|strawberry]] half.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Bread and baking]]\n[[Category:Danish recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Vegetarian recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#butter #eggyolk #cream #cake #bakingsheet #strawberry #miseenplace #pastry #cakes #strawberries #knead </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

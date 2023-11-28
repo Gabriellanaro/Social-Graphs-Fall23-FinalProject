@@ -1,0 +1,16 @@
+title": "Gula melaka sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Gula melaka sauce, Indian recipe \n|titlemode=replace\n|keywords=#gulamelakasauce #pandanleaf #ginger #dessert #coconuticecream #muscovado #unusualrecipes #gingerroot #palmsugar #jaggery #boil \n|hashtagrev=032020\n|description=This Malaysian dessert sauce is an ideal accompaniment to coconut ice cream\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 130\n|PortionCalories = 21\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Ice cream with gula melaka sauce\n |Servings = Serves 6 - Enough for 6 servings of [[Ice cream|ice cream]]\n |Difficulty = 1\n |TotalTime = 20 minutes\n |PrepTime = 5 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Gula melaka sauce recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">For the very sweet of tooth</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5 </span>\n\n<span class=\"reviewDesc\">So sweet it makes my teeth itch.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis Malaysian [[Dessert|dessert]] [[Sauce|sauce]] is an ideal accompaniment to [[Coconut ice cream|coconut ice cream]]\n\n{{RecipeIngredients\n| 150 g (5 oz - &frac34; cup) [[Palm sugar|palm sugar]], [[Jaggery|jaggery]] or [[Muscovado|muscovado]] [[Sugar|sugar]]\n| 150 ml (1/4 pint - 2/3) cup water\n| 1 cm (1/2\") slice of peeled [[Ginger|ginger]], sliced and bruised\n| 1 [[pandan leaf]] (if available)\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the [[Sugar|sugar]], water and [[Ginger|ginger]] in small saucepan.\n| Stir the mixture over a medium heat until the [[Sugar|sugar]] dissolves\n| If using a [[pandan leaf]], knot it for easy removal\n| Add the [[pandan leaf]], bring to the [[Boil|boil]] then reduce and [[Simmer|simmer]] for 5 minutes\n| Allow to cool, remove the [[pandan leaf]] and [[Ginger root|ginger root]] before serving\n}}\n===Serving suggestions===\nCan be served warm or cold\n{{Template:PeelingGinger}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Dips and sauces]]\n[[Category:Indian recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Sweets and desserts]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#gulamelakasauce #pandanleaf #ginger #dessert #coconuticecream #muscovado #unusualrecipes #gingerroot #palmsugar #jaggery #boil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Kong namulh",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Kong namulh, Vegetarian recipe \n|titlemode=replace\n|keywords=#kongnamulh #beansprouts #unusualrecipes #colander #lightsoysauce #garlic #boiling #herb #jam #chillioil #beansproutsalad \n|hashtagrev=032020\n|description=A Korean bean sprout salad\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 176\n|PortionCalories = 44\n|DatePublished=24th October 2012\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n|Image = [[Image:Kong namulh recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">There are worse things...</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">...not many though!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nA Korean [[Bean sprout salad|bean sprout salad]].\n\n{{RecipeIngredients\n| 125 g [[Bean sprouts|bean sprouts]]\n| [[Garlic]] to taste, crushed\n| 2 [[Spring onions, chopped|spring onions, chopped]]\n| 2 tablespoons [[Herb|herb]] [[Vinegar|vinegar]]\n| 1 teaspoon [[Caster sugar|caster sugar]]\n| 1 teaspoon [[Chilli oil|chilli oil]]\n| 2 teaspoons [[Light soy sauce|light soy sauce]]\n}}\n===Method===\n\n{{RecipeMethod\n| Place the [[Bean sprouts|bean sprouts]] in a [[Colander|colander]], pour a kettle of [[Boiling|boiling]] water over them and allow to drain.\n| Pat them dry with kitchen paper and place them in individual bowls.\n| Place the remaining ingredients in a [[Jam|jam]] jar and shake until the [[Sugar|sugar]] has dissolved.\n| Pour the dressing over the [[Bean sprouts|bean sprouts]] and mix well.\n}}\n{{RecipeLine}}\n[[Category:Recipes|Kong namulh]]\n[[Category:Accompaniments|Kong namulh]]\n[[Category:Korean recipes|Kong namulh]]\n[[Category:Oriental cuisine|Kong namulh]]\n[[Category:Salad recipes|Kong namulh]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes|Kong namulh]]\n[[Category:Vegetarian recipes|Kong namulh]]\n[[Category:Blanched]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#kongnamulh #beansprouts #unusualrecipes #colander #lightsoysauce #garlic #boiling #herb #jam #chillioil #beansproutsalad </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

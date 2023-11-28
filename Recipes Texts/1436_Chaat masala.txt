@@ -1,0 +1,15 @@
+ 
+
+title": "Chaat masala",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chaat masala, Indian recipe \n|titlemode=replace\n|keywords=#chaatmasala #roasted #salads #cuminseeds #groundblackpepper #ground #mangopowder #asafoetida \n|hashtagrev=032020\n|description=An Indian seasoning for salads, bhajis and pakoras. Don't be put off by the smell!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 26\n|PortionCalories = 26\n|DatePublished=8th July 2012\n|Author = JuliaBalbilla\n|Servings = 1\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:Chaat masala.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">That's a lot</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.67</span>/5</span>\n\n<span class=\"reviewDesc\">A lot of Chat!</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n\nAn Indian seasoning for [[Salads|salads]], bhajis and pakoras.  Don't be put off by the smell!\n\n{{RecipeIngredients\n| 4 teaspoons [[Mango powder|mango powder]]\n| 1 teaspoon finely [[Ground black pepper|ground black pepper]]\n| 2 teaspoons [[Cumin seeds|cumin seeds]], [[Roasted|roasted]] and finely [[Ground|ground]]\n| 2 teaspoons [[Salt#Kala Namak (Black Salt)|black salt]] powder\n| 1 teaspoon [[Asafoetida|asafoetida]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all the ingredients well and store in an airtight container.\n}}\n===Servings===\nServings: 4 - About 4 tablespoons of chaat masala\n===Chef's notes===\n[[Salt#Kala Namak (Black Salt)|Black salt]] powder can be bought from most Indian shops.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Indian recipes]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n{{Template:PottersEat}}\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chaatmasala #roasted #salads #cuminseeds #groundblackpepper #ground #mangopowder #asafoetida </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Fumet",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Fumet; A French flavouring recipe Cooking Wiki\n|titlemode=replace\n|keywords=#fumet #stock #fish #sauces #sauce #poultry #recipes #chicken #soup #stocks #chickenstock \n|hashtagrev=12032020\n|description=In cookery, this name is given to a number of different liquids which are used to flavour or add body to stocks and sauces\n|datePublished=2013-03-16\n}}\n<!-- /seo -->\n\n\n\n[[Image:Fish fumet.jpg|300px|thumb|right|Fish fumet]]\n\n===What is fumet===\nIn cookery, this name is given to a number of different liquids which are used to flavour or add body to [[stocks]] and [[sauces]].  Fumets are prepared by boiling foodstuffs of one kind or another in [[stock]] or wine.  They should not be confused with essences, extracts or concentrates.\n\n'''Chicken fumet''' is a kind of [[chicken]] [[soup]], made by boiling down very considerably a [[chicken stock]] which has been prepared in the usual way.  It is used to add flavour to various [[poultry]] dishes which are served with a [[sauce]].\n \n'''Fish fumet''' is used to add flavour to various [[fish]] dishes which are served with a [[sauce]].  It can also be made with red wine.\n\n* Add 125g finely chopped [[onions]], 150g pared [[mushrooms]], a [[bouquet garni]] and 10 drops of [[lemon juice]] to a stockpot.  \n* Cover with 2.5 kilos [[fish]] [[bones]] and trimmings.  \n* Add 10g [[salt]], 2.5 litres water and 500ml white wine.\n* Bring to the boil, skim and simmer gently for 30 minutes.\n* Strain through muslin or a fine sieve. \n\n'''Game fumet''' is a [[game]] [[stock]] (made with the carcasses and trimmings of different game) which is reduced to a more or less concentrated consistency, according to the flavour desired.\n\n'''Truffle fumet''' is used to enhance the flavour of certain [[sauces]] and is made by boiling down almost to nothing, a [[stock]] made by simmering [[truffle]] peelings in Madeira or any other fortified wine.  This [[stock]] is usually made when the [[truffles]] themselves are being used for some other purpose.\n\n\n[[Category:Cooking methods]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:French recipes]]\n{{CategoryLine}}\n[[Category:Ingredients]]\n[[Category:Soup and stock recipes]]\n[[Category:Meat recipes]]\n[[Category:Fish recipes]]\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#fumet #stock #fish #sauces #sauce #poultry #recipes #chicken #soup #stocks #chickenstock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

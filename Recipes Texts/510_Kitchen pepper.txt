@@ -1,0 +1,15 @@
+ 
+
+title": "Kitchen pepper",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Kitchen pepper, British recipe \n|titlemode=replace\n|keywords=#spices #anise #kitchenpepper #coffeegrinder #parsnips #stewsandcasseroles #aniseedmyrtle #fennel #gingerpowder #nutmeg #rollingpin \n|hashtagrev=032020\n|description=You may see this mentioned in some historic recipe books. Use to dust parsnips and carrots before roasting them. Also good in bean stews and\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 12\n|PortionCalories = 12\n|DatePublished=25th October 2012\n|Author=Chef\n|ImageComment = Spices with a smile!\n |Servings = Servings: 1 - Makes a small jar of kitchen [[Pepper|pepper]]\n |Difficulty = 2\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n |Image = [[Image:Spices with a smile.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Surprisingly good</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">It packs quite a punch too!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nYou may see this mentioned in some historic recipe books.  Use to dust [[Parsnips|parsnips]] and [[Carrots|carrots]] before [[Roasting|roasting]] them.  \n\nAlso good in [[Bean|bean]] [[Stews and casseroles|stews and casseroles]].\n\n{{RecipeIngredients\n| 1 tablespoon [[Black peppercorns|black peppercorns]]\n| 2 whole [[nutmegs]]\n| 3 teaspoons [[Ginger powder|ginger powder]]\n| 1 tablespoon [[Anise|anise]]\n| 1 tablespoon [[Coriander seeds|coriander seeds]]\n| 2 tablespoons [[Clove buds|clove buds]]\n}}\n===Method===\n\n{{RecipeMethod\n| Cover the nutmegs with a strong [[Tea|tea]]-towel and smash with a [[Rolling pin|rolling pin]]\n| Add all the [[Spices|spices]] and the [[Nutmeg|nutmeg]] shards to a [[Coffee grinder|coffee grinder]] and reduce to a powder\n| Store in an airtight container for up to 4 months\n}}\n===Chef's notes===\nIf you cannot get [[Anise|anise]], use an equivalent amount of anise-like [[Spices|spices]] such as [[Fennel|fennel]], star-anise, [[Aniseed myrtle|aniseed myrtle]], etc.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Historic recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Spicy recipes]]\n[[Category:British recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#spices #anise #kitchenpepper #coffeegrinder #parsnips #stewsandcasseroles #aniseedmyrtle #fennel #gingerpowder #nutmeg #rollingpin </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

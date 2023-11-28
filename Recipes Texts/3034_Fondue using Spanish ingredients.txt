@@ -1,0 +1,15 @@
+ 
+
+title": "Fondue using Spanish ingredients",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[Fondue Neufch\u00e2tel]]\n[[|Fondue neufch\u00e2tel|Fondue using Spanish ingredients]]\n[[Category:Cheese recipes|Fondue neufch\u00e2tel|Fondue using Spanish ingredients]]\n[[Category:Main courses|Fondue neufch\u00e2tel|Fondue using Spanish ingredients]]\n[[Category:Snacks and light bites|Fondue neufch\u00e2tel|Fondue using Spanish ingredients]]\n[[Category:Spanish recipes|Fondue neufch\u00e2tel|Fondue using Spanish ingredients]]\n[[Category:Swiss recipes|Fondue neufch\u00e2tel|Fondue using Spanish ingredients]]\n[[Category:Vegetarian recipes|Fondue neufch\u00e2tel|Fondue using Spanish ingredients]]\n[[Category:Cooking with wine|Fondue|Fondue using Spanish ingredients]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

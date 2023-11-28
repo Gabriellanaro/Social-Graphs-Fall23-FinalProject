@@ -1,0 +1,15 @@
+ 
+
+title": "Herring pie (MoF)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Herring pie (MoF), a fruit recipe \n|titlemode=replace\n|keywords=#potato #apple #onion #lemon #herrings #nutmeg #citricacid \n|hashtagrev=032020\n|description=From the Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948! I had no idea what lemon substitute might have been, but editor Roses2at\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2235\n|PortionCalories = 558\n|DatePublished=20th January 2013\n|Author=Chef\n|ImageComment = All about Herrings - 1948\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 45 minutes\n|PrepTime = 15 minutes\n|CookTime = 30 minutes\n|Image = [[Image:All_about_Herrings.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">lol!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">I love these old recipes!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nFrom the Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948!\n\nI had no idea what lemon substitute might have been, but editor [[User:Roses2at|Roses2at]] has done a little research and has come up with either apple peel or [[citric acid]] - see the [[Talk:Herring_pie_(MoF)|comments]] page for more details.\n\n{{RecipeIngredients\n| 8 oz grated raw [[potato]]\n| 8 oz grated raw [[apple]]\n| 3 oz chopped [[onion]]\n| &frac14; level teaspoon [[nutmeg]]\n| 2 level teaspoons [[salt]]\n| Pinch of [[pepper]]\n| 1 teaspoon [[lemon]] substitute\n| 4 [[herrings]], cleaned and boned\n| 6 oz [shortcrust] pastry\n}}\n===Method===\n\n{{RecipeMethod\n| Arrange half the [[potato]], [[apple]] and [[onion]] in a pie dish\n| Sprinkle on the [[nutmeg]], seasoning and [[lemon]] substitute\n| Lay the [[herrings]] on the top\n| Cover with the remainder of the [[potato]], [[apple]] and [[onion]] mixture\n| Roll out the pastry\n| Cover the dish with it, and bake in a hot oven (220\u00b0 C / 425\u00b0 F / Gas 7) for 30 minutes\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Fish recipes]]\n[[Category:Fruit recipes]]\n[[Category:Sea fish recipes]]\n[[Category:Main courses]]\n[[Category:Historic recipes|Herring]]\n[[Category:Potato recipes]]\n[[Category:British recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potato #apple #onion #lemon #herrings #nutmeg #citricacid </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

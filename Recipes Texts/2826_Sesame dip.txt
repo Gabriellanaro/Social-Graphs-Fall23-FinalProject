@@ -1,0 +1,15 @@
+ 
+
+title": "Sesame dip",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sesame dip recipe Accompaniments \n|titlemode=replace\n|keywords=#sesamedip #lightsoysauce #porkdishes #sesameseeds #garlic #sesameoil \n|hashtagrev=032020\n|description=A quick and simple dip that is ideal for pork dishes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 98\n|PortionCalories = 24\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Sesame oil\n|Servings = Serves 4 - Makes &#189; a cup of sauce\n|Difficulty = 1\n|TotalTime = 5 minutes\n|PrepTime = 2 minute\n|CookTime = 3 minutes\n|Image = [[Image:Sesame oil.jpg|100px|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">\ud83d\udc37</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5 </span>\n\n<span class=\"reviewDesc\">Perfect for pork. \ud83d\udc16</span>\n \n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]])</span></span>\n}}\nA quick and simple dip that is ideal for [[pork dishes]].\n\n{{RecipeIngredients\n| 120 ml (4 fl oz) [[light soy sauce]]\n| 1 teaspoon [[sesame oil]]\n| 1 clove [[Garlic|garlic]], crushed well\n| 1 teaspoon toasted [[sesame seeds]]\n}}\n===Method===\n\n{{RecipeMethod\n| Add all ingredients to a small bowl\n| Mix well\n}}\n===Serving suggestions===\n\nServe as a dip with pork dishes\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n[[Category:Starters]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sesamedip #lightsoysauce #porkdishes #sesameseeds #garlic #sesameoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

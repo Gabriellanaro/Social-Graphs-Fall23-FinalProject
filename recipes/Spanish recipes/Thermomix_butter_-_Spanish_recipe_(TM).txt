@@ -1,0 +1,16 @@
+title": "Thermomix butter - Spanish recipe (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Thermomix butter - Spanish, - A Thermomix recipe\n|titlemode=replace\n|keywords=#thermomix #spanish #fat #cream #butter #whey #whippingcream #thermomixbutter #steaming \n|hashtagrev=032020\n|description=The Spanish version of making butter in the Thermomix\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 388\n|PortionCalories = 48\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 8 - About 150g\n|Difficulty = 1\n|TotalTime = 10 minutes\n|PrepTime = 10 minutes  \n|CookTime = None \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thermie butter</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">It works, but I would rather buy butter</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThe [[Spanish]] version of making [[Butter|butter]] in the [[Thermomix]]\n\n{{RecipeIngredientsTM\n| 200g [[Whipping cream|whipping cream]] (minimum 35% [[Fat|fat]])\n| Your chosen flavouring\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Cream|cream]] into the bowl without the '''Butterfly''' and beat for a '''few minutes / Speed 7''', until you note a change in the sound of the machine.\n| You will observe that the [[Fat|fat]] has separated from the [[Whey|whey]].\n| Put the internal [[Steaming|steaming]] basket in the bowl and run it under the cold tap until the water becomes clean.\n| Drain through the basket and dry well with kitchen paper.\n| If you want to flavour it, add your chosen [[Ingredient|ingredient]] once the [[Butter|butter]] has been made and mix at Speed 5.\n| Also, you can flavour it at the beginning, adding the chosen [[Ingredient|ingredient]] to the [[Cream|cream]], but bear in mind that washing will make it lose its flavour.\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n==See also==\n* [[Thermomix butter]]\n* [[Home-made butter and buttermilk recipe]]\n{{RecipeLine}}\n[[Category:Recipes|Butter thermomix]]\n[[Category:Spanish recipes|Butter thermomix]]\n[[Category:Marinades dressings and butters|Butter thermomix]]\n[[Category:Vegetarian recipes|Butter thermomix]]\n[[Category:Thermomix recipes|Butter thermomix]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #spanish #fat #cream #butter #whey #whippingcream #thermomixbutter #steaming </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

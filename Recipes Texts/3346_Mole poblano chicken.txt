@@ -1,0 +1,15 @@
+ 
+
+title": "Mole poblano chicken",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[:Chocolate chilli chicken]]\n[[]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Poultry recipes]]\n[[Category:Spicy recipes]]\n[[Category:Tex-Mex recipes]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

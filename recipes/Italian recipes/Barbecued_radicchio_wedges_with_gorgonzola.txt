@@ -1,0 +1,16 @@
+title": "Barbecued radicchio wedges with gorgonzola",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Barbecued radicchio wedges with gorgonzola an Italian recipe\n|titlemode=replace\n|keywords=#wedges #barbecuedradicchiowedgeswithgorgonzola #oliveoil #radicchio #griddled #brush #barbecued #grill #barbecue #grilled #gorgonzolacheese \n|hashtagrev=032020\n|description=A superb starter or side-dish for the barbie now that our meager summer months are almost here\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 659\n|PortionCalories = 82\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = thumb|right|Radicchio\n |Servings = Serves 8 - Makes 16 cheesey [[Wedges|wedges]]\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 3 minutes\n |CookTime = 12 minutes\n |Image = [[Image:Radicchio.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Cheesy cabbage</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">A nice way to get your 5 a day</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nA superb [[Starter|starter]] or side-dish for the barbecue now that our meagre summer months are almost here.\n\n{{RecipeIngredients\n| 2 [[Radicchio|radicchio]] heads, outside leaves removed\n| [[Olive oil]]\n| 150 g (5 oz) [[Gorgonzola cheese]]\n\n}}\n\n===[[Mise en place]]===\n* Cut each [[Radicchio|radicchio]] into 8 [[Wedges|wedges]]\n===Method===\n\n{{RecipeMethod\n| [[Brush]] both sides of the [[Wedges|wedges]] with [[Olive oil|olive oil]].\n| Arrange on an oiled [[Barbecue|barbecue]] [[Grill|grill]] on a medium heat.\n| Cook for 12 minutes, turning so they don't burn too much.\n| Dot with small pieces of [[Gorgonzola|gorgonzola]] and allow to melt a little.\n| Serve immediately.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Barbecue recipes]]\n[[Category:Italian recipes]]\n[[Category:Salad recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Grilled, griddled or barbecued]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#wedges #barbecuedradicchiowedgeswithgorgonzola #oliveoil #radicchio #griddled #brush #barbecued #grill #barbecue #grilled #gorgonzolacheese </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

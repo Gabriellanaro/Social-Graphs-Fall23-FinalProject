@@ -1,0 +1,16 @@
+title": "Chili and lime spiced butternut squash",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chili and lime spiced butternut squash\n|titlemode=replace\n|keywords=#chiliandlimespicedbutternutsquash #oliveoil #bakingtray #tastesensationrecipes #miseenplace #vegetable #butternutsquash #bake #squash #airfryer \n|hashtagrev=032020\n|description=A really simple and quick way to jazz up this underrated vegetable.\n|og:image=https://www.cookipedia.co.uk/wiki/images/thumb/5/52/Chili_and_lime_spiced_butternut_squash_recipe.jpg/450px-Chili_and_lime_spiced_butternut_squash_recipe.jpg\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=15th December 2019\n|Author=Chef\n|ImageComment = \n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  43 minutes\n|PrepTime =  3 minutes\n|CookTime =  40 minutes\n|TotalCalories = 90\n|PortionCalories = 45\n|Image = [[Image:Chili and lime spiced butternut squash recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Livens up squashes and gourds</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.1</span>/5 </span>\n\n<span class=\"reviewDesc\">I tried this with courgettes and it was just as good, but it did not need to be cooked for so long.  20 minutes was enough for them.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA really simple and quick way to jazz up this underrated [[Vegetable|vegetable]].\n{{RecipeIngredients\n\n| 1 [[Butternut squash|butternut squash]], peeled and chopped into bite-sized pieces\n| 2 tablespoons [[Olive oil|olive oil]]\n| 1 tablespoon [[Taste Sensation Chilli and Lime seasoning]]\n}}\n===[[Mise en place]]===\n\n* Preheat your [[Oven|oven]] to 200\u00b0 C (400\u00b0 F - gas 6), [fan oven 180\u00b0 C & reduce cooking time by 10 mins per hour]\n\n===Method===\n{{RecipeMethod\n\n| Pop all of the ingredients into a [[Lock and Lock box]]\n| Fit the lid and shake like crazy to coat the pieces of [[Squash|squash]]\n| Tip them out onto a [[Baking tray|baking tray]] and [[Bake|bake]] for 40 minutes at 200\u00b0 C\n}}\n===Variations===\nThese could just as easily be cooked in an [[Air Fryer]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Baked or roasted]]\n[[Category:Recipes from other sites]]\n[[Category:Taste Sensation recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chiliandlimespicedbutternutsquash #oliveoil #bakingtray #tastesensationrecipes #miseenplace #vegetable #butternutsquash #bake #squash #airfryer </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

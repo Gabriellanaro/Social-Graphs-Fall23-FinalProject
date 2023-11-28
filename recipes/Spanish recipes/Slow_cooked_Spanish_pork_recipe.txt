@@ -1,0 +1,16 @@
+title": "Slow cooked Spanish pork recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Slow cooked Spanish pork recipe\n|titlemode=replace\n|keywords=#pork #ghee #greenpeppers #lard #reddpaprika #tomatoes #casseroledish #mushrooms #spanish #mediterranean #slowcooker\n|hashtagrev=12032020\n|description=Red paprika pork casserole with green peppers and mushrooms in tomato sauce\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=16th October 2021\n|Author=Chef\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  1 hour, 15 minutes\n|PrepTime =  15 minutes\n|CookTime =  1 hour\n|TotalCalories = 3060\n|PortionCalories = 765 \n|Image = [[Image:Spanish pork casserole recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Looks like baby food \ud83d\ude01</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5</span>\n\n<span class=\"reviewDesc\">But I assure you, it tasted fabulous!</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA nice easy one pot [[Casserole|casserole]] recipe using [[Shoulder of pork|shoulder of pork]], always good for an economic dish.\n{{RecipeIngredients\n\n| 1 kg boneless [[Pork shoulder|pork shoulder]], minced\n| 15g / \u00bd oz [[Lard|lard]], [[Ghee|ghee]] or [[Olive oil|olive oil]]\n| A \u00bd teaspoon of [[Taste Sensation Italian seasoning]]\n| A good pinch of [[Freshly ground black pepper|freshly ground black pepper]]\n| 1 large [[Onion|onion]], peeled and chopped\n| 3 [[Cloves of Garlic, peeled and crushed|cloves of garlic, peeled and crushed]]\n| 1 tablespoon sweet [[Paprika powder|paprika powder]]\n| A good pinch of dried [[Mixed herbs|mixed herbs]]\n| 1 [[Bay leaf|bay leaf]]\n| 3 tablespoons of [[Taste Sensation Mixed Sweet Red and Green Bell Pepper Granules]]\n| 1 can of chopped [[Plum tomatoes|plum tomatoes]]\n| 100g / 4 oz [[Button mushrooms|button mushrooms]], sliced\n| 2 teaspoons [[Cornflour|cornflour]]\n}}\n===Method===\n{{RecipeMethod\n| Fry the onions for 5 minutes in the oil\n| Add the garlic and fry for a further 3 minutes, don't let it burn\n| Mix the remaining ingredients together and stir well\n| Slow cook for 1 hour on high\n| Serve\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Spanish recipes]]\n[[Category:Main courses]]\n[[Category:Garlic recipes]]\n[[Category:Pork recipes]]\n[[Category:Slow cooked]]\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#pork #ghee #greenpeppers #lard #reddpaprika #tomatoes #casseroledish #mushrooms #spanish #mediterranean #slowcooker</code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Sorbete de gazpacho",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sorbete de gazpacho, Spanish recipe \n|titlemode=replace\n|keywords=#mint #freezer #sorbetedegazpacho #foodprocessor #mintleaves #unusualrecipes #greenpepper #seeds #sherryvinegar #frozen #cucumber \n|hashtagrev=032020\n|description=This is simply a frozen gazpacho\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 307\n|PortionCalories = 76\n|DatePublished=2nd January 2013\n|Author=JuliaBalbilla\n|ImageComment = thumb|right|Ice cream maker with built-in freezer\n |Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 1 hour 20 minutes\n |PrepTime = 1 hour, 20 minutes\n |CookTime = None\n|Image = [[Image:Freezing Ice cream maker.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I was unsure at first</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">But it made a really nice starter</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis is simply a [[Frozen|frozen]] [[Gazpacho|gazpacho]]\n\n{{RecipeIngredients\n| 1 kg ripe [[Tomatoes, peeled|tomatoes, peeled]] and de-seeded\n| 1 small [[Cucumber|cucumber]], peeled and chopped\n| &frac12; [[Green pepper|green pepper]], [[Seeds|seeds]] removed\n| 4 [[Cloves of garlic, crushed|cloves of garlic, crushed]]\n| 3 tablespoons [[Extra virgin olive oil|extra virgin olive oil]]\n| 1 tablespoon [[Sherry vinegar|sherry vinegar]]\n| [[Salt]] to taste\n| [[Mint]] to garnish\n}}\n===Method===\n\n{{RecipeMethod\n| Blend everything apart from the [[Mint|mint]] in a [[Food processor|food processor]] or liquidiser.\n| Pour into a container and place it in the [[Freezer|freezer]].\n| Periodically, remove from [[Freezer|freezer]] and whisk with a fork to break down any ice crystals that form.\n| When ready, serve garnished with a couple of [[Mint leaves|mint leaves]].\n| If you have an [[Ice-cream maker|ice-cream maker]], follow the manufacturer\u2019s instructions.\n}}\n\n{{Soft ice cream}}\n{{RecipeLine}}\n[[Category:Recipes|Sorbet gazpacho]]\n[[Category:Accompaniments|Sorbet gazpacho]]\n[[Category:Garlic recipes]]\n[[Category:Ice-cream recipes|Sorbet gazpacho]]\n[[Category:Spanish recipes|Sorbet gazpacho]]\n[[Category:Starters|Sorbet gazpacho]]\n[[Category:Vegetable recipes|Sorbet gazpacho]]\n[[Category:Vegetarian recipes|Sorbet gazpacho]]\n[[Category:Vegan recipes]]\n[[Category:Savoury ice-cream recipes]]\n[[Category:Frozen]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mint #freezer #sorbetedegazpacho #foodprocessor #mintleaves #unusualrecipes #greenpepper #seeds #sherryvinegar #frozen #cucumber </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Bifes de Atum",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bifes de Atum, Garlic recipe \n|titlemode=replace\n|keywords=#bifesdeatum #diced #parsley #lard #cockles #garlic #clams #tinfoil #fry #panfried #oliveoil \n|hashtagrev=032020\n|description=A very quick and easy dish from the Algarve\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2042\n|PortionCalories = 510\n|DatePublished=20th January 2013\n|Author=JuliaBalbilla\n|ImageComment = Bifes de Atum with [[White bean salad]]\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 20 minutes\n |PrepTime = 5 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Bifes de Atum (Tuna steaks) recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Holiday meals</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5 </span>\n\n<span class=\"reviewDesc\">Lovely and Spanish .  Reminds me of holidays there.</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nA very quick and easy dish from the Algarve.\n\n\n{{RecipeIngredients\n| 4 x 150 g [[Tuna steaks|tuna steaks]]\n| 100 g [[Lard|lard]] (use 100 ml [[Olive oil|olive oil]] instead if you prefer)\n| 1 large [[Onion|onion]], [[Diced|diced]]\n| [[Garlic]] to taste, [[Diced|diced]]\n| 3 tablespoons [[Parsley|parsley]], chopped\n| [[Salt]] and [[Pepper|pepper]], to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the [[Lard|lard]] or [[Oil|oil]] in a large pan.\n| Add onions, garlic and [[Fry|fry]] gently for about 8 minutes or until all the ingredients are cooked.\n| Turn the heat up a little, add the [[tuna]] and fry for 3 or 4 minutes a side, turning once.\n| Mix in the [[parsley]], cover with [[Tin foil|tin foil]] and allow to rest for 5 minutes before serving.\n}}\n===Serving suggestions===\nServe with [[Boiled|boiled]] or [[Fried potatoes|fried potatoes]], or [[Rice|rice]] cooked with [[Clams|clams]] or [[Cockles|cockles]].\n<gallery widths=300px heights=300px perrow=5>\nImage:Bifes de Atum (Tuna steaks) ready to rest.jpg|thumb|300px|right|Ready to rest\nImage:Bifes de Atum (Tuna steaks) one side cooked.jpg|thumb|300px|right|One side cooked, ready to turn over\n</gallery>\n\n===Chef's notes===\nI have reduced the original recipe's cooking times, see [[Talk:Bifes_de_Atum]] for rationale and original recipe.\n{{RecipeLine}}\n[[Category:Recipes|Tuna steaks]]\n[[Category:Fish recipes|Tuna steaks]]\n[[Category:Garlic recipes]]\n[[Category:Main courses|Tuna steaks]]\n[[Category:Portuguese recipes|Tuna steaks]]\n[[Category:Sea fish recipes|Tuna steaks]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bifesdeatum #diced #parsley #lard #cockles #garlic #clams #tinfoil #fry #panfried #oliveoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

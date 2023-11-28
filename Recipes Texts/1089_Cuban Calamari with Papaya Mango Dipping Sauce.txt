@@ -1,0 +1,15 @@
+ 
+
+title": "Cuban Calamari with Papaya Mango Dipping Sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cuban Calamari with Papaya Mango Dipping Sauce recipe\n|titlemode=replace\n|keywords=#cubancalamariwithpapayamangodippingsauce #squid #natcomangopulp #honey #calamari #lemonwedges #hotsauce #deepfry #papaya #sauce #recipesfromothersites \n|hashtagrev=032020\n|description=This recipe is a Miami restaurant seafood classic\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 932\n|PortionCalories = 233\n|DatePublished=24th November 2014\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = 4\n|Difficulty = 1\n|TotalTime = 20 minutes\n|PrepTime =  5 minutes\n|CookTime = 15 minutes\n|Image = [[Image:Cuban Calamari with Papaya Mango Dipping Sauce recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Where are you?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5 </span>\n\n<span class=\"reviewDesc\">Cuban Cuisine seems to have disappeared :(</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nHere is a Miami restaurant seafood classic!\n\n{{RecipeIngredients\n\n| 453 g [1 lb] fresh [[Calamari|calamari]] ([[Squid|squid]]) (cut into rings)\n| &#189; cup [[Tex's Coat n Bake]]\n| 3 tablespoons Encona [[Papaya]] [[Hot Sauce]]\n| 4 tablespoons [[Natco mango pulp|natco mango pulp]]\n| 2 tablespoons [[Honey|honey]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Coat [[Squid|squid]] with [[Tex's Coat n Bake|tex's coat n bake]].\n| [[Deep fry]] at high [[Oil|oil]] temperature, in batches, for 3 -4 minutes or until golden brown.\n| Combine remaining ingredients to create a hot fruity perfect tropical dipping [[Sauce|sauce]]\n| Serve with [[Lemon wedges|lemon wedges]].\n}}\n===Serving suggestions===\nThis is a great party dish!\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:Accompaniments]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Fish recipes]]\n[[Category:Sea fish recipes]]\n[[Category:Shellfish recipes]]\n[[Category:CubanCuisine.co.uk]]\n[[Category:Deep fried]]\n===Recipe source===\n{{Template:RecipeCourtesyOfCubanCuisine}}\n[[Category:Recipes from other sites]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cubancalamariwithpapayamangodippingsauce #squid #natcomangopulp #honey #calamari #lemonwedges #hotsauce #deepfry #papaya #sauce #recipesfromothersites </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

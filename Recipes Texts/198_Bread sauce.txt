@@ -1,0 +1,15 @@
+ 
+
+title": "Bread sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bread sauce, British recipe \n|titlemode=replace\n|keywords=#breadsauce #onion #garlic #cremefraiche #sauce #nutmeg #breadcrumbs #simmer #bayleaves #grated #bayleaf \n|hashtagrev=032020\n|description=A bread sauce recipe courtesy of British Onions\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 874\n|PortionCalories = 145\n|DatePublished=17th January 2013\n|Author=JuliaBalbilla\n|ImageComment = Making bread sauce\n |Servings = Serves 6 to 8\n |Difficulty = 1\n |TotalTime = 50 minutes\n |PrepTime = 10 minutes\n |CookTime =  40 minutes\n |Image = [[Image:Bread sauce recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Christmas Turkey sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">We have this every Christmas dinner</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\nA bread sauce recipe courtesy of British Onions.\n\n{{RecipeIngredients\n| 1 [[Onion|onion]], peeled and halved\n| 10 [[Cloves|cloves]]\n| 1 [[Garlic|garlic]] clove\n| 2 [[Bay leaves|bay leaves]]\n| 500ml [[Milk|milk]]\n| 125g white [[Bread crumbs|bread crumbs]]\n| 4 tablespoons of [[Creme fraiche|creme fraiche]] (optional)\n| Pinch of [[Grated|grated]] [[Nutmeg|nutmeg]]\n| Maldon [[Salt|salt]] and [[Freshly ground pepper|freshly ground pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Stud the [[Onion|onion]] with the [[Cloves|cloves]]. \n| Place the [[Onion|onion]], [[Garlic|garlic]], [[Milk|milk]], and [[Bay leaf|bay leaf]] in a saucepan over a moderate heat and leave it to [[Simmer|simmer]] 15 minutes then remove it from the heat and leave it to infuse for 20 minutes. \n| Strain the [[Milk|milk]] and return it to the saucepan and bring it to a [[Simmer|simmer]]. \n| Stir in the [[Breadcrumbs|breadcrumbs]] and stir it softens. \n| Remove the [[Sauce|sauce]] from the pan and stir in the [[Creme fraiche|creme fraiche]] and [[Nutmeg|nutmeg]] and seasoning. \n| Serve warm in a [[Sauce|sauce]] boat.\n}}\n==See also==\n* [[Creamy bread sauce with garlic]]''\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:British Onions recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Boiled or simmered]]\n{{Template:British Onions attribution}}\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#breadsauce #onion #garlic #cremefraiche #sauce #nutmeg #breadcrumbs #simmer #bayleaves #grated #bayleaf </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

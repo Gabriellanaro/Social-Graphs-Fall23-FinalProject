@@ -1,0 +1,16 @@
+title": "Plain oatcakes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Plain oatcakes, Irish recipe \n|titlemode=replace\n|keywords=#cheesyoatcakes #plainoatcakes #lard #dough #boiling #oatmeal #miseenplace #bake #bakingtray #greaseproofpaper #fry \n|hashtagrev=032020\n|description=Delicious with sweet or savoury items, these oatcakes are simple to make\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 393\n|PortionCalories = 196\n|DatePublished=20th September 2012\n|Author=Chef\n|ImageComment = These are the [[Cheesy oatcakes|cheesy version]]\n |Servings = Serves 2\n |Difficulty = 2\n |TotalTime = 25 minutes\n |PrepTime = 15 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Cheesey oatcakes recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">My favourite!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Great with a cup of tea</span>\n \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nDelicious with sweet or [[Savory|savoury]] items, these [[Oatcakes|oatcakes]] are simple to make.\n\n{{RecipeIngredients\n| 60 g (2oz) medium [[Oatmeal|oatmeal]], plus extra for sprinkling\n| 60 g (2oz) [[Wholemeal flour|wholemeal flour]].\n| &frac12; teaspoon of [[Bicarbonate of soda|bicarbonate of soda]].\n| A pinch of [[Salt|salt]].\n| 5 tablespoons of [[Boiling|boiling]] water.\n| A tablespoon of [[Lard|lard]].\n\n}}\n\n===[[Mise en place]]===\n* Preheat the [[oven]] to  204\u00b0 C (400\u00b0 F - Gas 6)\n===Method===\n\n{{RecipeMethod\n| Grease a [[baking tray]] and line with [[Greaseproof paper|greaseproof paper]]\n| Melt a tablespoon of [[Lard|lard]] in a bowl and add the [[Fry|fry]] ingredients, mix well\n| Add 5 tablespoons of [[Boiling|boiling]] water and mix. Using a palette knife fold the mixture until a [[Dough|dough]] starts to form\n| Sprinkle a little [[Oatmeal|oatmeal]] on a board, cut the [[Dough|dough]] into two and roll each half out into rounds, about 5 cm (1/2\") thick\n| Score into [[Farls|farls]]\n| [[Bake]] in the oven for about 10 minutes or until golden [[Brown|brown]]\n| Cool on a rack before eating\n}}\n==See also==\n* [[Cheesy oatcakes]]\n{{RecipeLine}}\n[[Category:Recipes|Oatcakes]]\n[[Category:Accompaniments|Oatcakes]]\n[[Category:Bread and baking|Oatcakes]]\n[[Category:British recipes|Oatcakes]]\n[[Category:Irish recipes|Oatcakes]]\n[[Category:Grain and bean recipes|Oatcakes]]\n[[Category:Snacks and light bites|Oatcakes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cheesyoatcakes #plainoatcakes #lard #dough #boiling #oatmeal #miseenplace #bake #bakingtray #greaseproofpaper #fry </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

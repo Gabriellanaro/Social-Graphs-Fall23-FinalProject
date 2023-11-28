@@ -1,0 +1,16 @@
+title": "Cavolo rosso",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cavolo rosso, Italian recipe \n|titlemode=replace\n|keywords=#cavolorosso #oliveoil #redcabbage #prosciutto #nutmeg #redwine #homesmokedbacon #onions #blackpepper #vegetable #simmer \n|hashtagrev=032020\n|description=Cavolo rosso, red cabbage braised in wine is an interesting accompaniment for fatty meats or just a nice vegetable side-dish\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 758\n|PortionCalories = 126\n|DatePublished=30th July 2013\n|Author=Chef\n|ImageComment = Cavolo rosso at the start of the cooking procdure\n|Servings = Serves 6\n|Difficulty = 2\n|TotalTime =  42 minutes\n|PrepTime =  5 minutes\n|CookTime =  37 minutes\n|Image = [[Image:Cavolo rosso recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">This goes for miles!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Half a cabbage will last you for days.</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nCavolo rosso, red cabbage braised in wine is an interesting [[Accompaniment|accompaniment]] for fatty [[Meats|meats]] or just a nice [[Vegetable|vegetable]] side-dish.\n\n{{RecipeIngredients\n\n| 2 tablespoons [[Olive oil|olive oil]]\n| 1 large [[Onion|onion]], peeled and thinly sliced\n| 75 g (3 oz) [[prosciutto]] or [[Home smoked bacon|Home smoked bacon]] or [[Lardons|lardons]]\n| 1kg whole [[red cabbage]] (2.25 lb)), cored and [[Shredded|shredded]]\n| 5 tablespoons of [[Red wine|red wine]]\n| &#189; teaspoon freshly [[Grated|grated]] [[Nutmeg|nutmeg]]\n| [[Sea Salt|sea salt]] and [[Freshly ground black pepper|freshly ground black pepper]]\n\n}}\n\n===Method===\n\n{{RecipeMethod\n\n| Add the [[Olive oil|olive oil]] and a good grind of [[black pepper]] to a large saucepan and heat.\n| [[Saute]] the [[Onions|onions]] for 2 minutes.\n| Stir in the [[prosciutto]] and cook to 2 minutes.\n| Add the sliced [[Red cabbage|red cabbage]] and cook for 3 minutes, stirring now and then.\n| Add the [[Red wine|red wine]], [[Nutmeg|nutmeg]] and a pinch of [[Salt|salt]], cover and [[Simmer|simmer]] gently for 30 minutes, checking that it does not dry out.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Italian recipes]]\n[[Category:Accompaniments]]\n[[Category:Vegetable recipes]]\n[[Category:Cooking with wine]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cavolorosso #oliveoil #redcabbage #prosciutto #nutmeg #redwine #homesmokedbacon #onions #blackpepper #vegetable #simmer </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

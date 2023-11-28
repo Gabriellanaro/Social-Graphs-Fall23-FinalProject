@@ -1,0 +1,15 @@
+ 
+
+title": "Yellow pea soup",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[\u00c4rtsoppa (Swedish pea soup)]]\n[[]]\n[[Category:Swedish recipes]]\n[[Category:Main courses]]\n[[Category:Soup and stock recipes]]\n[[Category:Starters]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

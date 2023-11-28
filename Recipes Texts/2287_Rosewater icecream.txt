@@ -1,0 +1,15 @@
+ 
+
+title": "Rosewater ice-cream",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Rosewater ice-cream, Sweet recipe \n|titlemode=replace\n|keywords=#rosewatericecream #fruits #freezer #mint #rosewater #doublecream #castersugar \n|hashtagrev=032020\n|description=This rosewater ice cream recipe is a delicious creamy ice\u2013cream and the ingredients have been kept to a minimum\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2748\n|PortionCalories = 343\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|Servings = Servings: 8 - Makes 600 ml of ice cream\n |Difficulty = 1\n |TotalTime = 2 hours\n |PrepTime = 2 hours\n |CookTime = None\n |Image = [[Image:Rosewater ice-cream recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">very creamy</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Best not make this part of you regular diet</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\nThis is a simple, but delicious creamy [[ice\u2013cream]] and the ingredients have been kept to a minimum.\n\n{{RecipeIngredients\n| 600 ml [[Double cream|double cream]]\n| 80-90 ml [[Caster sugar|caster sugar]] (or to taste)\n| &frac34; teaspoon [[Rosewater|rosewater]] (or to taste)\n| Pinch of [[Salt|salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| If you are using an [[ice-cream maker]], follow the manufacturer\u2019s instructions.\n| To make by hand, place all of the ingredients in a container and mix well.\n| Place it in the [[Freezer|freezer]] and, every half-hour or so, remove from freezer and mix again.\n| Repeat this process until the [[ice-cream]] is at the desired consistency.\n}}\n===Serving suggestions===\nWith a piece of [[Mint|mint]] or summer [[Fruits|fruits]].\n\n{{Soft ice cream}}\n\n--[[User:Ncis-scaligeri|Ncis-scaligeri]] 10:17, 28 January 2009 (UTC)\n{{RecipeLine}}\n[[Category:Recipes|Ice-cream]]\n[[Category:Middle Eastern recipes|Ice-cream]]\n[[Category:Sweets and desserts|Ice-cream]]\n[[Category:Ice-cream recipes]]\n[[Category:Frozen]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#rosewatericecream #fruits #freezer #mint #rosewater #doublecream #castersugar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

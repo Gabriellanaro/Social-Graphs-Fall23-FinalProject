@@ -1,0 +1,16 @@
+title": "Cream of cucumber soup (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cream of cucumber soup - A Thermomix recipe\n|titlemode=replace\n|keywords=#garlic #onion #potatoes #cucumber #cucumbers #oliveoil #bread #soup #potato #cream #vegetablestock \n|hashtagrev=032020\n|description=This is a hot, delicate cucumber and potato soup, suitable for a cold day\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 745\n|PortionCalories = 186\n|DatePublished=25th October 2012\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4-6\n|Difficulty = 1\n|TotalTime =  40 minutes\n|PrepTime =  10 minutes\n|CookTime =  30 minutes\n|Image = [[Image:Cream of cucumber soup (TM) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Unusual</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.1</span>/5</span>\n\n<span class=\"reviewDesc\">I liked the garlic in this.</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis is a hot, delicate [[Cucumber|cucumber]] and [[Potato|potato]] [[Soup|soup]], suitable for a cold day.\n\n{{RecipeIngredientsTM\n| 30g [[Olive oil|olive oil]]\n| [[Garlic]] to taste, peeled\n| 100g [[Onion|onion]], peeled and chopped\n| 500g [[Cucumbers|cucumbers]], peeled and chopped\n| 300g [[Potatoes|potatoes]], peeled and chopped\n| 500g [[Vegetable Stock|vegetable stock]]\n| [[Salt]] to taste\n| 100g [[Single cream|single cream]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Oil|oil]] in the bowl '''6 minutes / Temp Varoma / Speed Spoon'''.\n| Add the [[garlic]] and [[Onion|onion]] '''12 minutes / Temp Varoma / Reverse Blade / Speed Spoon / MC Off'''.\n| Add the [[Cucumbers|cucumbers]] and [[Potatoes|potatoes]] '''4 secs / Speed 5'''.\n| Add the [[Stock|stock]] and [[Salt|salt]] '''12 minutes / 100\u00b0 / Speed 1'''.\n| Add the [[Cream|cream]] '''30 secs  / Speed progressively 5-10'''.\n}}\n===Serving suggestions===\nServe with crusty [[Bread|bread]].\n===Variations===\nIf you wish, you can remove the [[Seeds|seeds]] from the [[Cucumber|cucumber]], but personally I don't bother.\n===Chef's notes===\nI used half a bulb of [[garlic]], but I feel it could take more without losing its delicacy.\n{{RecipeLine}}\n[[Category:Recipes|Cucumber soup]]\n[[Category:Mexican recipes|Cucumber soup]]\n[[Category:Snacks and light bites|Cucumber soup]]\n[[Category:Soup and stock recipes|Cucumber soup]]\n[[Category:Starters|Cucumber soup]]\n[[Category:Vegetarian recipes|Cucumber soup]]\n[[Category:Garlic recipes|Cucumber soup]]\n[[Category:Vegetable recipes|Cucumber soup]]\n[[Category:Thermomix recipes|Cucumber soup]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlic #onion #potatoes #cucumber #cucumbers #oliveoil #bread #soup #potato #cream #vegetablestock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

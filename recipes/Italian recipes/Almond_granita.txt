@@ -1,0 +1,16 @@
+title": "Almond granita",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Almond granita, Italian recipe \n|titlemode=replace\n|keywords=#almondgranita #almonds #granita #almond #frozen #freeze #cheesecloth #foodprocessor #sieve #blanched #dessert \n|hashtagrev=032020\n|description=A speciality of Catania, Sicily, almond granita is a semi-frozen dessert of sweetened almond milk\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 1548\n|PortionCalories = 258\n|DatePublished=2nd January 2013\n|Author=Chef\n|ImageComment = Ice cream maker with built-in freezer\n |Servings = Serves 6 - Makes about 750 ml of [[granita]]\n |Difficulty = 1\n |TotalTime = 14 hours\n |PrepTime = 14 hours\n |CookTime = None\n|Image = [[Image:Freezing Ice cream maker.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Funny smell</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Lovely taste though.</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nA speciality of Catania, Sicily, [[Almond|almond]] [[Granita|granita]] is a semi-[[Frozen|frozen]] [[Dessert|dessert]] of sweetened almond [[Milk|milk]].  Not dissimilar to a sophisticated Slush Puppy.\n\nDelicious in small amounts but if you're a pig, it will make your head and teeth ache. I know from experience!\n\n{{RecipeIngredients\n| 250 g [[Blanched|blanched]], peeled [[Almonds|almonds]].\n| 600 ml water.\n| 125 g [[Castor sugar|castor sugar]].\n}}\n===Method===\n\n{{RecipeMethod\n| Add the [[Sugar|sugar]], water and [[Almonds|almonds]] to a [[Food processor|food processor]] with a metal blade and blitz until very smooth.\n| Strain this [[Almond|almond]] milk through a [[Jelly-bag|jelly-bag]] or a [[Cheesecloth|cheesecloth]] over a [[Sieve|sieve]]. Leave overnight to drip through.\n| Leave the resulting milk to cool in the [[Refrigerator|refrigerator]] for a few hours.\n| Place in your [[Ice-cream maker|ice-cream maker]] (60 minutes is perfect in our [[Ice-cream maker|Cuisinart model]]).\n| [[Freeze]] in an airtight [[Lock&Lock-type box]].\n}}\n===Serving suggestions===\nUsing an [[Ice-cream scoop]], scrape off any layers of ice-crystals and serve on a pre-chilled plate.\n\n{{Soft ice cream}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Ice-cream recipes]]\n[[Category:Italian recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Sweets and desserts]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Uncooked]]\n[[Category:Frozen]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#almondgranita #almonds #granita #almond #frozen #freeze #cheesecloth #foodprocessor #sieve #blanched #dessert </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

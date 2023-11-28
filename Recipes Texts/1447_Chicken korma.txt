@@ -1,0 +1,15 @@
+ 
+
+title": "Chicken korma",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chicken korma, Indian recipe \n|titlemode=replace\n|keywords=#chicken #onion #chickenkorma #wok #simmer #boiledorsimmered #sauce #dice #pilaurice #fry #naanbread \n|hashtagrev=032020\n|description=A mildly spiced creamy curry\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2655\n|PortionCalories = 663\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Patak's Korma Curry Paste\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 1 hour\n|PrepTime = 5 minutes\n|CookTime = 55 minutes\n|Image = [[Image:PataksKorma.jpg|200px|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">There are better curry pastes</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">2.5</span>/5</span>\n\n<span class=\"reviewDesc\">Mae Ploy curry pastes, for instance</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n\nA mildly spiced creamy curry.\n\n{{RecipeIngredients\n| 1 medium [[onion]] ([[diced]])\n| 4 [[Chicken]] Breasts (cut into small chunks)\n| 4 Tablespoons of Patak's Korma Paste\n| 500ml [[Creme fraiche]]\n}}\n===Method===\n\n{{RecipeMethod\n| [[Dice]] the [[onion]] and [[fry]] in a deep [[wok]] or [[frying pan]] until soft\n| Add the [[chicken]] and stir until sealed\n| Once [[chicken]] is sealed, add 4 heaped tablespoons of Patak's Korma Paste and stir until chicken and [[onion]] are thoroughly coated\n| Once thoroughly coated, add the Creme Fraiche and stir until mixed well\n| Turn down to a low heat and [[simmer]] uncovered for 30-40 minutes until [[chicken]] is tender\n| The [[sauce]] will thicken - if it becomes too thick, add a small amount of cold water and stir thoroughly\n}}\n===Serving suggestions===\n\nServe with [[Pilau rice]] or [[Naan bread]]\n{{RecipeLine}}\n[[Category:Recipes|Chicken ]]\n[[Category:Indian recipes]]\n[[Category:Spicy recipes]]\n[[Category:Main courses]]\n[[Category:Student recipes]]\n[[Category:Pan fried]][[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chicken #onion #chickenkorma #wok #simmer #boiledorsimmered #sauce #dice #pilaurice #fry #naanbread </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

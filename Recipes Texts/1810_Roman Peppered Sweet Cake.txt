@@ -1,0 +1,15 @@
+ 
+
+title": "Roman Peppered Sweet Cake",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Roman Peppered Sweet Cake, Italian recipe\n|titlemode=replace\n|keywords=#romanpepperedsweetcake #almonds #spelt #miseenplace #sherry #unusualrecipes #cinnamon #bakingpowder #bakingtray #rosemary #wheatflour \n|hashtagrev=032020\n|description=An authentic Ancient Roman recipe for a peppered confection\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1497\n|PortionCalories = 149\n|DatePublished=20th December 2013\n|Author = JuliaBalbilla\n|ImageComment = \n|Servings = Servings: 10 - Makes 1 cake\n|Difficulty = 2\n|TotalTime = 45 minutes \n|PrepTime = 15 minutes \n|CookTime = 30 minutes\n|Image = [[Image:Roman Peppered Sweet Cake recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">It does look ancient too!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Strange food!!!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nAn authentic Ancient Roman recipe for a peppered confection.\n\n{{RecipeIngredients\n\n| 225g [[Spelt]] [[Wheat flour|wheat flour]]\n| 5ml [[Baking powder|baking powder]]\n| 5ml [[Ground]] [[Rosemary]]\n| 100g Chopped [[Almonds]]\n| 5ml [[Cinnamon]]\n| 60ml [[Sherry]]\n| 60ml Red [[Grape juice|grape juice]]\n| Squeeze of [[Honey|honey]]\n| a little bit of [[Milk|milk]]\n\n}}\n\n===[[Mise en place]]===\nPreheat the [[oven]] to 180\u00b0C (350\u00b0F - Gas 4 - Moderate/Medium)\n===Method===\n\n{{RecipeMethod\n\n| Mix all of the ingredients except the [[Milk|milk]] into a bowl. \n| Add a little bit of [[Milk|milk]] to the combine the mixture and make a soft dropping consistancy. \n| Put on a [[Baking tray|baking tray]] and into an [[Oven|oven]] at gas mark 5 (190\"C) for approx 30 minutes and here you have it!\n}}\n===Recipe source===\n* https://www.facebook.com/pages/Discover-History/167303316632976?fref=ts\n==See also===\n* [[Roman sweet wine cakes]]\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Italian recipes]]\n[[Category:Historic recipes]]\n[[Category:Sweets and desserts]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#romanpepperedsweetcake #almonds #spelt #miseenplace #sherry #unusualrecipes #cinnamon #bakingpowder #bakingtray #rosemary #wheatflour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

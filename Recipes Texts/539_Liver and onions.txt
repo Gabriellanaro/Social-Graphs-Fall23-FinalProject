@@ -1,0 +1,15 @@
+ 
+
+title": "Liver and onions",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Liver and onions, British recipe \n|titlemode=replace\n|keywords=#butter #liverandonions #blackpepper #chives #plainflour #deglazing #shallots #onions #sherry #oliveoil #panfried \n|hashtagrev=032020\n|description=One of our favourite recipes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2455\n|PortionCalories = 613\n|DatePublished=21st January 2013\n|Author=Chef\n|ImageComment = Liver and onions with salad\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 30 minutes\n|PrepTime = 10 minutes\n|CookTime = 20 minutes\n|Image = [[Image:Liver salad.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Symmetrical food</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Love liver, and patterns, then this is for you</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n\nOne of our favourite recipes.\n\n{{RecipeIngredients\n| 600g (1 lb 5 oz) lambs liver, de-veined and sliced\n| [[Plain flour]] for dusting\n| 40g/1.5 oz [[butter]]\n| 2 tablespoons [[olive oil]]\n| 4 [[shallots]], sliced, small [[onions]] would be ok\n| 175 ml/6 fl oz dry white wine or [[sherry]] \n| Salt & freshly ground [[black pepper]]\n| Finely chopped [[chives]] to garnish\n}}\n===Method===\n\n{{RecipeMethod\n| Season a little flour with [[black pepper]] and coat the liver\n| Heat 25g of [[butter]] and 2 tablespoons of olive oil in a frying pan\n| Add the liver and cook for 2 minutes a side\n| Season with a little [[salt]]\n| Reserve the liver to a plate and keep warm\n| Add the shallots to the pan and cook over a gentle heat for about 10 minutes\n| [[Deglazing|Deglaze]] the pan with the wine and continue cooking until the liquid has reduced by half\n| Add the remaining 15g of [[butter]], stir and remove from heat\n| Pour the sauce over the liver, garnish with the chopped [[chives]] and serve\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Offal recipes]]\n[[Category:British recipes]]\n[[Category:Cooking with wine]]\n[[Category:Favourite recipes]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#butter #liverandonions #blackpepper #chives #plainflour #deglazing #shallots #onions #sherry #oliveoil #panfried </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

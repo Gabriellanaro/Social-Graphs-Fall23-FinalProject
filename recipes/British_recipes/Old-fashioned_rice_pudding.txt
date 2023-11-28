@@ -1,0 +1,16 @@
+title": "Old-fashioned rice pudding",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Old-fashioned rice pudding, British recipe\n|titlemode=replace\n|keywords=#rice #oldfashionedricepudding #nutmeg #evaporatedmilk #butter #grain #grated #honey #miseenplace #fat #jam \n|hashtagrev=032020\n|description=You either love or loathe this; it's the original, thick skinned, spicy flavoured, creamy rice pudding\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 935\n|PortionCalories = 233\n|DatePublished=21st January 2013\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 1 hour 35 minutes\n|PrepTime = 5 minutes\n|CookTime = 1 hour 30 minutes\n|Image = [[Image:Original rice pudding recipe.jpg|alt=Electus]]\n}}\n\nYou either love or loathe this; it's the original, thick skinned, spicy flavoured, creamy [[Rice|rice]] pudding.\n\n{{RecipeIngredients\n| 110g (4 oz) short-[[Grain|grain]] [[Rice|rice]] (pudding rice)\n| 568 ml (1 pint) full-[[Fat|fat]] [[Milk|milk]]\n| 410g tin of [[Evaporated milk|evaporated milk]] (14.5 oz)\n| 40g (1.5 oz) [[Sugar|sugar]], [[Jaggery|jaggery]] or [[Honey|honey]]\n| 1 whole [[Nutmeg|nutmeg]], [[Grated|grated]]\n| 25g [[Butter|butter]]\n\n}}\n\n===[[Mise en place]]===\n* Preheat the oven to 150\u00b0 C (300 \u00b0F - gas 2)\n\n===Method===\n\n{{RecipeMethod\n| Evenly distribute the [[Rice|rice]] and  [[Sugar|sugar]] in a suitable oven proof serving dish\n| Mix the [[Evaporated milk|evaporated milk]] and the [[Milk|milk]] together and pour over the [[Rice|rice]]\n| Grate the [[Nutmeg|nutmeg]] over the surface and dot with shavings of [[Butter|butter]]\n| Place in the oven for 30 minutes\n| After 30 minutes, remove and stir well\n| Cook for a further hour without stirring\n}}\n===Serving suggestions===\n\nServe hot with spoonfuls of [[Strawberry|strawberry]] [[Jam|jam]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thick-skinned</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.5</span>/5 </span>\n\n<span class=\"reviewDesc\">Not for me.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Historic recipes]]\n[[Category:Sweets and desserts]]\n[[Category:British recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#rice #oldfashionedricepudding #nutmeg #evaporatedmilk #butter #grain #grated #honey #miseenplace #fat #jam </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

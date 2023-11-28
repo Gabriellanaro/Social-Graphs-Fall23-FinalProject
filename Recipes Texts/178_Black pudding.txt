@@ -1,0 +1,15 @@
+ 
+
+title": "Black pudding",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Black pudding, a classic British recipe Cooking Wiki\n|titlemode=replace\n|keywords=#blackpudding #suet #recipes #pig #sheep #historicrecipes #cattle #sweetpotato #boiledorsimmered #britishrecipes #timoleaguebrownpudding \n|hashtagrev=12032020\n|description=Black pudding or (less often) blood pudding is a British English term for sausage made by cooking blood with a filler until it is thick enough to\n|datePublished=2013-08-16\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n[[Image:Boudin.jpg|thumb|250px|right|Boudin noir(French black pudding) - before cooking]]\n[[Image:Black pudding.jpg|thumb|250px|right|A modern black pudding]]\n'''Black pudding''' or (less often) '''blood pudding''' is a British English term for [[sausage]] made by cooking blood with a filler until it is thick enough to congeal when cooled. It is also called blood sausage (first attested in 1868, perhaps influenced by German Blutwurst). \n\n[[Pig]] or [[cattle]] blood is most often used; [[sheep]] and [[goat]] blood are used to a lesser extent. Blood from [[poultry]], horses and other animals are used more rarely. Typical fillers include [[meat]], [[fat]], [[suet]], [[bread]], [[sweet potato]], [[barley]] and [[oatmeal]].\n===Black pudding - a recipe from 1600===\n\n\"Small otemeal mixed with blood, and liver ot either sheep, calf or swine, maketh that pudden...whose goodness it is in vain to boast because there is hardly to be found a man that doth not affect them.\"\n\n''English Housewife's Booke, 1600''\n\n''This was taken from the wonderful book: [[Food In England|''Food in England - Dorothy Hartley'']]''\n\n==See also==\n* [[Timoleague Brown pudding]]\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Historic recipes]]\n[[Category:Meat recipes]]\n[[Category:Offal recipes]]\n[[Category:Pork recipes]]\n[[Category:British recipes]]\n[[Category:Boiled or simmered]]\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#blackpudding #suet #recipes #pig #sheep #historicrecipes #cattle #sweetpotato #boiledorsimmered #britishrecipes #timoleaguebrownpudding </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

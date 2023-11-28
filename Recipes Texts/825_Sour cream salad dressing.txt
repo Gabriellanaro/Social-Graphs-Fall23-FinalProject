@@ -1,0 +1,15 @@
+ 
+
+title": "Sour cream salad dressing",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sour cream salad dressing recipe\n|titlemode=replace\n|keywords=#sourcream #whitewinevinegar #sourcreamsaladdressing #chives #oliveoil #saladdressing #salad #lettuce \n|hashtagrev=032020\n|description=I made this with some leftover sour cream and it was delicious. I used it in a much larger quantity that I would with a normal salad\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 211\n|PortionCalories = 52\n|DatePublished=2nd October 2015\n|Author=Chef\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  3 minutes\n|PrepTime =  3 minutes\n|CookTime = None\n|Image = [[Image:Yogurt salad dressing recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Superb</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">I need say no more. \ud83d\ude0b\ud83d\ude0b\ud83d\ude0b</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nI made this with some leftover [[Sour cream|sour cream]] and it was delicious.  I used it in a much larger quantity that I would with a normal [[Salad dressing|salad dressing]].  It went really well with big crunchy [[Lettuce|lettuce]] leaves\n{{RecipeIngredients\n\n| 100 ml [[Sour cream|sour cream]]\n| 1 tablespoon [[Olive oil|olive oil]]\n| 2 tablespoons cold water\n| 1 tablespoon [[White wine vinegar|white wine vinegar]]\n| Pinch [[Sea Salt|sea salt]]\n| Pinch [[Freshly ground black pepper|freshly ground black pepper]]\n| Pinch of [[Sugar|sugar]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Whisk all the ingredients together and serve.\n}}\n===Serving suggestions===\nPour over a leafy [[Salad|salad]] and serve immediately.\n===Variations===\nA few snipped [[Chives|chives]] sprinkled over the top make it look nice and add an interesting flavour\n[[Category:Recipes]]\n{{RecipeLine}}\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Salad recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sourcream #whitewinevinegar #sourcreamsaladdressing #chives #oliveoil #saladdressing #salad #lettuce </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

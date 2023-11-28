@@ -1,0 +1,16 @@
+title": "Tahini and olive oil dip",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tahini and olive oil dip recipe Accompaniments\n|titlemode=replace\n|keywords=#lime #garlic #sesameseeds #tahiniandoliveoildip #oliveoil #yogurt #blackpeppercorns #tahini #crispbread \n|hashtagrev=032020\n|description=If you like peanut butter, you'll like this\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 363\n|PortionCalories = 90\n|DatePublished=31st January 2013\n|Author=JuliaBalbilla\n|Servings = 4 people, as one of a selection of dips\n|Difficulty = 1\n|TotalTime = 10 minutes\n|PrepTime = 10 minutes\n|CookTime = None\n|Image = [[Image:Tahini.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Makes a nice dip</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Especially with vegetables</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nIf you like peanut butter, you'll like this.\n\n{{RecipeIngredients\n| 1 clove [[Garlic|garlic]], crushed to a smooth paste, with a pinch of sea salt, in a pestle and mortar\n| 3 tablespoons [[tahini]] (light, preferred)\n| 1 tablespoon extra virgin [[olive oil]]\n| 1 tablespoon [[lime]] juice\n| Up to 10 tablespoons cold water\n| 1 tablespoon of toasted [[sesame seeds]] (optional)\n| Sea salt and ground [[Black peppercorns|black pepper]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| In a small bowl, whisk the olive oil, [[Garlic|garlic]] and tahini\n| Add [[lime]] juice and half the water and whisk vigorously\n| Whisk in extra water until the consistency is similar to [[yogurt]]\n| Sprinkle with toasted [[sesame seeds]]\n}}\n===Serving suggestions===\n\nServe with [[Crispbread|crispbreads]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Dips and sauces]]\n[[Category:Accompaniments]]\n[[Category:North African recipes]]\n[[Category:Middle Eastern recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#lime #garlic #sesameseeds #tahiniandoliveoildip #oliveoil #yogurt #blackpeppercorns #tahini #crispbread </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

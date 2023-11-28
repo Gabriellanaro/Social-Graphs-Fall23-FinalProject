@@ -1,0 +1,16 @@
+title": "Quiquirimichi",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Quiquirimichi recipe Cooking with chillies\n|titlemode=replace\n|keywords=#quiquirimichi #locro #sauce #diced #chilipowder #onions #peppers #redbellpepper #chiliflakes #panfried #onion \n|hashtagrev=032020\n|description=A spicy hot sauce used as an accompaniment to the South American stew / soup: locro\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 73\n|PortionCalories = 18\n|DatePublished=17th January 2013\n|Author=JuliaBalbilla\n| ImageComment = [[Locro]] with Quiquirimichi sauce\n |Servings = Serves 4 - Makes a small portion of [[Quiquirimichi|quiquirimichi]] [[Sauce|sauce]]\n |Difficulty = 1\n |TotalTime = 15 minutes plus cooling time\n |PrepTime = 10 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Quiquirimichi recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">HELP ME!!!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">2.5</span>/5 </span>\n\n<span class=\"reviewDesc\">Tell me what you think of this, Please.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA spicy hot [[Sauce|sauce]] used as an [[Accompaniment|accompaniment]] to the South American [[Stew|stew]] / [[Soup|soup]]: [[Locro|locro]]. \n\nDespite many references to [[Quiquirimichi|quiquirimichi]], I am struggling to find recipes for it.\n\nI have taken the quantities for this recipe from: http://simplyspicedrecipes.blogspot.com/2011/01/argentine-locro-bean-soup.html\n\n{{RecipeIngredients\n| 3 tablespoons of [[Olive oil|olive oil]]\n| 1 [[Red bell pepper|red bell pepper]], deseeded and finely [[Diced|diced]]\n| 1 medium [[Onion|onion]], peeled and finely chopped\n| 1 teaspoon [[Paprika powder|paprika powder]]\n| &#189; teaspoon hot [[Chili flakes|chili flakes]] (or to taste)\n| Pinch of [[Chili powder|chili powder]]\n| [[Salt]] and [[Pepper|pepper]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Gently saut\u00e9 the [[Peppers|peppers]] and [[Onions|onions]] for 5 minutes until softened.\n| Mix the remaining ingredients together\n| Allow to cool & serve.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Chilean recipes]]\n[[Category:Latin American recipes]]\n[[Category:Peruvian recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Spicy recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#quiquirimichi #locro #sauce #diced #chilipowder #onions #peppers #redbellpepper #chiliflakes #panfried #onion </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Tomate frito",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tomate frito, Spanish recipe \n|titlemode=replace\n|keywords=#tomatefrito #tomatoes #tomato #soups #sauces #groundblackpepper #onions #parsley #sieve #seeds #sterilisedjar \n|hashtagrev=032020\n|description=Literally 'Fried tomato', this is a basic sauce from the Pais Vasco\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 660\n|PortionCalories = 23\n|DatePublished=17th January 2013\n|Author=JuliaBalbilla\n|Servings = Servings: 28 - Makes 1 litre\n |Difficulty = 2\n |TotalTime = 50 minutes\n |PrepTime = 20 minutes\n |CookTime = 30 minutes\n |Image = [[Image:Tomate frito recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Tomato sauce!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">Lots of work for tomato sauce, but probably worth it if you use lots.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nLiterally '[[Fried]] [[Tomato|tomato]]', this is a basic [[sauce]] from the Pais Vasco\n\n{{RecipeIngredients\n| 3 kg fresh, ripe [[Tomatoes|tomatoes]], [[Seeds|seeds]] removed and chopped\n| 75 ml [[Olive oil|olive oil]]\n| 10 g [[Salt|salt]]\n| A pinch of [[Ground black pepper|ground black pepper]]\n| [[Garlic]], to taste, finely chopped\n| 3 [[onions]], finely chopped\n| A sprig of [[Parsley|parsley]], finely chopped\n}}\n===Method===\n\n{{RecipeMethod\n| Put  the [[Tomatoes|tomatoes]] and the [[Oil|oil]] in a pan with the other ingredients.\n| Cover the pan and allow to cook slowly for about 30 minutes.\n| Drain the liquid through a [[sieve]] and [[pur\u00e9e]] the [[tomato]] mixture.\n| Store in a [[sterilised jar]] or keep in a [[Lock&Lock boxes|Lock&Lock jug]] in the [[fridge]].\n}}\n===Serving suggestions===\nUse this as the basis for other [[Sauces|sauces]] or spread on toast or [[Molletes antequeranos (Antequera muffins)|Molletes antequeranos]].\n===Chef's Notes=== \nKeep the drained liquid for making [[Gazpacho]] or other [[soups]].  Removing seeds can be a bit of a chore so I did not bother.  It tastes fine and you end up with more liquid.\n{{RecipeLine}}\n[[Category:Recipes|Tomate frito]]\n[[Category:Dips and sauces|Tomate frito]]\n[[Category:Garlic recipes]]\n[[Category:Spanish recipes|Tomate frito]]\n[[Category:Vegetable recipes|Tomate frito]]\n[[Category:Vegetarian recipes|Tomate frito]]\n[[Category:Vegan recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tomatefrito #tomatoes #tomato #soups #sauces #groundblackpepper #onions #parsley #sieve #seeds #sterilisedjar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

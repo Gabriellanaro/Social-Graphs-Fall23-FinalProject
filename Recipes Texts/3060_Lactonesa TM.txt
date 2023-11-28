@@ -1,0 +1,15 @@
+ 
+
+title": "Lactonesa (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Lactonesa - A Thermomix recipe \n|titlemode=replace\n|keywords=#garlic #lemon #thermomix #vinegar #thermomixrecipes #eggs #spanish #mustard #juice #mayonnaise \n|hashtagrev=032020\n|description=Lactonesa is a type of mayonnaise made with milk instead of eggs\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2751\n|PortionCalories = 110\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 25 - Makes about 500g\n|Difficulty = 2\n|TotalTime =  8 minutes\n|PrepTime =  3 minutes\n|CookTime =  5 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A different Thermie Mayo</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Not bad, but I prefer it made with eggs.</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nLactonesa is a type of [[Mayonnaise|mayonnaise]] made with [[Milk|milk]] instead of [[Eggs|eggs]]\n\n{{RecipeIngredientsTM\n| 150g [[Milk|milk]]\n| 1 [[Clove|clove]] [[Garlic|garlic]] [optional]\n| [[Salt]]\n| 300g [[Oil|oil]]\n| The [[Juice|juice]] of &frac12; a [[Lemon|lemon]]\n| A few glugs of [[Vinegar|vinegar]] (optional)\n}}\n===Method===\n\n{{RecipeMethod\n| Weigh the [[Oil|oil]] and reserve.\n| Put the [[Milk|milk]], [[Garlic|garlic]] and [[Salt|salt]] into the bowl '''1 minute / 37\u00b0 / Speed 5''' (if you don\u0092t want the [[Garlic|garlic]], program '''30 seconds / 37\u00b0 / Speed 5''')\n| Program '''3 minutes /  37\u00b0 / Speed 5''' and drop the [[Oil|oil]], little by little, onto the lid, without removing the MC.  (The oil will fall little by little into the bowl)\n| Next, add the [[Lemon|lemon]] or [[Vinegar|vinegar]] and mix for a '''few seconds''' at the '''same speed'''.\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n===Variations===\nYou can add a little colouring or [[Mustard|mustard]] to give it colour.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlic #lemon #thermomix #vinegar #thermomixrecipes #eggs #spanish #mustard #juice #mayonnaise </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

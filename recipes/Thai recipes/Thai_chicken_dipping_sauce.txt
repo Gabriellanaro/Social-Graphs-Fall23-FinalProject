@@ -1,0 +1,16 @@
+title": "Thai chicken dipping sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Thai chicken dipping sauce recipe Accompaniments\n|titlemode=replace\n|keywords=#limejuice #nampla #thaichickendippingsauce #prawns #zest #crawfish #lime #chili #freshredchili #chicken #castersugar \n|hashtagrev=032020\n|description=Perfect for finger dipping chicken pieces\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 22\n|PortionCalories = 11\n|DatePublished=25th March 2012\n|Author=Chef\n|ImageComment = From a similar recipe, no garlic required here!\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime = 2 minutes\n|PrepTime = 2 minutes\n|CookTime = None\n|Image = [[Image:Nuoc cham (chili dipping sauce) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Tasted authentic</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.9</span>/5</span>\n\n<span class=\"reviewDesc\">And was a great dip for prawns and crayfish</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nPerfect for finger dipping [[chicken]] pieces\n\n{{RecipeIngredients\n| 1.5 tablespoons [[lime juice]]\n| Pinch of [[lime]] [[zest]]\n| 1 teaspoon [[caster sugar]]\n| 3 tablespoons [[nam pla]]\n| 1 small [[fresh red chili]], deseeded and sliced to rings\n}}\n===Method===\n\n{{RecipeMethod\n| Stir the [[sugar]] into the [[lime juice]] and whisk to dissolve\n| Add the [[nam pla]] and [[chili]] rings\n}}\n===Serving suggestions===\n\nThis would also go well with [[prawns]] and [[crawfish]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Thai recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#limejuice #nampla #thaichickendippingsauce #prawns #zest #crawfish #lime #chili #freshredchili #chicken #castersugar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

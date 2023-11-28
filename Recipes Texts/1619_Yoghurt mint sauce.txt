@@ -1,0 +1,15 @@
+ 
+
+title": "Yoghurt mint sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Yoghurt mint sauce, Indian recipe \n|titlemode=replace\n|keywords=#yoghurtmintsauce #yoghurt #chillipowder #chillies #garammasala #mintsauce #castersugar #sauce #mangopowder #turmeric \n|hashtagrev=032020\n|description=A simple sauce, often served in British Indian restaurants\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 90\n|PortionCalories = 22\n|DatePublished=19th February 2012\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:Yoghurt mint sauce recipe.jpg|alt=Electus]]\n}}\n\nA simple [[Sauce|sauce]], often served in British Indian restaurants.\n\n{{RecipeIngredients\n| 150 ml plain [[Yoghurt|yogurt]]\n| 2 teaspoons [[Mint sauce|mint sauce]]\n| &frac12; teaspoon [[Salt|salt]]\n| &frac14; teaspoon [[Chilli powder|chilli powder]]\n| &frac14; teaspoon [[Garam masala|garam masala]]\n| &frac14; teaspoon [[Mango powder|mango powder]]\n| &frac12; teaspoon [[Caster sugar|caster sugar]]\n| &frac12; teaspoon [[Turmeric|turmeric]]\n}}\n===Method===\n\n{{RecipeMethod\n| Add all the ingredients to a bowl\n| Mix well and serve\n}}\n===Serving suggestions===\nGoes well with any Indian meal.  The [[Yoghurt|yogurt]] helps to alleviate the heat of [[Chillies|chillies]].\n===Variations===\nLeave out the [[Chilli powder|chilli powder]].\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Too complex</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">Best without the chilli</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n\n{{RecipeLine}}\n[[Category:Recipes|Yoghurt mint sauce]]\n[[Category:Accompaniments|Yoghurt mint sauce]]\n[[Category:Chilli pepper recipes]]\n[[Category:Dips and sauces|Yoghurt mint sauce]]\n[[Category:Indian recipes|Yoghurt mint sauce]]\n[[Category:Marinades dressings and butters|Yoghurt mint sauce]]\n[[Category:Spicy recipes|Yoghurt mint sauce]]\n[[Category:Vegetable recipes|Yoghurt mint sauce]]\n[[Category:Vegetarian recipes|Yoghurt mint sauce]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#yoghurtmintsauce #yoghurt #chillipowder #chillies #garammasala #mintsauce #castersugar #sauce #mangopowder #turmeric </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

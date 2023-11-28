@@ -1,0 +1,16 @@
+title": "Hot horseradish sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Hot horseradish sauce, British recipe \n|titlemode=replace\n|keywords=#hothorseradishsauce #boiledorsimmered #beef #grated #roasted #horseradish #horseradishsauce #whitesauce #mustardpowder #redwinevinegar \n|hashtagrev=032020\n|description=This horseradish sauce is hot, and is also served hot. Excellent with boiled or roasted beef\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 191\n|PortionCalories = 12\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Horseradish root\n |Servings = Servings: 15 - Make 1/2 cup\n |Difficulty = 2\n |TotalTime = 15 minutes\n |PrepTime = 5 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Horseradish sauce with apples recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Yow!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">My tounge is still burning from eating too much of this!</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis [[Horseradish sauce|horseradish sauce]] is hot, and is also served hot.  Excellent with [[Boiled|boiled]] or [[Roasted|roasted]] [[Beef|beef]].\n\n{{RecipeIngredients\n| 125 ml [[White sauce|white sauce]]\n| &frac14; teaspoon [[Mustard powder|mustard powder]]\n| 3 tablespoons [[Red wine vinegar|red wine vinegar]]\n| 3 tablespoons freshly [[Grated|grated]] [[Horseradish|horseradish]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all of the ingredients together\n| Heat and serve!\n}}\n{{Template:HorseradishSeeAlso}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:British recipes]]\n[[Category:Historic recipes]]\n[[Category:Spicy recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Cooking with wine]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#hothorseradishsauce #boiledorsimmered #beef #grated #roasted #horseradish #horseradishsauce #whitesauce #mustardpowder #redwinevinegar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

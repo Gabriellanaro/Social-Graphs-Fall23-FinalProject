@@ -1,0 +1,15 @@
+ 
+
+title": "Pork, sage and onion stuffing",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pork, sage and onion stuffing, Egg recipe\n|titlemode=replace\n|keywords=#pork #porksageandonionstuffing #sausage #butter #onion #bake #sage #stuffingrecipe #breadcrumbs #lamb #baking \n|hashtagrev=032020\n|description=A meaty stuffing recipe, this one specifically to accompany pork\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3225\n|PortionCalories = 537\n|DatePublished=20th January 2013\n|Author=JuliaBalbilla\n|ImageComment = Mincing the meat\n |Servings = Serves 6\n |Difficulty = 1\n |TotalTime = 18 minutes\n |PrepTime = 3 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Mincing the meat.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Meaty stuffing</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">That's for sure</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA meaty [[stuffing recipe]], this one specifically to accompany [[pork]].\n\n{{RecipeIngredients\n| 2 lb (900 g) good-quality [[Pork|pork]] [[Sausage|sausage]] [[Meat|meat]] or finely [[Minced|minced]] pure pork\n| 1 heaped dessertspoon [[Dried|dried]] [[Sage|sage]]\n| 1 large [[Onion|onion]], [[Grated|grated]] or very finely chopped\n| 4 heaped tablespoons white [[Breadcrumbs|breadcrumbs]]\n| 1 [[Egg|egg]], beaten (optional)\n| [[Salt]] and freshly milled [[Black pepper|black pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all the ingredients in a bowl.\n| Use to stuff [[Chicken|chicken]], [[Pork|pork]] or [[Lamb|lamb]], ''or'' place in a [[Baking|baking]] tin dot with [[Butter|butter]] and [[Bake|bake]] for 15 minutes.\n}}\n===Chef's notes===\n{{Template:ThinkPig}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:British recipes]]\n[[Category:British Onions recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Egg recipes]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]\n[[Category:Baked or roasted]]\n{{Template:British Onions attribution}}\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pork #porksageandonionstuffing #sausage #butter #onion #bake #sage #stuffingrecipe #breadcrumbs #lamb #baking </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

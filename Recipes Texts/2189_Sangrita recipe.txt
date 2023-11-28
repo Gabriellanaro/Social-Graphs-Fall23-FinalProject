@@ -1,0 +1,15 @@
+ 
+
+title": "Sangrita recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sangrita recipe Cocktail, from Cookipedia.Co.Uk\n|titlemode=replace\n|keywords=#tequila #tomato #sangritarecipe #juice #mixer #serranochillies #limejuice #lime #oranges #onion #hotchiles \n|hashtagrev=032020\n|description=Sangrita is a tomato juice based drink that is often used as a cocktail mixer or drunk alongside tequila as a chaser\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 134\n|PortionCalories = 67\n|DatePublished=6th August 2012\n|Author=Chef\n|ImageComment = Sangrita\n |Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 3 minutes\n |PrepTime = 3 minutes\n |CookTime = None\n |Image = [[Image:Sangrita.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I thought this would be foul</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">But it's lovely - odd though.</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n'''Sangrita''' is a [[tomato]] juice based drink that is often used as a cocktail mixer or drunk alongside [[tequila]] as a chaser. Not to be confused with \"[[sangria]],\" a fruit and wine concoction, this beverage is a tangy mixture of [[tomato]] and [[orange juices]], usually spiked with [[hot chiles]] and [[lime juice]]. It may sound odd in flavour, but sangrita is considered the perfect accompaniment to good quality [[tequila]], like an aged a\u00f1ejo or a good reposado. The [[tequila]] and sangrita are poured into separate [[shot glasses]] and the two are alternately sipped, not chased. First the [[tequila]], then the chilled sangrita. Slowly, one after the other.\n\n{{RecipeIngredients\n| 100 ml [[Tomato juice|tomato juice]]\n| [[Juice]] from two large [[Oranges|oranges]]\n| [[Juice]] from one [[Lime|lime]]\n| 1 tablespoon [[Grenadine|grenadine syrup]]\n| 1 small [[Onion|onion]], peeled and very finely chopped\n| 2 [[Serrano chillies|serrano chillies]], finely chopped\n| [[Sea Salt|sea salt]] and [[Ground black pepper|ground black pepper]] to taste\n}}\n'''to garnish'''\n* A few [[Coriander leaves|coriander leaves]]\n\n===Method===\n{{RecipeMethod\n| Blend all of the ingredients in a cocktail [[Mixer|mixer]]\n}}\n===Serving suggestions===\nServe chilled, garnished with [[Coriander|coriander]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Mexican recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tequila #tomato #sangritarecipe #juice #mixer #serranochillies #limejuice #lime #oranges #onion #hotchiles </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,15 @@
+ 
+
+title": "Baked herrings and tomatoes (MoF)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Baked herrings and tomatoes (MoF) a British recipe\n|titlemode=replace\n|keywords=#mustard #herrings #vinegar #onion #tomatoes \n|hashtagrev=032020\n|description=From the post-wartime Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1249\n|PortionCalories = 312\n|DatePublished=17th January 2013\n|Author=Chef\n|ImageComment = All about Herrings - 1948\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 50 minutes\n|PrepTime = 5 minutes\n|CookTime = 45 minutes\n|Image = [[Image:All_about_Herrings.jpg|200px|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Spicy fish</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I used mackerel and this was nice</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nFrom the Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948!\n\n{{RecipeIngredients\n| 2 teaspoons [[vinegar]]\n| 2 level teaspoons dry [[mustard]]\n| 4 [[herrings]], cleaned and boned\n| 8 oz fresh [[tomatoes]], fresh or bottled\n| 1 [[onion]], very finely sliced\n| &frac12; - 1 level teaspoon [[salt]]\n| &frac14; level teaspoon [[pepper]]\n| 3-4 tablespoons stock in vegetable water\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the [[mustard]] and [[vinegar]] together\n| Open the [[herrings]] out flat, cut each into three pieces and spread with the [[mustard]]\n| Arrange the tomatoes (skinned and sliced if fresh), [[herrings]] and [[onion]] in layers in an ovenproof dish\n| Sprinkle each layer with seasoning and pour over the stock\n| Bake in a very moderate oven (180\u00b0 C / 350\u00b0 F / Gas 4) for &#190; hour\n}}\n===Serving suggestions===\nServe hot\n{{RecipeLine}}\n[[Category:Recipes|Herring]]\n[[Category:Fish recipes|Herring]]\n[[Category:Sea fish recipes]]\n[[Category:Main courses|Herring]]\n[[Category:Historic recipes|Herring]]\n[[Category:British recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mustard #herrings #vinegar #onion #tomatoes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

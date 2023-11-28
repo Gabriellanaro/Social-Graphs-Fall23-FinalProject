@@ -1,0 +1,16 @@
+title": "Zumo integral de zanahoria (Whole carrot juice) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Zumo integral de zanahoria Whole carrot juice recipe\n|titlemode=replace\n|keywords=#carrots #juice #thermomix #lemon #juicer #seeds #carrot #spain \n|hashtagrev=032020\n|description=This recipe for carrot juice needs to be made in a Thermomix\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 160\n|PortionCalories = 26\n|DatePublished=30th August 2012\n|Author=JuliaBalbilla\n|Servings = Serves 6\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n |Image = [[Image:Carrot juice recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I can see clearly now!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Can't hear a dammn thing though \ud83d\ude1c</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis recipe for [[Carrot|carrot]] [[Juice|juice]] needs to be made in a [[Thermomix]].  It uses the whole [[Carrots|carrots]] whereas if made in a [[Juicer|juicer]] the pulp will be wasted.\n\nThis is a translation of a recipe in '''Thermomix TM31 Imprescindible para tu cocina''', which is the book you receive when buying a [[Thermomix]] in [[Spain]].\n\n{{RecipeIngredientsTM\n| 350g [[Carrots|carrots]], peeled\n| 1 [[Lemon|lemon]], peeled, pith and [[Seeds|seeds]] removed\n| 100g [[Sugar|sugar]] (see Chef's notes below)\n| 500g water (approx)\n| 6 or 8 ice cubes\n}}\n===Method===\n\n{{RecipeMethod\n| Chop the [[Carrots|carrots]] '''5 seconds / Speed 5'''.\n| Add the [[Lemon|lemon]], [[Sugar|sugar]], water and ice cubes and set for '''3 minutes / Speed 10'''.\n| If it is not smooth enough for you, repeat the operation for a little longer.\n| Add the basket to the bowl to strain it, hold it down with the spatula and pour into a jug filled with ice.\n| If it is well blended, there is no need to strain it.\n}}\n===Chef's notes===\nThe [[Sugar|sugar]] content is high and can be cut down.  I found the [[Juice|juice]] to be very sweet and feel that 60g is sufficient.  However, I did not pour mine over a jug of ice, which would have made it less sweet.\n\nYou might need ear plugs when processing at '''Speed 10'''!\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Fruit recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#carrots #juice #thermomix #lemon #juicer #seeds #carrot #spain </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

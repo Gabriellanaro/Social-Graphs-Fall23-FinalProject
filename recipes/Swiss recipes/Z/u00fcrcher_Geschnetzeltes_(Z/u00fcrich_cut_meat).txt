@@ -1,0 +1,11 @@
+title": "Z%5Cu00fcrcher_Geschnetzeltes_(Z%5Cu00fcrich_cut_meat)",
+                "invalidreason": "The requested page title contains invalid characters: \"%5C\".",
+                "invalid": ""
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

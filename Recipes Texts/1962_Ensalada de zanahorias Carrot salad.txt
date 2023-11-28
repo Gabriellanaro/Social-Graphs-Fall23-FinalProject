@@ -1,0 +1,15 @@
+ 
+
+title": "Ensalada de zanahorias (Carrot salad)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ensalada de zanahorias (Carrot salad) a vegetarian recipe\n|titlemode=replace\n|keywords=#carrots #salad #garlic #corianderleaves #jam #chile #lemonjuice \n|hashtagrev=032020\n|description=This easy salad comes from Chile\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 352\n|PortionCalories = 88\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 4 minutes\n |PrepTime = 4 minutes\n |CookTime = None\n |Image = [[Image:Ensalada de zanahorias (Carrot salad) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Garlicy carrots!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Mmmm!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThis easy [[Salad|salad]] comes from [[Chile]].\n\n{{RecipeIngredients\n| 5 young [[Carrots|carrots]], peeled and grated\n| [[Garlic]] to taste, crushed\n| 60 ml [[Lemon juice|lemon juice]]\n| 1 tablespoon [[Coriander leaves|coriander leaves]], finely chopped\n| Seasoning\n| 1 tablespoon [[Oil|oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Carrots|carrots]] in a serving bowl.\n| Place the remaining ingredients in an empty [[Jam|jam]] jar and shake vigorously until the ingredients have blended.\n| Pour the dressing over [[Carrots|carrots]] and give the [[Salad|salad]] a quick stir.\n| Serve chilled.\nInstead of garlic you can add grated ginger, it gives a very tangy flavour! \n}}\n{{RecipeLine}}\n[[Category:Recipes|Ensalada de zanahorias (carrot salad)]]\n[[Category:Accompaniments|Ensalada de zanahorias (carrot salad)]]\n[[Category:Chilean recipes|Ensalada de zanahorias (carrot salad)]]\n[[Category:Latin American recipes|Ensalada de zanahorias (carrot salad)]]\n[[Category:Salad recipes|Ensalada de zanahorias (carrot salad)]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes|Ensalada de zanahorias (carrot salad)]]\n[[Category:Vegetarian recipes|Ensalada de zanahorias (carrot salad)]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#carrots #salad #garlic #corianderleaves #jam #chile #lemonjuice </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

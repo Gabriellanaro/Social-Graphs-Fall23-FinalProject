@@ -1,0 +1,16 @@
+title": "Potato and goats' cheese tortilla",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Potato and goats' cheese tortilla a cheese recipe\n|titlemode=replace\n|keywords=#potatoandgoatscheesetortilla #potatoes #springonions #goats #eggs #cheese #tortilla #oliveoil #salad #mozzarellacheese #freerangeeggs \n|hashtagrev=032020\n|description=Potato and goats' cheese tortilla Cheese recipes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1882\n|PortionCalories = 470\n|DatePublished=21st January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 45 minutes\n |PrepTime = 10 minutes\n |CookTime = 35 minutes\n |Image = [[Image:Potato and goats' cheese tortilla recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Goaty potatoes</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">nice.</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nA variation upon the [[Spanish]] classic.\n\n{{FindAlbertBartlett}}\n\n{{RecipeIngredients\n| 600g Rooster [[Potatoes|potatoes]] \n| 4 Large [[Free range eggs|free range eggs]] \n| 100 ml [[Milk]] \n| 200g [[Goats]] [[Cheese|cheese]] (*You can also use Boursin or [[Mozzarella cheese]])\n| 6 [[Spring onions]] \n| 2tbs [[Oil]] \n| [[Salt]] and [[Pepper|pepper]]\n\n}}\n\n===[[Mise en place]]===\n* Preheat [[Oven|oven]] 200\u00b0C/Gas 7\n===Method===\n\n{{RecipeMethod\n| [[Par boil]] the [[Potatoes|potatoes]] and cut into thick slices.\n| Beat the [[Eggs|eggs]] and [[Milk|milk]] together.\n| Heat the [[Oil|oil]] in a heavy bottomed [[Frying pan|frying pan]], add the [[Potatoes|potatoes]] and [[Fry|fry]] till the potatoes are lightly coloured. \n| Pour in the [[Egg|egg]] mix, break the [[Goats|goats]] [[Cheese|cheese]] into [[Walnut|walnut]] size pieces and place onto the [[Eggs|eggs]] and [[Potatoes|potatoes]]. \n| Sprinkle over the [[Spring onions|spring onions]] and place into the [[Oven|oven]] for 25 minutes.\n| Turn the [[Tortilla|tortilla]] out and serve hot or cold.\n}}\n===Variations===\nTry serving with a [[Tomato|tomato]] and [[Basil|basil]] [[Salad|salad]] drizzled with good [[Olive oil|olive oil]]. \n\n{{Tortillas-See also}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Albert Bartlett recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Cheese recipes]]\n[[Category:Egg recipes]]\n[[Category:Main courses]]\n[[Category:Potato recipes]]\n[[Category:Spanish recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Baked or roasted]]\n{{Template:Albert Bartlett attribution}}\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoandgoatscheesetortilla #potatoes #springonions #goats #eggs #cheese #tortilla #oliveoil #salad #mozzarellacheese #freerangeeggs </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

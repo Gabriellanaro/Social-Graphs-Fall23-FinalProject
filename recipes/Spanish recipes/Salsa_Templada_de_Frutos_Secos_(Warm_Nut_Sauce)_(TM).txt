@@ -1,0 +1,16 @@
+title": "Salsa Templada de Frutos Secos (Warm Nut Sauce) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Salsa Templada de Frutos Secos Warm Nut Sauce  Spanish recipe\n|titlemode=replace\n|description=This is recipe is a translation of a recipe in Salsas y Ali\u00f1os con Thermomix (Susaeta Ediciones)\n|keywords=#thermomix #nut #walnuts #butter #soyasauce #nuts #cabbage #salads #chicory #asparagus #pinenuts \n|hashtagrev=032020\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2223\n|PortionCalories = 555\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 5 minutes\n |CookTime = 5 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">The Thermies win again!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">A super easy recipe</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 160g [[Oil|oil]]\n| 40g [[Butter|butter]]\n| 30g [[Soya sauce|soya sauce]]\n| 3 tablespoons [[Mustard|mustard]]\n| 25g [[Walnuts|walnuts]]\n| 25g [[Pine nuts|pine nuts]]\n| 25g [[Almonds|almonds]]\n| A dash of [[Tabasco]]\n}}\n===Method===\n\n{{RecipeMethod\n| Chop the [[Nuts|nuts]] in the bowl '''5 seconds / Speed progressively 5-9'''.  Remove and reserve.\n| Put all the ingredients, except for the [[Nut|nut]] mixture into the bowl and cook '''4 minutes / 60\u00b0 / Speed 4'''.\n| Add the [[Nut|nut]] mixture and cook for a further '''1 minute / 60\u00b0 / Speed 1'''.\n}}\n===Serving suggestions===\nAs its name indicates, the [[Sauce|sauce]] should be served warm.  You can use it as a dressing for [[Salads|salads]] such as [[Chicory|chicory]], [[Asparagus|asparagus]], [[Cabbage|cabbage]],  [[Lettuce|lettuce]] etc.  It is also good with cooked [[Vegetables|vegetables]].\n{{RecipeLine}}\n[[Category:Recipes|Nut sauce]]\n[[Category:Spanish recipes|Nut sauce]]\n[[Category:Dips and sauces|Nut sauce]]\n[[Category:Vegetarian recipes|Nut sauce]]\n[[Category:Thermomix recipes|Nut sauce]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #nut #walnuts #butter #soyasauce #nuts #cabbage #salads #chicory #asparagus #pinenuts </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

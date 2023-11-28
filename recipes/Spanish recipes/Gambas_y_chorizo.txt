@@ -1,0 +1,16 @@
+title": "Gambas y chorizo",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Gambas y chorizo, Spanish recipe \n|titlemode=replace\n|keywords=#gambasychorizo #juice #chorizo #oliveoil #brandy #prawns #zest #lime #prawn #scampi #miseenplace \n|hashtagrev=032020\n|description=This came about because I needed a prawn dish without garlic, which would be the way I would normally cook these\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1717\n|PortionCalories = 858\n|DatePublished=30th January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 35 minutes\n |PrepTime = 20 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Gambas y chorizo recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Spicy prawns</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Love the colour and the flavour the prawns get from the chorizo.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Image:Gambas y chorizo ingredients.jpg|thumb|300px|right|Simple ingredients]]\nThis came about because I needed a [[Prawn|prawn]] dish without [[Garlic|garlic]], which would be the way I would normally cook these.  This was a very quick, simple and colourful [[Tapa|tapa]].\n\n{{RecipeIngredients\n| 350 g raw [[King prawns|king prawns]], [[Scampi|scampi]], large [[Shrimp|shrimp]] etc.\n| 7.5 cm (3\u201d) [[Chorizo]], cut in half and then sliced thinly\n| 3 tablespoons [[Brandy|brandy]]\n| A little [[Olive oil|olive oil]]\n| [[Zest]] and [[Juice|juice]] of &frac12; a [[Lime|lime]]\n| Handful of [[Parsley|parsley]], chopped finely\n\n}}\n\n===[[Mise en place]]===\n* Devein the [[Prawns|prawns]], cutting fairly deeply along the back so they butterfly a little as they cook. \n===Method===\n\n{{RecipeMethod\n| Add a dash of [[Olive oil|olive oil]] to a large heavy based and [[Fry|fry]] off the [[Chorizo|chorizo]] until they release their colourful [[Oil|oil]].\n| Add the [[Prawns|prawns]] and cook them until they turn pink.\n| Add the [[Lime|lime]] [[Zest|zest]] and [[Juice|juice]].\n| Tip in the [[Brandy|brandy]] and shimmy the pan so the brandy catches and the [[Alcohol|alcohol]] burns off sprinkle with parsley and serve immediately.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Main courses]]\n[[Category:Shellfish recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Spanish recipes]]\n[[Category:Starters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#gambasychorizo #juice #chorizo #oliveoil #brandy #prawns #zest #lime #prawn #scampi #miseenplace </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

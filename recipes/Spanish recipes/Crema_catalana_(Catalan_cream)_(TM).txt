@@ -1,0 +1,16 @@
+title": "Crema Catalana (Catalan cream) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Crema Catalana (Catalan cream) Thermomix Recipe\n|titlemode=replace\n|keywords=#lemonpeel #cinnamonstick #lemon #grill #eggyolks #lemonzest #cornflour #browned #boiledorsimmered #thermomix #butterfly \n|hashtagrev=032020\n|description=This is a Catalan version of Cr\u00e8me Br\u00fbl\u00e9e, the difference being the addition of Lemon lemon zest\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=17th December 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 6\n|Difficulty = 2\n|TotalTime =  19 minutes (plus cooling time)\n|PrepTime =  5 minutes (plus cooling time)\n|CookTime =  14 minutes\n|TotalCalories = 1327\n|PortionCalories = 221\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Viva Catalu\u00f1a</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Lovely place, nice sweet!</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis is a Catalan version of Cr\u00e8me Br\u00fbl\u00e9e, the difference being the addition of [[Lemon zest|lemon zest]].\n{{RecipeIngredientsTM\n| 1 litre [[Milk|milk]]\n| 10 [[Egg yolks|egg yolks]]\n| 150g [[Sugar|sugar]]\n| 40g [[Cornflour|cornflour]]\n| 1 teaspoon [[Vanilla extract|vanilla extract]]\n| A pinch of [[Salt|salt]]\n| The peel of 1 [[Lemon|lemon]]\n| 1 [[Cinnamon stick|cinnamon stick]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Place the [[Butterfly]] over the blades.\n| Add all of the ingredients to the bowl, except for the [[Lemon peel|lemon peel]] and [[Cinnamon stick|cinnamon stick]] 15 secs / Speed 3\u00c2\u00bd.\n| Add the [[Lemon peel|lemon peel]] and the [[Cinnamon|cinnamon]] 11 minutes / 90\u00b0C / Speed 2.\n| Then 2 minutes / Speed 2  without temperature.\n| Pour into heatproof bowls and either [[Blowtorch|blow torch]] the top, or place under the [[Grill|grill]] until well [[Browned|browned]].\n| Allow to reach room temperature before serving.\n}}\n===Recipe source===\n\n* Lightly adapted from '''[[Thermomix]] TM31:  Imprescindible para su cocina'''\n===Chef's notes===\nxxx\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Sweets and desserts]]\n[[Category:Vegetarian recipes]]\n[[Category:Egg recipes]]\n[[Category:Fruit recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Grilled, griddled or barbecued]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#lemonpeel #cinnamonstick #lemon #grill #eggyolks #lemonzest #cornflour #browned #boiledorsimmered #thermomix #butterfly </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

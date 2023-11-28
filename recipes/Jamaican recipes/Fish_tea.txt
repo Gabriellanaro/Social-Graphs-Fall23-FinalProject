@@ -1,0 +1,16 @@
+title": "Fish tea",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Fish tea, a fruit recipe \n|titlemode=replace\n|keywords=#fishtea #fish #bananas #simmer #stock #tomato #boil #escallions #soup #thyme #tea \n|hashtagrev=032020\n|description=Not tea, but a light soup from Jamaica\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 853\n|PortionCalories = 213\n|DatePublished=20th January 2013\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 1 hour 15 minutes\n |PrepTime = 15 minutes\n |CookTime = 1 hour\n |Image = [[Image:Fish tea recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Strange tea...</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.31</span>/5</span>\n\n<span class=\"reviewDesc\">..but nice soup \ud83c\udf5c</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nNot [[Tea|tea]], but a light [[Soup|soup]] from [[Jamaica]].\n\n{{RecipeIngredients\n| 2 [[Litres|litres]] water\n| 1 kg [[Fish|fish]] heads or bony fish\n| 6 green [[Bananas|bananas]], peeled and cut into small pieces\n| 1 [[Tomato|tomato]], chopped\n| 1 sprig [[Thyme|thyme]]\n| 2 [[Escallions|escallions]], [[Minced|minced]]\n| 1 [[Scotch bonnet pepper]], left whole\n| 3 small [[Hot chillies|hot chillies]], sliced\n| [[Salt]] and [[Black pepper|black pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the water and the [[Fish|fish]] in a large pot, bring to the [[Boil|boil]], cover and reduce heat to medium.\n| [[Simmer]] the [[Fish|fish]] for 30 minutes and strain the [[Stock|stock]].\n| Remove all the flesh from the [[bones]], and rerun the flesh to the [[Stock|stock]].\n| Add the [[Bananas|bananas]], [[Tomato|tomato]], [[Thyme|thyme]], [[Escallions|escallions]] and the [[Chillies|chillies]].\n| Bring to the [[Boil|boil]] again, and [[Simmer|simmer]] until the [[Bananas|bananas]] are tender.\n| Should the [[Soup|soup]] become too thick, add more water.\n| Season to taste, remove the [[Scotch bonnet]] and serve hot.\n}}\n===Serving suggestions===\nServe in mugs with savoury biscuits.\n{{RecipeLine}}\n[[Category:Recipes|Fish tea]]\n[[Category:Chilli pepper recipes|Fish tea]]\n[[Category:Fish recipes|Fish tea]]\n[[Category:Jamaican recipes|Fish tea]]\n[[Category:Sea fish recipes|Fish tea]]\n[[Category:Soup and stock recipes|Fish tea]]\n[[Category:Spicy recipes|Fish tea]]\n[[Category:Starters|Fish tea]]\n[[Category:Fruit recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#fishtea #fish #bananas #simmer #stock #tomato #boil #escallions #soup #thyme #tea </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

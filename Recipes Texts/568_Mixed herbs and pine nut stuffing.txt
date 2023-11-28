@@ -1,0 +1,15 @@
+ 
+
+title": "Mixed herbs and pine nut stuffing",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mixed herbs and pine nut stuffing a British recipe\n|titlemode=replace\n|keywords=#mixedherbsandpinenutstuffing #parsley #pinenuts #garlic #zest #butter #breadcrumbs #onion #lemon #rosemary #panfried \n|hashtagrev=032020\n|description=A good stuffing recipe for chicken or turkey\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1558\n|PortionCalories = 389\n|DatePublished=6th April 2013\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 30 minutes\n |PrepTime = 10 minutes\n |CookTime = 20 minutes\n |Image = [[Image:Mixed herbs and pine nut stuffing recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Pine nut make this</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Such a distinct flavour and texture</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nA good stuffing recipe for chicken or turkey.\n\n{{RecipeIngredients\n| 200g (7oz) white [[Breadcrumbs|breadcrumbs]]\n| 125g (4&frac12;oz) [[Butter|butter]]\n| 2 Cloves of [[Garlic|garlic]] (or to taste), peeled and crushed\n| 1 [[Onion|onion]], peeled and finely chopped\n| 1 sprig of [[Rosemary|rosemary]], chopped leaves only\n| 1 sprig of [[Thyme|thyme]], chopped leaves only\n| 6 fresh [[Sage leaves|sage leaves]], chopped\n| The [[Zest|zest]] from 1 [[Lemon|lemon]]\n| 50g (2oz) [[Pine nuts|pine nuts]]\n| 3 tablespoons of fresh [[Parsley|parsley]], chopped\n| 1 teaspoon [[Sea Salt|sea salt]]\n| [[Freshly ground black pepper|freshly ground black pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Melt [[Butter|butter]] in a [[Frying pan|frying pan]] and saut\u00e9 [[Onion|onion]] and [[Garlic|garlic]] for five minutes or until softened - don't allow the garlic to burn.\n| Mix in the [[Herbs|herbs]] for one minute then add [[Breadcrumbs|breadcrumbs]] and mix well.\n| Add the [[Zest|zest]], [[Pine nuts|pine nuts]].  Season and cook over medium heat for about seven minutes until crumbs start to [[Brown|brown]] and crisp.\n| Remove from the heat, stir in the [[Parsley|parsley]] and serve.\n}}\n{{RecipeLine}}\n[[Category:Recipes|Stuffing]]\n[[Category:British recipes|Stuffing]]\n[[Category:Accompaniments|Stuffing]]\n[[Category:Vegetarian recipes|Stuffing]]\n[[Category:Poultry recipes|Stuffing]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mixedherbsandpinenutstuffing #parsley #pinenuts #garlic #zest #butter #breadcrumbs #onion #lemon #rosemary #panfried </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

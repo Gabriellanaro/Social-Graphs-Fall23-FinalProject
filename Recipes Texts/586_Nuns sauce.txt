@@ -1,0 +1,15 @@
+ 
+
+title": "Nun's sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Nun's sauce, British recipe \n|titlemode=replace\n|keywords=#nunssauce #vinegar #beef #onions #anchovies #shallots #drysugar #cayennepepper #unusualrecipes #garlic #soysauce \n|hashtagrev=032020\n|description=The very old form of relish for beef was made by nuns in a Yorkshire convent in 1870\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 147\n|PortionCalories = 15\n|DatePublished=20th October 2012\n|Author=Chef\n|Servings = 10\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 15 minutes\n |CookTime = None\n|Image = [[Image:Nun's sauce recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Blimey!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">They must have made a lot of sauce!!!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThe very old form of relish for [[Beef|beef]] was made by nuns in a Yorkshire convent in 1870. Most of the large farms in the north made their own relish to eat with [[beef]]\n\n{{RecipeIngredients\n| &frac34; oz of [[cayenne pepper]]\n| 2 tablespoons of [[soy sauce]]\n| 3 cloves of [[Garlic|garlic]]\n| A tablespoons of [[anchovies]] (these came in barrels and the scraping of the barrel was used)\n| A few [[cloves]]\n| 3 or 4 [[shallots]]\n| 1 teaspoon of [[sugar]]\n| A quart of [[vinegar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Pound all dry things with the [[dry sugar]]\n| Chop and add the [[onions]], etc.\n| Put into a leadless glazed demijohn  with the [[vinegar]], and cork lightly.\n| This jar was then left at the foot of the stairs for a month, and everyone passing up and down to chapel (twice a day) had to give it a shake.\n}}\n\n===Servings===\nServings: 32 - Makes 2 pint one jars\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:British recipes]]\n[[Category:Historic recipes]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#nunssauce #vinegar #beef #onions #anchovies #shallots #drysugar #cayennepepper #unusualrecipes #garlic #soysauce </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

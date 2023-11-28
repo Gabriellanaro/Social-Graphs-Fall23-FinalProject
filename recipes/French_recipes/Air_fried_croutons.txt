@@ -1,0 +1,16 @@
+title": "Air fried croutons",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Air fried croutons recipe\n|titlemode=replace\n|keywords=#croutons #oliveoil #sourdoughbread #airfriedcroutons #bread #airfry #soups #salad #salads #sourdough #airfryer \n|hashtagrev=032020\n|description=Make croutons from fresh bread in 8 minutes using an air-fryer\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=23rd July 2017\n|Author=Chef\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  25 minutes\n|PrepTime =  17 minutes\n|CookTime =  8 minutes\n|TotalCalories = 280\n|PortionCalories = 70\n|Image = [[Image:Air fried croutons.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Brilliant idea!!!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Just tried this - wonderful idea - Thanks! \ud83d\udc96\ud83d\udc96\ud83d\udc96</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\n[[Image:Morrisons sourdough bloomer.jpg|thumb|300px|right|[[Morrison's sourdough bloomer|Superb bread]] and fantastic for croutons whether fresh or stale]]\nThese [[croutons]] take about 25 minutes in total, most of which is cooling time as you don't want hot [[croutons]] on a nice crunchy [[salad]]!\n\nThese are as good made from fresh [[bread]] as they are when made from stale bread.\n\nI've tried these with many type of bread and the nicest come from [[sourdough bread]].  Having said that, I think [[Morrison's sourdough bloomer]] is one of the nicest supermarket loaves out there so it's not surprising.\n\n{{RecipeIngredients\n\n| 3 thick slices of [[sourdough]] bread, roughly cut into bite sized cubes.\n| 3 tablespoons [[Olive oil|olive oil]]\n| [[Sea Salt|sea salt]] and [[Freshly ground black pepper|freshly ground black pepper]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Add 3 tablespoons of [[Olive oil|olive oil]] to the [[Air Fryer|air fryer]], tip the cubes of [[sourdough bread]] and add a pinch of salt and freshly ground black pepper.\n| [[Air fry]] for about 8 minutes or until [[Toasted|toasted]] to your liking\n}}\n===Serving suggestions===\nAllow to cool and serve over [[Salads|salads]] and [[Soups|soups]]\n\n{{Template:Croutons recipes}}\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Air fried recipes]]\n[[Category:French recipes]]\n[[Category:Accompaniments]]\n[[Category:Bread and baking]]\n[[Category:Snacks and light bites]]\n[[Category:Soup and stock recipes]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Salad recipes]]\n[[Category:Cookery cheats]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#croutons #oliveoil #sourdoughbread #airfriedcroutons #bread #airfry #soups #salad #salads #sourdough #airfryer </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

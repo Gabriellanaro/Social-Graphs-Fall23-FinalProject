@@ -1,0 +1,16 @@
+title": "Kamper steur (Eggs with mustard sauce)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Kamper steur (Eggs with mustard sauce) recipe\n|titlemode=replace\n|keywords=#eggs #chives #flour #butter #mustard #sauce #stock #vegetablestock #dutch #kampersteureggswithmustardsauce #boiledorsimmeredeggsmustard \n|hashtagrev=032020\n|description=A simple Dutch recipe, ideal as a first course or even for breakfast\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=21st December 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  20 minutes\n|PrepTime =  5 minutes\n|CookTime =  15 minutes\n|TotalCalories = 799\n|PortionCalories = 199 \n|Image = [[Image:Kamper steur Eggs with mustard sauce recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A shimple Dutch breakfast</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Tot ziens!</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\nA simple [[Dutch]] recipe, ideal as a first course or even for [[Breakfast|breakfast]]\n{{RecipeIngredients\n\n| 4 [[Eggs|eggs]], hard [[Boiled|boiled]]\n| 35g [[Butter|butter]]\n| 3 tablespoons [[Flour|flour]]\n| 310ml [[Vegetable Stock|vegetable stock]]\n| 1 tablespoon prepared [[Mustard|mustard]] of your choice\n| 1 tablespoon [[Chives|chives]], snipped\n}}\n\n===Method===\n{{RecipeMethod\n\n| Shell the [[Eggs|eggs]], cut them in half lengthwise and place on a warm serving dish, or individual plates\n| Melt the [[Butter|butter]] in a small [[Saucepan|saucepan]], stir in the [[Flour|flour]] and cook gently for 4-5 minutes\n| Gradually add the [[Stock|stock]], constantly stirring\n| Mix in the [[Mustard|mustard]].\n| Pour the [[Sauce|sauce]] over the [[Eggs|eggs]] and garnish with the snipped [[Chives|chives]].\n}}\n===Serving suggestions===\nServe with buttered toast.\n{{RecipeLine}}\n[[Category:Recipes|Eggs mustard]]\n[[Category:Dutch recipes|Eggs mustard]]\n[[Category:Breakfast recipes|Eggs mustard]]\n[[Category:Snacks and light bites|Eggs mustard]]\n[[Category:Spicy recipes|Eggs mustard]]\n[[Category:Starters|Eggs mustard]]\n[[Category:Vegetarian recipes|Eggs mustard]]\n[[Category:Egg recipes|Eggs mustard]]\n[[Category:Student recipes|Eggs mustard]]\n[[Category:Boiled or simmered|Eggs mustard]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#eggs #chives #flour #butter #mustard #sauce #stock #vegetablestock #dutch #kampersteureggswithmustardsauce #boiledorsimmeredeggsmustard </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

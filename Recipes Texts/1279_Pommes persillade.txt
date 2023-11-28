@@ -1,0 +1,15 @@
+ 
+
+title": "Pommes persillade",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pommes persillade, French recipe \n|titlemode=replace\n|keywords=#potatoes #garlic #parsley #butter #pommespersillade #persillade #panfried #oliveoil #deepfrying \n|hashtagrev=032020\n|description=Sauteed potatoes with garlic and parsley\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1042\n|PortionCalories = 260\n|DatePublished=21st January 2013\n|Author=Chef\n|ImageComment = [[Persillade]]\n |Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 40 minutes\n |PrepTime = 10 minutes\n |CookTime = 30 minutes\n |Image = [[Image:Persillade.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Pasrsley, Parsely, Parsley</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.2</span>/5</span>\n\n<span class=\"reviewDesc\">One of those must be right?</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nSaut\u00e9ed [[Potatoes|potatoes]] with [[Garlic|garlic]] and [[Parsley|parsley]].\n\n{{RecipeIngredients\n| 1 kg firm [[Potatoes|potatoes]], peeled and cut into 1 cm cubes\n| 30 ml each of melted [[Butter|butter]] and [[Olive oil|olive oil]]\n| 8 Cloves [[Garlic|garlic]], finely chopped\n| About a handful of flat-leaved [[Parsley|parsley]], finely chopped\n| [[Salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Gently heat the [[Butter|butter]] and [[Oil|oil]] in a [[Deep frying|deep frying]] pan and add the [[Potatoes|potatoes]], with a little [[Salt|salt]].\n| Allow to saut\u00e9 until they are crisp on the outside, and cooked in the middle.\n| Meanwhile, mix the [[Garlic|garlic]] and [[Parsley|parsley]] and once the [[Potatoes|potatoes]] are ready, add them to the pan and continue to cook until the garlic is soft and just about to turn golden.\n| Serve immediately.\n}}\n===Variations===\nThe [[Potatoes|potatoes]] can be thinly sliced if preferred.\n===Chef's notes===\nYou may need to adjust the amount of [[Butter|butter]] and [[Oil|oil]].  It depends on the absorbency of the [[Potatoes|potatoes]].  If there is still rather a lot when you are ready to add the [[Garlic|garlic]] and [[Parsley|parsley]], drain some of it off, otherwise the parsley will go soggy.\n--[[User:JuliaBalbilla|JuliaBalbilla]] 06:43, 15 January 2009 (UTC)\n{{RecipeLine}}\n[[Category:Recipes|Potatoes]]\n[[Category:Accompaniments|Potatoes]]\n[[Category:French recipes|Potatoes]]\n[[Category:Garlic recipes]]\n[[Category:Potato recipes|Potatoes]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoes #garlic #parsley #butter #pommespersillade #persillade #panfried #oliveoil #deepfrying </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

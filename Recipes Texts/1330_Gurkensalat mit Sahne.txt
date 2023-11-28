@@ -1,0 +1,15 @@
+ 
+
+title": "Gurkensalat mit Sahne",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Gurkensalat mit Sahne, Egg recipe \n|titlemode=replace\n|keywords=#gurkensalatmitsahne #cream #cucumber #pork #borage #fridge #dill #diced #eggyolks #salad #vinegar \n|hashtagrev=032020\n|description=This is a simple, yet delicious German cucumber salad with cream\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 395\n|PortionCalories = 98\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 1 hour, 10 minutes\n |PrepTime = 1 hour, 10 minutes\n |CookTime = None\n |Image = [[Image:Gurkensalat_mit_Sahne recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Refreshing Dip</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">Lovely with tortilla chips</span> \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nThis is a simple, yet delicious German [[cucumber]] [[Salad|salad]] with [[Cream|cream]].\n\n{{RecipeIngredients\n| 4 tablespoons [[Sour cream|sour cream]]\n| 1 tablespoon [[White wine vinegar|white wine vinegar]]\n| 1 [[Cucumber|cucumber]], peeled and [[Diced|diced]]\n| [[Salt]] and [[Pepper|pepper]] to taste\n| [[Chives]] and [[Salad burnet|salad burnet]], finely chopped\n| 4 [[Egg yolks|egg yolks]], hard-[[Boiled|boiled]], chopped\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the [[Cream|cream]] and the [[Vinegar|vinegar]] together.\n| Place remaining ingredients in a bowl and pour the dressing over them.\n| Mix gently and allow to rest in the the [[Fridge|fridge]] for an hour or so before serving.\n}}\n===Serving suggestions===\nCan be served as a first course, or as an accompaniment to [[Fish|fish]] or [[Pork|pork]].\n===Variations===\nYou can vary the [[Herbs|herbs]] - try [[Dill|dill]] or [[Borage|borage]]\n{{RecipeLine}}\n[[Category:Recipes|Gurkensalat mit Sahne]]\n[[Category:Accompaniments|Gurkensalat mit Sahne]]\n[[Category:Egg recipes|Gurkensalat mit Sahne]]\n[[Category:German recipes|Gurkensalat mit Sahne]]\n[[Category:Salad recipes|Gurkensalat mit Sahne]]\n[[Category:Starters|Gurkensalat mit Sahne]]\n[[Category:Vegetable recipes|Gurkensalat mit Sahne]]\n[[Category:Vegetarian recipes|Gurkensalat mit Sahne]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#gurkensalatmitsahne #cream #cucumber #pork #borage #fridge #dill #diced #eggyolks #salad #vinegar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Flemish stew with rooster potatoes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Flemish stew with rooster potatoes a meat recipe\n|titlemode=replace\n|keywords=#flemishstewwithroosterpotatoes #potatoes #diced #butter #carrots #parsley #onions #simmer #smokedbacon #onion #stock \n|hashtagrev=032020\n|description=Flemish stew with rooster potatoes Meat recipes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1245\n|PortionCalories = 311\n|DatePublished=19th January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 35 minutes\n |PrepTime = 10 minutes\n |CookTime = 25 minutes\n |Image = [[Image:Flemish stew with rooster potatoes recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Porky taters</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">A hearty meal</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\n{{FindAlbertBartlett}}\n{{RecipeIngredients\n| 500g Rooster [[Potatoes|potatoes]] peeled and [[Diced|diced]] 1&frac12; cm\n| 1 large [[Onion|onion]] peeled and [[Diced|diced]]\n| 2 large [[Carrots|carrots]] peeled and cut into sticks 2cm long\n| 750ml [[Chicken stock|chicken stock]]\n| 1 tablespoon [[Butter|butter]]\n| 1 tablespoon chopped [[Parsley|parsley]]\n| 6 slices of [[Smoked bacon|smoked bacon]], thick\n| [[Salt]] and [[Pepper|pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Cut the [[Bacon|bacon]] into sticks and place in a large saucepan with the [[Butter|butter]] and the [[Onions|onions]].\n| Cook over a moderate heat for 5 minutes then add the [[Carrots|carrots]], [[Potatoes|potatoes]] and [[Stock|stock]].\n| Bring to a gentle [[Simmer|simmer]] and season well with [[Salt|salt]] and [[Pepper|pepper]].\n| Cover with [[Foil|foil]] and cook for about 15 minutes or until the [[Potatoes|potatoes]] are tender.\n| Sprinkle with the [[Parsley|parsley]] before serving.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Albert Bartlett recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Belgian recipes]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Potato recipes]]\n[[Category:Pork recipes]]\n[[Category:Stews and casseroles]]\n[[Category:Stewed, braised or pot roasted]]\n{{Template:Albert Bartlett attribution}}\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#flemishstewwithroosterpotatoes #potatoes #diced #butter #carrots #parsley #onions #simmer #smokedbacon #onion #stock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

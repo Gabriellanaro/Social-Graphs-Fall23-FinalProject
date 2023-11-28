@@ -1,0 +1,16 @@
+title": "Chuchu",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chuchu, Egg recipe \n|titlemode=replace\n|keywords=#chuchu #herbs #egg #vegetables #spinach #omelette #eggs #sourcream #butter #parsley #coriander \n|hashtagrev=032020\n|description=A type of flat omelette from Azerbaijan, with a copious quantity of vegetables and herbs. This sounds amazing!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2207\n|PortionCalories = 551\n|DatePublished=20th January 2013\n|Author=JuliaBalbilla\n|ImageComment = Caucasus Mountains in northern Azerbaijan.\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 30 minutes\n |PrepTime = 15 minutes\n |CookTime = 20 minutes\n|Image = [[File:CPBudug_Azerbaijan16.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Wow!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.32</span>/5</span>\n\n<span class=\"reviewDesc\">That's a lot of Garlic Julia!</span>\n \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nA type of flat [[Omelette|omelette]] from Azerbaijan, with a copious quantity of [[Vegetables|vegetables]] and [[Herbs|herbs]].   \n\nThis sounds amazing!\n\n{{RecipeIngredients\n| 500 g [[Spinach|spinach]], chopped\n| 500 g [[Spring onions|spring onions]], finely sliced\n| 5 bulbs [[Garlic|garlic]], preferably with green shoots, finely [[Diced|diced]]\n| 500 g fresh, mixed, green [[Herbs|herbs]], eg [[Parsley|parsley]], [[Coriander|coriander]], [[Mint|mint]]\n| 6 [[Eggs|eggs]], thoroughly beaten\n| 3 tablespoons [[Milk|milk]]\n| 100 g [[Butter|butter]]\n| 250 ml [[Sour cream|sour cream]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the [[Milk|milk]] with the [[Egg|egg]].\n| Melt the [[Butter|butter]] in a [[Frying pan|frying pan]] and [[Fry|fry]] the chopped [[Vegetables|vegetables]] and [[Herbs|herbs]] individually until they are soft.\n| Add them to the [[Egg|egg]] and [[Milk|milk]] mixture and return to the [[Frying pan|frying pan]].\n| Cook the [[Omelette|omelette]] on both sides until the [[Eggs|eggs]] have just set.\n| Transfer to a large plate, cut and serve with the [[Sour cream|sour cream]].\n}}\n===Variations===\n[[Spring greens]] would make an excellent substitute for [[Spinach|spinach]], but you would need to use a smaller quantity.\n{{RecipeLine}}\n{{OmeletteRecipes}}\n[[Category:Recipes|Chuchu]]\n[[Category:Accompaniments|Chuchu]]\n[[Category:Egg recipes|Chuchu]]\n[[Category:Russian recipes|Chuchu]]\n[[Category:Snacks and light bites|Chuchu]]\n[[Category:Starters|Chuchu]]\n[[Category:Vegetable recipes|Chuchu]]\n[[Category:Vegetarian recipes|Chuchu]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chuchu #herbs #egg #vegetables #spinach #omelette #eggs #sourcream #butter #parsley #coriander </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

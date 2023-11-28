@@ -1,0 +1,16 @@
+title": "Barbecued sweetcorn",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Barbecued sweetcorn, Barbecue recipe \n|titlemode=replace\n|keywords=#barbecuedsweetcorn #sweetcorn #butter #barbecued #griddled #blackpepper #grilled \n|hashtagrev=032020\n|description=A tasty way to cook sweetcorn\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 668\n|PortionCalories = 167\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 1 hour 5 minutes\n|PrepTime = 1 hour\n|CookTime = 5 minutes\n|Image = [[Image:Barbecued sweetcorn.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">So simple</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.4</span>/5</span>\n\n<span class=\"reviewDesc\">So tasty, especially when a little burnt</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\nA tasty way to cook [[sweetcorn]].\n\n{{RecipeIngredients\n| 4 [[Sweetcorn]] cobs\n| 30 g [[Butter]]\n| [[Salt]] and freshly ground [[black pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Soak the corn cobs in cold water for 1 hour\n| Grill for 5 minutes on a hot barbecue, turn to prevent burning\n}}\n===Serving suggestions===\n\nServe with melted [[butter]] and sprinkle with [[salt]] and [[pepper]]\n{{RecipeLine}}\n[[Category:Recipes|Sweetcorn]]\n[[Category:Accompaniments|Sweetcorn]]\n[[Category:Barbecue recipes|Sweetcorn]]\n[[Category:Main courses|Sweetcorn]]\n[[Category:Starters|Sweetcorn]]\n[[Category:Snacks and light bites|Sweet]]\n[[Category:Tex-Mex recipes|Sweetcorn]]\n[[Category:North American recipes|Sweetcorn]]\n[[Category:Vegetable recipes|Sweetcorn]]\n[[Category:Vegetarian recipes|Sweetcorn]]\n[[Category:Grilled, griddled or barbecued]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#barbecuedsweetcorn #sweetcorn #butter #barbecued #griddled #blackpepper #grilled </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

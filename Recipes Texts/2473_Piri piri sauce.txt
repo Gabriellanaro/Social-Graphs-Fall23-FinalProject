@@ -1,0 +1,15 @@
+ 
+
+title": "Piri piri sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Piri piri sauce recipe Cooking with chillies\n|titlemode=replace\n|keywords=#chillies #piripirisauce #lemon #sauce #poultry #zest #grilled #garlic #foodprocessor #onion \n|hashtagrev=032020\n|description=This condiment is great dripped on grilled meat and poultry.\n<!-- /seo -->\n}}\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 176\n|PortionCalories = 176\n|DatePublished=3rd January 2013\n|Author=JuliaBalbilla\n|ImageComment = Birdseye chillies\n|Servings = 1\n|Difficulty = 1\n|TotalTime = 10 minutes\n|PrepTime = 10 minutes\n|CookTime = None\n|Image = [[Image:Piri piri sauce recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Quick and easy</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.8</span>/5</span>\n\n<span class=\"reviewDesc\">I made this in minutes and love it.</span>\n \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nThis condiment is great dripped on [[grilled]] [[meat]] and [[poultry]].\n\nAs this uses a large quantity of [[chillies]] you are probable best sourcing these from an ethnic store rather than a supermarket!\n\n{{RecipeIngredients\n| 250 g (8 oz) fresh red birdseye [[chillies]]\n| 1 small [[onion]], peeled and quartered\n| 1 [[clove]] of [[Garlic|garlic]], peeled\n| Juice of 1 [[lemon]]\n| [[Zest]] of 1 [[lemon]]\n| Big pinch of [[sea salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Wear rubber gloves!\n| Remove the seeds from the [[chillies]] if you don't want the [[sauce]] too hot\n| Blend all the ingredients in a [[food processor]]\n}}\n==See also==\n* [[Chili sauce|Many other chili sauce recipes]]\n===Servings===\nServings: 50 - Makes 1 small bottle\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chilli pepper recipes]]\n[[Category:Dips and sauces]]\n[[Category:North African recipes]]\n[[Category:Spicy recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chillies #piripirisauce #lemon #sauce #poultry #zest #grilled #garlic #foodprocessor #onion </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Oatmeal cookies",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Oatmeal cookies, British recipe \n|titlemode=replace\n|keywords=#oatmealcookies #bakingtray #vanilla #butter #eggyolks #miseenplace #plainflour #oats #bake #dough #coconuticecream \n|hashtagrev=032020\n|description=Buttery, crunchy on the outside, soft in the middle and a wonderful accompaniment for homemade ice-cream. These are quick and simple to make\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2813\n|PortionCalories = 351\n|DatePublished=15th October 2012\n|Author=Chef\n|Servings = Servings: 8 - Makes about 25 cookies\n |Difficulty = 2\n |TotalTime = 30 minutes\n |PrepTime = 15 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Oatmeal cookies recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Changed my mind</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I don't normally like cookies, but these were all right</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nButtery, crunchy on the outside, soft in the middle and a wonderful accompaniment for homemade [[Ice-cream|ice-cream]].  These are quick and simple to make.\n\n{{RecipeIngredients\n| 225 g (8 oz) [[Butter|butter]], softened\n| 225 g (8 oz) [[Sugar|sugar]]\n| 2 [[Egg yolks|egg yolks]]\n| 1 teaspoon [[Vanilla|vanilla]] essence\n| 110 g (4oz) [[Oats|oats]]\n| 225 g (8oz) [[Plain flour|plain flour]]\n| 1 teaspoon [[Bicarbonate of soda|bicarbonate of soda]]\n| &frac12; teaspoon [[Salt|salt]]\n\n}}\n\n===[[Mise en place]]===\n* Preheat the [[Oven|oven]] to 160\u00b0 C (325\u00b0 F - gas 3)\n===Method===\n\n{{RecipeMethod\n| Line a [[baking tray]] with [[Grease-proof paper|grease-proof paper]]\n| If you want to be a purist, whisk the [[Egg yolks|egg yolks]] and [[Vanilla|vanilla]] together, beat the [[Butter|butter]] and [[Sugar|sugar]] then fold in the dry ingredients and mix until you have a '[[Dough|dough]]' that stands-up on its own.\n| Or, being a lazy sod like me, sling it all in a [[Food processor|food processor]] and blitz it.\n| Roll the cookies into balls and place on the [[baking tray]] with enough room for them to spread out.\n| [[Bake]] for 14 minutes\n| Remove and cool on a rack\n}}\n===Serving suggestions===\nServe with [[Coconut ice cream|coconut ice cream]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Bread and baking]]\n[[Category:British recipes]]\n[[Category:Grain and bean recipes]]\n[[Category:Historic recipes]]\n[[Category:Sweets and desserts]]\n[[Category:Vegetarian recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#oatmealcookies #bakingtray #vanilla #butter #eggyolks #miseenplace #plainflour #oats #bake #dough #coconuticecream </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

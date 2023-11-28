@@ -1,0 +1,16 @@
+title": "Ham sauce for noodles",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ham sauce for noodles recipe Accompaniments\n|titlemode=replace\n|keywords=#hamsaucefornoodles #onion #cornflour #celery #springonions #noodles #egg #groundnutoil #fridge #unusualrecipes #chickenstock \n|hashtagrev=032020\n|description=This sounds really lame as a recipe. It's not! It's brilliant\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 619\n|PortionCalories = 154\n|DatePublished=31st January 2013\n|Author=Chef\n|ImageComment = This was a perfect main course\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 20 minutes\n|PrepTime = 10 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Ham sauce for noodles.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Ham this up a bit!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Lovely for emptying the fridge of left-overs.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Image:Ham sauce for noodles 2.jpg|thumb|right|300px|Bubbling in the pan]]\nThis sounds really lame as a recipe. It's not! It's brilliant. I only made it so I could photograph it but we've now had this twice in one week, it's so good.  It's a good recipe to use up odd [[fridge]] leftovers too.\n\n{{RecipeIngredients\n| 2 tablespoons [[groundnut oil]]\n| 2 [[celery]] stalks, chopped\n| 1 medium [[onion]], chopped\n| 100g (4 oz) ham, cubed\n| 250 ml (8 fl oz) [[chicken stock]]\n| 1 teaspoon [[cornflour]]\n| 2 tablespoons water\n| 3 [[spring onions]], [[chopped on the diagonal]]\n| 1 beaten [[egg]]\n}}\n===Method===\n{{RecipeMethod\n| Heat the oil in a pan and fry the [[onion]], [[celery]] and ham for 2 minutes\n| Add the stock and bring back to the boil\n| Cover and simmer for 3 minutes\n| On a saucer, mix the [[cornflour]] and water and stir to a smooth paste\n| Pour into the sauce, stirring continuously until it thickens\n| Beat the egg and mix into the sauce, stirring until it cooks\n| Remove from heat and serve, sprinkled with chopped [[spring onions]]\n}}\n===Serving suggestions===\n \nPour over egg [[noodles]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Main courses]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Pork recipes]]\n[[Category:Dips and sauces]]\n[[Category:Starters]]\n[[Category:Favourite recipes]]\n[[Category:Student recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#hamsaucefornoodles #onion #cornflour #celery #springonions #noodles #egg #groundnutoil #fridge #unusualrecipes #chickenstock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

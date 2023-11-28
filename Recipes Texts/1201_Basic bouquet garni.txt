@@ -1,0 +1,15 @@
+ 
+
+title": "Basic bouquet garni",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Basic bouquet garni, French recipe \n|titlemode=replace\n|keywords=#basicbouquetgarni #bayleaf #kitchenstring #muslin #thyme #parsley \n|hashtagrev=032020\n|description=A generic bouquet garni\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 16\n|PortionCalories = 16\n|DatePublished=28th July 2013\n|Author=Chef\n|ImageComment =\n |Servings = 1\n |Difficulty = 1\n |TotalTime = 2 minutes\n |PrepTime = 2 minutes\n |CookTime = none\n |Image = [[Image:Bouquet garni.jpg|150px|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Where's the sage leaves?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.7</span>/5</span>\n\n<span class=\"reviewDesc\">I always use sage in my bouquets</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n\nA generic bouquet garni recipe.\n\n{{RecipeIngredients\n| 1 [[bay leaf]]\n| 3 fresh [[parsley]] stalks\n| 3 sprigs [[thyme]]\n}}\n===Method===\n{{RecipeMethod\n| Tie the ingredients with [[kitchen string]] or wrap in a piece of [[muslin]].  Remove before serving and discard.\n}}\n\n===See also===\n'''The [[Bouquet garni|bouquet garni main page]]'''.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Herbs]]\n[[Category:French recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#basicbouquetgarni #bayleaf #kitchenstring #muslin #thyme #parsley </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

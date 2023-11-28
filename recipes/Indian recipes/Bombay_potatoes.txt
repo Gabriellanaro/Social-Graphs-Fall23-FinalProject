@@ -1,0 +1,16 @@
+title": "Bombay potatoes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bombay potatoes, Indian recipe \n|titlemode=replace\n|keywords=#bombaypotatoes #mustard #coriander #potatoes #lemonjuice #parboiled #redpeppers #spices #unusualrecipes #wok #bayleaves \n|hashtagrev=032020\n|description=When I started my Indian cookery course, this was the first dish we made. It is so easy!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 691\n|PortionCalories = 172\n|DatePublished=29th April 2013\n|Author=Chef\n|ImageComment = Bombay potatoes with red peppers\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 35 minutes (with pre cooked potatoes)\n|PrepTime = 10 minutes\n|CookTime = 25 minutes\n|Image = [[Image:RecipeBombayPotatoes.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n======Best recipe review======\n</span>\n''<span class=\"reviewTitle\">Easy-peasey</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Makes a lovely side dish for a curry.</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nWhen I started my Indian cookery course, this was the first dish we made. It is so easy!\n\n{{RecipeIngredients\n| 1lb [[potatoes]], warm, ([[parboiled]] and cut into bite-sized chunks)\n| 2 medium [[onions]]\n| 1 teaspoon [[mustard]] seeds\n| 2 [[green chillies]] (deseeded)\n| 6 curry leaves (3 [[bay leaves]] would make a poor substitute)\n| 3-4 sprigs of fresh [[Coriander|coriander]] leaves, chopped\n| &#189; teaspoon [[turmeric]] powder\n| &#189; teaspoon of [[lemon juice]]\n| 2 tablespoons of [[Clarification|ghee]] or oil\n| 1 teaspoon of [[salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the oil in a [[wok]] or large pan\n| Add [[mustard]] seeds and fry until they pop\n| Add the onions and fry for 3 minutes\n| Add the warm [[potatoes]] and the dry [[spices]] and fry on a medium heat for about 10/15 minutes\n| After 5 minutes, add the [[chillies]]\n| Add [[lemon juice]], chopped [[coriander]] and serve\n}}\n===Variations===\nIf you want to make the Bombay potatoes with [[red peppers]], ''pictured'', just add a deseeded, sliced [[red pepper]] (or any coloured sweet pepper) at the same stage as the onions.\n{{RecipeLine}}\n[[Category:Recipes|Potatoes]]\n[[Category:Indian recipes|Potatoes]]\n[[Category:Chilli pepper recipes|Potatoes]]\n[[Category:Spicy recipes|Potatoes]]\n[[Category:Accompaniments|Potatoes]]\n[[Category:Potato recipes]]\n[[Category:Vegetable recipes|Potatoes]]\n[[Category:Vegetarian recipes|Potatoes]]\n[[Category:Vegan recipes]]\n[[Category:Pan fried]][[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bombaypotatoes #mustard #coriander #potatoes #lemonjuice #parboiled #redpeppers #spices #unusualrecipes #wok #bayleaves </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

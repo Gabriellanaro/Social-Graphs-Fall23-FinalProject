@@ -1,0 +1,16 @@
+title": "Kalbsschnitzel nach Josca",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Kalbsschnitzel nach Josca, Egg recipe \n|titlemode=replace\n|keywords=#kalbsschnitzelnachjosca #veal #egg #flour #sauce #bayleaf #onion #stock #fat #carrot #boil \n|hashtagrev=032020\n|description=Veal and egg rolls from the Obertoggenburg Valley in Switzerland\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1370\n|PortionCalories = 228\n|DatePublished=28th July 2013\n|Author=Chef\n|ImageComment = Switzerland, the most beautiful country in the World!\n |Servings = 6 as a first course\n |Difficulty = 2\n |TotalTime = 1 hour, 10 minutes\n |PrepTime = 20 minutes\n |CookTime = 50 minutes\n |Image = [[Image:Campsite Holdrio Aspen Switzerland.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Swiss delight</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">This always reminds me of cow bells!</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Veal]] and [[Egg|egg]] rolls from the Obertoggenburg Valley in Switzerland.\n\n{{RecipeIngredients\n| 6 thin [[Veal|veal]] escalopes, pounded\n| 6 [[Egg|egg]]s, hard [[Boiled|boiled]], peeled and left whole\n| Seasoning\n| [[Lard]] or [[Oil|oil]]\n| 1 [[Onion|onion]], sliced\n| Warm water or [[Stock|stock]]\n| 2 [[Carrots|carrots]], sliced\n| 1 [[Bay leaf|bay leaf]]\n| [[Flour]]\n}}\n===Method===\n\n{{RecipeMethod\n| Wrap each [[Egg|egg]] in a slice of [[Veal|veal]], season and tie firmly with [[kitchen string]] or [[butcher's string]].\n| Melt the [[Fat|fat]] in a pan and [[Brown|brown]] the [[Veal|veal]] rolls on all sides.\n| Add the [[Onion|onion]] and [[Brown|brown]] slightly.\n| Add sufficient water or [[Stock|stock]] to cover the rolls.\n| Add the [[Carrot|carrot]] and [[Bay leaf|bay leaf]] and [[Simmer|simmer]] gently for 35-40 minutes until the [[Veal|veal]] is cooked.\n| Transfer the rolls to a hot serving dish and remove the string.\n| Strain the [[Sauce|sauce]] into a pan and blend a little [[Flour|flour]] with some of the liquid.\n| Return the [[Flour|flour]] mixture to the [[Sauce|sauce]], bring to the [[Boil|boil]] and pour over the [[Veal|veal]] rolls.\n}}\n===Serving suggestions===\nServe with [[Noodles|noodles]].\n{{RecipeLine}}\n[[Category:Recipes|Kalbsschnitzel nach josca]]\n[[Category:Egg recipes|Kalbsschnitzel nach josca]]\n[[Category:Meat recipes|Kalbsschnitzel nach josca]]\n[[Category:Starters|Kalbsschnitzel nach josca]]\n[[Category:Swiss recipes|Kalbsschnitzel nach josca]]\n[[Category:Veal recipes|Kalbsschnitzel nach josca]]\n[[Category:Boiled or simmered]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#kalbsschnitzelnachjosca #veal #egg #flour #sauce #bayleaf #onion #stock #fat #carrot #boil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Tomi gun",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tomi gun, Fish recipe \n|titlemode=replace\n|keywords=#tomigun #fish #onion #eggs #lettuce #sesameseeds #cornflour #cucumber #flour #batter #mackerel \n|hashtagrev=032020\n|description=A Korean recipe for fried fish with sesame seeds\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2793\n|PortionCalories = 698\n|DatePublished=31st October 2012\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 25 minutes\n |PrepTime = 10 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Mackerel.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Tomi Yum, shurely?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">Though my Korean isn't up to much\ud83d\ude43</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nA Korean recipe for [[Fried|fried]] [[Fish|fish]] with [[Sesame seeds|sesame seeds]]\n\n{{RecipeIngredients\n| 700 g [[Mackerel|mackerel]] or whiting fillets, [[Dried|dried]], and cut to give you a total of 12 pieces\n| [[Salt]] and [[Pepper|pepper]]\n| 3 tablespoons [[Flour|flour]]\n| 1 tablespoon [[Cornflour|cornflour]]\n| 2 [[Eggs|eggs]], beaten\n| [[Oil]]\n| 12 [[Lettuce|lettuce]] leaves\n| 1 [[Onion|onion]], cut into rings\n| &frac12; [[Cucumber|cucumber]], [[Sliced on the diagonal|sliced on the diagonal]]\n| 2 tablespoons lightly [[Roasted sesame seeds|roasted sesame seeds]]\n}}\n===Method===\n\n{{RecipeMethod\n| Season the [[Fish|fish]] pieces.\n| Mix the [[Flour|flour]] and [[Cornflour|cornflour]] in a bowl and mix in the beaten [[Eggs|eggs]] to form a [[Batter|batter]].\n| Heat some [[Oil|oil]] in a pan and [[Dip|dip]] the [[Fish|fish]] pieces into the [[Batter|batter]].\n| [[Fry]] them 3 at a time until they are golden and drain on kitchen paper.\n| Place the [[Lettuce|lettuce]] leaves on a cold dish and put a few [[Onion|onion]] rings and [[Cucumber|cucumber]] slices on each leaf.\n| Season and place the [[Fish|fish]] pieces on the top.\n| Sprinkle with the [[Sesame seeds|sesame seeds]].\n}}\n{{RecipeLine}}\n[[Category:Recipes|Tomi gun]]\n[[Category:Fish recipes|Tomi gun]]\n[[Category:Korean recipes|Tomi gun]]\n[[Category:Main courses|Tomi gun]]\n[[Category:Sea fish recipes|Tomi gun]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tomigun #fish #onion #eggs #lettuce #sesameseeds #cornflour #cucumber #flour #batter #mackerel </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

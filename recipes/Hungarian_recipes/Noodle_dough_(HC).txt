@@ -1,0 +1,16 @@
+title": "Noodle dough (HC)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Noodle dough, Hungarian recipe \n|titlemode=replace\n|keywords=#flour #noodles #soup #cheese #noodle #jam #walnuts #dough #boiling #eggs #boiledorsimmered \n|hashtagrev=032020\n|description=Noodle dough for soup\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 976\n|PortionCalories = 162\n|DatePublished=5th August 2013\n|Author=JuliaBalbilla\n|ImageComment = Noodle dough with curds [csipetke]\n |Servings = Serves 6\n |Difficulty = 2\n |TotalTime = 40 minutes\n |PrepTime = 30 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Csipetke recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thanks Julia, great idea</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">This was lovely with blue cheese and walnuts.</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\n[[Noodle]] dough for [[Soup|soup]]\n{{Template:HC recipes}}\n\n{{RecipeIngredients\n| 9 oz [255 g] [[flour]]\n| [[Salt|salt]]\n| 2 [[free range eggs]]\n}}\n===Method===\n\n{{RecipeMethod\n| Make a stiff [[dough]] of the [[flour]] with rather less than a gill [140 ml] of water the [[eggs]] and a little [[salt]].  Knead well on the baking-board, let it lie there a little, then roll out as thin as desired - usually about the thickness of a penny [2 pence piece is about right].\n| Leave it to dry a little, then dredge the rolled out dough with [[Flour|flour]], roll up and cut across in [[Noodles|noodles]] of the required width.  \n| Shake the [[Noodles|noodles]] to prevent them sticking.\n| Shortly before they are required drop them into [[Boiling|boiling]] water, [[Boil|boil]] till they rise to the surface, rinse them in cold water and put them into the [[Soup|soup]].\n}}\n===Variations===\nThe same dough if rolled out thicker may be used as a garnish with any kind of [[Meat|meat]] that has plenty of gravy, or may be served instead of a pudding with [[Butter|butter]], [[Semolina|semolina]], [[Cabbage|cabbage]], [[Curds|curds]], [[Jam|jam]], [[poppy seeds]], [[Walnuts|walnuts]], [[Cheese|cheese]], and so on.  \n--[[User:JuliaBalbilla|JuliaBalbilla]] 11:30, 9 January 2009 (UTC)\n{{RecipeLine}}\n[[Category:Recipes|Noodle dough]]\n[[Category:Hungarian recipes|Noodle dough]]\n[[Category:Pasta recipes|Noodle dough]]\n[[Category:Vegetarian recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#flour #noodles #soup #cheese #noodle #jam #walnuts #dough #boiling #eggs #boiledorsimmered </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

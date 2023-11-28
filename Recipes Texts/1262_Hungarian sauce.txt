@@ -1,0 +1,15 @@
+ 
+
+title": "Hungarian sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[Sauce hongroise]]\n\n[[Category:Recipes|Hongroise]]\n[[Category:French recipes|Hongroise]]\n[[Category:Dips and sauces|Hongroise]]\n[[Category:Cooking with wine|Hongroise]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

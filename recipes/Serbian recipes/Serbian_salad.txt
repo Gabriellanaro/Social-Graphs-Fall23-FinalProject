@@ -1,0 +1,16 @@
+title": "Serbian salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Serbian salad, Vegetarian recipe \n|titlemode=replace\n|keywords=#serbiansalad #turkish #pickled #vinegar #salad #onions #garlic #oliveoil #fridge #tomatoes #grated \n|hashtagrev=032020\n|description=Serbian salad (\u0441\u0440\u043f\u0441\u043a\u0430 \u0441\u0430\u043b\u0430\u0442\u0430, srpska salata) is usually served during summer with roast meat and other dishes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 629\n|PortionCalories = 157\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = 4 as an accompaniment\n |Difficulty = 1\n |TotalTime = 20 minutes\n |PrepTime = 20 minutes\n |CookTime = None\n |Image = [[Image:Serbian salad recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Mine never looks this good!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.4</span>/5</span>\n\n<span class=\"reviewDesc\">But it's still nice and crunchy</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nSerbian [[Salad|salad]] (\u0441\u0440\u043f\u0441\u043a\u0430 \u0441\u0430\u043b\u0430\u0442\u0430, srpska salata) is usually served during summer with [[Roast|roast]] [[Meat|meat]] and other dishes.  In Serbia, they often add a local [[Hot pepper|hot pepper]] called a 'feferon', but in the UK I think the nearest thing to it is a long [[Pickled|pickled]] [[Turkish]] [[Pepper|pepper]].  These are available in Asian grocery shops.\n\n{{RecipeIngredients\n| 500g [[Tomatoes|tomatoes]], sliced\n| 2 [[Onions|onions]], thinly sliced\n| 1 [[Cucumber|cucumber]], peeled and [[Grated|grated]]\n| 1 or more 'feferon' or long, [[Pickled|pickled]] [[Turkish]] [[Pepper|pepper]], finely chopped\n| [[Garlic]] to taste, crushed\n| 150g [[Feta cheese]], crumbled\n| 3-4 tablespoons [[Olive oil|olive oil]]\n| 1 tablespoon [[Vinegar|vinegar]]\n| Seasoning\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the first 6 ingredients in a bowl.\n| Sprinkle with the [[Oil|oil]] and [[Vinegar|vinegar]] and season to taste.\n| Chill in the [[Fridge|fridge]] for 1 hour.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Serbian recipes]]\n[[Category:Accompaniments]]\n[[Category:Snacks and light bites]]\n[[Category:Spicy recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Salad recipes]]\n[[Category:Uncooked]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#serbiansalad #turkish #pickled #vinegar #salad #onions #garlic #oliveoil #fridge #tomatoes #grated </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

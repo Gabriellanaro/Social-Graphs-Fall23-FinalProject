@@ -1,0 +1,15 @@
+ 
+
+title": "Prawn garlic and chilli pickle",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[Prawn balchao pickle]]\n[[]]\n[[Category:Indian recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Pickles and preserves]]\n[[Category:Spicy recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Fish recipes]]\n[[Category:Shellfish recipes]]\n[[Category:favourite recipes]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

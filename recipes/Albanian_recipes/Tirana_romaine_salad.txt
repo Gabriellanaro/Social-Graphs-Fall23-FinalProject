@@ -1,0 +1,16 @@
+title": "Tirana romaine salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tirana romaine salad, Egg recipe \n|titlemode=replace\n|keywords=#tiranaromainesalad #lemonjuice #oliveoil #lettuce #bread #springonions #accompaniment #salad #juice #lemon #egg \n|hashtagrev=032020\n|description=A very simple, but refreshing salad from Albania's capital city\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 307\n|PortionCalories = 76\n|DatePublished=24th October 2012\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 12 minutes\n |PrepTime = 12 minutes\n |CookTime = None\n |Image = [[Image:Tirana romaine salad recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n======Best recipe review======\n</span>\n''<span class=\"reviewTitle\">Healthy, healthy, healthy!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Smashing salad, lovely and fresh. \ud83e\udd57</span>\n \n<span class=\"reviewAuthor\"> - [[User:Klapaucius|Klapaucius]]</span></span>\n}}\nA very simple, but refreshing [[Salad|salad]] from Albania's capital city.\n\n{{RecipeIngredients\n| 1 romaine [[Lettuce|lettuce]], chopped\n| 1 bunch of [[Spring onions, chopped|spring onions, chopped]]\n| 2 [[Hard-boiled eggs|hard-boiled eggs]], sliced\n| Seasoning\n| [[Olive oil]]\n| [[Lemon juice]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the [[Lettuce|lettuce]], [[Spring onions|spring onions]] and [[Egg|egg]] in a bowl.\n| Season to taste.\n| Just before serving, make a dressing of [[Olive oil|olive oil]] and [[Lemon juice|lemon juice]] to taste (a minimum of 3 parts [[Oil|oil]] to 1 part [[Lemon|lemon]] [[Juice|juice]], but you could increase the [[oil]] quantity to 5 parts [[oil]]).\n}}\n===Serving suggestions===\nServe as an [[Accompaniment|accompaniment]], but would be fine on its own with some good [[Bread|bread]].\n{{RecipeLine}}\n[[Category:Recipes|Tirana romaine salad]]\n[[Category:Accompaniments|Tirana romaine salad]]\n[[Category:Albanian recipes|Tirana romaine salad]]\n[[Category:Egg recipes|Tirana romaine salad]]\n[[Category:Salad recipes|Tirana romaine salad]]\n[[Category:Snacks and light bites|Tirana romaine salad]]\n[[Category:Vegetable recipes|Tirana romaine salad]]\n[[Category:Vegetarian recipes|Tirana romaine salad]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tiranaromainesalad #lemonjuice #oliveoil #lettuce #bread #springonions #accompaniment #salad #juice #lemon #egg </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

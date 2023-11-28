@@ -1,0 +1,16 @@
+title": "Spicy garlic yogurt",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Spicy garlic yogurt, Garlic recipe \n|titlemode=replace\n|keywords=#spicygarlicyogurt #yogurt #raselhanout #unusualrecipes #salads #garammasala #pitabread #currypowder #pakistanibasar #garlic #crispbread \n|hashtagrev=032020\n|description=Since we first made this dip over a week ago, we have made it three times. It has a nice garlicky bite with warm Middle Eastern spicy warmth\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 318\n|PortionCalories = 39\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|ImageComment = Spicy garlic yogurt in minutes\n |Servings = Servings: 8 - Jazzes up 1 500g pot of [[Yogurt|yogurt]]\n |Difficulty = 1\n |TotalTime = 4 minutes\n |PrepTime = 4 minutes\n |CookTime = None\n|Image = [[Image:Spicy garlic yogurt recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Dips don't get easier than this</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Nice with puri</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n\nSince we first made this [[Dip|dip]] over a week ago, we have made it three times.  It has a nice garlicky bite with warm Middle Eastern spicy warmth.  It's just a matter of tipping the ingredients into a pot of [[Yogurt|yogurt]] and stirring. It keeps well too.\n\n{{RecipeIngredients\n| 500g [[Yogurt|yogurt]] - Greek style is best\n| 3 to 4 [[Cloves|cloves]] of [[Garlic]], peeled and crushed \n| 1 level teaspoon [[Ras el hanout|ras el hanout]]\n| Pinch of [[Salt|salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Sprinkle the ingredients into the [[Yogurt|yogurt]] and whisk well\n| Leave to stand for 30 mins to amalgamate well\n| Stir well and serve\n}}\n===Serving suggestions===\nServe with [[Crispbread|crispbread]], [[Pita bread|pita bread]], spooned onto [[Salads|salads]] or eaten directly from the bowl!\n===Variations===\nIf you don't have [[ras el hanout]], try [[garam masala]], [[Pakistani basar]] or even [[curry powder]]\n{{RecipeLine}}\n[[Category:Recipes|Yoghurt]]\n[[Category:Cookery cheats]Yoghurt]\n[[Category:Accompaniments|Yoghurt]]\n[[Category:Dips and sauces|Yoghurt]]\n[[Category:Garlic recipes|Yoghurt]]\n[[Category:Middle Eastern recipes|Yoghurt]]\n[[Category:North African recipes|Yoghurt]]\n[[Category:Spicy recipes|Yoghurt]]\n[[Category:Starters|Yoghurt]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#spicygarlicyogurt #yogurt #raselhanout #unusualrecipes #salads #garammasala #pitabread #currypowder #pakistanibasar #garlic #crispbread </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

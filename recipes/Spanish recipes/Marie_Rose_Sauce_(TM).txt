@@ -1,0 +1,16 @@
+title": "Marie Rose Sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Marie Rose Sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#eggyolks #orange #tomatoketchup #mustard #sauces #juice #mayonnaise #oliveoil #brandy #salads #seafood \n|hashtagrev=032020\n|description=This Marie Rose Sauce recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 179\n|PortionCalories = 29\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 6 - Makes 500 ml\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice with the orange</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I don't usually make this with oranges, but it made a nice change.</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con Thermomix (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 2 very fresh [[Egg yolks|egg yolks]]\n| 1 [[Orange|orange]]\n| 100g [[Tomato ketchup|tomato ketchup]]\n| 1 teaspoon [[Brandy|brandy]]\n| 450g [[Olive oil|olive oil]]\n| 1 teaspoon [[Mustard|mustard]]\n| A dash of [[Tabasco]]\n| [[Salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Squeeze the [[Juice|juice]] from the [[Orange|orange]] and pour it into the TM with all the other ingredients except for the [[Oil|oil]].\n| Mix '''4 seconds / Speed 5'''.\n| Keeping the motor running at '''Speed 5''' and with the MC in position, pour the [[Oil|oil]] onto the lid allowing it to fall, little by little, into the TM, until the [[Sauce|sauce]] has emulsified.\n| Check the texture, and if it is not thick enough, add a little more [[Oil|oil]].\n| You can add a little more [[Ketchup|ketchup]] if it is too pale.\n}}\n===Serving suggestions===\nThis is one of those [[Sauces|sauces]] derived from [[Mayonnaise|mayonnaise]].  It is perfect with [[Fish|fish]], [[Seafood|seafood]], [[Salads|salads]] and white [[Meat|meat]].  \n===Variations===\nA variation is made with [[Milk|milk]], where you substitute the [[Egg yolks|egg yolks]] for 200g milk and reduce the [[Oil|oil]] by half.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Egg recipes]]\n[[Category:Cooking with wine]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#eggyolks #orange #tomatoketchup #mustard #sauces #juice #mayonnaise #oliveoil #brandy #salads #seafood </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

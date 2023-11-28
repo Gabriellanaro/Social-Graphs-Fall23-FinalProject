@@ -1,0 +1,16 @@
+title": "Pimm's original",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pimm's original, British recipe \n|titlemode=replace\n|keywords=#pimmsoriginal #strawberries #lemonade #cucumber #orange #mint \n|hashtagrev=032020\n|description=Be prepared for the summer season with the original Pimm's cocktail\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 160\n|PortionCalories = 160\n|DatePublished=22nd October 2012\n|Author=Chef\n|Servings = Serves 1\n|Difficulty = 1\n|TotalTime =  1 minute\n|PrepTime =  1 minute\n|CookTime = None\n|Image = [[Image:Pimms original.png|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Pimm's Time</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Is Summertime!</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nBe prepared for the summer season with the original [[Pimm's]] cocktail.\n\n{{RecipeIngredients\n| 1 part [[Pimms No.1]]\n| 3 parts chilled [[lemonade]]\n| Sprig of [[Mint]]\n| Slices of [[Cucumber]]\n| A wedge of [[Orange]] \n| A few [[Strawberries]]\n}}\n===Method===\n\n{{RecipeMethod\n| Take a long glass or jug and add ice\n| Add the ingredients\n| Stir and serve\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pimmsoriginal #strawberries #lemonade #cucumber #orange #mint </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

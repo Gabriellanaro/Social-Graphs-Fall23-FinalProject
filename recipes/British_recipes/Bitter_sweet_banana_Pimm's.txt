@@ -1,0 +1,16 @@
+title": "Bitter sweet banana Pimm's",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bitter sweet banana Pimm's, British recipe\n|titlemode=replace\n|keywords=#bittersweetbananapimms #thechap #limecordial #angosturabitters #gin #martiniglass #rossovermouth \n|hashtagrev=032020\n|description=Be prepared for the summer season with this spiffing Pimm's cocktail, taken from issue 57 of The Chap\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 196\n|PortionCalories = 196\n|DatePublished=22nd October 2012\n|Author=Chef\n|ImageComment = [https://shop.pimms.co.uk/pimms-bunting-x-5 Pimm's bunting]\n|Servings = Serves 1\n|Difficulty = 1\n|TotalTime =  3 minutes\n|PrepTime =  3 minutes\n|CookTime = None\n|Image = [[Image:Pimms bunting.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Good Old Chap!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Issue 57, a good one.</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nBe prepared for the summer season with this spiffing [[Pimm's]] cocktail, taken from issue 57 of [[The Chap]].\n\n{{RecipeIngredients\n| 1 measure [[Pimm's]] No.1 Cup\n| &#189; measure [[Gin]]\n| 1 measure [[Bols Creame de Bananes]]\n| 1 measure [[rosso vermouth]]\n| 1 measure [[lime cordial]]\n| 3 dashes [[Angostura bitters]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix together\n| Shake and serve in a [[martini glass]] with a garnish of guilty conscience.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bittersweetbananapimms #thechap #limecordial #angosturabitters #gin #martiniglass #rossovermouth </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

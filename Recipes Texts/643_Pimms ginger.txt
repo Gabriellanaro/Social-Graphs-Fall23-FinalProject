@@ -1,0 +1,15 @@
+ 
+
+title": "Pimm's ginger",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pimm's ginger recipe\n|titlemode=replace\n|keywords=#lemon #mint #pimmsginger #gingerale \n|hashtagrev=032020\n|description=Be prepared for the summer season with this gingery Pimm's cocktail part Pimm's No Cup parts ginger ale A slice of lemon A sprig of mint Take a jug or\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 89\n|PortionCalories = 89\n|DatePublished=12th April 2013\n|Author=Chef\n|Servings = Serves 1\n|Difficulty = 1\n|TotalTime =  1 minute\n|PrepTime =  1 minute\n|CookTime = None\n|Image = [[Image:Pimms ginger.png|200px|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">It must be summer</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Time for Tennis!</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nBe prepared for the summer season with this gingery [[Pimm's]] cocktail.\n\n{{RecipeIngredients\n| 1 part [[Pimm's]] No.1 Cup\n| 3 parts [[ginger ale]]\n| A slice of [[lemon]]\n| A sprig of [[mint]]\n}}\n===Method===\n\n{{RecipeMethod\n| Take a jug or long drink glass and fill it with ice.\n| Add the ingredients\n| Serve\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#lemon #mint #pimmsginger #gingerale </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

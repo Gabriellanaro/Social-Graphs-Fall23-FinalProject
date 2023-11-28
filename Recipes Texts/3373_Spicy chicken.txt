@@ -1,0 +1,15 @@
+ 
+
+title": "Spicy chicken",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Spicy chicken, Meat recipe \n|titlemode=replace\n|keywords=#spicychicken #chicken #fry #refrigerate #stirfried #lemonjuice #miseenplace #lockandlock #oliveoil \n|hashtagrev=032020\n|description=These tasty chicken pieces are easily made using Tex-Mex taco spice mixture.\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 604\n|PortionCalories = 302\n|DatePublished=21st January 2013\n|Author=Chef\n|ImageComment = Frying the spicy chicken\n |Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 5 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Spicy chicken recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Love tex-Mex</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">\u2668\ufe0f\u2668\ufe0f\u2668\ufe0f</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nThese tasty [[Chicken|chicken]] pieces are easily made using either a shop-bought or homemade [[Tex-Mex taco spice mixture]].\n[[Image:Spicy chicken marinading.jpg|thumb|300px|right|Place in a Lock & Lock box, shake and refrigerate until needed]]\n\nThrow the ingredients in a [[Lock & lock|lock & lock]] box, shake them and [[Refrigerate|refrigerate]] until you are ready to [[Fry|fry]] them.\n\n{{RecipeIngredients\n| 250 g [[Chicken|chicken]] pieces, skin and bone removed\n| 2 tablespoons [[Tex-Mex spice mix]]\n| 2 tablespoons [[Lemon juice|lemon juice]]\n| 1 tablespoon [[Olive oil|olive oil]]\n\n}}\n\n===[[Mise en place]]===\n* Slice the [[Chicken|chicken]] thinly.\n* Add all of the ingredients to a [[Lock and lock|lock and lock]] box, shake well and [[Refrigerate|refrigerate]] for a few hours or until ready to [[Fry|fry]].\n===Method===\n\n{{RecipeMethod\n| [[Fry]] the [[Chicken|chicken]] pieces in a little hot [[Oil|oil]] until properly cooked - about 7 minutes, depending upon the thickness of the chicken.\n}}\n==See also==\n* {{See also - Jointing a chicken}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cookery cheats]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Poultry recipes]]\n[[Category:Spicy recipes]]\n[[Category:Tex-Mex recipes]]\n[[Category:Student recipes]]\n[[Category:Stir fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#spicychicken #chicken #fry #refrigerate #stirfried #lemonjuice #miseenplace #lockandlock #oliveoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,15 @@
+ 
+
+title": "Baked trout (Chinese style)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[Baked sea bass (Chinese style)]]\n[[]]\n[[Category:Oriental cuisine]]\n[[Category:Fish recipes]]\n[[Category:Sea fish recipes]]\n[[Category:Main courses]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

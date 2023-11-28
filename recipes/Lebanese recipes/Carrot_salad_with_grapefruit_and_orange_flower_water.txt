@@ -1,0 +1,16 @@
+title": "Carrot salad with grapefruit and orange flower water",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Carrot salad with grapefruit and flower water, vegetarian recipe\n|titlemode=replace\n|keywords=#carrots #icingsugar #carrotsaladwithgrapefruitandorangeflowerwater #mortarandpestle #pinkgrapefruit #unusualrecipes #juice #grapefruitjuice #orangeflowerwater #foodprocessor #granulatedsugar \n|hashtagrev=032020\n|description=This wonderful recipe originates from Nigel Slater's 30 Minute Cook recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 192\n|PortionCalories = 48\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 50 minutes\n |PrepTime = 50 minutes\n |CookTime = None\n |Image = [[Image:Carrot salad with grapefruit and orange flower water recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Sounds divine</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.82</span>/5</span>\n\n<span class=\"reviewDesc\">Just don't have the orange water...</span> \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\n\nThis wonderful recipe originates from Nigel Slater's 30 Minute Cook recipe ISBN 978-0141029528\n\n{{RecipeIngredients\n| 450 g [[Carrots|carrots]]\n| 1 The [[Juice|juice]] from one [[pink grapefruit]]\n| 2 tablespoons [[Orange flower water|orange flower water]]\n| A pinch of fine [[Sea Salt|sea salt]]\n| A pinch of [[Icing sugar|icing sugar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Top, tail and peel the [[Carrots|carrots]]\n| Grate them coarsely - a [[Food processor|food processor]] is good for this\n| Add a pinch of [[Salt|salt]] and a pinch of [[Icing sugar|icing sugar]] to the [[Grated|grated]] [[Carrots|carrots]] and toss them in the [[Grapefruit juice|grapefruit juice]]\n| Chill for 45 minutes and serve.\n}}\n===Chef's notes===\nIf you don't have [[Icing sugar|icing sugar]], crush a little [[Granulated sugar|granulated sugar]] in a [[Mortar and pestle|mortar and pestle]] or even between two spoons\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Algerian recipes]]\n[[Category:Lebanese recipes]]\n[[Category:Libyan recipes]]\n[[Category:Middle Eastern recipes]]\n[[Category:Moroccan recipes]]\n[[Category:North African recipes]]\n[[Category:Tunisian recipes]]\n[[Category:Accompaniments]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Salad recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#carrots #icingsugar #carrotsaladwithgrapefruitandorangeflowerwater #mortarandpestle #pinkgrapefruit #unusualrecipes #juice #grapefruitjuice #orangeflowerwater #foodprocessor #granulatedsugar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

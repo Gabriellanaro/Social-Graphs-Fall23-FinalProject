@@ -1,0 +1,15 @@
+ 
+
+title": "Punajuuripihvit (Beetroot steaks)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Punajuuripihvit (Beetroot steaks) recipe\n|titlemode=replace\n|keywords=#beetroot #breadcrumbs #egg #lemonjuice #parsley #butter #dip #vegetable #salad #punajuuripihvitbeetrootsteaks #fried \n|hashtagrev=032020\n|description=A Finnish vegetable dish where slices of beetroot are coated in breadcrumbs and fried\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=9th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  25 minutes\n|PrepTime =  15 minutes\n|CookTime =  10 minutes\n|TotalCalories = 558\n|PortionCalories = 139 \n|Image = [[Image:Punajuuripihvit Beetroot steaks recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Finnish Fun!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Unusual too</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nA Finnish [[Vegetable|vegetable]] dish where slices of [[Beetroot|beetroot]] are coated in [[Breadcrumbs|breadcrumbs]] and [[Fried|fried]]\n{{RecipeIngredients\n\n| 450g large [[Beetroots|beetroots]], cooked and sliced\n| 1 [[Egg|egg]], lightly beaten\n| 50g fine, dry [[Breadcrumbs|breadcrumbs]]\n| 30g [[Butter|butter]]\n| 1 tablespoon [[Lemon juice|lemon juice]]\n| 1 tablespoon [[Parsley|parsley]], finely chopped\n}}\n\n===Method===\n{{RecipeMethod\n\n| [[Dip]] the [[Beetroot|beetroot]] slices in the beaten [[Egg|egg]] and then into the [[Breadcrumbs|breadcrumbs]]\n| Melt the [[Butter|butter]] in a [[Frying pan|frying pan]]\n| Saut\u00e9 the coated [[Beetroot|beetroot]] on both sides, until golden [[Brown|brown]].\n| Transfer to a serving platter and sprinkle with the [[Lemon juice|lemon juice]] and [[Parsley|parsley]]\n}}\n===Serving suggestions===\nServe with [[Sour cream|sour cream]] and [[Salad|salad]]\n{{RecipeLine}}\n[[Category:Recipes|Beetroot]]\n[[Category:Finnish recipes |Beetroot]]\n[[Category:Accompaniments|Beetroot]]\n[[Category:Snacks and light bites|Beetroot]]\n[[Category:Vegetarian recipes|Beetroot]]\n[[Category:Vegetable recipes|Beetroot]]\n[[Category:Pan fried|Beetroot]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#beetroot #breadcrumbs #egg #lemonjuice #parsley #butter #dip #vegetable #salad #punajuuripihvitbeetrootsteaks #fried </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

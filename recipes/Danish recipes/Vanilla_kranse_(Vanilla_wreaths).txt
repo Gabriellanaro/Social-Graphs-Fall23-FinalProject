@@ -1,0 +1,16 @@
+title": "Vanilla kranse (Vanilla wreaths)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Vanilla kranse (Vanilla wreaths) recipe\n|titlemode=replace\n|keywords=#plainflour #butter #bake #groundalmonds #pipingbag #egg #bakingtrays #biscuit #bakingpowder #miseenplace #rest \n|hashtagrev=032020\n|description=These biscuits are very popular in Denmark.\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=4th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = 30 biscuits\n|Difficulty = 1\n|TotalTime =  50 minutes\n|PrepTime =  40 minutes\n|CookTime =  10 minutes\n|TotalCalories = 5438\n|PortionCalories = 181\n|Image = [[Image:Vanilla kranse (Vanilla wreaths).jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Biscuit on a string</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">How unusual!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThese [[Biscuit|biscuit]]s are very popular in Denmark.\n{{RecipeIngredients\n\n| 510g [[Plain flour|plain flour]]\n| \u00bd teaspoons [[Baking powder|baking powder]]\n| 370g [[Butter|butter]]\n| 250g [[Caster Sugar|caster sugar]]\n| 110g [[Ground almonds|ground almonds]]\n| 1 [[Egg|egg]], beaten\n| 1 teaspoon [[Vanilla extract|vanilla extract]]\n}}\n===[[Mise en place]]===\n\n* Pre-heat the [[Oven|oven]] to 200\u00b0 C (400\u00b0 F - gas 6), [fan oven 180\u00b0 C]\n\n===Method===\n{{RecipeMethod\n\n| Mix all of the ingredients together and allow to [[Rest|rest]] in a cool place for 20 minutes.\n| Transfer to a [[Piping bag|piping bag]] and pipe into long, thin rolls.\n| Cut the rolls into equal size pieces and shape into small rings on well greased [[Baking trays|baking trays]].\n| [[Bake]] for about 10 minutes until light [[Brown|brown]].\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Danish recipes]]\n[[Category:Bread and baking]]\n[[Category:Snacks and light bites]]\n[[Category:Vegetarian recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#plainflour #butter #bake #groundalmonds #pipingbag #egg #bakingtrays #biscuit #bakingpowder #miseenplace #rest </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Banana milkshake",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Banana milkshake, a fruit recipe \n|titlemode=replace\n|keywords=#bananamilkshake #vanilla #icecream #foodprocessor #bananas #banana #milkshake \n|hashtagrev=032020\n|description=Easy to make, reasonably healthy and delicious\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 493\n|PortionCalories = 123\n|DatePublished=29th May 2012\n|Author=Chef\n|Servings = Serves 4 - Makes one pint of [[Banana|banana]] [[milkshake]]\n |Difficulty = 2\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:Banana milkshake recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Mmm. Nice!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.8</span>/5</span>\n\n<span class=\"reviewDesc\">Bananarama?</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\n\nEasy to make, reasonably healthy and delicious.\n\n{{RecipeIngredients\n| 568 ml (20fl oz / 1 pint [[Milk|milk]])\n| 2 [[Bananas|bananas]], peeled\n| 2 scoops [[Vanilla|vanilla]] [[Ice cream|ice cream]]\n| 2 teaspoons [[Sugar|sugar]]\n\n| 3 drops [[Vanilla|vanilla]] essence\n}}\n===Method===\n\n{{RecipeMethod\n| Add all of the ingredient to a [[Food processor|food processor]]\n| Blend for 2 minutes\n}}\n===Serving suggestions===\nServe chilled\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Sweets and desserts]]\n[[Category:British recipes]]\n[[Category:Fruit recipes]]\n[[Category:Drink and beverage recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bananamilkshake #vanilla #icecream #foodprocessor #bananas #banana #milkshake </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

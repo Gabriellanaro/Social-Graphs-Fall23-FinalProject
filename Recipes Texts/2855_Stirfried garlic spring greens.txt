@@ -1,0 +1,15 @@
+ 
+
+title": "Stir-fried garlic spring greens",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Stir-fried garlic spring greens a Chinese recipe\n|titlemode=replace\n|keywords=#garlic #stirfriedgarlicspringgreens #springgreens #stirfried #vegetableoil \n|hashtagrev=032020\n|description=A tasty way to get one of your five daily servings!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 656\n|PortionCalories = 164\n|DatePublished=31st January 2013\n|Author=Chef\n|ImageComment = thumb|right|Chinese cabbage\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 25 minutes\n |PrepTime = 15 minutes\n |CookTime = 10 minutes\n |Image = [[Image:BokChoy.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n======Best recipe review======\n</span>\n''<span class=\"reviewTitle\">Bok choy, Boy!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.3</span>/5 </span>\n\n<span class=\"reviewDesc\">Simple and tasty. \ud83c\udf3f\ud83c\udf3f\ud83c\udf3f</span>\n \n<span class=\"reviewAuthor\"> - [[User:Chef|Jerry]]</span></span>\n}}\nA tasty way to get one of your five daily servings!\n\n{{RecipeIngredients\n| 450g (1 lb) tender [[spring greens]]\n| 1 teaspoon sea [[salt]]\n| 4 tablespoons [[vegetable oil]]\n| 3 cloves [[Garlic|garlic]], finely chopped\n| &#189; teaspoon [[sugar]]\n| 1 tablespoon water \n}}\n===Method===\n\n{{RecipeMethod\n| Wash the greens and cut into 2.5 cm (1\") lengths, discarding any stalks\n| Cover with cold water and [[salt]] and leave for 10 minutes\n| Heat a wok or large frying pan and add oil\n| When hot, add the [[Garlic|garlic]] and [[stir-fry]] for a minute or two. Don't allow the garlic to burn\n| Add the greens and sprinkle with [[sugar]]\n| Add the tablespoon of water and heat for 3 to 4 minutes until the leave change to a transparent green\n| Arrange on a warm dish and serve\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chinese recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Garlic recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Stir fried]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlic #stirfriedgarlicspringgreens #springgreens #stirfried #vegetableoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

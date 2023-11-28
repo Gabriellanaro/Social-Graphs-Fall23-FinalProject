@@ -1,0 +1,16 @@
+title": "Wasabi mayonnaise",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Wasabi mayonnaise, Vegetarian recipe \n|titlemode=replace\n|keywords=#wasabimayonnaise #wasabipowder #garlic #garlicmayonnaiserecipes #seasonedpioneers #wasabi #lemonjuice #shrimpcakes \n|hashtagrev=032020\n|description=This hot and spicy wasabi mayonnaise recipe can be made with wasabi powder, now available in the UK\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 313\n|PortionCalories = 156\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Wasabi mayonnaise with [[shrimp cakes]]\n |Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n|Image = [[Image:Shrimp cakes - prawn balls recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Wow, that burns!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Hot, hot, hot!</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nThis hot and spicy wasabi mayonnaise recipe can be made with wasabi powder, now available in the UK.\n\n{{RecipeIngredients\n|1/2 a teaspoon [[wasabi powder]] ([[Seasoned Pioneers]] can supply [[wasabi powder]] in the UK).\n|1/2 a teaspoon of water\n|1 tablespoon of grated onion\n|3 tablespoons of mayonnaise (homemade mayonnaise or commercial mayonnaise)\n}}\n===Method===\n\n{{RecipeMethod\n|Add the [[wasabi powder]], water and grated onion to a small bowl. Mix well and leave to stand for a few minutes.\n|Mix the mayonnaise into the [[wasabi]] mixture\n|Serve\n}}\n===Variations===\n* Add a little crushed [[Garlic|garlic]]\n* Add a squeeze of [[lemon juice]]\n* Add a pinch of [[salt]]\n==See also==\n* A huge variety of [[Garlic mayonnaise recipes|different mayonnaise recipes]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Oriental cuisine]]\n[[Category:Spicy recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#wasabimayonnaise #wasabipowder #garlic #garlicmayonnaiserecipes #seasonedpioneers #wasabi #lemonjuice #shrimpcakes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

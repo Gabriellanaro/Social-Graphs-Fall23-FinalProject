@@ -1,0 +1,16 @@
+title": "Sopa Solferino (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sopa Solferino - A Thermomix recipe \n|titlemode=replace\n|keywords=#potatoes #leek #onion #thermomix #parsley #sofrito #potato #oliveoil #butter #melon #vegetablestock \n|hashtagrev=032020\n|description=An Italian sounding name for a Spanish leek and potato soup\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 920\n|PortionCalories = 230\n|DatePublished=22nd October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 37 minutes \n|PrepTime = 15 minutes\n|CookTime = 22 minutes \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Souper!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">\ud83d\ude1b\ud83d\ude1b\ud83d\ude1b</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\n\nAn [[Italian]] sounding name for a [[Spanish]] [[Leek and potato soup|leek and potato soup]].\n\n'''For the [[Sofrito|sofrito]]'''\n{{RecipeIngredientsTM\n| &frac12; [[Onion|onion]]\n| 1 [[Leek|leek]]\n| 200g [[Potatoes|potatoes]]\n| 25g [[Olive oil|olive oil]]\n| 25g [[Butter|butter]]\n}}\n'''Other ingredients'''\n{{RecipeIngredientsNB\n| 2 [[Potatoes|potatoes]]\n| 1,000g water\n| 1 [[Vegetable Stock|vegetable stock]] cube\n| [[Pepper]]\n| 1tsp chopped [[Parsley|parsley]]\n}}\n===Method===\n\n{{RecipeMethod\n| Peel the [[Onion|onion]], remove the outer layer and chop it.\n| Wash the [[Leek|leek]], discard the green part and chop it.\n| Peel the 200g [[Potatoes|potatoes]] and chop them.\n| Put all the [[Sofrito|sofrito]] ingredients into the bowl '''3 seconds / Speed 4'''.\n| Next, '''7 minutes / Temp. Varoma / Speed 3&frac12;'''.\n| Meanwhile, peel the 2 [[Potatoes|potatoes]] and make 16 balls with the aid of a [[Melon|melon]] baller.\n| Finally, pour the water into the bowl with the [[Stock cubes|stock cubes]], [[Pepper|pepper]], and the [[Potato|potato]] balls '''15 minutes / 100\u00b0 C / Reverse blade / Speed Spoon'''.\n| Serve the [[Soup|soup]], sprinkled with the chopped [[Parsley|parsley]].\n}}\n===Recipe source===\n* Translated from a recipe in Cocina espa\u00f1ola con [[Thermomix]] (Susaeta Ediciones).\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Soup and stock recipes]]\n[[Category:Starters]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoes #leek #onion #thermomix #parsley #sofrito #potato #oliveoil #butter #melon #vegetablestock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

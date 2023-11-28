@@ -1,0 +1,16 @@
+title": "Wiener Fleischsuppe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Wiener Fleischsuppe; a  recipe\n|titlemode=replace\n|keywords=#semolina #dumplings #nutmeg #beef #butter #parsley #egg #wienerfleischsuppe #mushrooms #beefstock #boil \n|hashtagrev=032020\n|description=A beef consomm\u00e9 with semolina dumplings. \n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 4405\n|PortionCalories = 1101\n|DatePublished=21st January 2013\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 2 hours 45 minutes\n |PrepTime = 2 hours 10 minutes\n |CookTime = 35 minutes\n |Image = [[Image:Wiener Fleischsuppe recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Looks like dumplings, in Oxo</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">Which, to me, looks really good</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nA [[Beef|beef]] consomm\u00e9 with [[Semolina|semolina]] [[Dumplings|dumplings]].\n\n{{RecipeIngredients\n| 30 g [[Butter|butter]]\n| 1 [[Egg|egg]], beaten\n| Pinch [[Salt|salt]]\n| Pinch [[Nutmeg|nutmeg]], [[Grated|grated]]\n| 8 tablespoons coarse [[Semolina|semolina]]\n| 1 teaspoon cold water\n| 1 litre good, strong [[Beef|beef]] consomm\u00e9\n| 450 g [[garden peas]]\n| 250 g small [[Mushrooms|mushrooms]], wiped\n| 1 tablespoon [[Parsley|parsley]], finely chopped\n}}\n===Method===\n\n{{RecipeMethod\n| [[Cream]] the [[Butter|butter]] in a bowl, add the [[Egg|egg]], [[Salt|salt]] and [[Nutmeg|nutmeg]].  Mix thoroughly.\n| Stir in the [[Semolina|semolina]] and the water and leave to stand for 2 hours.\n| Shape the mixture into small [[Dumplings|dumplings]].\n| Bring the consomm\u00e9 to the [[Boil|boil]], reduce the heat and add the [[Dumplings|dumplings]].\n| [[Simmer]] for 20 minutes.\n| Add the [[Peas|peas]] and [[Mushrooms|mushrooms]] and cook for a further 10 minutes.\n| Serve, garnished with the chopped [[Parsley|parsley]].\n}}\n===Serving suggestions===\nServe with [[Rye|rye]] [[Bread|bread]].\n===Chef's notes===\nTry to use a home made, [[Clarified|clarified]] [[Beef stock|beef stock]]. [[Ice filtered consomm\u00e9|Ice filtering]] will produce crystal clear consomm\u00e9.\n{{RecipeLine}}\n[[Category:Recipes|Wiener flieschzuppe]]\n[[Category:Austrian recipes|Wiener flieschzuppe]]\n[[Category:Beef recipes|Wiener flieschzuppe]]\n[[Category:Meat recipes|Wiener flieschzuppe]]\n[[Category:Soup and stock recipes|Wiener flieschzuppe]]\n[[Category:Starters|Wiener flieschzuppe]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#semolina #dumplings #nutmeg #beef #butter #parsley #egg #wienerfleischsuppe #mushrooms #beefstock #boil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Garlic chilli prawns",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Garlic chilli prawns, an Indian recipe Cooking Wiki\n|titlemode=replace\n|keywords=#prawnsnpepsi #garlicchilliprawns #indianrecipes #shellfishrecipes #garlicchillichicken #boiledorsimmered #panfried #maincourses #recipes #spicyrecipes \n|hashtagrev=12032020\n|description=I recently made Prawns 'n' Pepsi and after tasting it, realised how similar it was to an Indian take-away favourite of mine, garlic chili prawns, so\n|datePublished=2013-01-22\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n[[Image:Prawns 'n' Pepsi dish.jpg|thumb|300px|right|Prawns 'n' Pepsi, plated]]\n\nI recently made [[Prawns 'n' Pepsi]] and after tasting it, realised how similar it was to an Indian take-away favourite of mine, garlic chili prawns, so until we have a recipe for garlic chili prawns, give [[Prawns 'n' Pepsi]] a try, you won't be disappointed.\n==See also==\n* [[Garlic chilli chicken]]\n* [[Prawns 'n' Pepsi]]\n\n \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Indian recipes]]\n[[Category:Main courses]]\n[[Category:Shellfish recipes]]\n[[Category:Spicy recipes]]\n[[Category:Pan fried]][[Category:Boiled or simmered]]\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#prawnsnpepsi #garlicchilliprawns #indianrecipes #shellfishrecipes #garlicchillichicken #boiledorsimmered #panfried #maincourses #recipes #spicyrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

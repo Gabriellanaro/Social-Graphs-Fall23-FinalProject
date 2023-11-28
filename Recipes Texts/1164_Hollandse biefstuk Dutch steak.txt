@@ -1,0 +1,15 @@
+ 
+
+title": "Hollandse biefstuk (Dutch steak)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Hollandse biefstuk (Dutch steak) recipe\n|titlemode=replace\n|keywords=#sauce #dutch #butter #panfriedsteak #peas #steak #restfor #friedpotatoes #foil #hollandsebiefstukdutchsteak \n|hashtagrev=032020\n|description=The Dutch way of cooking steak is not unusual, except perhaps in the addition of milk to make a sauce.\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=31st December 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  10 minutes\n|PrepTime =  3 minutes\n|CookTime =  7 minutes\n|TotalCalories = 2303\n|PortionCalories = 575 \n|Image = [[Image:Hollandse biefstuk Dutch steak recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I prefer wine to milk</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">But then it wouldn't be a Dutch steak, I guess.</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThe [[Dutch]] way of cooking [[Steak|steak]] is not unusual, except perhaps in the addition of [[Milk|milk]] to make a [[Sauce|sauce]].\n{{RecipeIngredients\n\n| 4 steaks of your choice, weighing 150g-170g each\n| 1 teaspoon [[Salt|salt]]\n| [[Freshly ground black pepper]]\n| 40g [[Butter|butter]]\n| 30ml [[Milk|milk]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Rub the steaks on both sides with [[Salt|salt]] and [[Pepper|pepper]].\n| Heat the [[Butter|butter]] in a [[Frying pan|frying pan]] until very hot.\n| Saut\u00e9 the steaks on each side until they are cooked to your liking.\n| Remove them from the pan and wrap in [[Foil|foil]] to [[Rest for|rest for]] a few minutes.\n| Add the [[Milk|milk]] to the pan and stir up the [[Brown|brown]] bits on the bottom.\n| Plate up the steaks and pour the [[Sauce|sauce]] over them.\n}}\n===Serving suggestions===\n[[Dutch]] steaks are always served with [[Fried potatoes|fried potatoes]] and [[Peas|peas]].\n{{RecipeLine}}\n[[Category:Recipes|Steak]]\n[[Category:Dutch recipes|Steak]]\n[[Category:Main courses|Steak]]\n[[Category:Beef recipes|Steak]]\n[[Category:Meat recipes|Steak]]\n[[Category:Pan fried|Steak]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sauce #dutch #butter #panfriedsteak #peas #steak #restfor #friedpotatoes #foil #hollandsebiefstukdutchsteak </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

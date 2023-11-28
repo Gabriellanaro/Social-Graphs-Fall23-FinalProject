@@ -1,0 +1,16 @@
+title": "Easy bean sprout salad (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Easy bean sprout salad a vegetarian recipe\n|titlemode=replace\n|keywords=#beansprouts #sesameoil #drysherry #springonions \n|hashtagrev=032020\n|description=A simple vegetarian salad that works well on its own or as a base for something more complex\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 169\n|PortionCalories = 84\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Chicken with beansprout salad and egg fried rice\n |Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n |Image = [[Image:Beansprout salad (FootosVanRobin) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Tasty</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">And a wonderful picture Robin!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nA simple salad that works well on its own or as a base for something more complex.\n\n{{RecipeIngredients\n| 1 teaspoon rice wine or [[dry sherry]]\n| 1 teaspoons [[sesame oil]]\n| &#189; teaspoon [[sugar]]\n| 8 oz (225 g) [[beansprouts]], blanched in boiling water and refreshed in cold\n}}\n===Method===\n\n{{RecipeMethod\n| Mix together the wine, teaspoon [[sesame oil]] and teaspoon sugar\n| toss the [[beansprouts]] in this mixture\n}}\n===Serving suggestions===\nServe cold\n===Variations===\nAdd extra thinly sliced raw vegetables such as carrots, [[spring onions]], red peppers.\n{{RecipeLine}}\n[[Category:Recipes|Beansprout]]\n[[Category:Oriental cuisine|Beansprout]]\n[[Category:Salad recipes|Beansprout]]\n[[Category:Starters|Beansprout]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes|Beansprout]]\n[[Category:Vegetarian recipes|Beansprout]]\n[[Category:Blanched]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#beansprouts #sesameoil #drysherry #springonions </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

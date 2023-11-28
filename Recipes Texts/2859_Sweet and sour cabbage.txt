@@ -1,0 +1,15 @@
+ 
+
+title": "Sweet and sour cabbage",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Sweet and sour cabbage recipe Accompaniments\n|titlemode=replace\n|keywords=#cabbage #bellpepper #sesameseeds #sweetandsourcabbage #lightsoysauce #sesameoil #peppercorns #blackpeppercorns #maltvinegar #stirfried #vegetableoil \n|hashtagrev=032020\n|description=This is a nice fresh sweet and sour recipe, with none of the luminous chemical goo that seems to be commonly served\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 749\n|PortionCalories = 187\n|DatePublished=31st January 2013\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 17 minutes\n|PrepTime = 10 minutes\n|CookTime = 7 minutes\n|Image = [[Image:Red cabbage with chilli jelly - wok tossing.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice tossing there!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Very professional!</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis is a nice fresh sweet and sour recipe, with none of the luminous chemical goo that seems to be commonly served\n\n{{RecipeIngredients\n| 1 lb white [[cabbage]]\n| 1 green [[bell pepper]], cored and seeded\n| 1 red [[bell pepper]], cored and seeded\n| 3 tablespoons [[vegetable oil]]\n| 3 dried chillies\n| 12 fresh [[black peppercorns]], cracked in a pestle and mortar, but not finely ground\n| \n| ''For the garnish:''\n| 1 tablespoon toasted [[sesame seeds]]\n| \n| ''For the sauce:''\n| 2 tablespoons [[light soy sauce]]\n| 2 tablespoons [[malt vinegar]]\n| 2 tablespoons [[sugar]]\n| 1 tablespoon [[sesame oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Thinly shred the white [[cabbage]]\n| Shred the peppers\n| In a bowl, mix the sauce ingredients together\n| Heat the oil in a wok and add the dried chillies and [[peppercorns]] and [[stir-fry]] for 20 seconds or so\n| Add the [[cabbage]] and peppers and stir-fry for 3-4 minutes or until the vegetables are cooked to your taste\n| Pour in the sauce and stir well\n| Serve hot or cold, garnished with toasted [[sesame seeds]]\n}}\n==See also==\n* [[Sweet and sour recipes]]\n{{RecipeLine}}\n[[Category:Recipes|Cabbage]]\n[[Category:Accompaniments|Cabbage]]\n[[Category:Oriental cuisine|Cabbage]]\n[[Category:Vegetable recipes|Cabbage]]\n[[Category:Stir fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cabbage #bellpepper #sesameseeds #sweetandsourcabbage #lightsoysauce #sesameoil #peppercorns #blackpeppercorns #maltvinegar #stirfried #vegetableoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Mint butter",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mint butter, British recipe \n|titlemode=replace\n|keywords=#mint #butter #mintbutter #freeze #foil #lamb #mintleaves #accompaniment #mintsauce #mutton \n|hashtagrev=032020\n|description=Mint butter is a good alternative to mint sauce when you need an accompaniment to lamb or mutton. Make it in large quantities when mint is in season\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 724\n|PortionCalories = 181\n|DatePublished=27th September 2012\n|Author=Chef\n|ImageComment = Herb butters\n |Servings = Serves 4 - Makes 100g of [[Mint|mint]] [[Butter|butter]]\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:Herb butters.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Simply gorgeous</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Gorgeously simple!</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\n[[Mint]] [[Butter|butter]] is a good alternative to [[Mint sauce|mint sauce]] when you need an [[Accompaniment|accompaniment]] to [[Lamb|lamb]] or [[Mutton|mutton]].\n\nMake it in large quantities when [[Mint|mint]] is in season and [[Freeze|freeze]] in batches.\n\n{{RecipeIngredients\n| 100g (4 oz) [[Butter|butter]]\n| 2 tablespoons fresh [[Mint leaves|mint leaves]], washed and finely chopped\n| Pinch of each; [[Salt|salt]], [[Pepper|pepper]] and [[Sugar|sugar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Work the [[Mint|mint]] and seasoning into the [[Butter|butter]]\n| Shape by rolling in [[Foil|foil]]\n| Cut into usable portions\n| Wrap well, use immediately or refrigerate or [[Freeze|freeze]] for later use.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:British recipes]]\n[[Category:Lamb recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Mutton recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mint #butter #mintbutter #freeze #foil #lamb #mintleaves #accompaniment #mintsauce #mutton </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

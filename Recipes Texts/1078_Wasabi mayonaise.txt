@@ -1,0 +1,15 @@
+ 
+
+title": "Wasabi mayonaise",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Wasabi mayonaise, Chinese recipe \n|titlemode=replace\n|keywords=#wasabipowder #wasabimayonaise #mayonnaise #castersugar #icingsugar #shrimpcakes #condiment #wasabimayonnaise \n|hashtagrev=032020\n|description=A great condiment if you like some heat with your mayonnaise. If you've never made your own mayonnaise, rather than buying it, give this recipe a try\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 312\n|PortionCalories = 156\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Wasabi mayonnaise with [[shrimp cakes]]\n |Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n|Image = [[Image:Shrimp cakes - prawn balls recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Wasabi is deadly hot</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I love chilli but I find wasabi too hot</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\n\nA great [[Condiment|condiment]] if you like some heat with your [[Mayonnaise|mayonnaise]].\n\nIf you've never made your own mayonnaise, rather than buying it, give [[Home-made mayonnaise|this recipe a try]], it is ridiculously easy and far nicer than the best shop-bought stuff - especially if it has [[Wasabi powder|wasabi powder]] added\n\n{{RecipeIngredients\n| 1 teaspoon of [[Wasabi powder|wasabi powder]]\n| 1 tablespoon water\n| 3 tablespoons [[mayonnaise]]\n| 1 pinch of [[Icing sugar|icing sugar]] ([[Caster sugar|caster sugar]] will be fine)\n}}\n===Method===\n\n{{RecipeMethod\n| Add the [[Wasabi powder|wasabi powder]] to the water and mix well until combined\n| Mix in the mayonnaise\n| Season to taste with the [[Sugar|sugar]]\n| Serve\n}}\n==See also==\n* [[Wasabi mayonnaise]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Chinese recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Unusual recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#wasabipowder #wasabimayonaise #mayonnaise #castersugar #icingsugar #shrimpcakes #condiment #wasabimayonnaise </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

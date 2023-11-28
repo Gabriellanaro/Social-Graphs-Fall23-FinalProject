@@ -1,0 +1,16 @@
+title": "Green beans with soy and sesame",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Green beans with soy and sesame Accompaniments recipe\n|titlemode=replace\n|keywords=#greenbeanswithsoyandsesame #pickled #frenchgreenbeans #sesameseeds #sesameoil #garlic #wok #soy #redcabbage #lightsoysauce #stirfry \n|hashtagrev=032020\n|description=French green beans with an Oriental flavour\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 227\n|PortionCalories = 56\n|DatePublished=25th October 2012\n|Author=Chef\n|ImageComment = Green beans with soy and sesame for 1\n |Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 10 minutes\n |PrepTime = 5 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Green beans with soy and sesame recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A different way to serve veg.</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Made a nice change.</span>\n \n<span class=\"reviewAuthor\"> [[User:Chef|Jerry, aka Chef]])</span></span>\n}}\n[[Image:Green beans with soy and sesame ingredients.jpg|thumb|300px|right|Ingredients for 2]]\n[[French green beans]] with an Oriental flavour\n\n{{RecipeIngredients\n| 400 g [[French green beans]], washed and trimmed\n| 1 [[Garlic|garlic]] clove, peeled and crushed\n| 1 tablespoon [[Groundnut oil|groundnut oil]]\n| 1 tablespoon [[Light soy sauce|light soy sauce]]\n| 1 tablespoon [[Sesame oil|sesame oil]]\n| 1 tablespoon [[Sesame seeds|sesame seeds]]\n| 1 tablespoon [[Pickled|pickled]] [[Red cabbage|red cabbage]]\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the [[Oil|oil]] in a [[Wok|wok]] at the highest heat\n| Add the [[Garlic|garlic]] and [[Stir-fry|stir-fry]] for a few seconds, don't allow it to burn\n| Add the [[Beans|beans]] and reduce the heat.  [[Stir fry]] for 4 minutes\n| Pour in the [[Soy|soy]] and [[Sesame oil|sesame oil]], stir and pour into a serving dish\n| Sprinkle with [[Sesame seeds|sesame seeds]] and [[Pickled|pickled]] [[Cabbage|cabbage]].\n| Serve immediately.\n}}\n===Serving suggestions===\nThese are also nice served at room temperature\n===Variations===\nAnne does not like here vegetables crunchy so just for her, in this recipe I drop them into boiling water for a few minutes, drain and then continue as directed.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Grain and bean recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Salad recipes]]\n[[Category:Stir fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#greenbeanswithsoyandsesame #pickled #frenchgreenbeans #sesameseeds #sesameoil #garlic #wok #soy #redcabbage #lightsoysauce #stirfry </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

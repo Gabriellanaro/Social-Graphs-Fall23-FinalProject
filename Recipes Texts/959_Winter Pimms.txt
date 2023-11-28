@@ -1,0 +1,15 @@
+ 
+
+title": "Winter Pimm's",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Winter Pimm's, British recipe \n|titlemode=replace\n|keywords=#winterpimms #apple #thechap \n|hashtagrev=032020\n|description=One for those winter nights, taken from issue 57 of The Chap\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 156\n|PortionCalories = 156 \n|DatePublished=22nd October 2012\n|Author=Chef\n|ImageComment = [https://shop.pimms.co.uk/pimms-bunting-x-5 Pimm's bunting]\n|Servings = Serves 1\n|Difficulty = 1\n|TotalTime =  3 minutes\n|PrepTime =  3 minutes\n|CookTime = None\n|Image = [[Image:Pimms bunting.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Wow - I remember The Chap!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I wonder if it still exists?</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nOne for those winter nights, taken from issue 57 of [[The Chap]].\n\n{{RecipeIngredients\n| A warmed teapot\n| 1 part [[Pimm's]] No.1 Cup\n| 3 parts warm apple juice\n}}\n===Method===\n\n{{RecipeMethod\n| Pour into warmed mugs or teacups and add slices of [[apple]] and orange.\n| Alternatively, pour the lot down the sink and wait until the weather picks up.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#winterpimms #apple #thechap </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

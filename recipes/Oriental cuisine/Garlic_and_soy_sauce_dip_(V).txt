@@ -1,0 +1,16 @@
+title": "Garlic and soy sauce dip (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Garlic and soy sauce dip a vegetarian Barbecue recipe\n|titlemode=replace\n|keywords=#garlic #lightsoysauce #sauce #dip #darksoysauce #chilioil #fat #brownsugar #soy \n|hashtagrev=032020\n|description=A nice vegetarian dip for fries and vegetables\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 154\n|PortionCalories = 25\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Servings: 6 - Makes 120 ml of [[Garlic|garlic]] [[Soy|soy]] dipping [[Sauce|sauce]]\n |Difficulty = 1\n |TotalTime = 1 hour \n |PrepTime = 1 hour\n |CookTime = None\n|Image = [[Image:Garlic and soy sauce dip recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice on rice</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">And also on potatoes, oddly.</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nA nice [[Dip|dip]] for frys and vegetables.\n\n{{RecipeIngredients\n| 4 [[Fat|fat]] Cloves of [[Garlic|garlic]], peeled and crushed\n| 2 tablespoons [[Dark soy sauce|dark soy sauce]]\n| 2 tablespoons [[Light soy sauce|light soy sauce]]\n| 2 teaspoons [[Brown sugar|brown sugar]]\n| 2 teaspoons [[Chili oil|chili oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all the ingredients together, mix well and allow to mingle for an hour before re-mixing and serving\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Barbecue recipes]]\n[[Category:Dips and sauces]]\n[[Category:Garlic recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlic #lightsoysauce #sauce #dip #darksoysauce #chilioil #fat #brownsugar #soy </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

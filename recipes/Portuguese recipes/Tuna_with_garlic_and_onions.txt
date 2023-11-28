@@ -1,0 +1,16 @@
+title": "Tuna with garlic and onions",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[Bifes de Atum]]\n[[]]\n[[Category:Fish recipes]]\n[[Category:Garlic recipes]]\n[[Category:Main courses]]\n[[Category:Portuguese recipes]]\n[[Category:Sea fish recipes]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

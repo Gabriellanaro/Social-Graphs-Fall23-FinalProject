@@ -1,0 +1,16 @@
+title": "Locro de papas",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Locro de papas a cheese recipe \n|titlemode=replace\n|keywords=#potatoes #butter #locrodepapas #paprika #onion #cream #cheddarcheese #boil #soup #avocado #vegetablestock \n|hashtagrev=032020\n|description=This is a potato soup from the Ecuadorian Andes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3479\n|PortionCalories = 579\n|DatePublished=3rd November 2012\n|Author=JuliaBalbilla\n|Servings = Serves 6 to 8\n |Difficulty = 1\n |TotalTime = 50 minutes\n |PrepTime = 10 minutes\n |CookTime = 40 minutes\n |Image = [[Image:Locro de papas recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">So easy</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Nice too</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n\nThis is a [[Potato|potato]] [[Soup|soup]] from the Ecuadorian Andes.\n\n{{RecipeIngredients\n| 60g [[Butter|butter]]\n| 1 medium [[Onion|onion]], finely chopped\n| 1tsp sweet [[Paprika|paprika]]\n| 850ml [[Vegetable Stock|vegetable stock]] or water\n| 1.8 kg [[Potatoes|potatoes]], peeled and sliced\n| 235ml [[Milk|milk]]\n| 140ml [[Single cream|single cream]]\n| 225g [[Cheddar cheese]], [[Grated|grated]]\n| [[Salt]] and [[Pepper|pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Melt the [[Butter|butter]] over a medium heat in a large saucepan.\n| Add the [[Onion|onion]] and saut\u00e9 until soft.\n| Stir in the [[Paprika|paprika]] and cook for no longer than 30 seconds, otherwise it will become [[Bitter|bitter]].\n| Add the [[Stock|stock]] or water and bring to the [[Boil|boil]].\n| Add the [[Potatoes|potatoes]] and [[Simmer|simmer]] over a low heat, stirring occasionally.\n| When the [[Potatoes|potatoes]] are almost done, add the [[Milk|milk]] and [[Cream|cream]] and continue to cook, stirring from time to time, until the [[Potatoes|potatoes]] begin to disintegrate.\n| Stir in the [[Cheese|cheese]], season to taste and serve immediately.\n}}\n===Serving suggestions===\nServe accompanied by [[Avocado|avocado]] slices.\n===Variations===\nFor a healthier version use [[oil]], low fat [[yogurt]] and [[cottage cheese]] instead of the [[butter]], [[cream]] and [[Cheddar]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Ecuadorian recipes]]\n[[Category:Latin American recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Soup and stock recipes]]\n[[Category:Starters]]\n[[Category:Vegetarian recipes]]\n[[Category:Cheese recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Pan fried]][[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoes #butter #locrodepapas #paprika #onion #cream #cheddarcheese #boil #soup #avocado #vegetablestock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

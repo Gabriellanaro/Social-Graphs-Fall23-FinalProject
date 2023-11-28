@@ -1,0 +1,16 @@
+title": "Beetroot recipes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Beetroot recipes from Cookipedia, the cook's Wiki\n|titlemode=replace\n|keywords=#beetrootrecipes #snacksandlightbites #beetroot #accompaniments #recipes #picklesandpreserves #historicrecipes #pickled #veganrecipes #vegetarianrecipes #cookipedia \n|hashtagrev=12032020\n|description=Beetroot is a very versatile and interesting vegetable that lends itself to many unusual and interesting recipes\n|datePublished=2014-03-31\n}}\n<!-- /seo -->\n\n[[Image:Shadowy beetroot.jpg|thumb|300px|right|A great excuse to use this photo!<br />[https://www.flickr.com/photos/cmuffins/sets/ ''Canned muffins'']]]\n===An interesting and unusual collection of beetroot recipes===\n<GoogleBanner>recipe-pages</GoogleBanner>\n[[Beetroot]] is a very versatile and interesting vegetable that lends itself to many unusual and interesting recipes.  \n\nWe have a number of them listed here on [[Cookipedia]]:\n{{Beetroot recipes}}\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:British recipes]]\n[[Category:Historic recipes]]\n[[Category:Pickles and preserves]]\n[[Category:Snacks and light bites]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Pickled]]\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#beetrootrecipes #snacksandlightbites #beetroot #accompaniments #recipes #picklesandpreserves #historicrecipes #pickled #veganrecipes #vegetarianrecipes #cookipedia </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

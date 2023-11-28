@@ -1,0 +1,16 @@
+title": "Brunede kartofler (Sugar browned potatoes)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Brunede kartofler (Sugar browned potatoes) recipe\n|titlemode=replace\n|keywords=#potatoes #butter #fruit #saucepan #boiledorsimmeredpotatoessugared #simmer #boil \n|hashtagrev=032020\n|description=A Danish method of cooking potatoes\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=4th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  40 minutes\n|PrepTime =  10 minutes\n|CookTime =  30 minutes\n|TotalCalories = 3537\n|PortionCalories = 884 \n|Image = [[Image:Brunede kartofler (Sugar browned potatoes).jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Superb!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">This was even nicer using soft brown sugar</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nA Danish method of cooking [[Potatoes|potatoes]]\n{{RecipeIngredients\n\n| 20 small [[Potatoes|potatoes]] (leave skins on)\n| 2 tablespoons [[Sugar|sugar]]\n| 60g [[Butter|butter]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| [[Boil]] the [[Potatoes|potatoes]] in a pan of water, until tender.\n| Drain and peel.\n| Put the [[Sugar|sugar]] in a large, heavy bottomed [[Saucepan|saucepan]] and dissolve over a gentle heat.\n| [[Simmer]] until just turning golden.\n| Add the [[Butter|butter]] and allow to melt.\n| Rinse the [[Potatoes|potatoes]] in cold water.\n| Add them to the [[Sugar|sugar]] mixture until nicely glazed.\n| Turn out into a warm serving dish.\n}}\n===Serving suggestions===\nGoes well with [[Meat|meat]] which has been stuffed or garnished with [[Fruit|fruit]].\n{{RecipeLine}}\n[[Category:Recipes|Potatoes sugared]]\n[[Category:Danish recipes|Potatoes sugared]]\n[[Category:Accompaniments|Potatoes sugared]]\n[[Category:Potato recipes|Potatoes sugared]]\n[[Category:Boiled or simmered|Potatoes sugared]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#potatoes #butter #fruit #saucepan #boiledorsimmeredpotatoessugared #simmer #boil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

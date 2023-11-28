@@ -1,0 +1,15 @@
+ 
+
+title": "Potatoes with horseradish",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Potatoes with horseradish, British recipe\n|titlemode=replace\n|keywords=#horseradish #potatoes #horseradishcream #potatoeswithhorseradish #dill #cream #grated #boiledorsimmered #potato #souredcream #sidedish \n|hashtagrev=032020\n|description=A nice side dish or vegetable accompaniment\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 502\n|PortionCalories = 251\n|DatePublished=25th October 2012\n|Author=JuliaBalbilla\n|ImageComment = Horseradish is easy to grow in pots - even chimney pots!\n |Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 25 minutes\n |PrepTime = 5 minutes\n |CookTime = 20 minutes\n |Image = [[Image:Horseradish_in_a_pot.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Peppery Pommes</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Almost as good as mustard mash</span>\n \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nA nice [[Side dish|side dish]] or [[Vegetable|vegetable]] accompaniment.  Also a good use for that bottle of [[horseradish cream]] sitting in the back of the fridge.\n\nYou could use bottled [[Horseradish cream|horseradish cream]], though I would think you would need more compared to fresh [[Horseradish|horseradish]].\n\n{{RecipeIngredients\n| 500g (1 lb) [[Potatoes|potatoes]], peeled.\n| 3 tablespoons [[Grated|grated]] [[Horseradish|horseradish]]\n| [[Sea Salt|sea salt]]\n| [[Dill]] leaves, chopped\n| 50 ml [[Soured cream]] or [[Yogurt|yogurt]]\n}}\n===Method===\n\n{{RecipeMethod\n| [[Boil]] the [[Potatoes|potatoes]] until just tender. Skewer with a sharp knife for an even texture all the way through, chop coarsely\n| Add the chopped [[Dill|dill]], [[Horseradish|horseradish]] to the [[Cream|cream]] and mix well\n| Stir in the [[Potato|potato]] pieces and mix well\n}}\n{{Template:HorseradishSeeAlso}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:British recipes]]\n[[Category:Main courses]]\n[[Category:Russian recipes]]\n[[Category:Salad recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#horseradish #potatoes #horseradishcream #potatoeswithhorseradish #dill #cream #grated #boiledorsimmered #potato #souredcream #sidedish </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

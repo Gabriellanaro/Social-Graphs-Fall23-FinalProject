@@ -1,0 +1,15 @@
+ 
+
+title": "Onion relish (2)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Onion relish (2), British recipe \n|titlemode=replace\n|keywords=#boil #onions #onionrelish #blackpeppercorns #redwinevinegar #sterilisedjars #brownsugar #simmer #pickled \n|hashtagrev=032020\n|description=Another onion relish recipe, this one comes courtesy of British Onions\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 446\n|PortionCalories = 14\n|DatePublished=24th December 2012\n|Author=JuliaBalbilla\n|Servings = Servings: 30 - Makes 1 jar\n |Difficulty = 2\n |TotalTime = 1 hour\n |PrepTime = 10 minutes\n |CookTime = 50 minutes\n |Image = [[Image:Onion relish (2) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A nice onion sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Good with a mature Cheddar</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\nAnother [[Onion relish|onion relish recipe]], this one courtesy of British Onions.\n\n{{RecipeIngredients\n| 900g/2lb [[Onions]], sliced\n| 3 [[Cloves garlic, crushed|cloves garlic, crushed]]\n| 4 tablespoons Soft [[Brown sugar|brown sugar]]\n| 1 tablespoon [[Red wine vinegar|red wine vinegar]]\n| &frac12; teaspoon [[Salt]]\n| 1 teaspoon [[Black peppercorns]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put all the ingredients into a deep pan with 100ml/ 4 floz of water.\n| Bring to the [[Boil|boil]], and then reduce to [[Simmer|simmer]].\n| Cover & cook for 30 to 40 minutes until the [[Onions|onions]] are soft.\n| Remove the lid and bring to the [[Boil|boil]] stirring until it thickens.\n| Store in [[Sterilised jars|sterilised jars]].\n}}\n==See also==\n* Other [[Onion relish]] recipes\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Pickles and preserves]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegan recipes]]\n[[Category:British Onions recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Pickled]]\n{{Template:British Onions attribution}}\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#boil #onions #onionrelish #blackpeppercorns #redwinevinegar #sterilisedjars #brownsugar #simmer #pickled </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

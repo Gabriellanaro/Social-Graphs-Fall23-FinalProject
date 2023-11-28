@@ -1,0 +1,16 @@
+title": "Solomon Gundy Dip",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Solomon Gundy Dip, Fish recipe \n|titlemode=replace\n|keywords=#solomongundydip #fish #scoop #lime #stocks #avocado #blend #melon #herrings #salad #dip \n|hashtagrev=032020\n|description=Solomon Grundy makes use of the herring\u0092s small flakes of meat;this creamy fleshworks beautifully in a pate blended with key Jamaican flavours such\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1530\n|PortionCalories = 765\n|DatePublished=4th May 2014\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = 2\n|Difficulty = 2\n|TotalTime =  18 minutes\n|PrepTime =  18 minutes\n|CookTime = None\n|Image = [[Image:Solomon Gundy Dip recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Salmagundi recipe</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">Strange but true. This is indeed wonderful!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n\n}}\n\nSolomon Grundy makes use of the [[Herring|herring]]\u0092s small flakes of [[Meat|meat]];this creamy flesh works beautifully in a p\u00e2t\u00e9 blended with key [[Jamaican]] flavours such as bird [[Peppers|peppers]], and served on [[Crackers|crackers]].   We particularly like this p\u00e2t\u00e9 in that it is not just healthy but follows our policy of only using [[Fish|fish]] that is from sustainable [[Fish|fish]] [[Stocks|stocks]].\n\nThe term Solomon Grundy comes from the English word salmagundi which refers to a [[Salad|salad]] that uses lots of things, subsequently phonetically evolving into the Solomon Grundy of nursery rhyme fame as the rhyme grew in popularity.\n\n{{RecipeIngredients\n\n| 4 tablespoons of plain [[Cream cheese|cream cheese]]\n| 1 tablespoon flaked [[herrings]] ''solomon gundy''\n| [[Juice]] of \u00bd a [[Lime|lime]]\n| Fresh [[Parsley]] (garnish)\n| 1 ripe [[Hass avocados]] sliced and pitted lengthwise\n}}\n\n===Method===\n{{RecipeMethod\n\n| [[Blend]] the [[Cheese|cheese]] spread and [[Lime|lime]]\n| Using a [[Melon|melon]] [[Scoop|scoop]]er, addt a [[Scoop|scoop]] to the [[Avocado|avocado]].\n}}\n===Serving suggestions===\n[[Dip|dip]]\n===Recipe source===\n\n*  {{RecipeCourtesyOfCubanCuisine}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:Jamaican recipes]]\n[[Category:Fish recipes]]\n[[Category:Starters]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#solomongundydip #fish #scoop #lime #stocks #avocado #blend #melon #herrings #salad #dip </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

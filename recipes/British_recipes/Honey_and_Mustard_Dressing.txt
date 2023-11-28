@@ -1,0 +1,16 @@
+title": "Honey and Mustard Dressing",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Honey and Mustard Dressing recipe. Gluten free\n|titlemode=replace\n|keywords=#honeyandmustarddressing #oliveoil #whitewinevinegar #saladdressing #honey #wholegrainmustard #glutenfree #recipesfromothersites \n|hashtagrev=032020\n|description=Andy Bates shares his secret for the essential Gluten free salad dressing\n}}\n<!-- /seo -->\n\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 80\n|PortionCalories = 20\n|DatePublished=22nd October 2015\n|Author=Chef\n|ImageComment = \n|Servings = Serves 4 - Makes enough for a 4 person salad\n|Difficulty = 2\n|TotalTime =  5 minutes\n|PrepTime =  5 minutes\n|CookTime = None\n|Image = [[Image:Honey and Mustard Dressing recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Simple dressing</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">Quick, but makes quite a lot (for me anyway)</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nAndy Bates shares his secret for the essential [[Salad dressing|salad dressing]]. Hint: it's all about the magic ratio in this classic sweet and savoury summer dressing.  Great [[Gluten free]] with a sausage salad!\n\nThis recipe is reproduced courtesy of [[Debbie&andrew's sausages|debbie&andrew's sausages]].\n{{RecipeIngredients\n\n| 1 tablespoon clear [[Honey|honey]] \n| 1 tablespoon [[Wholegrain mustard|wholegrain mustard]]\n| 3 tablespoons [[Olive oil|olive oil]]\n| 1 tablespoon [[White wine vinegar|white wine vinegar]]\n| [[Salt]] and [[Freshly ground black pepper|freshly ground black pepper]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Combine all the ingredients and whisk. Yep. That\u0092s it!\n}}\n[[Category:Recipes]]\n{{RecipeLine}}\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Gluten free recipes]]\n[[Category:Salad recipes]]\n[[Category:Debbie&andrew's sausage recipes]]\n[[Category:Uncooked]]\n{{Template:DebbieAndAndrew attribution}}\n[[Category:Recipes from other sites]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#honeyandmustarddressing #oliveoil #whitewinevinegar #saladdressing #honey #wholegrainmustard #glutenfree #recipesfromothersites </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

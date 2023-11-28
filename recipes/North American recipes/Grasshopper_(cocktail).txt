@@ -1,0 +1,16 @@
+title": "Grasshopper (cocktail)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Grasshopper (cocktail), Cocktail recipe \n|titlemode=replace\n|keywords=#drink #cocktailglass #cacao #grasshoppercocktail #cream #cocktailshaker #french #grasshopper #mint \n|hashtagrev=032020\n|description=A grasshopper is a sweet, mint-flavoured, after-dinner drink\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 169\n|PortionCalories = 169 \n|DatePublished=18th February 2014\n|Author=Chef\n|ImageComment = \n|Servings = 1 serving\n|Difficulty = 1\n|TotalTime =  4 minutes\n|PrepTime =  4 minutes\n|CookTime = None\n|Image = [[Image:Grasshopper cocktail-wiki.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">GREEN!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Very Green - yuk</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nA [[Grasshopper|grasshopper]] is a sweet, [[Mint|mint]]-flavoured, after-dinner [[Drink|drink]]. The name of the [[Drink|drink]] is derived from its green colour, which is provided by the cr\u00e8me de menthe. The drink reputedly originated at Tujague's, a landmark bar in the [[French]] Quarter of New Orleans, Louisiana, and gained popularity during the 1950s and 1960s throughout the American South.\n\n{{RecipeIngredients\n\n| 30 ml (1 part) Cr\u00e8me de menthe (green)\n| 30 ml (1 part) Cr\u00e8me de [[Cacao|cacao]] (white)\n| 30 ml (1 part) Fresh [[Cream|cream]]\n}}\n\n\n===Method===\n{{RecipeMethod\n\n| Pour ingredients into a [[Cocktail shaker|cocktail shaker]] with ice. \n| Shake briskly and then strain into a chilled [[Cocktail glass|cocktail glass]].\n}}\n==See also==\n* [[Cuban Chocolate Grasshopper Pie]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Mexican recipes]]\n[[Category:North American recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Alcoholic beverages]]\n[[Category:Historic recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#drink #cocktailglass #cacao #grasshoppercocktail #cream #cocktailshaker #french #grasshopper #mint </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

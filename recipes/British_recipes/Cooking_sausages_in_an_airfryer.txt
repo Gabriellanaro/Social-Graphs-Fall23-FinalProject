@@ -1,0 +1,16 @@
+title": "Cooking sausages in an airfryer",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cooking sausages in an airfryer\n|titlemode=replace\n|keywords=#airfryer #sausages #pyrexbowl #cookingsausagesinanairfryer #porkrecipes #britishrecipes #browned #breakfastrecipes #beefrecipes #recipes #meatrecipes\n|hashtagrev=12032020\n|description=A nice easy way to cook sausages in an airfryer with very little washing-up. Simples: cook them in a Pyrex bowl. No washing up; well not much. The bowls..\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=8th December 2022\n|Author=Chef\n|ImageComment = \n|Servings = 1\n|Difficulty = 1\n|TotalTime =  16 minutes\n|PrepTime =  1 minute\n|CookTime =  15 minutes\n|TotalCalories = 320\n|PortionCalories = 320\n|Image = [[Image:Cooking sausages in an airfryer recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Saves the washing-up</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">That's a win in my books!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n[[Image:Russells of Upwell sausages in a Pyrex bowl in an air fryer.jpg|thumb|right|Two pork sausages in a Pyrex bowl in the air fryer basket]]\n\nA nice easy way to cook [[Sausages|sausages]] in an [[Airfryer|airfryer]] with very little washing-up.\n\nSimples: cook them in a [[Pyrex bowl]].  No washing up; well not much. The bowls are heatproof, easy to lift out of the [[Air-fryer|air-fryer]] and much easier to wash up than the [[Airfryer|airfryer]] basket.\n{{RecipeIngredients\n\n| 2 of Russell's of Upwell's [[Pork sausages|pork sausages]] (other [[Sausages|sausages]] are available &#128514;) \n| 1 Pyrex bowl!\n}}\n\n===Method===\n{{RecipeMethod\n\n| Pop the [[Sausages|sausages]] into the [[Pyrex bowl]]\n| Cook in the [[Airfryer|airfryer]] for 15 minutes at 180\u00b0 C\n| Turn them once halfway through if you want them [[Browned|browned]] all over\n| Serve!\n}}\n<gallery widths=300px heights=300px perrow=5>\n</gallery>\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Breakfast recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Beef recipes]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]\n[[Category:Air fried recipes]]\n[[Category:Unusual recipes]]\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#airfryer #sausages #pyrexbowl #cookingsausagesinanairfryer #porkrecipes #britishrecipes #browned #breakfastrecipes #beefrecipes #recipes #meatrecipes</code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

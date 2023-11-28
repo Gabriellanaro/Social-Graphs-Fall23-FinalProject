@@ -1,0 +1,16 @@
+title": "Ensalada de tetilla",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ensalada de tetilla a cheese recipe \n|titlemode=replace\n|keywords=#ensaladadetetilla #lettuce #tetillacheese #olives #shredded #garlic #sherryvinegar #winevinegar #oliveoil #tapas #salads \n|hashtagrev=032020\n|description=A light salad made with tetilla cheese\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1068\n|PortionCalories = 267\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n |Image = [[Image:Ensalada de tetilla recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Cheese with a crunch</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">It was worth hunting down the tetilla cheese for this</span>\n \n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\nA light [[Salad|salad]] made with [[Tetilla Cheese|tetilla cheese]]\n\n{{RecipeIngredients\n| 1 [[Lettuce|lettuce]], washed, [[Shredded|shredded]] and dried,  or a large bag of mixed leaves\n| 60 ml [[Olive oil|olive oil]]\n| 20 ml [[Sherry vinegar|sherry vinegar]]\n| [[Garlic]], to taste, crushed\n| [[Salt]] and [[Pepper|pepper]]\n| 200 g [[Tetilla Cheese|tetilla cheese]], cut into small cubes\n| 100 g [[Black olives|black olives]], with stones\n\n}}\n\n===[[Mise en place]]===\n* Remove the stones from the [[Olives|olives]] if desired.\n===Method===\n\n{{RecipeMethod\n| Put the [[Lettuce|lettuce]], or leaves into a serving dish.\n| Make a dressing with the [[Oil|oil]], [[Wine vinegar|wine vinegar]] and seasoning, and pour over the [[Lettuce|lettuce]].\n| Mix throughly with your hands.\n| Mix the Tetilla with the [[Olives|olives]] and add to the leaves.\n| Serve immediately.\n}}\n===Serving suggestions===\nI like to serve this as part of a selection of [[Salads|salads]] or [[Tapas|tapas]], but it is also good as an accompaniment to [[Fish|fish]].\n{{RecipeLine}}\n[[Category:Recipes|Ensalada de tetilla]]\n[[Category:Accompaniments|Ensalada de tetilla]]\n[[Category:Cheese recipes|Ensalada de tetilla]]\n[[Category:Garlic recipes]]\n[[Category:Salad recipes|Ensalada de tetilla]]\n[[Category:Snacks and light bites|Ensalada de tetilla]]\n[[Category:Spanish recipes|Ensalada de tetilla]]\n[[Category:Starters|Ensalada de tetilla]]\n[[Category:Vegetable recipes|Ensalada de tetilla]]\n[[Category:Vegetarian recipes|Ensalada de tetilla]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#ensaladadetetilla #lettuce #tetillacheese #olives #shredded #garlic #sherryvinegar #winevinegar #oliveoil #tapas #salads </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

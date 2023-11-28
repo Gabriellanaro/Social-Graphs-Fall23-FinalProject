@@ -1,0 +1,16 @@
+title": "Sweet and sour sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sweet and sour sauce, Chinese recipe \n|titlemode=replace\n|keywords=#sweetandsoursauce #cornflour #soysauce #tomatopuree #maltvinegar #boiledorsimmered \n|hashtagrev=032020\n|description=This sauce goes well with much more than just Chinese dishes and it's so quick to make. If you're looking for something a little different, try the\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 262\n|PortionCalories = 65\n|DatePublished=31st January 2013\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 2 minutes\n |CookTime = 3 minutes\n |Image = [[Image:Sweet and sour sauce recipe.jpg|alt=Electus]]\n}}\nThis sauce goes well with much more than just Chinese dishes and it's so quick to make.\n\nIf you're looking for something a little different, try the very subtle [[Sweet and sour sauce with black vinegar]].\n\n{{RecipeIngredients\n| 250 ml (8 fl oz) water\n| 100g (4 oz) [[sugar]]\n| 120 ml (4 fl oz) white wine vinegar or [[malt vinegar]]\n| 2 tablespoons [[tomato puree]]\n| 1 tablespoon [[cornflour]]\n| 1 tablespoon [[soy sauce]]\n}}\n===Method===\n\n{{RecipeMethod\n| Bring &#190; of the water to the boil\n| Add the [[sugar]] and stir until dissolved\n| Add the vinegar and stir for a minute\n| In a saucer, mix the remaining water, tomato pur\u00e9e and [[cornflour]] into a smooth paste\n| Mix into the hot pan and stir continuously until thickened\n| Pour into a gravy dish\n}}\n===Serving suggestions===\nGreat with anything!\n===Variations===\nAdd some chopped chillies for a hot sauce.\n==See also==\n* [[Sweet and sour recipes]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Some like it hot</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">..So do I.  Add lots of chopped chillies!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chinese recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n[[Category:Starters]]\n[[Category:Cooking with wine]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Boiled or simmered]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sweetandsoursauce #cornflour #soysauce #tomatopuree #maltvinegar #boiledorsimmered </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Brava sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Brava sauce Thermomix Recipe \n|titlemode=replace\n|keywords=#smoked #garlic #paprika #tomatoes #thermomix #sauce #oxocubes #sherryvinegar #onions #blend #spanish \n|hashtagrev=032020\n|description=An easy Spanish sauce for Patatas Bravas, made in the Thermomix method\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=17th December 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  53 minutes\n|PrepTime =  5 minutes\n|CookTime =  48 minutes\n|TotalCalories = 132\n|PortionCalories = 33\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Brave potatoes?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.2</span>/5</span>\n\n<span class=\"reviewDesc\">Really \ud83d\ude43</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nAn easy [[Spanish]] [[Sauce|sauce]] for Patatas Bravas, made in the [[Thermomix]]\n{{RecipeIngredientsTM\n| 40g [[Olive oil|olive oil]]\n| 1 medium [[Onion|onion]] peeled and sliced\n| [[Garlic]] to taste\n| 2 compacted teaspoons [[Flour|flour]]\n| 1 teaspoon [[Smoked|smoked]] sweet [[Paprika|paprika]]\n| 1\u00bd teaspoons [[Smoked|smoked]] hot [[Paprika|paprika]] (or to taste)\n| 2 teaspoons [[Sherry vinegar|sherry vinegar]]\n| 1 x 400g tin of [[Tomatoes|tomatoes]]\n| 1 teaspoon [[Sugar|sugar]]\n| 1 tablespoon [[Stock|stock]] paste (or 2-3 [[Oxo cubes]])\n}}\n\n===Method===\n{{RecipeMethod\n\n| Put the [[Oil|oil]], [[Onions|onions]] and [[Garlic|garlic]] into the bowl 18 minutes / 100\u00b0C / Speed Spoon / Reverse Blade / MC Off\n| Add the remaining ingredients 30 minutes / 90\u00b0C / Speed Spoon / MC On\n| Then [[Blend|blend]] 40 secs / Speed 5-7-9 \n| Taste, and season if necessary\n}}\n===Serving suggestions===\nTraditionally served with [[Fried|fried]] cubes of [[Potato|potato]], but is also excellent as a [[Dip|dip]], in which case, allow to cool to room temperature\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Spicy recipes]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#smoked #garlic #paprika #tomatoes #thermomix #sauce #oxocubes #sherryvinegar #onions #blend #spanish </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

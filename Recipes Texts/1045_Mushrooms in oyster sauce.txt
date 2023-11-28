@@ -1,0 +1,15 @@
+ 
+
+title": "Mushrooms in oyster sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Mushrooms in oyster sauce, Chinese recipe\n|titlemode=replace\n|keywords=#cornflour #oystersauce #sesameoil #buttonmushrooms #mushroomsinoystersauce #vegetablestock #stirfried #wok #vegetableoil \n|hashtagrev=032020\n|description=Though probably not as authentic as using Chinese mushrooms, this vegetable side dish is just as nice with normal button mushrooms\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 598\n|PortionCalories = 149\n|DatePublished=31st January 2013\n|Author=Chef\n|ImageComment = Oyster sauce\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 8 minutes\n |PrepTime = 3 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Oyster sauce.jpg|thumb|right|150px|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Best with shiitake mushrooms</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5 </span>\n\n<span class=\"reviewDesc\">Just make sure you keep your oyster sauce in the fridge and check it regularly - it's nasty when it goes off.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThough probably not as authentic as using Chinese mushrooms, this vegetable side dish is just as nice with normal [[button mushrooms]]\n{{RecipeIngredients\n| 1lb [[button mushrooms]]\n| 3 tablespoons [[vegetable oil]]\n| 2 tablespoons [[oyster sauce]]\n| 2 teaspoons [[cornflour]]\n| 6 tablespoons [[Vegetable stock|vegetable stock]]\n| 1 teaspoon [[sesame oil]]\n}}\n\n===Method===\n\n{{RecipeMethod\n| Wipe the mushrooms clean with a damp cloth to clean them - don't wash them under water\n| In a small bowl, mix the [[cornflour]] and stock together to form a smooth paste\n| Heat the oil in the [[wok]] and [[stir-fry]] for 3-4 minutes\n| Add the [[oyster sauce]] and cook for a further 1-2 minutes\n| Add the [[cornflour]] paste and cook until the sauce has thickened\n| Add [[sesame oil]] and blend well\n| Serve immediately\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chinese recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Starters]]\n[[Category:Snacks and light bites]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Stir fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cornflour #oystersauce #sesameoil #buttonmushrooms #mushroomsinoystersauce #vegetablestock #stirfried #wok #vegetableoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

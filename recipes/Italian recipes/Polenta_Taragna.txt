@@ -1,0 +1,16 @@
+title": "Polenta Taragna",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Polenta Taragna a cheese recipe \n|titlemode=replace\n|keywords=#polentataragna #sage #yellowcornmeal #garlic #polenta #groundmaize #butter #buckwheatflour #italy #cheese #unusualrecipes \n|hashtagrev=032020\n|description=Polenta taragna is an old recipe from the mountains of the north Italy. It is made with a mix of yellow cornmeal (ground maize) and buckwheat flour\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 4288\n|PortionCalories = 714\n|DatePublished=21st January 2013\n|Author = JuliaBalbilla\n|Servings = Serves 6\n |Difficulty = 1\n |TotalTime = 1 hour 10 minutes\n |PrepTime = 10 minutes\n |CookTime = 1 hour\n |Image = [[Image:Polenta Taragna recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Classic Italian</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.5</span>/5 </span>\n\n<span class=\"reviewDesc\">Slightly boring to my taste.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Polenta]] taragna is an old recipe from the mountains of the north [[Italy]]. It is made with a mix of [[Yellow cornmeal|yellow cornmeal]] ([[Ground maize|ground maize]]) and [[Buckwheat flour|buckwheat flour]]. Cooked in the classic pot ('[http://it.wikipedia.org/wiki/Paiolo paiolo]' in Italian).\n\n{{RecipeIngredients\n| 350 g of [[Yellow cornmeal|yellow cornmeal]] ([[Ground maize|ground maize]])\n| 350 g of [[Buckwheat flour|buckwheat flour]] \n| 250 g of [[Formai de Mut dell'Alta Valle Brembana cheese]]\n| 250 g of [[Butter|butter]]\n| [[Salt|salt]], [[Sage|sage]], [[Garlic]]\n}}\n===Method===\n\n{{RecipeMethod\n| Polenta is often cooked in a big pot known in Italian as [http://it.wikipedia.org/wiki/Paiolo paiolo]. Boil 2 litres of water add salt and the two type of flours. \n| Stir for 45 minutes.\n| Add [[Cheese|cheese]] cut into dices and stir for 15 minutes.\n| On a separate pan, slightly [[Fry|fry]] the [[Butter|butter]] with [[Sage|sage]] and [[Garlic|garlic]] then add it to the [[Polenta|polenta]]. Stir for a few minutes and serve.\n}}\n===Serving suggestions===\nYou can serve polenta taragna with sausages, [http://en.wikipedia.org/wiki/Cotechino cotechino], stew or game.\n\n{{RecipeLine}}\n[[Category:Recipes|Polenta]]\n[[Category:Italian recipes|Polenta]]\n[[Category:Vegetarian recipes]]\n[[Category:Cheese recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#polentataragna #sage #yellowcornmeal #garlic #polenta #groundmaize #butter #buckwheatflour #italy #cheese #unusualrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

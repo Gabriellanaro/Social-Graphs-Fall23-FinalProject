@@ -1,0 +1,11 @@
+title": "Soupe_%5Cu00e0_l%5Cu2019ail_des_Pyr%5Cu00e9n%5Cu00e9es_-_Pyrenean_garlic_soup_(V)",
+                "invalidreason": "The requested page title contains invalid characters: \"%5C\".",
+                "invalid": ""
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

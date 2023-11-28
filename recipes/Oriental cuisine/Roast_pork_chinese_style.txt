@@ -1,0 +1,16 @@
+title": "Roast pork chinese style",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Roast pork chinese style, Chinese recipe \n|titlemode=replace\n|keywords=#roastporkchinesestyle #pork #fivespicepowder #noodles #garlic #marinade #marinading #lightsoysauce #drysherry #plainrice #ricewine \n|hashtagrev=032020\n|description=Although this requires marinading overnight, it is a simple and undemanding way of cooking pork and it gives excellent results\n}}\n<!-- /seo -->\n{{Template:AdvancePreparationIcon}}\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2841\n|PortionCalories = 710\n|DatePublished=31st January 2013\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 1 hour 25 minutes plus overnight\n|PrepTime = 10 minutes plus overnight marinade\n|CookTime = 1 hour 15 minutes\n|Image = [[Image:Roast pork chinese style recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">So Good!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">It looked this good when I made it and it tasted fantastic. MAKE THIS!</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nAlthough this requires [[marinading]] overnight, it is a simple and undemanding way of cooking pork and it gives excellent results\n\n{{RecipeIngredients\n| 1 kg (2lb) boned roasting [[pork]] (loin is good), thickly sliced\n| 3 cloves [[Garlic|garlic]], finely chopped\n| 6 tablespoons [[light soy sauce]]\n| 2 tablespoons [[rice wine]] or [[dry sherry]]\n| 1 tablespoon brown [[sugar]]\n| 1 tablespoon honey\n| &#189; teaspoon [[five spice powder]]\n}}\n===Method===\n\n{{RecipeMethod\n| Arrange the sliced [[pork]] in a shallow dish \n| Make a marinade with the other ingredients and pour over the sliced [[pork]]\n| Refrigerate overnight, basting when you can\n| In a large roasting tin, add &#189;\" of water, place a rack over this and arrange the slices on the rack\n| Roast in a preheated [[oven]] at 180\u00b0 C (350\u00b0 F) for about an hour, basting frequently with the [[marinade]]\n| Cover, keep warm and rest for 10 minutes\n| Slice and arrange on a platter and serve\n}}\n===Serving suggestions===\n\nServe hot with [[plain rice]] or [[noodles]].\n\n[[Ham sauce for noodles]] would go nicely with this.\n\n===Chef's notes===\n{{Template:ThinkPig}}\n[[Category:Chinese recipes]]\n{{RecipeLine}}\n[[Category:Recipes|Pork]]\n[[Category:Oriental cuisine|Pork]]\n[[Category:Main courses|Pork]]\n[[Category:Meat recipes|Pork]]\n[[Category:Pork recipes]]\n[[Category:Cooking with wine]]\n[[Category:Baked or roasted]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#roastporkchinesestyle #pork #fivespicepowder #noodles #garlic #marinade #marinading #lightsoysauce #drysherry #plainrice #ricewine </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

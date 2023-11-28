@@ -1,0 +1,16 @@
+title": "Pan fried Capricorn goats' cheese with watercress pesto",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Pan fried Capricorn goats' cheese with watercress pesto recipe\n|titlemode=replace\n|keywords=#panfriedcapricorngoatscheesewithwatercresspesto #flour #rapeseedoil #pesto #watercress #fry #snack #panfried #vegetarian #cheese #thelubborncreamery \n|hashtagrev=032020\n|description=A quick and tasty vegetarian snack. Many thanks to those nice people at The Lubborn Creamery who gave us permission to reproduce this recipe\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 222\n|PortionCalories = 111\n|DatePublished=23rd October 2012\n|Author=Chef\n|Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 5 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Pan fried Capricorn goats' cheese with watercress pesto recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Mmmm!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Watercress pesto sounds fab with the cheese.</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA quick and tasty [[Vegetarian|vegetarian]] [[Snack|snack]].\n\nMany thanks to those nice people at [[The Lubborn Creamery]] who gave us permission to reproduce this recipe\n\n{{RecipeIngredients\n| 2 x100g [[Capricorn Somerset Goats' cheese]]\n| 25g [[Flour|flour]]\n| 50g [[Watercress|watercress]]\n| 25g ready-made [[Pesto|pesto]]\n| [[Rapeseed oil]]\n| [[Sea Salt|sea salt]]\n| [[Freshly ground black pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Halve each of the [[Capricorn Somerset Goats' cheese]] by slicing lengthways.\n| Season the [[Flour|flour]] with [[Salt|salt]] and [[Pepper|pepper]], and use to coat the [[Capricorn Somerset Goats' cheese]] slices.\n| Put a dash of [[Rapeseed oil|rapeseed oil]] into a hot [[Frying pan|frying pan]] and [[Fry|fry]] the floured [[Cheese|cheese]] slices until both sides are golden [[Brown|brown]].\n| Remove the [[Capricorn Somerset Goats' cheese]] and place on kitchen paper to soak up excess [[Oil|oil]].\n| Put the [[Watercress|watercress]] on two plates and place the [[Capricorn Somerset Goats' cheese]] on top, two slices on each plate.\n| Spoon the [[Pesto|pesto]] onto the [[Capricorn Somerset Goats' cheese]] and serve.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Vegetarian recipes]]\n[[Category:Cheese recipes]]\n[[Category:Lubborn Creamery recipes]]\n[[Category:Pan fried]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#panfriedcapricorngoatscheesewithwatercresspesto #flour #rapeseedoil #pesto #watercress #fry #snack #panfried #vegetarian #cheese #thelubborncreamery </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

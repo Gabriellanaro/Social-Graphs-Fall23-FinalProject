@@ -1,0 +1,15 @@
+ 
+
+title": "Tarator (Yoghurt and walnut soup)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tarator (Yoghurt and walnut soup) a vegetarian recipe\n|titlemode=replace\n|keywords=#yoghurt #walnuts #garlic #cucumber #litres #mint #chilli #dill #soup #unusualrecipes #herbs \n|hashtagrev=032020\n|description=This simple and easy chilled Bulgarian soup is a legacy from the Ottoman empire\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1246\n|PortionCalories = 311\n|DatePublished=20th October 2012\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 35 minutes\n |PrepTime = 35 minutes\n |CookTime = None\n|Image = [[Image:Tarator (Yoghurt and walnut soup) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Sort of Gazpacho</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.67</span>/5</span>\n\n<span class=\"reviewDesc\">But with garlic and walnuts</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis simple and easy chilled Bulgarian [[Soup|soup]] is a legacy from the Ottoman empire.\n\n{{RecipeIngredients\n| 1.2 [[Litres|litres]] [[Yoghurt|yogurt]]\n| 1 [[Cucumber|cucumber]], [[Grated|grated]], [[Salted|salted]] and drained for 30 minutes\n| [[Garlic]], to taste, crushed, with a little [[Salt|salt]]\n| 75 g [[Walnuts|walnuts]], crushed\n| A few sprigs of [[Mint|mint]] and [[Dill|dill]], finely chopped\n}}\n===Method===\n\n{{RecipeMethod\n| Rinse the [[Cucumber|cucumber]] and stir into the [[Yoghurt|yogurt]] with the [[Garlic|garlic]] and [[Walnuts|walnuts]].\n| Pour into serving bowls and garnish with the chopped [[Herbs|herbs]].\n}}\n===Variations===\nAlthough not authentic, you could add a little chopped [[Chilli|chilli]] to the [[Yoghurt|yogurt]].\n{{RecipeLine}}\n[[Category:Recipes|Tarator (yogurt and walnut soup)]]\n[[Category:Bulgarian recipes|Tarator (yogurt and walnut soup)]]\n[[Category:Soup and stock recipes|Tarator (yogurt and walnut soup)]]\n[[Category:Starters|Tarator (yogurt and walnut soup)]]\n[[Category:Vegetable recipes|Tarator (yogurt and walnut soup)]]\n[[Category:Vegetarian recipes|Tarator (yogurt and walnut soup)]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#yoghurt #walnuts #garlic #cucumber #litres #mint #chilli #dill #soup #unusualrecipes #herbs </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

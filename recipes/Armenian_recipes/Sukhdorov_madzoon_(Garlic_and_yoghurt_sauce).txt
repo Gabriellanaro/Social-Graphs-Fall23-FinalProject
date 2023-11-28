@@ -1,0 +1,16 @@
+title": "Sukhdorov madzoon (Garlic and yoghurt sauce)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sukhdorov madzoon (Garlic and yogurt sauce) a garlic recipe\n|titlemode=replace\n|keywords=#chillipowder #fried #kebabs #sauce #vegetables #mint #yoghurt #dried \n|hashtagrev=032020\n|description=A garlicky sauce from Armenia\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 184\n|PortionCalories = 46\n|DatePublished=19th May 2012\n|Author=Chef\n|Servings = Serves 4 to 6\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:Yoghurt mint sauce recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Odd</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I wouldn't normally put mint with garlic, but this works</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nA garlicky [[Sauce|sauce]] from Armenia.\n\n{{RecipeIngredients\n| 300 ml Greek style [[Yoghurt|yogurt]]\n| 1 or more [[Cloves garlic, crushed|cloves garlic, crushed]]\n| &frac12; teaspoon [[Salt|salt]]\n| &frac12; teaspoon [[Dried|dried]] [[Mint|mint]] or 2 tablespoons fresh mint, finely chopped\n| &frac12; teaspoon or more [[Chilli powder|chilli powder]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all of the ingredients (except the [[Chilli powder|chilli powder]]) and put into a serving bowl or jug.\n| Sprinkle the [[Chilli powder|chilli powder]] over the top.\n}}\n===Serving suggestions===\nGoes well with [[Fried|fried]] [[Vegetables|vegetables]] and [[Kebabs|kebabs]].\n{{RecipeLine}}\n[[Category:Recipes|Sukhdorov madzoon (garlic and yogurt sauce)]]\n[[Category:Armenian recipes|Sukhdorov madzoon (garlic and yogurt sauce)]]\n[[Category:Dips and sauces|Sukhdorov madzoon (garlic and yogurt sauce)]]\n[[Category:Garlic recipes|Sukhdorov madzoon (garlic and yogurt sauce)]]\n[[Category:Spicy recipes|Sukhdorov madzoon (garlic and yogurt sauce)]]\n[[Category:Vegetarian recipes|Sukhdorov madzoon (garlic and yogurt sauce)]]\n[[Category:Unusual recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chillipowder #fried #kebabs #sauce #vegetables #mint #yoghurt #dried </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

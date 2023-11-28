@@ -1,0 +1,15 @@
+ 
+
+title": "Akkra",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Akkra recipe Cooking with chillies \n|titlemode=replace\n|keywords=#akkra #bean #deepfried #fritters #blackeyedpeas #fat #chillies #peas #fry #frying #jamaica \n|hashtagrev=032020\n|description=Akkra are bean fritters which originated in Western Africa, but with the slave trade they spread to the Caribbean and Brazil\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 426\n|PortionCalories = 106\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|Servings = 4-6\n |Difficulty = 2\n |TotalTime = 40 minutes\n |PrepTime = 10 minutes\n |CookTime = 30 minutes\n |Image = [[Image:Akkra recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Those look nice.</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">Mine did not look that good although they tasted ok.</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\n{{Template:AdvancePreparationIcon}}\n\nAkkra are [[Bean|bean]] [[Fritters|fritters]] which originated in Western Africa, but with the slave trade they spread to the Caribbean and Brazil. Crispy on the outside and creamy in the middle, they are variously known as akra, acra, accra, acrat and acaraj\u00e9.  This particular version comes from [[Jamaica]].\n\n{{RecipeIngredients\n| 450 g [[Black eyed peas|black eyed peas]]\n| 3-4 [[Green chillies|green chillies]], roughly chopped\n| [[Salt]] to taste\n| [[Oil]] for [[Frying|frying]]\n}}\n===Method===\n\n{{RecipeMethod\n| Wash and soak the [[Peas|peas]] overnight in hot water.\n| Remove the outer skins and then soak again until they are fully swollen.\n| Drain and place in a [[Food processor|food processor]] with the [[Chillies|chillies]] and [[Salt|salt]].\n| Blend until the mixture is smooth.\n| Heat the [[Oil|oil]] in a deep pan or fryer.\n| Drop spoonfuls of the mixture into the [[Fat|fat]] in batches and [[Fry|fry]] until golden [[Brown|brown]].\n| Drain on kitchen paper and serve.\n}}\n\n==See also==\n{{FritterRecipes}}\n{{RecipeLine}}\n[[Category:Recipes|Akkra]]\n[[Category:Chilli pepper recipes|Akkra]]\n[[Category:Grain and bean recipes|Akkra]]\n[[Category:Jamaican recipes|Akkra]]\n[[Category:Snacks and light bites|Akkra]]\n[[Category:Spicy recipes|Akkra]]\n[[Category:Starters|Akkra]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes|Akkra]]\n[[Category:Deep fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#akkra #bean #deepfried #fritters #blackeyedpeas #fat #chillies #peas #fry #frying #jamaica </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

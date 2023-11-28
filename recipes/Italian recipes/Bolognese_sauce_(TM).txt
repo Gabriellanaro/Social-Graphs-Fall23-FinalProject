@@ -1,0 +1,16 @@
+title": "Bolognese sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bolognese sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#mincedmeat #sauce #thermomix #onions #spanish #garlic #mushrooms #carrots #celery #bayleaf #tomatoes \n|hashtagrev=032020\n|description=A recipe for a basic Bolognese sauce\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1258\n|PortionCalories = 157\n|DatePublished=22nd October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 8 - Makes about 1.5kg\n|Difficulty = 1\n|TotalTime = 30 minutes \n|PrepTime = 5 minutes\n|CookTime = 25 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice quick mix</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Thermie spag-bol.</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\nA recipe for a basic Bolognese [[Sauce|sauce]]\n\n'''For the sauce'''\n{{RecipeIngredientsTM\n| 50g [[Extra virgin olive oil|extra virgin olive oil]]\n| 130g [[Carrots|carrots]]\n| 130g [[Onions|onions]]\n| 180g [[Mushrooms|mushrooms]]\n| 50g [[Celery|celery]] or [[Sweet Pepper|sweet pepper]]\n| 1 [[Clove|clove]] [[Garlic|garlic]]\n| 500g chopped [[Tomatoes|tomatoes]]\n}}\n'''The remainder'''\n{{RecipeIngredientsNB\n| 500g [[Minced meat|minced meat]]\n| [[Salt]]\n| [[Pepper]]\n| [[Oregano]]\n| 1 [[Bay leaf|bay leaf]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put all of the ingredients for the sauce into the bowl and chop '''15 seconds / Speed 5'''\n| Push down the ingredients inside, that are on the wall of the bowl '''7 minutes / Temp. Varoma / Reverse Blade / Speed Spoon'''\n| Add the [[Minced meat|minced meat]], [[Salt|salt]] and [[Spices|spices]], pushing down the other ingredients '''15 minutes / Temp. Varoma / Reverse Blade / Speed Spoon'''\n| If you want the [[Sauce|sauce]] to be a little less liquid, cook for '''5 minutes longer'''\n| Adjust seasoning\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Italian recipes]]\n[[Category:Dips and sauces]]\n[[Category:Meat recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mincedmeat #sauce #thermomix #onions #spanish #garlic #mushrooms #carrots #celery #bayleaf #tomatoes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

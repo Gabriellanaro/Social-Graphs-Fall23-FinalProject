@@ -1,0 +1,16 @@
+title": "Potrawka letnia (Summer soup)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Potrawka letnia (Summer soup), Egg recipe\n|titlemode=replace\n|keywords=#beetroot #cucumber #blender #lemonjuice #buttermilk #chives #yoghurt #sourcream #gazpacho \n|hashtagrev=032020\n|description=Potrawka letnia is a sort of Polish gazpacho\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 965\n|PortionCalories = 241\n|DatePublished=30th October 2012\n|Author=JuliaBalbilla\n|ImageComment = Beetroot soup with yogurt\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 15 minutes\n |CookTime = None\n |Image = [[Image:Potrawka letnia (Summer soup) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Beetroot Gazpacho</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5</span>\n\n<span class=\"reviewDesc\">Yumm!</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nPotrawka letnia is a sort of Polish [[Gazpacho|gazpacho]].\n\n{{RecipeIngredients\n| 750 g [[Beetroot|beetroot]], cooked, peeled and sliced\n| 1 tablespoon [[Lemon juice|lemon juice]]\n| 480 ml [[Buttermilk|buttermilk]] or [[Yoghurt|yogurt]]\n| 120 ml [[Sour cream|sour cream]] \n| [[Salt]] to taste \n| 1 small [[Cucumber|cucumber]], peeled and roughly chopped\n| 1 [[Hard-boiled egg|hard-boiled egg]], peeled and roughly chopped \n| 2 tablespoons chopped [[Chives|chives]]\n}}\n===Method===\n\n{{RecipeMethod\n| Place [[Beetroot|beetroot]] in [[Blender|blender]] and blend until smooth. \n| Add the remaining ingredients and blend again.\n| Serve chilled.\n}}\n===Serving suggestions===\nWould make an excellent pick-me-up drunk from a glass for breakfast.\n{{RecipeLine}}\n[[Category:Recipes|Potrawka letnia (summer soup)]]\n[[Category:Egg recipes|Potrawka letnia (summer soup)]]\n[[Category:Soup and stock recipes|Potrawka letnia (summer soup)]]\n[[Category:Starters|Potrawka letnia (summer soup)]]\n[[Category:Vegetable recipes|Potrawka letnia (summer soup)]]\n[[Category:Vegetarian recipes|Potrawka letnia (summer soup)]]\n[[Category:Polish recipes]]\n[[Category:Breakfast recipes]]\n\n[[Category:Uncooked]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#beetroot #cucumber #blender #lemonjuice #buttermilk #chives #yoghurt #sourcream #gazpacho </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

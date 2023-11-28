@@ -1,0 +1,16 @@
+title": "Lebanese tomato soup",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Lebanese tomato soup, Vegetarian recipe \n|titlemode=replace\n|keywords=#butter #lebanesetomatosoup #onions #tomatoes #browned #cinnamon #fry #simmer #tomatopaste #panfried #boil \n|hashtagrev=032020\n|description=The idea for this soup came from a (translated) Lebanese cookbook I found in a second-hand bookshop\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 835\n|PortionCalories = 139\n|DatePublished=17th January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 6\n |Difficulty = 2\n |TotalTime = 1 hour 45 minutes\n |PrepTime = 15 minutes\n |CookTime = 1 hour 30 minutes\n |Image = [[Image:Lebanese tomato soup recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Not Heinz \ud83c\udf45 soup</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.3</span>/5</span>\n\n<span class=\"reviewDesc\">Much nicer than Heinz \ud83c\udf45 soup! </span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThe idea for this [[Soup|soup]] came from a (translated) Lebanese cookbook I found in a second-hand bookshop.  It is fairly basic but would make a good start for something more elaborate.\n\n{{RecipeIngredients\n| 7 oz [[Long grain rice|long grain rice]], washed\n| 2 oz chopped [[Onions|onions]]\n| 3 oz [[Butter|butter]]\n| 9 oz ripe [[Tomatoes|tomatoes]], finely chopped\n| 2 tablespoons [[Salt|salt]]\n| 3 &frac12; [[Pints|pints]] cold water\n| 1 oz [[Tomato puree|tomato puree]]\n| [[Cinnamon]] powder for garnish\n}}\n===Method===\n\n{{RecipeMethod\n| Melt the [[Butter|butter]] and [[Fry|fry]] the [[Onions|onions]] until just [[Browned|browned]], about 5 minutes\n| In a large pot, add the [[Tomatoes|tomatoes]], [[Rice|rice]], [[Salt|salt]] and water and bring to the [[Boil|boil]] over a fast heat\n| Add the [[Tomato paste|tomato paste]], [[Browned|browned]] [[Onions|onions]] and and remaining [[Butter|butter]]\n| Cover and [[Simmer|simmer]] for about 1 hour and 15 minutes\n}}\n===Serving suggestions===\nServe garnished with a little [[Cinnamon|cinnamon]] powder\n===Chef's notes===\nNowadays, 2 tablespoons of [[Salt|salt]] seems to be a little excessive.  I would suggest adding just a little and adjusting any seasoning at the end. You can add more but you can't take it away.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Lebanese recipes]]\n[[Category:Main courses]]\n[[Category:Middle Eastern recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Soup and stock recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Pan fried]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#butter #lebanesetomatosoup #onions #tomatoes #browned #cinnamon #fry #simmer #tomatopaste #panfried #boil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

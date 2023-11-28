@@ -1,0 +1,16 @@
+title": "Jamie Oliver's spring onion and cider vinegar dressing",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Jamie Oliver's spring onion and cider vinegar dressing British recipe\n|titlemode=replace\n|keywords=#jamieoliversspringonionandcidervinegardressing #springonions #mackerel #cidervinegar #oilyfish #lamb #cider #accompaniments #fish \n|hashtagrev=032020\n|description=This is an interesting dressing, it's so simple that it's hardly a recipe. It originated as one of the accompaniments for Jamie Oliver's recipe:\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 227\n|PortionCalories = 56\n|DatePublished=26th December 2012\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:Jamie Oliver's spring onion and cider vinegar dressing.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Great with pork</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Was nice with lamb as well.</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\n\nThis is an interesting dressing, it's so simple that it's hardly a recipe.\n\nIt originated as one of the [[Accompaniments|accompaniments]] for Jamie Oliver's recipe: [[Guinness lamb shanks with dark sticky gravy]] but would go well with any fatty [[Meat|meat]] or [[oily fish]] dishes.\n\n{{RecipeIngredients\n| 3 large [[Spring onions|spring onions]]\n| 5 tablespoons [[Cider vinegar|cider vinegar]]\n| A pinch of [[Salt|salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Finely chop the [[Spring onions|spring onions]]\n| Mix with up to 5 tablespoons of [[Cider|cider]] and a pinch of [[Salt|salt]]\n}}\n===Serving suggestions===\nThis is nice with a fatty [[Meat|meat]] dish like [[Lamb|lamb]] and would even be quite nice with an oily [[Fish|fish]] like [[Mackerel|mackerel]]. \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n\n[[Category:Uncooked]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#jamieoliversspringonionandcidervinegardressing #springonions #mackerel #cidervinegar #oilyfish #lamb #cider #accompaniments #fish </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

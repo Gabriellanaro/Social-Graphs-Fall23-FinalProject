@@ -1,0 +1,16 @@
+title": "Pizza dough (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pizza dough - A Thermomix recipe \n|titlemode=replace\n|keywords=#dough #yeast #thermomix #flour #mozzarella #thermomixrecipes #pizzadough #driedyeast #spanish #bake #strongflour \n|hashtagrev=032020\n|description=A quick pizza dough recipe for the Thermomix\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1465\n|PortionCalories = 244\n|DatePublished=4th October 2012\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 6 - Makes about 3 large pizza bases\n|Difficulty = 1\n|TotalTime = 1 hour 20 minutes \n|PrepTime = 1 hour \n|CookTime = 20 minutes \n|Image = [[Image:Pizza dough (TM).jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Love Pizza\u2026</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">\u2026love this!</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nA quick [[Pizza dough|pizza dough]] recipe for the [[Thermomix]]\n\n{{RecipeIngredientsTM\n| 200g water\n| 50g [[Extra virgin olive oil|extra virgin olive oil]]\n| 20g fresh [[Yeast|yeast]] or 1 sachet [[Dried yeast|dried yeast]]\n| 400g [[Strong flour|strong flour]]\n| 1 teaspoon [[Salt|salt]]\n\n}}\n\n===[[Mise en place]]===\n* Preheat the [[oven]] to 250\u00b0 C (475\u00b0 F - gas 9)\n===Method===\n\n{{RecipeMethod\n| Pour the liquids into the bowl '''1 minute / 37\u00b0 / Speed 4'''\n| Add the [[Yeast|yeast]] and mix '''5 seconds / Speed 4'''\n| Next, add the [[Flour|flour]] and [[Salt|salt]] '''1 minute / Speed Dough'''\n| Remove the [[Dough|dough]] from the bowl with oiled hands and spread it out in a greased [[Baking tray|baking tray]].\n| Stretch it with your hand until it is very thin - you can leave the [[Dough|dough]] to rest until double its volume (approximately 30 minutes)\n| Put your chosen ingredients onto it ([[Tomato sauce|tomato sauce]], [[Mozzarella|mozzarella]] etc.)\n| [[Bake]] for about 20 minutes\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n===Chef's notes===\nI made this today using 00 [[pizza]] [[flour]] and it has a lovely texture.  I divided the [[dough]] into 3 and froze each piece separately.  Before stretching the [[dough]], I shape into a ball and leave to rise slowly overnight in an oiled bowl in the [[fridge]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Italian recipes]]\n[[Category:Bread and baking]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Pizza recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#dough #yeast #thermomix #flour #mozzarella #thermomixrecipes #pizzadough #driedyeast #spanish #bake #strongflour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

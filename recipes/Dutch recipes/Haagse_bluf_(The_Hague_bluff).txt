@@ -1,0 +1,16 @@
+title": "Haagse bluf (The Hague bluff)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Haagse bluf (The Hague bluff) recipe\n|titlemode=replace\n|keywords=#eggwhites #fruitjuice #creamoftartar #glass #raspberry #electricmixer #wafers #castersugar #cranberry #fruit #blackcurrant \n|hashtagrev=032020\n|description=A light egg dessert from Holland.\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=31st December 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 6\n|Difficulty = 2\n|TotalTime =  15 minutes\n|PrepTime =  15 minutes\n|CookTime = None\n|TotalCalories = 263\n|PortionCalories = 43 \n|Image = [[Image:Haagse bluf The Hague bluff recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Sugary</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">That looks lovely</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA light [[Dessert|dessert]] from Holland.\n{{RecipeIngredients\n\n| 3 [[Egg whites|egg whites]]\n| One-eighth of a teaspoons [[Cream of tartar|cream of tartar]]\n| 85g [[Caster Sugar|caster sugar]]\n| 310ml [[Fruit juice|fruit juice]] of your choice, eg [[Blackcurrant|blackcurrant]], [[Raspberry|raspberry]], [[Redcurrant|redcurrant]], [[Cranberry|cranberry]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Using a whisk or and [[Electric mixer|electric mixer]], beat the [[Egg whites|egg whites]] with the [[Cream of tartar|cream of tartar]] until foamy\n| Add the [[Sugar|sugar]] gradually and beat until stiff\n| Add the [[Fruit juice|fruit juice]], a few drops at a time, beating constantly\n| Divide the mixture into [[Glass|glass]] or small bowls and serve\n}}\n===Serving suggestions===\nServe with [[Wafers|wafers]] or sponge fingers (Savoiardi biscuits) and [[fruit]] if desired\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Dutch recipes]]\n[[Category:Sweets and desserts]]\n[[Category:Vegetarian recipes]]\n[[Category:Egg recipes]]\n[[Category:Fruit recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#eggwhites #fruitjuice #creamoftartar #glass #raspberry #electricmixer #wafers #castersugar #cranberry #fruit #blackcurrant </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

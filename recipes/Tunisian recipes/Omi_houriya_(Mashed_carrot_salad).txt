@@ -1,0 +1,16 @@
+title": "Omi houriya (Mashed carrot salad)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Omi houriya (Mashed carrot salad) a garlic recipe\n|titlemode=replace\n|keywords=#carrots #harissa #cayennepepper #salted #boiledorsimmered #bread #mash #olives #dip #salad #oliveoil \n|hashtagrev=032020\n|description=This Tunisian salad would also make an excellent dip\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 357\n|PortionCalories = 89\n|DatePublished=25th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 20 minutes\n |PrepTime = 5 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Omi houriya (Mashed carrot salad) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice spicy carrots</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">The more harissa, the better</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nThis Tunisian [[Salad|salad]] would also make an excellent [[Dip|dip]].\n\n{{RecipeIngredients\n| 750 g [[Carrots|carrots]], scraped and chopped into chunks\n| 60 ml [[Olive oil|olive oil]]\n| 45 ml [[White wine vinegar|white wine vinegar]]\n| [[Garlic]] to taste, crushed\n| 1 teaspoon or more [[Harissa|harissa]]\n| 2 teaspoons [[Ground cumin|ground cumin]]\n| [[Black olives]] to garnish\n}}\n===Method===\n\n{{RecipeMethod\n| [[Boil]] the [[Carrots|carrots]] in [[Salted|salted]] water until they are soft.\n| Drain and [[Mash|mash]] them in a bowl or use a [[Blender|blender]].\n| Mix in the remaining ingredients and transfer to a serving dish.\n| Chill, and serve garnished with the [[Olives|olives]].\n}}\n===Serving suggestions===\nServe with [[Bread|bread]].\n===Variations===\nIf you do not have [[Harissa|harissa]], substitute with a good pinch of [[Cayenne pepper]] and a teaspoon of unsmoked [[Paprika|paprika]].\n{{RecipeLine}}\n[[Category:Recipes|Omi houriya (mashed carrot salad)]]\n[[Category:Accompaniments|Omi houriya (mashed carrot salad)]]\n[[Category:Dips and sauces|Omi houriya (mashed carrot salad)]]\n[[Category:Garlic recipes|Omi houriya (mashed carrot salad)]]\n[[Category:North African recipes|Omi houriya (mashed carrot salad)]]\n[[Category:Salad recipes|Omi houriya (mashed carrot salad)]]\n[[Category:Spicy recipes|Omi houriya (mashed carrot salad)]]\n[[Category:Tunisian recipes|Omi houriya (mashed carrot salad)]]\n[[Category:Vegetable recipes|Omi houriya (mashed carrot salad)]]\n[[Category:Vegetarian recipes|Omi houriya (mashed carrot salad)]]\n[[Category:Vegan recipes]]\n[[Category:Boiled or simmered]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#carrots #harissa #cayennepepper #salted #boiledorsimmered #bread #mash #olives #dip #salad #oliveoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

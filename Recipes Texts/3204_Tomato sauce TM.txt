@@ -1,0 +1,15 @@
+ 
+
+title": "Tomato sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tomato sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#garlic #thermomix #thermomixrecipes #onion #onions #tomatosauce #spanish #tomatoes \n|hashtagrev=032020\n|description=A basic recipe for tomato sauce\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 261\n|PortionCalories = 12\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 20 - Makes about 1kg\n|Difficulty = 1\n|TotalTime = 55 minutes \n|PrepTime = 15 minutes \n|CookTime = 40 minutes \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nicer than Heinz</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">\u2026and made in my Thermy too!</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA basic recipe for [[Tomato sauce|tomato sauce]]\n\n{{RecipeIngredientsTM\n| 50g [[Extra virgin olive oil|extra virgin olive oil]]\n| 2 [[Cloves|cloves]] [[Garlic|garlic]]\n| 100g [[Onions|onions]]\n| 1kg chopped [[Tomatoes|tomatoes]]\n| 30g [[Sugar|sugar]]\n| [[Salt]] and [[Pepper|pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Oil|oil]] in the bowl '''3 minutes / Temp. Varoma / Speed 1'''\n| Add the [[Garlic|garlic]] and [[Onion|onion]] '''10 seconds / Speed 5'''\n| Then '''7 minutes / Speed Varoma / Speed 3&frac12;'''\n| Scrape down the lid with the spatula '''a few seconds / Speed 5'''\n| Add the remaining ingredients '''30 minutes / Temp. Varoma / Speed 1''', placing the internal steaming basket over the lid to avoid splashing\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlic #thermomix #thermomixrecipes #onion #onions #tomatosauce #spanish #tomatoes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

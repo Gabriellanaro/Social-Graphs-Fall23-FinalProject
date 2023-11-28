@@ -1,0 +1,16 @@
+title": "Grilled figs with Capricorn cheese, honey and walnuts",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Grilled figs with Capricorn cheese, honey and walnuts recipe\n|titlemode=replace\n|keywords=#grill #honey #figs #walnuts #grilledfigswithcapricorncheesehoneyandwalnuts #bakingtray #fig #almond #diced #miseenplace #unusualrecipes \n|hashtagrev=032020\n|description=This unusual dessert recipe is reproduced by the kind permission of The Lubborn Creamery\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1334\n|PortionCalories = 333\n|DatePublished=20th January 2013\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 10 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Grilled figs with Carpricorn, honey and walnuts recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Figs and cheese</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice mixture</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis unusual [[Dessert|dessert]] recipe is reproduced by the kind permission of [[The Lubborn Creamery]].\n\n{{RecipeIngredients\n| 40g (1 &frac12;oz) [[Walnut|walnut]] halves\n| 8 fresh [[Figs|figs]]\n| 1 x 100g [[Capricorn Somerset Goats' cheese]], [[Diced|diced]]\n| 18 teaspoon Greek [[Honey|honey]] to drizzle\n| crisp [[Almond|almond]] biscuits to serve\n\n}}\n\n===[[Mise en place]]===\n* Preheat the [[Grill|grill]] to a moderate setting\n===Method===\n\n{{RecipeMethod\n| Spread the [[Walnuts|walnuts]] out on a [[Baking tray|baking tray]] and toast under the [[Grill|grill]] for 1-2 mins, watching closely so that they don't burn. Remove and break up into smaller pieces.\n| Cut a cross in each [[Fig|fig]], keeping them attached at the base, then squeeze so that each one opens up like a flower.\n| Divide the [[Capricorn Somerset Goats' cheese]] between the [[Figs|figs]] and place on the [[Baking tray|baking tray]]. Place under the [[Grill|grill]] and cook for 2-3 mins or until the [[Cheese|cheese]] is bubbling and golden.\n| Transfer to serving plates, scatter with [[Walnuts|walnuts]] and drizzle each [[Fig|fig]] with a teaspoon of Greek [[Honey|honey]].\n| Serve immediately, accompanied by crisp [[Almond|almond]] biscuits\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Sweets and desserts]]\n[[Category:Cheese recipes]]\n[[Category:Fruit recipes]]\n[[Category:Lubborn Creamery recipes]]\n[[Category:Grilled, griddled or barbecued]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#grill #honey #figs #walnuts #grilledfigswithcapricorncheesehoneyandwalnuts #bakingtray #fig #almond #diced #miseenplace #unusualrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Mojo verde (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mojo verde - A Thermomix recipe \n|titlemode=replace\n|keywords=#coriander #parsley #garlic #thermomix #greenpepper #peppercorns #vinegar #ground #seeds #cumin #mojoverde \n|hashtagrev=032020\n|description=This Mojo verde recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1885\n|PortionCalories = 235\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Serves 8 - Makes 300 ml\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Coriander sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.64</span>/5</span>\n\n<span class=\"reviewDesc\">Nice with chicken tikka pieces.</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''.\n\n{{RecipeIngredientsTM\n| 1 [[Green pepper|green pepper]]\n| A small handful of [[Coriander|coriander]]\n| A small handful of [[Parsley|parsley]]\n| 1 small guindilla [[Pepper|pepper]]\n| 4 Cloves [[Garlic|garlic]]\n| 1 teaspoon [[Salt|salt]]\n| &frac12; teaspoons [[Cumin seeds|cumin seeds]]\n| 200g [[Oil|oil]]\n| 100g water\n| 1 tablespoon [[Vinegar|vinegar]]\n| &frac12; teaspoon [[Ground|ground]] green [[Peppercorns|peppercorns]]\n}}\n===Method===\n\n{{RecipeMethod\n| Remove the [[Seeds|seeds]] from the guindilla and the [[Green pepper|green pepper]].\n| Add them to the bowl with the [[Coriander|coriander]], [[Parsley|parsley]], peeled [[Garlic|garlic]], [[Salt|salt]], [[Cumin|cumin]] and the [[Ground|ground]] green [[Peppercorns|peppercorns]].\n| Process '''30 seconds / Speed 4'''.\n| Using the spatula, scrape down the interior of the bowl.\n| Add the [[Oil|oil]], [[Vinegar|vinegar]] and water and process '''1 minute / Speed 4'''.\n}}\n===Chef's notes===\nThis [[Mojo verde|mojo verde]] is milder than [[Mojo pic\u00f3n]].  It has to have a pronounced flavour of [[Coriander|coriander]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#coriander #parsley #garlic #thermomix #greenpepper #peppercorns #vinegar #ground #seeds #cumin #mojoverde </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Fumet de pescado (Fish stock) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Fumet de pescado (Fish stock) - A Thermomix recipe\n|titlemode=replace\n|keywords=#bones #thermomix #monkfish #parsley #prawn #leek #paellas #fishstock #stock #sieve #soups \n|hashtagrev=032020\n|description=This fish stock is very easily made in the Thermomix, but perhaps it may not be easy obtaining the monkfish [[bones]] to make it!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 221\n|PortionCalories = 27\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 8 - Makes 800g\n|Difficulty = 1\n|TotalTime = 15 minutes \n|PrepTime = 5 minutes \n|CookTime = 10 minutes \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Fishy!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Geddit? \ud83d\ude00</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThis [[Fish stock|fish stock]] is very easily made in the [[Thermomix]], but perhaps it may not be easy obtaining the [[Monkfish|monkfish]] [[bones]] to make it!\n\n{{RecipeIngredientsTM\n| 150g [[Prawn|prawn]] shells and heads (use the bodies to make something else)\n| 1 [[Leek|leek]], chopped into chunks\n| 25g [[Extra virgin olive oil|extra virgin olive oil]]\n| 800g water\n| 150g [[Monkfish|monkfish]] [[bones]]\n| [[Salt]], to taste\n| [[Parsley]], to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Tip the [[Prawn|prawn]] heads and shells, [[Leek|leek]], and the [[Oil|oil]] into the bowl '''3 minutes / Temp. Varoma / Speed 4'''.\n| Incorporate the water, [[Monkfish|monkfish]] [[bones]], [[Salt|salt]] and [[Parsley|parsley]] '''8 minutes / 100\u00b0 / Speed 2'''.\n| Strain through a fine [[Sieve|sieve]].\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n===Chef's notes===\nThis [[Stock|stock]] can be prepared and [[Frozen|frozen]], thus it will be ready to add to [[Paellas|paellas]], [[Soups|soups]], [[Sauces|sauces]] etc.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Soup and stock recipes]]\n[[Category:Fish recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bones #thermomix #monkfish #parsley #prawn #leek #paellas #fishstock #stock #sieve #soups </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

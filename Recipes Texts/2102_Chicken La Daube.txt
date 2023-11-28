@@ -1,0 +1,15 @@
+ 
+
+title": "Chicken La Daube",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chicken La Daube, Meat recipe \n|titlemode=replace\n|keywords=#chickenladaube #coriander #plainboiledrice #blacklentilsdaal #thyme #chillies #tomatoes #garlic #cinnamon #blackpepper #onions \n|hashtagrev=032020\n|description=Chicken Daube, (Daube de Poulet), is a classic chicken recipe from Mauritius\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1856\n|PortionCalories = 464\n|DatePublished=31st January 2013\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 1 hour 15 minutes\n |PrepTime = 15 minutes\n |CookTime = 1 hour \n |Image = [[Image:Chicken La Daube.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Colourful</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5 </span>\n\n<span class=\"reviewDesc\">Lovely bright colours - I would use more garlic next time.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nChicken Daube, (Daube de Poulet), is a classic chicken recipe from Mauritius.\n{{RecipeIngredients\n| 1kg whole [[chicken]], [[Jointing a chicken|cut into small pieces]]\n| 2 large [[onions]], chopped\n| 1/2 a tablespoon of crushed [[garlic]]\n| 1 teaspoon [[ginger]], crushed\n| 3 [[cloves]]\n| 1 [[cinnamon]] stick\n| 2 teaspoons of[[thyme]]\n| 2 tablespoons chopped [[coriander]] leaves\n| 500g tinned chopped [[tomatoes]]\n| 3 medium [[chillies]], chopped\n| [[oil]]\n| [[salt]] and [[black pepper|pepper]] to taste \n}}\n===Method===\n\n{{RecipeMethod\n|Fry the onions in the oil for a few minutes then add the garlic and ginger. \n|Fry for 2 minutes before adding the chicken, cloves, cinnamon, thyme, chillies and a little salt. \n|Allow to cook for about 15 minutes before adding the tomatoes. \n|Simmer on low heat for about 30 minutes, or until the chicken is done then adjust the seasoning.\n|Garnish with [[coriander]]. \n}}\n===Serving suggestions===\nServe with [[plain boiled rice|plain white rice]] or [[black lentils daal]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Mauritian recipes]]\n[[Category:Meat recipes]]\n[[Category:Poultry recipes]]\n[[Category:Main courses]]\n[[Category:Spicy recipes]]\n[[Category:Stewed, braised or pot roasted]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chickenladaube #coriander #plainboiledrice #blacklentilsdaal #thyme #chillies #tomatoes #garlic #cinnamon #blackpepper #onions </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

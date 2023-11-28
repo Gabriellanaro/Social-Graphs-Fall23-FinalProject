@@ -1,0 +1,16 @@
+title": "Spiced rooster oven chips",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Spiced rooster oven chips, British recipe\n|titlemode=replace\n|keywords=#spicedroosterovenchips #potatoes #spices #roast #wedges #groundcoriander #oliveoil #roastingtray #potatowedgerecipes #groundcumin #garlicmayonnaise \n|hashtagrev=032020\n|description=Lamb cutlets with baby roosters and mint butter British recipes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 540\n|PortionCalories = 135\n|DatePublished=21st January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 30 minutes\n |PrepTime = 10 minutes\n |CookTime = 20 minutes\n |Image = [[Image:Spiced rooster oven chips recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">\ud83d\udc14\ud83d\udc14\ud83d\udc14</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">Rooster booster!</span>\n \n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]])</span></span>\n}}\n'''''see also: [[Potato wedge recipes]]\n\n{{FindAlbertBartlett}}\n\n{{RecipeIngredients\n| 700g Rooster potatoes, washed and cut into thick [[Wedges|wedges]] \n| 4 tablespoons [[Olive oil]] \n| &#188; teaspoons [[Ground cumin]] \n| &#188; teaspoons [[Ground coriander]] \n| &#188; teaspoons [[Paprika]]\n}}\n===Method===\n\n{{RecipeMethod\n| Pre - heat [[Oven|oven]] to 225 C / Gas 7\n| Place a [[roasting tray]] into the [[Oven|oven]] and leave till tray is very hot.\n| Pour the [[Oil|oil]] into the tray, arrange the [[Potatoes|potatoes]] in a single layer onto the tray, return the tray to the [[Oven|oven]] and [[Roast|roast]] the potatoes till golden [[Brown|brown]] (about  20 minutes), turning once or twice.\n| During the last 5 minutes of cooking sprinkle the [[Spices|spices]] over the [[Chips|chips]].\n| Remove [[Potatoes|potatoes]] from the [[Oven|oven]], sprinkle with [[Sea Salt|sea salt]] and serve with [[Garlic mayonnaise|garlic mayonnaise]] or your favourite [[Dip|dip]].\n}}\n===See also===\n{{SeeAlso-chips}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Albert Bartlett recipes]]\n[[Category:Recipes from other sites]]\n[[Category:British recipes]]\n[[Category:Potato recipes]]\n[[Category:Baked or roasted]]\n{{Template:Albert Bartlett attribution}}\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#spicedroosterovenchips #potatoes #spices #roast #wedges #groundcoriander #oliveoil #roastingtray #potatowedgerecipes #groundcumin #garlicmayonnaise </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

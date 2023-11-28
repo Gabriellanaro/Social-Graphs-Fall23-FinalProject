@@ -1,0 +1,15 @@
+ 
+
+title": "Vinaigrette (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Vinaigrette - A Thermomix recipe \n|titlemode=replace\n|keywords=#thermomix #vinaigrette #spanish #coriander #tarragon #sherryvinegar #hazelnuts #dill #basil \n|hashtagrev=032020\n|description=This is a Spanish recipe for vinaigrette which is made in the Thermomix\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 100\n|PortionCalories = 12\n|DatePublished=15th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014) \n|Servings = Servings: 8 - Makes 250g\n|Difficulty = 1\n|TotalTime =  1 minute\n|PrepTime =  1 minute\n|CookTime =  None\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice with rocket</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">It cuts the bitterness well.</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n}}\nThis is a [[Spanish]] recipe for [[Vinaigrette|vinaigrette]] which is made in the [[Thermomix]].\n\n{{RecipeIngredientsTM\n| 200g [[Extra virgin olive oil|extra virgin olive oil]]\n| 50g [[Sherry vinegar]]\n| [[Salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the ingredients in the bowl and emulsify '''25 seconds / Speed 5-6'''\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n===Variations===\nIf you want a flavoured [[Vinaigrette|vinaigrette]] add flavours as desired:  [[Dill|dill]], [[Basil|basil]], [[Coriander|coriander]], [[Tarragon|tarragon]], [[hazelnuts]] etc.  First crush at '''Speed 7''' and then emulsify at '''Speed 5-6''' for a few seconds.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #vinaigrette #spanish #coriander #tarragon #sherryvinegar #hazelnuts #dill #basil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

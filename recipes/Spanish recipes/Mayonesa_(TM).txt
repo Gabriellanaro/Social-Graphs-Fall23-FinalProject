@@ -1,0 +1,16 @@
+title": "Mayonesa (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mayonesa - A Thermomix recipe \n|titlemode=replace\n|keywords=#thermomix #mayonnaise #sunfloweroil #spanish #lemon #cream #yolks #curdled #garlicmayonnaiserecipes #juice #vinegar \n|hashtagrev=032020\n|description=A Spanish Thermomix recipe for mayonnaise\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2855\n|PortionCalories = 68\n|DatePublished=21st September 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 42 - Makes 850g\n|Difficulty = 2\n|TotalTime = 5 minutes \n|PrepTime = 5 minutes \n|CookTime = None \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Mayo in my Thermie</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">What could be nicer?</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nA [[Spanish]] [[Thermomix]] recipe for [[Mayonnaise|mayonnaise]]\n\n{{RecipeIngredientsTM\n| 300g [[Olive|olive]] or [[Sunflower oil|sunflower oil]]\n| 1 [[Egg|egg]], or 2 [[Yolks|yolks]]\n| The [[Juice|juice]] of &frac12; a [[Lemon|lemon]] or 1 tablespoon [[Vinegar|vinegar]]\n| 25g water\n| [[Salt]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Weigh the [[Oil|oil]] by putting a jug on the lid of the [[Thermomix]], press the scales button and pour in the oil until the display shows 300.\n| Put all the ingredients in the bowl, except the [[Oil|oil]], and mix '''10 seconds / Speed 4'''.\n| With the '''MC''' on the lid, program '''Speed 4''' and pour the [[Oil|oil]] onto the lid, little by little.\n| If the [[Mayonnaise|mayonnaise]] curdles, take it out of the bowl and without washing it add 50g hot water and at '''Speed 5''', incorporate the [[Curdled|curdled]] mixture, little by little.\n}}\n===Variations===\nIf you wish, you can use 150g [[Olive oil|olive oil]] and 150g [[Sunflower oil|sunflower oil]].  You can lighten the [[Mayonnaise|mayonnaise]] by adding 100g [[Yoghurt|yogurt]], [[Milk|milk]] or [[Cream|cream]].\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n==See also==\n* A huge variety of [[Garlic mayonnaise recipes|different mayonnaise recipes]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Egg recipes]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #mayonnaise #sunfloweroil #spanish #lemon #cream #yolks #curdled #garlicmayonnaiserecipes #juice #vinegar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Salsa de Queso Azul (Blue Cheese Sauce) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Salsa de Queso Azul (Blue Cheese Sauce) a Thermomix cheese recipe\n|titlemode=replace\n|keywords=#sauce #bluecheese #thermomix #salads #butter #sirloinsteaks #pasta #singlecream #freshcheese #gorgonzola #danishblue \n|hashtagrev=032020\n|description=This Blue Cheese Sauce recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1142\n|PortionCalories = 142\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 8 - Makes 350 ml\n |Difficulty = 1\n |TotalTime = 11 minutes\n |PrepTime = 5 minutes\n |CookTime = 6 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Yum!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">I like the idea of the brandy in this sauce</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 150g [[Single cream|single cream]]\n| 100g [[fresh cheese]]\n| 1 tablespoon [[Butter|butter]]\n| 1 tablespoon [[Cornflour|cornflour]]\n| 100g [[Blue cheese|blue cheese]]\n| 1 teaspoon [[Brandy|brandy]]\n| [[Salt]]\n| [[Pepper]]\n| 2 tablespoons [[Milk|milk]] (optional)\n}}\n===Method===\n\n{{RecipeMethod\n| Put all of the ingredients, except the [[Milk|milk]], in the bowl.\n| Cook '''6 minutes / 90\u00b0 / Speed 4'''.\n| If the [[Sauce|sauce]] is very thick, add the 2 tablespoons of [[Milk|milk]] and mix for a '''few seconds / Speed 4'''.\n| Once you have obtained the desired consistency, turn out into a bowl and serve.\n}}\n===Serving suggestions===\nThis exquisite [[Sauce|sauce]] goes well with many dishes, but above all with [[T-bone]], [[Fillet steaks| fillet]] and [[sirloin steaks]].  Also it is a good dressing for some [[Salads|salads]].  At the same time it can be eaten with [[Potatoes|potatoes]] or [[Pasta|pasta]].  \n===Chef's notes===\nSome types of [[Blue cheese|blue cheese]] which you can use in this [[Sauce|sauce]] are [[Cabrales]], [[Roquefort]], [[Danish Blue]] and [[Gorgonzola]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Cheese recipes]]\n[[Category:Cooking with wine]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sauce #bluecheese #thermomix #salads #butter #sirloinsteaks #pasta #singlecream #freshcheese #gorgonzola #danishblue </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Tomato and chili dip",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Tomato and chili dip recipe Accompaniments\n|titlemode=replace\n|keywords=#tomatoandchilidip #chilisauces #tabasco #tomato \n|hashtagrev=032020\n|description=Spice up boring food with this quick recipe\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 20\n|PortionCalories = 20\n|DatePublished=31st January 2013\n|Author=Chef\n|ImageComment = Lots of tomato and chili dip!\n|Servings = 1\n|Difficulty = 1\n|TotalTime = 2 minutes\n|PrepTime = 2 minutes\n|CookTime = None\n|Image = [[Image:Tomato dip.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">The hoisin makes this sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">It adds a dark richness</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nSpice up boring food with this quick recipe\n\n{{RecipeIngredients\n| 4 tablespoons [[tomato]] ketchup\n| 2 tablespoons chili sauce, [[Tabasco]], [[Louisiana hot pepper sauce]], etc.\n| 1 teaspoon hoisin sauce\n}}\n===Method===\n\n{{RecipeMethod\n| Add all ingredients to a small bowl\n| Mix well\n}}\n===Servings===\nServings: 8 - Makes &#189; a cup of sauce\n===Serving suggestions===\n\nServe as a dip with any seafood, especially prawns\n\n==See also==\n* [[Chili sauces]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n[[Category:Starters]]\n[[Category:Tex-Mex recipes]]\n[[Category:Student recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tomatoandchilidip #chilisauces #tabasco #tomato </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

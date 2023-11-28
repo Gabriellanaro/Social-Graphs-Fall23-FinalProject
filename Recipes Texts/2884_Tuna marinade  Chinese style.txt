@@ -1,0 +1,15 @@
+ 
+
+title": "Tuna marinade - Chinese style",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tuna marinade - Chinese style a Chinese recipe\n|titlemode=replace\n|keywords=#tuna #marinate #tunamarinadechinesestyle #lightsoy #griddled #barbecued #fry #ginger #onion #grill #garlic \n|hashtagrev=032020\n|description=The perfect way to prepare tuna. Just remember to rest for 5 minutes after cooking, it makes all the difference\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 389\n|PortionCalories = 97\n|DatePublished=23rd October 2012\n|Author=Chef\n|Servings = Servings: 4 - Enough to [[marinate]] 4 [[Tuna|tuna]] steaks\n|Difficulty = 1\n|TotalTime = 45 minutes\n|PrepTime = 35 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Pan-seared tuna fillets.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Quick recipe</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Fresh tasting</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThe perfect way to prepare [[Tuna|tuna]].\n\nJust remember to rest for 5 minutes after cooking, it makes all the difference.\n\n{{RecipeIngredients\n| 4 tablespoons [[Light soy|light soy]] [[Sauce|sauce]]\n| 2 tablespoons [[Sesame|sesame]] [[Oil|oil]]\n| 2 tablespoons [[Black rice vinegar|black rice vinegar]]\n| 1 tablespoon of crushed [[Garlic|garlic]]\n| 1 tablespoon of [[Grated|grated]] [[Ginger|ginger]]\n| 1 spring [[Onion|onion]], finely chopped\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the ingredients together in a shallow dish.\n| Toss the steaks in the [[marinade]].\n| Leave to [[marinate]] for 15 minutes per side.\n| [[Grill]] or pan [[Fry|fry]] for 2 to 4 minutes per side, dependent upon the thickness of the steaks.\n| Rest for 5 minutes before serving.\n}}\n[[Category:Chinese recipes]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Fish recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Sea fish recipes]]\n[[Category:Pan fried]][[Category:Grilled, griddled or barbecued]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tuna #marinate #tunamarinadechinesestyle #lightsoy #griddled #barbecued #fry #ginger #onion #grill #garlic </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

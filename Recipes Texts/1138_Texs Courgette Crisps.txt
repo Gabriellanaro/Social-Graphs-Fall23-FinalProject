@@ -1,0 +1,15 @@
+ 
+
+title": "Tex's Courgette Crisps",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tex's Courgette Crisps recipe\n|titlemode=replace\n|keywords=#texscourgettecrisps #spray #miseenplace #skillet #courgettes #butter #images #dipsandsauces #recipesfromothersites #griddlepan \n|hashtagrev=032020\n|description=A low calorie delicious alternative to crisps that is super easy to prepare\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 207\n|PortionCalories = 51\n|DatePublished=26th August 2014\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = 4\n|Difficulty = 1\n|TotalTime =  13 minutes\n|PrepTime =  3 minutes\n|CookTime =  10 minutes\n|Image = [[Image:Tex's Courgette Crisps recipe.jpg|150px|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">These are lovely</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Especially good for dipping in hummus</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nA low calorie delicious alternative to crisps that is super easy to prepare.\n\n{{RecipeIngredients\n\n| 3 Large [[Courgettes|courgettes]], sliced thin into discs\n| 15ml [[Butter]] flavoured cooking [[Spray|spray]]\n| &#188; cup [[Tex's Coat n Bake]]\n}}\n===[[Mise en place]]===\nPreheat the oven to 200\u00b0 C (400\u00b0 F - gas 6), [fan oven 180\u00b0 C & reduce cooking time by 10 mins per hour]\n===Method===\n{{RecipeMethod\n\n| Coat discs with cooking [[Spray|spray]] after distributing them on to cast iron [[Skillet|skillet]] or [[griddle pan]].\n| sprinkle [[Tex's Coat n Bake]] over the discs.\n| Cook at 200\u00b0 C for 10 minutes.\n}}\n===Serving suggestions===\nGreat with [[dips and sauces]]!\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:CubanCuisine.co.uk]]\n[[Category:Baked or roasted]]\n===Recipe source===\n{{Template:RecipeCourtesyOfCubanCuisine}}\n[[Category:Recipes from other sites]]\n[[Category:Vegetable recipes]]\n<!-- footer hashtags --><code 'hashtagrev:032020'>#texscourgettecrisps #spray #miseenplace #skillet #courgettes #butter #images #dipsandsauces #recipesfromothersites #griddlepan </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

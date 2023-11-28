@@ -1,0 +1,15 @@
+ 
+
+title": "Barbecued beef - Chinese style",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Barbecued beef - Chinese style a beef recipe\n|titlemode=replace\n|keywords=#barbecuedbeefchinesestyle #beef #marinade #chilipowder #grilled #garlic #blackpepper #barbecue #sherry #5spicepowder #barbecued \n|hashtagrev=032020\n|description=Use the best cuts of beef that you can afford. Quality is more important than quantity when it comes to beef\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 1171\n|PortionCalories = 292\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 3 hours 20 minutes\n|PrepTime = 3 hours 5 minutes\n|CookTime = 15 minutes\n|Image = [[Image:RecipeBarbecued beef - chinese style.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Great for the BBQ</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.8</span>/5 </span>\n\n<span class=\"reviewDesc\">An interesting flavour and really well suited to a barbecue.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Image:RecipeBarbecued beef marinade.jpg|thumb|right|300px|Barbecued beef in marinade]]\nUse the best cuts of [[beef]] that you can afford.  Quality is more important than quantity when it comes to [[beef]]\n\n\n{{RecipeIngredients\n| 450 g lean [[braising steak]]\n| 4 tablespoons [[dark soy sauce]] (light soy will do, though it's not as sweet)\n| 2 cloves of [[Garlic|garlic]], crushed\n| &#189; teaspoon [[5 spice powder]] (optional)\n| 1 teaspoon [[salt]]\n| &#189; teaspoon brown [[sugar]]\n| 1 tablespoon dry [[sherry]]\n| Freshly ground [[black pepper]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Create a [[marinade]] by mixing all ingredients together\n| Marinate the beef for 3 hours, basting often\n| Cook over a hot [[barbecue]] grill for 5 minutes a side\n| Remove from heat, cover and rest for 5 minutes\n}}\n===Serving suggestions===\n\nServe hot\n\n===Variations===\n\nAdd good pinch of [[chili powder]] or some [[Harissa paste|harissa paste]] for a hotter [[marinade]] \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Barbecue recipes]]\n[[Category:Beef recipes]]\n[[Category:Chinese recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Favourite recipes]]\n[[Category:Grilled, griddled or barbecued]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#barbecuedbeefchinesestyle #beef #marinade #chilipowder #grilled #garlic #blackpepper #barbecue #sherry #5spicepowder #barbecued </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

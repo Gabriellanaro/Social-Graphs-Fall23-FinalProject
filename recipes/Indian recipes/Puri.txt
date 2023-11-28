@@ -1,0 +1,16 @@
+title": "Puri",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Puri, Indian recipe \n|titlemode=replace\n|keywords=#puri #foodprocessor #vegetableoil #yogurt #dough #flour #tava #panfried #chapati #indiandishes #strongwhiteflour \n|hashtagrev=032020\n|description=Puri or poori is an unleavened flatbread, from India or Pakistan, that is quickly fried rather than being cooked on a tava\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1193\n|PortionCalories = 198\n|DatePublished=27th October 2012\n|Author=Chef\n|Servings = Serves 6 - Makes 6 puri\n |Difficulty = 2\n |TotalTime = 45 minutes\n |PrepTime = 40 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Puri recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A different fried bread!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.3</span>/5</span>\n\n<span class=\"reviewDesc\">Lovely to dip into daal.</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nPuri or poori is an unleavened flatbread, from India or Pakistan, that is quickly fried rather than being cooked on a [[tava]].  It should be a little smaller than a [[roti]] or a [[chapati]], about 13 cm (5\") round.\n\nWhilst kneading [[dough]] can be therapeutic, if time is your enemy, then the [[food processor]] is your friend.\n\nPuris are the perfect accompaniment to most [[Indian dishes]].\n\n{{RecipeIngredients\n| 1 cup [[atta flour]] or [[strong white flour]]\n| 2 tablespoons [[vegetable oil]]\n| [[Salt]] and [[freshly ground black pepper]] to taste\n| 2 tablespoons [[yogurt]] (optional)\n| Vegetable oil for frying\n| &#189; cup water\n}}\n===Method===\n\n{{RecipeMethod\n| Tip all of the ingredients and half of the water into the [[food processor]] with a plastic blade or dough hook attachment\n| Blitz the mixture whilst adding a more water a little at a time until you have a soft, pliable dough that is not too sticky\n| Remove from the processor, dust with a little [[flour]] and rest for 30 minutes in a bowl, covered with a damp tea-towel\n| Divide into 6 equal parts and roll into balls\n| With a rolling pin on a floured surface, roll each roti out into a disc, about 13 cm (5\") round\n| Heat 2.5 cm (1\") oil in a wok or large heavy-based frying pan \n| Deep fry each puri, holding it under the oil with a slotted spoon until it puffs up\n}}\n===Serving suggestions===\nServe immediately\n{{RecipeLine}}\n[[Category:Recipes|Puri]]\n[[Category:Accompaniments|Puri]]\n[[Category:Bread and baking|Puri]]\n[[Category:Indian recipes|Puri]]\n[[Category:Starters|Puri]]\n[[Category:Snacks and light bites|Pupusa]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#puri #foodprocessor #vegetableoil #yogurt #dough #flour #tava #panfried #chapati #indiandishes #strongwhiteflour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

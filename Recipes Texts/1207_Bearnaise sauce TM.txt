@@ -1,0 +1,15 @@
+ 
+
+title": "Bearnaise sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bearnaise sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#thermomix #butter #vinegar #shallots #sauce #tarragon #eggyolks #spanish #curdled #thermomixrecipes \n|hashtagrev=032020\n|description=This classic sauce is made in the Thermomix in this recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1701\n|PortionCalories = 85\n|DatePublished=30th August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Serves 20 - Makes 400g\n|Difficulty = 2\n|TotalTime = 10 minutes\n|PrepTime = 5 minutes\n|CookTime = 5 minutes  \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice, no nutmeg</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.9</span>/5</span>\n\n<span class=\"reviewDesc\">Some recipes for Bearnaise sauce have nutmeg, which I dislike</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis classic [[Sauce|sauce]] is made in the [[Thermomix]] in this recipe.\n{{RecipeIngredientsTM\n| 50g [[Vinegar|vinegar]]\n| 50g [[Shallots|shallots]]\n| 200g [[Butter|butter]]\n| 1 teaspoon [[Tarragon|tarragon]]\n| 4 [[Egg yolks|egg yolks]]\n| [[Salt]]\n| [[Pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Vinegar|vinegar]] and the [[Shallots|shallots]] in the bowl '''5 minutes / Temp. Varoma / Speed 4 / MC Off'''\n| Add the [[Butter|butter]] and then the rest of the ingredients '''4 minutes / 70\u00b0 / Speed 4'''\n| Tip immediately into a bowl\n| If it curdles, remove from the bowl and without washing it, add 25g cold water to the same.  Set to '''Speed 4''' and incorporate the [[Curdled|curdled]] [[Sauce|sauce]], little by little, through the hole in the lid, with the '''MC tilted'''.\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:French recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Egg recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #butter #vinegar #shallots #sauce #tarragon #eggyolks #spanish #curdled #thermomixrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Tabil",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tabil, Spicy recipe \n|titlemode=replace\n|keywords=#tabil #beef #stews #corianderseeds #dryroast #carawayseeds #refrigerator #dryfried #veal #pestleandmortar #garlic \n|hashtagrev=032020\n|description=Tabil is a classic Tunisian spice blend (the name means 'seasoning' in Tunisian Arabic) and is often used for flavouring beef or veal, or it can be\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 44\n|PortionCalories = 11\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|ImageComment = Tabil\n |Servings = Servings: 4 - Makes enough for a few recipes\n |Difficulty = 1\n |TotalTime = 8 minutes\n |PrepTime = 5 minutes\n |CookTime = 3 minutes\n |Image = [[Image:Tabil recipe.jpg|200px|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice Spice</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Good over chips</span>\n \n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}} \n\nTabil is a classic Tunisian [[Spice|spice]] blend (the name means 'seasoning' in Tunisian Arabic) and is often used for flavouring [[Beef|beef]] or [[Veal|veal]], or it can be used as an addition to [[Soups|soups]] and [[Stews|stews]]\n\n{{RecipeIngredients\n| 2 large [[Garlic|garlic]] cloves, peeled and finely chopped and left to dry in the open air for 2 days\n| 50g [[Coriander seeds|coriander seeds]]\n| 1 tablespoon [[Caraway seeds|caraway seeds]]\n| 2 teaspoons [[Cayenne pepper|cayenne pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Add the ingredients to a non-stick [[Frying pan|frying pan]] set over medium heat and [[Dry roast|dry roast]] for about 3 minutes. \n| Allow to cool then transfer the [[Spices|spices]] to a [[Pestle and mortar|pestle and mortar]] or grinder and pound into a smooth paste. \n| Store in an airtight container in the [[Refrigerator|refrigerator]].\n}}\n{{RecipeLine}}\n[[Category:Recipes|Tabil]]\n[[Category:North African recipes|Tabil]]\n[[Category:Pickles and preserves|Tabil]]\n[[Category:Spicy recipes|Tabil]]\n[[Category:Tunisian recipes|Tabil]]\n[[Category:Dry fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#tabil #beef #stews #corianderseeds #dryroast #carawayseeds #refrigerator #dryfried #veal #pestleandmortar #garlic </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

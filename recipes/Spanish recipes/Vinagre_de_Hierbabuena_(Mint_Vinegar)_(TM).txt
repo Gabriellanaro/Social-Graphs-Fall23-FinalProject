@@ -1,0 +1,16 @@
+title": "Vinagre de Hierbabuena (Mint Vinegar) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Vinagre de Hierbabuena (Mint Vinegar) a Thermomix recipe\n|titlemode=replace\n|keywords=#vinegar #thermomix #mint #vegetable #whitewinevinegar #roast #mintleaves #boiling #thermomixrecipes #fruit #lamb \n|hashtagrev=032020\n|description=This Mint Vinegar recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 510\n|PortionCalories = 51\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 10 - makes 600 ml\n |Difficulty = 1\n |TotalTime = 21 days, 10 minutes\n |PrepTime = 21 days, 3 minutes\n |CookTime = 7 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Mint sauce in your Thermomix</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Not so harsh using wine vinegar I thought.</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 5 [[Mint|mint]] sprigs\n| 600g [[White wine vinegar|white wine vinegar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Vinegar|vinegar]] in the TM.\n| Program '''7 minutes / Temp. Varoma / Speed spoon''', so that the [[Vinegar|vinegar]] will heat without [[Boiling|boiling]].\n| Leave to cool a little.\n| Wash and dry the [[Mint|mint]].\n| Place it into a container and pour the [[Vinegar|vinegar]] over it.\n| When it is totally cold, transfer it into a bottle, together with the [[Mint leaves|mint leaves]].\n| Cover tightly and leave for 2 or 3 weeks depending on the flavour you want to obtain.\n}}\n===Serving suggestions===\nThis aromatised [[Vinegar|vinegar]] is especially suited to dress all types of [[Salad|salad]], whether a [[Vegetable|vegetable]] or a [[Fruit|fruit]] one.  It also goes well with [[Roast|roast]] [[Lamb|lamb]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#vinegar #thermomix #mint #vegetable #whitewinevinegar #roast #mintleaves #boiling #thermomixrecipes #fruit #lamb </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

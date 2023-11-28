@@ -1,0 +1,15 @@
+ 
+
+title": "Khichdi recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Khichdi recipe Indian, from Cookipedia.Co.Uk\n|titlemode=replace\n|keywords=#rice #lentils #cuminseeds #turmericpowder #khichdirecipe #lentil #mild #whitebasmatirice #khichdi #boil #fry \n|hashtagrev=032020\n|description=Khichdi is a mild-tasting Gujarati rice and lentil dish. There are many regional variations to this basic recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 660\n|PortionCalories = 165\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 45 minutes\n|PrepTime = 5 minutes\n|CookTime = 40 minutes\n|Image = [[Image:Khichdi.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Rice and lentils</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice change this makes.</span> \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\n[[Khichdi]] is a [[Mild|mild]]-tasting Gujarati [[Rice|rice]] and [[Lentil|lentil]] dish.\n\nThere are many regional variations to this basic recipe.\n\n{{RecipeIngredients\n| 1 cup of [[White basmati rice|white basmati rice]], rinsed in a sieve under cold running water\n| 1 cup of yellow [[Lentils|lentils]], picked clear of stones, washed and soaked in water then drained\n| 4 cups of water\n| &#189; teaspoon [[Cumin seeds|cumin seeds]]\n| &#189; teaspoon [[Turmeric powder|turmeric powder]]\n| 1 teaspoon of [[Vegetable oil|vegetable oil]]\n| [[Sea Salt|sea salt]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the [[Oil|oil]] in a large heavy pot\n| When [[Oil|oil]] is hot, add [[Cumin seeds|cumin seeds]] and let them [[Fry|fry]] and pop for a second or two\n| Immediately add  the [[Rice|rice]] ,[[Lentils|lentils]] and [[turmeric powder]]. Stir well to mix\n| Add the water and [[Salt|salt]] and bring to the [[Boil|boil]].\n| Reduce the heat and [[Simmer|simmer]] with the lid ajar\n| Lower the heat, partially cover the pot and cook until the [[Rice|rice]] and [[Lentils|lentils]] are cooked - about 35 minutes\n}}\n===Serving suggestions===\n\nServe hot with [[Yogurt|yogurt]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Grain and bean recipes]]\n[[Category:Indian recipes]]\n[[Category:Rice recipes]]\n[[Category:Spicy recipes]]\n[[Category:Boiled or simmered]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#rice #lentils #cuminseeds #turmericpowder #khichdirecipe #lentil #mild #whitebasmatirice #khichdi #boil #fry </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

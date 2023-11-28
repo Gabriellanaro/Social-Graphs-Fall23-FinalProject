@@ -1,0 +1,16 @@
+title": "Cuban crab cakes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cuban crab cake recipe \n|titlemode=replace\n|keywords=#breadcrumbs #cubancrabcakes #unusualrecipes #lemon #onion #egg #images #goyasazonadortotal #seafood #dried #fry \n|hashtagrev=032020\n|description=Hot, spicy crab cakes.  What could be better than this Cuban recipe?\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2376\n|PortionCalories = 594\n|DatePublished=11th August 2014\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime =  2 hours, 8 minutes\n|PrepTime =  2 hours\n|CookTime =  8 minutes\n|Image = [[Image:Cuban crab cakes recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Spicy crab</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.4</span>/5 </span>\n\n<span class=\"reviewDesc\">Make this and all you need to finish it off is a Cuban sunset!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA [[Cuban]] twist of this classic [[Seafood|seafood]] lover's recipe.\n\n{{RecipeIngredients\n\n| &#190; pound [[Crabmeat|crabmeat]]\n| 1 cup plain [[Bread crumbs|bread crumbs]]\n| &#190; cup [[Mayonnaise|mayonnaise]]\n| 1 [[Egg|egg]], beaten\n| 2 [[Cypressa green olives with pimento]], [[Minced|minced]]\n| 2 tablespoons [[Dried|dried]] [[Minced|minced]] [[Onion|onion]]\n| 1 teaspoon [[Goya Sazonador Total]]\n| [[Juice]] of one [[Lemon]]\n| [[Hot Sauce]], to taste\n| [[Salt]] and [[Pepper|pepper]], to taste\n}}\n\n===Method===\n{{RecipeMethod\n\n| Combine all ingredients except for [[Breadcrumbs|breadcrumbs]] in a large bowl and combine well.\n| Shape into balls and flatten into discs.\n| Coat well with [[Breadcrumbs|breadcrumbs]].\n| Chill for 2 hours to set\n| Heat &#188; inch [[Sunflower oil|sunflower oil]] in large pan.\n| [[Fry]] each crab-cake for 3 - 4 minutes on each side once the [[Oil|oil]] is hot.\n| Serve with [[Tropical Sun mango chilli sauce|tropical sun mango chilli sauce]], [[Baron's Green Seasoning]] or [[Baron's passion fruit sauce]].\n}}\n===Serving suggestions===\nServe with [[Tropical Sun mango chilli sauce|tropical sun mango chilli sauce]], [[Baron's Green Seasoning]] or [[Baron's passion fruit sauce]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Shellfish recipes]]\n[[Category:CubanCuisine.co.uk]]\n[[Category:Pan fried]]\n===Recipe source===\n{{Template:RecipeCourtesyOfCubanCuisine}}\n[[Category:Recipes from other sites]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#breadcrumbs #cubancrabcakes #unusualrecipes #lemon #onion #egg #images #goyasazonadortotal #seafood #dried #fry </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

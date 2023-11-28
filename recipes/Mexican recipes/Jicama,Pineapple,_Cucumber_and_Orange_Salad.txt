@@ -1,0 +1,16 @@
+title": "Jicama,Pineapple, Cucumber and Orange Salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Jicama,Pineapple, Cucumber and Orange Salad recipes\n|titlemode=replace\n|keywords=#jicamapineapplecucumberandorangesalad #jicama #lemonjuice #orange #cucumber #pineapple #snack #chilipowder \n|hashtagrev=032020\n|description=Try this easy recipe.  It's a great snack and is also great to serve at parties\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 392\n|PortionCalories = 78\n|DatePublished=22nd October 2012\n|Author=Chef\n|ImageComment= Jicama; water you can chew!\n |Servings = Serves 5\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n |Image = [[Image:Jicama,Pineapple, Cucumber and Orange Salad recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Tried this once, it was ok</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Can't find fresh jicama anymore \ud83d\ude1e</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nThis is a great [[Snack|snack]] and its also great to serve at parties.\n\n{{RecipeIngredients\n| 1 cup [[Jicama|jicama]]\n| 1 cup [[pineapple]]\n| 1 cup [[cucumber]]\n| 1 cup [[Orange|orange]] pieces\n| [[Lemon juice|lemon juice]]\n| [[Salt|salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Wash, peel and cut up into cubes [[Jicama|jicama]], [[pineapple]], [[cucumber]], and [[Orange|orange]].  Add [[Lemon juice|lemon juice]] and [[Salt|salt]] to taste.\n}}\n===Serving suggestions===\nServe on toothpicks\n===Variations===\nSprinkle with [[Chili powder|chili powder]] if desired.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Mexican recipes]]\n[[Category:Fruit recipes]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#jicamapineapplecucumberandorangesalad #jicama #lemonjuice #orange #cucumber #pineapple #snack #chilipowder </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

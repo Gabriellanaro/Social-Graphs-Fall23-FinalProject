@@ -1,0 +1,16 @@
+title": "Screwdriver (cocktail) recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Screwdriver (cocktail), a Cocktail recipe\n|titlemode=replace\n|keywords=#vodka #orangejuice #drink #highballglass \n|hashtagrev=032020\n|description=A Screwdriver (sometimes known as an Orange-Vod-Juice-Ka) is a popular highball drink made with fresh orange juice and vodka\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 142\n|PortionCalories = 142\n|DatePublished=13th November 2013\n|Author=JuliaBalbilla\n|ImageComment = Screwdriver cocktail\n |Servings = Servings: 1 - Makes 1 glass\n |Difficulty = 1\n |TotalTime = 3 minutes\n |PrepTime = 3 minutes\n |CookTime = None\n |Image = [[Image:Screwdriver cocktail.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I always wondered\u2026</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">\u2026where the name 'Screwdriver' originated from?</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nA Screwdriver (sometimes known as an ''Orange-Vod-Juice-Ka'') is a popular highball [[Drink|drink]] made with fresh [[Orange juice|orange juice]] and vodka. On rare occasion, it is referred to as \"[[Vodka]] and Orange\". While the basic drink is simply the two ingredients, there are many variations, many of these with multiple names, that can be found all over the world.\n\nThe earliest written reference to the Screwdriver is from the October 24, 1949 issue of Time:\n\"In the dimly lighted bar of the sleek Park Hotel, Turkish intelligence agents mingle with American engineers and Balkan refugees, drinking the latest Yankee concoction of [[Vodka|vodka]] and [[Orange juice|orange juice]], called a 'screwdriver'.\"\n\nThe [[Drink|drink]] reportedly got its name because American petroleum engineers in Saudi Arabia secretly added [[Vodka|vodka]] to small cans of [[Orange juice|orange juice]] and stirred the mixture with their screwdrivers.\n\n{{RecipeIngredients\n| 1.5 oz [[Vodka]]\n| 6 oz fresh [[Orange juice|orange juice]]\n\n}}\n\n===Method===\n\n{{RecipeMethod\n| Add the [[Vodka|vodka]] to an ice filled [[Highball glass|highball glass]]\n| Top up with [[Orange juice|orange juice]]\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:North American recipes]]\n[[Category:Drink and beverage recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#vodka #orangejuice #drink #highballglass </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

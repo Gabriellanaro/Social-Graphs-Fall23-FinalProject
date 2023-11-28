@@ -1,0 +1,16 @@
+title": "Cauliflower dry fry",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cauliflower dry fry, Indian recipe \n|titlemode=replace\n|keywords=#cauliflower #chillies #broccoli #cauliflowerdryfry #cumin #clarification #blackpeppercorns #coriander #dryfried #indian #turmeric \n|hashtagrev=032020\n|description=This typical Indian accompaniment is simple and quick to make and goes well with most spicy recipes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 162\n|PortionCalories = 40\n|DatePublished=24th October 2012\n|Author=Chef\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 25 minutes\n|PrepTime = 10 minutes\n|CookTime = 15 minutes\n|Image = [[Image:RecipeCauliflower-dry-fry.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Way better than I thought</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Looks boring, tastes superb.</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nThis typical [[Indian]] accompaniment is simple and quick to make and goes well with most spicy recipes.\n\n{{RecipeIngredients\n| 1 tablespoon of [[Clarification|ghee or oil]]\n| 1 large head of [[cauliflower]], broken into small florets\n| 1 teaspoon whole [[Cumin|cumin seeds]]\n| &#189; teaspoon freshly ground [[Coriander|coriander seeds]]\n| &#188; teaspoon [[turmeric]] powder\n| &#188; teaspoon [[Chillies|chili powder]]\n| &#189; [[Chillies|fresh green chili]], de-seeded and finely chopped\n| Salt and fresh ground [[Black peppercorns|black pepper]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Heat [[Clarification|ghee]] in a wok or large pan\n| When hot, add [[Cumin|cumin seeds]] and fry for a minute or two\n| Add the [[cauliflower]] florets and fry for a few minutes\n| Add remaining spices and a 2 tablespoons of water so there is enough moisture to help it cook and prevent it sticking\n| Cover and cook on a low heat until it is cooked to your liking\n}}\n===Variations===\n\nReplace cauliflower with a head of [[broccoli]].\n\nAdd some sliced red or green peppers when you add the cauliflower.\n\nIf you prefer your [[cauliflower]] or [[broccoli]] to be very well cooked rather than crispy, then boil separately for 4 minutes before stir-frying. \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Spicy recipes]]\n[[Category:Indian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Accompaniments]]\n[[Category:Vegetarian recipes]]\n[[Category:Dry fried]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cauliflower #chillies #broccoli #cauliflowerdryfry #cumin #clarification #blackpeppercorns #coriander #dryfried #indian #turmeric </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Ash key pickle",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ash key pickle, a British recipe Cooking Wiki\n|titlemode=replace\n|keywords=#boil #ashkeypickle #veganrecipes #salads #herbs #historicrecipes #picklesandpreserves #pickle #pickled #vegetarianrecipes #vegetables \n|hashtagrev=12032020\n|description=Ash key or Ashen key pickle is an ancient pickle made from the seeds of Fraxinus excelsior European Ash or Common Ash\n|datePublished=2013-01-22\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n<span class=\"review\"> <span class=\"reviewHeader\">\n===Recipe review===\n</span>\n'''<span class=\"reviewTitle\">Strange recipe</span>'''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.6</span>/5</span>\n\n<span class=\"reviewDesc\">Tried it, just for kicks.  Hmmm!</span> <span class=\"reviewAuthor\"> - [[User:TheJudge|The Judge]] </span></span>\n\n[[Image:Ash keys.jpg|thumb|300px|right|Leaves and seeds of Fraxinus excelsior]]  \n{{Template:AdvancePreparationIcon}}\nAsh key or Ashen key pickle is an ancient pickle made from the seeds of ''Fraxinus excelsior'' [European Ash or Common Ash]\nAn odd recipe that probably needs very young ash keys to guarantee a tender [[Pickle|pickle]].\n\nThis recipe comes from John Evelyn's study of [[Vegetables|vegetables]], [[Herbs|herbs]] and [[Salads|salads]]: 'Acetaria, a Discourse of Sallets, 1699'\nYou can [http://www.gutenberg.org/etext/15517 download this book] from Project Gutenberg, the free on line book resource, it is also available in Kindle format from here.\n\n===Procedure===\n\n'''Gather them young, and [[Boil|boil]] them in three or four Waters to extract the Bitterness; and when they feel tender, prepare a Syrup of sharp [[White-wine vinegar]], [[Sugar]], and a little Water. Then [[Boil|boil]] them on a very quick Fire, and they will become of a green Colour, fit to be potted so soon as cold.'''\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:British recipes]]\n[[Category:Historic recipes]]\n[[Category:Pickles and preserves]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Pickled]]\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#boil #ashkeypickle #veganrecipes #salads #herbs #historicrecipes #picklesandpreserves #pickle #pickled #vegetarianrecipes #vegetables </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

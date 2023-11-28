@@ -1,0 +1,15 @@
+ 
+
+title": "Pig's head, boiled (Mrs Beeton's)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pig's head, boiled (Mrs Beeton's) a British recipe\n|titlemode=replace\n|keywords=#saltpeter #peasepudding #unusualrecipes #simmer #boil \n|hashtagrev=032020\n|description=This is from Mrs Beetons Cookery Book\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 2192\n|PortionCalories = 274\n|DatePublished=12th April 2013\n|Author=Chef\n|Servings = Serves 8\n|Difficulty = 3\n|ImageComment = [[How to cook a pig's head|Step by step pictures here]]\n|TotalTime = 6 days, 3 hours, 30 minutes\n|PrepTime = 6 days\n|CookTime = 3 hours 30 minutes\n|Image = [[Image:Briefly.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Oink, oink!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Love the picture - do nothing by halves \ud83d\ude2c</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n[[Image:BeetonsAd.jpg|thumb|250px|right|Other publications - circa 1945]]\nThis is from Mrs Beeton's Cookery Book.  This copy was a gift, dated 1950\n\nI tried in vain but could not find a use for the left over hair, eyes, snout and brains!\n\n{{RecipeIngredients\n| 1 Pig's head\n| 1 lb common [[salt]]\n| 1 oz [[saltpeter]]\n| [[Pease pudding]]\n}}\n===Method===\n\n{{RecipeMethod\n| Scald and cleanse the head thoroughly, removing the hair, eyes, snout and brains\n| Soak in strong [[salt]] and water for about 24 hours, changing the water 2 or 3 times, then drain and dry well\n| Mix the [[salt]] and [[saltpeter]] together, run it well into every part of the head, repeat this process daily for 5 to 6 days\n| Drain the head from brine, place in a stew pan containing sufficient warm water to cover it, bring to the [[boil]] and skim well\n| [[Simmer]] gently for 3 &frac12; hours\n}}\n===Serving suggestions===\n\nServe with [[pease pudding]]\n===Warning===\n\nPlease research the risks of using [[saltpeter]] if you ever attempt this recipe!\n\n==See also==\n\n'''* How to prepare and cook a pig's head; [[How to cook a pig's head|a step by step pictorial guide]].'''\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Historic recipes]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]\n[[Category:British recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#saltpeter #peasepudding #unusualrecipes #simmer #boil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

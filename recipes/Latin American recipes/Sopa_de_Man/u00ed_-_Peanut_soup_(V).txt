@@ -1,0 +1,11 @@
+title": "Sopa_de_Man%5Cu00ed_-_Peanut_soup_(V)",
+                "invalidreason": "The requested page title contains invalid characters: \"%5C\".",
+                "invalid": ""
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

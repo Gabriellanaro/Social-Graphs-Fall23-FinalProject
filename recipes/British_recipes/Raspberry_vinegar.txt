@@ -1,0 +1,16 @@
+title": "Raspberry vinegar",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Raspberry vinegar, a fruit recipe \n|titlemode=replace\n|keywords=#raspberryvinegar #raspberries #litres #vinegar #boil #pickled #whitesugar #saladdressings #fruit #colander #sterilised \n|hashtagrev=032020\n|description=As well as being a fine fruit vinegar for sauces and salad dressings it is also good for sore throats\n}}\n<!-- /seo -->\n\n{{Template:AdvancePreparationIcon}}\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2026\n|PortionCalories = 10\n|DatePublished=12th April 2013\n|Author=Chef\n|Servings = Servings: 200 - Makes 2 [[Litres|litres]] of [[Vinegar|vinegar]]\n |Difficulty = 1\n |TotalTime = 3 days, 30 minutes\n |PrepTime = 3 days, 20 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Raspberry vinegar recipe.jpg|alt=Electus]]\n<span class=\"review\">  <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n<span class=\"reviewTitle\">Tangy</span>\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I love this in a salad dressing, just add this, salt and olive oil.</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nAs well as being a fine [[Fruit vinegar|fruit vinegar]] for [[Sauces|sauces]] and [[Salad dressings|salad dressings]] it is also good for sore throats\n\n{{RecipeIngredients\n| 2 [[Litres|litres]] [[Malt vinegar|malt vinegar]]\n| 1 kg [[White sugar|white sugar]]\n| 1.5 kg freshly picked [[raspberries]]\n\n}}\n\n===[[Mise en place]]===\n* Wash the [[raspberries]] by placing them in a [[Colander|colander]] and running cold water over them\n===Method===\n\n{{RecipeMethod\n| Put the [[raspberries]] in a large non-metallic bowl and cover with [[Vinegar|vinegar]]\n| Protect with a [[Tea-towel|tea-towel]] and leave for three days to infuse, stirring occasionally\n| Strain the liquid into a large pan, discarding the pulp (see Chef's notes below)\n| Add the [[Sugar|sugar]], bring to the [[Boil|boil]] and boil for 10 minutes\n| Bottle in [[Sterilised|sterilised]] bottles\n}}\n===Chef's notes===\nReserve the pulp for addition to [[Fruit|fruit]] [[Puddings|puddings]]. \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:British recipes]]\n[[Category:Dips and sauces]]\n[[Category:Unusual recipes]]\n[[Category:Historic recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Pickles and preserves]]\n[[Category:Fruit recipes]]\n[[Category:Pickled]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#raspberryvinegar #raspberries #litres #vinegar #boil #pickled #whitesugar #saladdressings #fruit #colander #sterilised </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

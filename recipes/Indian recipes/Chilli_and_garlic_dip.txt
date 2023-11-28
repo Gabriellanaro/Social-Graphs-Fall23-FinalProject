@@ -1,0 +1,16 @@
+title": "Chilli and garlic dip",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chilli and garlic dip, Indian recipe \n|titlemode=replace\n|keywords=#chilli #mayonnaise #chilliandgarlicdip #dip #garlic #tomato #redpepper #unusualrecipes #eggs #blender #yolks \n|hashtagrev=032020\n|description=This can be served as a dip and a sauce. It is fairly hot\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 712\n|PortionCalories = 178\n|DatePublished=3rd November 2012\n|Author = JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 2\n |TotalTime = 25 minutes\n |PrepTime = 10 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Chilli and garlic dip recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n======Best recipe review======\n</span>\n''<span class=\"reviewTitle\">Nice dip Julia</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5 </span>\n\n<span class=\"reviewDesc\">We make this regularly</span>\n \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]]</span></span>\n}}\nThis can be served as a [[Dip|dip]] and a [[Sauce|sauce]].  It is fairly hot.\n\n{{RecipeIngredients\n| 3 tablespoons [[olive oil]]\n| 1 bulb [[Garlic|garlic]], peeled and chopped\n| 1 fresh, red [[Chilli|chilli]], chopped (leave the [[Seeds|seeds]] in)\n| 1 small [[Red pepper|red pepper]], chopped\n| 1&frac12; teaspoon [[Bird's eye chilli paste|bird's eye chilli paste]]\n| 1 tablespoon [[Tomato|tomato]] pur\u00e9e\n| 6 tablespoons [[Mayonnaise|mayonnaise]]\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the [[Oil|oil]] in a small saucepan over a medium heat and [[Fry|fry]] the [[Garlic|garlic]] until it is soft.\n| Stir in the [[Chilli|chilli]] and [[Red pepper|red pepper]] and saut\u00e9 for about a minute.\n| Add the [[Chilli|chilli]] paste and the [[Tomato|tomato]] pur\u00e9e and cook for 5 minutes gently stirring constantly.\n| Remove from the heat and allow to cool.\n| Transfer the mixture to a [[Blender|blender]] and process until it is smooth.\n| Pour into an airtight container and mix in the [[Mayonnaise|mayonnaise]].\n| It will keep in the [[Fridge|fridge]] for a few days.\n}}\n===Chef's notes===\nIf you are using [[Home-made mayonnaise|homemade mayonnaise]], I find that the [[Dip|dip]] has a softer and better texture if the [[Mayonnaise|mayonnaise]] is made with whole [[Eggs|eggs]], rather that just the [[Yolks|yolks]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Dips and sauces]]\n[[Category:Garlic recipes]]\n[[Category:Indian recipes]]\n[[Category:Spicy recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Pan fried]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chilli #mayonnaise #chilliandgarlicdip #dip #garlic #tomato #redpepper #unusualrecipes #eggs #blender #yolks </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

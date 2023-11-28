@@ -1,0 +1,16 @@
+title": "Simple steamed fish",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Simple steamed fish, Fish recipe \n|titlemode=replace\n|keywords=#springonions #ginger #simplesteamedfish #coriander #tinfoil #steam #julienned #gingerroot #salsa #seabass #steamed \n|hashtagrev=032020\n|description=This recipe can be applied to most small whole fish such as bass, trout, snapper etc. Although in this example, we used ginger, you could just use the\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 815\n|PortionCalories = 203\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Sea bass, ginger and spring onions\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 20 minutes\n|PrepTime = 10 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Sea bass with ginger.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">The simple things are the best</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">And this recipe proves it!</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis recipe can be applied to most small whole fish such as bass, trout, snapper etc.  Although in this example, we used ginger, you could just use the spring onions if you need a less flavoured dish.  If you don't have spring onions, use normal onions, sliced.\n\n{{RecipeIngredients\n| 4 [[sea bass]] fillets\n| 7.5 cm (3\") [[ginger root]], peeled and [[julienned]]\n| 4 [[spring onions]] [[sliced on the diagonal]]\n| Fresh [[coriander]] to garnish\n}}\n===Method===\n\n{{RecipeMethod\n| Oil 4 sheets of [[tin foil]] (so the fish does not stick to it)\n| Sprinkle half of the [[ginger]] and [[spring onions]] on the foil\n| Season the bass with [[salt]] and [[freshly ground black pepper]]\n| Lay the fish on the [[ginger]] and [[spring onions]], then sprinkle the remaining [[ginger]] and [[spring onions]] over the top\n| Wrap the fish loosely so you have four individual parcels\n| Place the parcels in the [[steamer]] over a pan of [[boiling]] water\n| [[Steam]] for 8 minutes\n| Discard the [[ginger]] and [[spring onions]]\n| Garnish with [[coriander]] and serve with the [[salsa]]\n}}\n===Variations===\n\nInclude various herbs in the foil parcel such as fennel, parsley or dill.  Discard them before serving and add a sprinkle of the same herbs, but fresh, not soggy.\n{{Template:PeelingGinger}}\n{{RecipeLine}}\n[[Category:Recipes|Bass]]\n[[Category:Oriental cuisine|Bass]]\n[[Category:Fish recipes|Bass]]\n[[Category:Sea fish recipes]]\n[[Category:Freshwater fish recipes]]\n[[Category:Main courses|Bass]]\n[[Category:Student recipes]]\n[[Category:Steamed]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#springonions #ginger #simplesteamedfish #coriander #tinfoil #steam #julienned #gingerroot #salsa #seabass #steamed </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

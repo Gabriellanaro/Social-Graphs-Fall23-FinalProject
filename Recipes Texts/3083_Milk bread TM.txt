@@ -1,0 +1,15 @@
+ 
+
+title": "Milk bread (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Milk bread - A Thermomix recipe \n|titlemode=replace\n|keywords=#bread #thermomix #yeast #spanish #butter #mould #flour #thermomixrecipes #eggwhite #miseenplace #strongflour \n|hashtagrev=032020\n|description=A Spanish version of milk bread for Thermomix\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2167\n|PortionCalories = 216\n|DatePublished=13th November 2013\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Servings: 10 - Makes a 1kg loaf\n|Difficulty = 1\n|TotalTime = 2 hours 30 minutes \n|PrepTime = 2 hours \n|CookTime = 30 minutes \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thermy milk bread</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Still need to bake it in my special tin though</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nA [[Spanish]] version of [[Milk|milk]] [[Bread|bread]] for [[Thermomix]]\n\n{{RecipeIngredients\n| 250g [[Milk|milk]]\n| 50g [[Butter|butter]]\n| 50g [[Sugar|sugar]]\n| 30g fresh baker's [[Yeast|yeast]]\n\n| 450g [[Strong flour|strong flour]]\n| 1 teaspoon [[Salt|salt]]\n}}\n===[[Mise en place]]===\n* Preheat the [[Oven|oven]] to 200\u00b0\n\n===Method===\n{{RecipeMethod\n| Put the [[Milk|milk]], [[Butter|butter]] and the [[Sugar|sugar]] into the bowl '''2 minutes / 37\u00b0 / Speed 2'''\n| Add the [[Yeast|yeast]] and mix '''5 seconds / Speed 4'''.\n| Incorporate the [[Flour|flour]] and [[Salt|salt]] '''15 seconds / Speed 6''' and then '''3 minutes / Speed Dough'''\n| Shape the [[Dough|dough]] into the desired shape (also you can use a [[Mould|mould]]), make some slashes and glaze the surface with [[Milk|milk]].\n| Leave until double its volume\n| Put the [[Bread|bread]] in the [[Oven|oven]]\n| The cooking time depends on the size of the [[Bread|bread]], between 15-30 minutes\n| After taking out of the [[Oven|oven]], you can glaze it again with [[Milk|milk]] or [[Egg white|egg white]]\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Bread and baking]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bread #thermomix #yeast #spanish #butter #mould #flour #thermomixrecipes #eggwhite #miseenplace #strongflour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Tex Mex popcorn",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tex Mex popcorn recipe Cooking with chillies\n|titlemode=replace\n|keywords=#popcorn #texmexpopcorn #whitecumin #blackcumin #grated #cheddarcheese #unusualrecipes #chilipowder #freshlypoppedcorn #cheese #paprikapowder \n|hashtagrev=032020\n|description=Mexican style popcorn. I got the urge to try flavoured popcorn when watching a long forgotten cartoon; as mummy dragon was\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 828\n|PortionCalories = 207\n|DatePublished=21st January 2013\n|Author=Chef\n|ImageComment = Fresh popcorn\n|Servings = Serves 4 - Make 1.5 litres [[popcorn]], see [[Popcorn#Dried popping corn to popped corn|dried corn to popped corn]]\n|Difficulty = 1\n|TotalTime = 10 minutes\n|PrepTime = 5 minutes\n|CookTime = 5 minutes\n|Image = [[Image:Tex Mex popcorn recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Texy Mexy Popcorn</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">If it's Tex Mex anything, I'm in.  Love this!</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nYet another variation on the popular snack.\n\nI first got the urge to try flavoured [[popcorn]] when watching a long forgotten cartoon; as mummy dragon was about to go shopping, she warned the two baby dragons not to make [[garlic popcorn]] whilst she was gone.  Guess what I did next!\n\n{{RecipeIngredients\n| 1.5 litres warm [[freshly popped corn]]\n| 1 teaspoon ground [[chili powder]]\n| 1 teaspoon [[paprika powder]]\n| 1 teaspoon freshly ground [[white cumin]] powder\n| &#189; teaspoon freshly ground [[black cumin]] powder \n| 150 g (5 oz) grated [[cheddar cheese]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[popcorn]] in a large bowl\n| Shake the seasoning over the popcorn and mix well\n| Sprinkle the [[grated]] [[cheese]] into the bowl and mix again\n}}\n===Serving suggestions===\n\nServe hot\n{{RecipeLine}}\n[[Category:Recipes|Popcorn]]\n[[Category:Popcorn recipes|Popcorn]]\n[[Category:Spicy recipes|Popcorn]]\n[[Category:Chilli pepper recipes|Popcorn]]\n[[Category:Snacks and light bites|Pop]]\n[[Category:Tex-Mex recipes|Popcorn]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:North American recipes]]\n[[Category:Pan fried]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#popcorn #texmexpopcorn #whitecumin #blackcumin #grated #cheddarcheese #unusualrecipes #chilipowder #freshlypoppedcorn #cheese #paprikapowder </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

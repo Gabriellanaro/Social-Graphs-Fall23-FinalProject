@@ -1,0 +1,16 @@
+title": "Coronel (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Coronel - A Thermomix recipe \n|titlemode=replace\n|keywords=#vodka #cava #spain #thermomix #alcoholicdrink #champagneglasses #spanish #lemons \n|hashtagrev=032020\n|description=A refreshing, slightly alcoholic drink from Spain\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 306\n|PortionCalories = 51\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Serves 6\n|Difficulty = 1\n|TotalTime = 10 minutes \n|PrepTime = 10 minutes \n|CookTime = None \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Easy peasey</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">My Thermy wins again.</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nA refreshing, slightly [[Alcoholic drink|alcoholic drink]] from [[Spain]].  This is a translation of a recipe in '''''Thermomix TM31 \u2013 Imprescindible para tu cocina''''' which is the book supplied with Spanish TMXs.\n\n{{RecipeIngredientsTM\n| 6 peeled [[Lemons|lemons]], pith and pips removed\n| 200g [[Sugar|sugar]]\n| 2-3 trays of ice cubes\n| A dash of [[Vodka|vodka]], to taste\n| A dash of [[Cava]], to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Put the first three ingredients in the bowl.\n| Program progressively '''Speed 5-10''' [no time given].\n| Remove the '''MC''', put the spatula through the lid and move it towards the right and the left, so that the ice falls down into the blades and are crushed.\n| Pour in the [[Vodka|vodka]] and Cava, mix with the spatula and serve it in [[Champagne glasses]].\n}}\n===Chef's notes===\nThe [[Sugar|sugar]] quantity is to suit [[Spanish]] tastes and may well be too sweet for people in the English speaking world\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Fruit recipes]]\n[[Category:Cooking with wine]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#vodka #cava #spain #thermomix #alcoholicdrink #champagneglasses #spanish #lemons </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

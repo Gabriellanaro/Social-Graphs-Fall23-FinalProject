@@ -1,0 +1,16 @@
+title": "Barbecued onion rings",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Barbecued onion rings, Barbecue recipe \n|titlemode=replace\n|keywords=#barbecuedonionrings #rosemary #grilled #garlicoliveoil #barbecue #freshlygroundpepper #thyme #griddled #barbecued \n|hashtagrev=032020\n|description=A nice side dish that can be cooked alongside the meat on a barbecue\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 244\n|PortionCalories = 61\n|DatePublished=31st January 2013\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 25 minutes\n|PrepTime = 5 minutes\n|CookTime = 20 minutes\n|Image = [[Image:Barbecued onion rings.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Seven years ago!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Doesn't seem that long ago when I first made this!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Image:Barbecued onion rings ingredients.jpg|thumb|right|250px|Barbecued onion rings, the ingredients]]\nA nice side dish that can be cooked alongside the meat on a barbecue.\n\n{{RecipeIngredients\n| 500g 1 kg (1 lb) Red onions\n| Sprig fresh [[thyme]]\n| Sprig fresh [[rosemary]]\n| 2 tablespoons [[garlic olive oil]]\n| Salt and [[freshly ground pepper]] to taste\n}}\n===Method===\n{{RecipeMethod\n| Heat the [[barbecue]].  A hotplate is ideal if you have one\n| Roughly chop the herbs\n| Slice the onions 1 cm (&#189;\") rings, don't separate the rings, that will happen anyway\n| Toss the all ingredients in a bowl, coating the onions well\n| Place the onions on the barbecue and cook for 20 minutes, turning often\n| Remove any woody herbs and serve\n}}\n{{RecipeLine}}\n[[Category:Recipes|Onions]]\n[[Category:Barbecue recipes|Onions]]\n[[Category:Accompaniments|Onions]]\n[[Category:Starters|Onions]]\n[[Category:Tex-Mex recipes|Onions]]\n[[Category:Vegetable recipes|Onions]]\n[[Category:North American recipes|Onions]]\n[[Category:Grilled, griddled or barbecued]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#barbecuedonionrings #rosemary #grilled #garlicoliveoil #barbecue #freshlygroundpepper #thyme #griddled #barbecued </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

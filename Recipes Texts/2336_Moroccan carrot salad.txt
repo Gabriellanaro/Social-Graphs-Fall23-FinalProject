@@ -1,0 +1,15 @@
+ 
+
+title": "Moroccan carrot salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Moroccan carrot salad, Vegetarian recipe \n|titlemode=replace\n|keywords=#mintleaves #carrots #vinaigrette #moroccancarrotsalad #chilipowder #salad #lemon #blackcumin #oliveoil #harissalamb #boiledorsimmered \n|hashtagrev=032020\n|description=A nice colourful salad that would go well with spicy barbecues or Moroccan dishes such as Harissa lamb\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 312\n|PortionCalories = 52\n|DatePublished=25th October 2012\n|Author=JuliaBalbilla\n|ImageComment = Use those carrots!\n|Servings = Serves 6\n|Difficulty = 1\n|TotalTime = 15 minutes\n|PrepTime = 5 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Carrot and onion salad recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice with added onions</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Nice as it was, even nicer with onions</span> \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nA nice colourful [[salad]] that would go well with spicy barbecues or Moroccan dishes such as [[Harissa lamb]].\n\n{{RecipeIngredients\n| 6 [[carrots]], peeled and thinly sliced\n| &frac14; teaspoon [[chili powder]]\n| 2 teaspoons freshly ground [[white cumin]]\n| 1 teaspoon freshly ground [[black cumin]]\n| 1 tablespoon runny [[honey]]\n| 3 teaspoons [[lemon juice]]\n| [[Zest]] from &frac14; of a [[lemon]]\n| A few big glugs of [[olive oil]]\n| A handful of freshly chopped [[mint leaves]]\n| [[Salt]] and [[freshly ground black pepper]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Cook the [[carrots]] in salted [[boiling]] water until tender (about 6 minutes)\n| Add the remaining ingredients apart from the [[mint leaves]] and whisk hard so it emulsifies into a [[vinaigrette]]\n| Toss the [[carrots]] in the [[vinaigrette]], season to taste and sprinkle with [[mint leaves]]\n}}\n===Serving suggestions===\n\nServe warm or at room temperature\n{{RecipeLine}}\n[[Category:Recipes|Carrot]]\n[[Category:Accompaniments|Carrot]]\n[[Category:Moroccan recipes|Carrot]]\n[[Category:North African recipes|Carrot]]\n[[Category:Salad recipes|Carrot]]\n[[Category:Starters|Carrot]]\n[[Category:Vegetable recipes|Carrot]]\n[[Category:Vegetarian recipes|Carrot]]\n[[Category:Boiled or simmered]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mintleaves #carrots #vinaigrette #moroccancarrotsalad #chilipowder #salad #lemon #blackcumin #oliveoil #harissalamb #boiledorsimmered </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

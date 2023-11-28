@@ -1,0 +1,15 @@
+ 
+
+title": "Peanut sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Peanut sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#peanuts #onions #thermomix #garlic #griddled #chicken #sunfloweroil #tabasco #sauce #paprika #indonesianrecipes \n|hashtagrev=032020\n|description=This is a translation of a Peanut sauce recipe in Salsas y Alinos con Thermomix\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1375\n|PortionCalories = 114\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 12 - Makes 250 ml\n |Difficulty = 1\n |TotalTime = 30 minutes\n |PrepTime = 10 minutes\n |CookTime = 20 minutes\n |Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Yumm!  \ud83e\udd24</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">I can eat this all day long.</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n[[Satay]] sauce, made in your Thermie!\n\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]]'''\n\n{{RecipeIngredientsTM\n| 2 [[Onions|onions]]\n| 1 [[Clove|clove]] [[Garlic|garlic]]\n| 70g [[Sunflower oil|sunflower oil]]\n| 150g shelled [[Peanuts|peanuts]]\n| 2 teaspoons [[Curry powder|curry powder]]\n| 2 tablespoons [[Soy sauce|soy sauce]]\n| 1 teaspoon hot [[Paprika|paprika]]\n| 60g [[Coconut milk|coconut milk]]\n| A dash of [[Tabasco]]\n| [[Salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Peel and cut the [[Onions|onions]] and [[Garlic|garlic]] and place in the  bowl and chop '''12 seconds / Speed 4'''.\n| Add the [[Oil|oil]] and process '''10 minutes / 100 deg / Speed 1'''.\n| Afterwards add the [[Peanuts|peanuts]] and set for '''8 minutes / 100 deg / Speed 2'''.\n| Next, add the remaining ingredients and [[Blend|blend]] '''3 minutes / Speed 8'''.\n}}\n===Serving suggestions===\nThis [[Sauce|sauce]], inspired by the classic [[Satay sauce|satay sauce]], is served hot and is especially suited to accompany skewered, [[Griddled|griddled]] [[Chicken|chicken]] and all types of [[Roasts|roasts]]. \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Indonesian recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#peanuts #onions #thermomix #garlic #griddled #chicken #sunfloweroil #tabasco #sauce #paprika #indonesianrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,15 @@
+ 
+
+title": "Nam som prik dong",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Nam som prik dong recipe Accompaniments \n|titlemode=replace\n|keywords=#namsomprikdong #whitewinevinegar #fishdishes #vinegar #chillies #chili #thairecipes #redchillies \n|hashtagrev=032020\n|description=Nam som prik dong (Thai Vinegar with Chili)\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 12\n|PortionCalories = 12\n|DatePublished=24th December 2012\n|Author=Chef\n|ImageComment = Cafe condiments\n|Servings = Servings: 1\n|Difficulty = 1\n|TotalTime = 3 minutes\n|PrepTime = 3 minutes\n|CookTime = None\n|Image = [[Image:Chilli and vinegar.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Good with prawns</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">(or shrimp, if you're from across the pond)</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nNam som prik dong (Thai [[Vinegar]] with [[Chili]])\n\n{{RecipeIngredients\n| 1 measure sliced red Thai [[chillies]] ''to:'' 2 measures [[white wine vinegar]]\n| Good pinch of salt\n}}\n===Method===\n\n{{RecipeMethod\n| Use clean, sterilised glass jars with plastic lids, metal lids will rust\n| Add 1 measure sliced fresh [[red chillies]] to 2 measures [[white wine vinegar]]\n| Add a good pinch of [[salt]]\n| Mix well\n| Refrigerate, shaking now and then\n| Should keep for 3 months if refrigerated\n}}\n===Serving suggestions===\n\nServe with [[fish dishes]]\n==See also==\n* [[Chilli sauce|Many other chilli sauce recipes]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Pickles and preserves]]\n[[Category:Pickled]]\n[[Category:Uncooked]]\n[[Category:Thai recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#namsomprikdong #whitewinevinegar #fishdishes #vinegar #chillies #chili #thairecipes #redchillies </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

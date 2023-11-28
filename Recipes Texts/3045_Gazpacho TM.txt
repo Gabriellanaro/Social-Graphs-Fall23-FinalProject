@@ -1,0 +1,15 @@
+ 
+
+title": "Gazpacho (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Gazpacho - A Thermomix recipe \n|titlemode=replace\n|keywords=#thermomix #soup #bread #spanish #garlic #greenpepper #steaming #vegetable #onions #vinegar #cucumber \n|hashtagrev=032020\n|description=A Thermomix version of this cold soup from Andalucia\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 231\n|PortionCalories = 38\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = Serves 6 to 8\n|Difficulty = 1\n|TotalTime = 10 minutes \n|PrepTime = 10 minutes\n|CookTime = None \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Hot day, cold soup!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Spanish perfection!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nA [[Thermomix]] version of this cold [[Soup|soup]] from Andaluc\u00eda\n\n{{RecipeIngredientsTM\n| 1kg unpeeled red and vary ripe [[Tomatoes|tomatoes]]\n| 1 [[Clove|clove]] [[Garlic|garlic]]\n| 50g [[Green pepper|green pepper]]\n| 40g [[Onions|onions]]\n| 70g [[Cucumber|cucumber]], partially peeled\n| 30g [[Vinegar|vinegar]], or to taste\n| [[Salt]]\n| 50g [[Extra virgin olive oil|extra virgin olive oil]]\n| 8 ice cubes\n}}\n'''For the rest'''\n* 200g water, or to taste\n* 100g ice cubes, or to taste\n\n===Method===\n\n{{RecipeMethod\n| Put all of the ingredients, apart from the water and 100g ice cubes, into the bowl 30 seconds / Speed 5, then 3 minutes / Speed 10\n| Add the water and the ice to taste (you can strain this through the internal [[Steaming|steaming]] basket or crush for 2 minutes more / Speed 8\n| Serve with small cubes of the same [[Vegetable|vegetable]] as in the [[Soup|soup]] and cubed [[Bread|bread]]\n}}\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n===Variations===\nIf you want it thicker you can add 150g [[Bread|bread]] (preferably a day old).\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Soup and stock recipes]]\n[[Category:Starters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #soup #bread #spanish #garlic #greenpepper #steaming #vegetable #onions #vinegar #cucumber </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

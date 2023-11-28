@@ -1,0 +1,16 @@
+title": "Saganaki",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Saganaki a cheese recipe \n|titlemode=replace\n|keywords=#cheese #saganaki #frying #lemonjuice #bread #egg #oliveoil #kefalotyri #formaellacheese #kefalograviera #fetacheese \n|hashtagrev=032020\n|description=Saganaki (Greek \u03c3\u03b1\u03b3\u03b1\u03bd\u03b1\u03ba\u03b9 lit\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 999\n|PortionCalories = 249\n|DatePublished=21st January 2013\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 5 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Saganaki recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Pan-fried cheese</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Lemony and nice</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nSaganaki (Greek \u03c3\u03b1\u03b3\u03b1\u03bd\u03ac\u03ba\u03b9 lit. 'little [[Frying|frying]]-pan') is a Greek [[Appetizer|appetiser]] of [[Fried|fried]] [[Cheese|cheese]].\n\nThe [[Cheese|cheese]] used is usually [[Kefalograviera]], [[Kasseri]], [[Kefalotyri]], or [[Sheep's milk|sheep's milk]] [[Feta cheese]]. Regional variations include the use of [[Formaella cheese]] in Arachova and [[Halloumi cheese]] in Cyprus.\n\nThe [[Cheese|cheese]] is melted in a small [[Frying|frying]]-pan until it is bubbling, and generally served with [[Lemon juice|lemon juice]] and [[Pepper|pepper]]. It is eaten with [[Bread|bread]].\n\nSome of these cheeses are fairly salty so I would not add any extra [[salt]].\n\n{{RecipeIngredients\n| 350 g of Greek [[Cheese|cheese]]. ''see above''.\n| 1 [[Free range egg|free range egg]], beaten\n| 1 cup of [[Plain flour|plain flour]]\n| [[Olive oil]] for [[Frying|frying]]\n| [[Lemon juice]] to garnish if desired\n}}\n===Method===\n\n{{RecipeMethod\n| Slice the [[Cheese|cheese]], no thicker than 2 cm\n| [[Dip]] the [[Cheese|cheese]] in the [[Egg|egg]] mix so it is well coated and then dredge in the [[Flour|flour]] to coat\n| Heat the [[Olive oil|olive oil]] in a [[Frying pan|frying pan]] then add the [[Cheese|cheese]] slices, just a few at a time.\n| [[Fry]] for about 2 minutes a side so the [[Egg|egg]] is cooked and the [[Cheese|cheese]] nice and soft.\n}}\n===Serving suggestions===\nServe with fresh [[Bread|bread]] and [[Lemon juice|lemon juice]] if desired.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cheese recipes]]\n[[Category:Greek recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Vegetarian recipes]]\n[[Category:Pan fried]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cheese #saganaki #frying #lemonjuice #bread #egg #oliveoil #kefalotyri #formaellacheese #kefalograviera #fetacheese </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Mint and onion chutney",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mint and onion chutney, Indian recipe \n|titlemode=replace\n|keywords=#clarification #mintandonionchutney #mint #chillies #lemon #onion #foodprocessor #panfried \n|hashtagrev=032020\n|description=A tasty chutney that's extremely easy to prepare and cook\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 341\n|PortionCalories = 170\n|DatePublished=31st January 2013\n|Author=Chef\n|Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 5 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Mint sauce recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n======Best recipe review======\n</span>\n''<span class=\"reviewTitle\">Need to make this beforehand</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">Very nice with a curry</span>\n \n<span class=\"reviewAuthor\"> - [[User:Chef|Jerry]]</span></span>\n}}\nA tasty chutney that's extremely easy to prepare and cook.\n\n{{RecipeIngredients\n| 2 tablespoons [[Clarification|ghee]] or oil\n| 1 large [[onion]]\n| 2 tablespoons chopped fresh [[mint]] (to taste)\n| 1 tablespoon [[lemon]] or lime juice\n| 1 teaspoon of [[sugar]] (demerara preferred)\n| 1 [[Chillies|fresh green chili]], de-seeded and finely chopped\n| [[Salt]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Heat [[Clarification|ghee]] in a wok or large pan over a medium heat and fry onions until soft. Don't brown, allow to cool\n| Put all ingredients in a [[Food processor|blender]] and blend until smooth\n| Serve cold\n}}\n===Serving suggestions===\nServe chilled\n\nIf refrigerated in an airtight container it will keep for about a week.\n{{RecipeLine}}\n[[Category:Recipes]][[Category:Indian recipes]][[Category:Dips and sauces]][[Category:Accompaniments]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#clarification #mintandonionchutney #mint #chillies #lemon #onion #foodprocessor #panfried </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

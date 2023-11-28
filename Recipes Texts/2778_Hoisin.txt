@@ -1,0 +1,15 @@
+ 
+
+title": "Hoisin",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Hoisin recipe Accompaniments \n|titlemode=replace\n|keywords=#hoisin #sesameoil #ricewine #vinegar #chili #refrigerator #flour \n|hashtagrev=032020\n|description=Although you can but hoisin sauce cheaply from Chinese or ethnic outlets, it's fun and easy to make\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 162\n|PortionCalories = 40\n|DatePublished=29th May 2012\n|Author=Chef\n|ImageComment = Commercially made hoisin sauce\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 10 minutes\n|PrepTime = 10 minutes\n|CookTime = None\n|Image = [[Image:Hoisin sauce recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Pretty close.</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">Nearly as nice as the commercial stuff.</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nAlthough you can but hoisin sauce cheaply from Chinese or ethnic outlets, it's fun and easy to make.\n\n{{RecipeIngredients\n| 3 tablespoons crushed yellow bean sauce\n| 1 tablespoon plain [[flour]]\n| 1 tablespoon [[sugar]]\n| 2 tablespoons cider or white wine [[vinegar]]\n| 1 teaspoon [[chili]] sauce\n| 1 tablespoon [[sesame oil]]\n| 1 [[clove garlic, crushed]]\n| 2 tablespoons [[rice wine]] or sherry\n}}\n===Method===\n\n{{RecipeMethod\n| Place all of the ingredients together in a bowl and whisk until mixed.\n}}\n===Serving suggestions===\n\nCan be stored in a [[refrigerator]] until required\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#hoisin #sesameoil #ricewine #vinegar #chili #refrigerator #flour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

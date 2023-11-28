@@ -1,0 +1,16 @@
+title": "Ensalada Sevillana",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ensalada Sevillana, Spanish recipe \n|titlemode=replace\n|keywords=#ensaladasevillana #rice #redpeppers #salad #oliveoil #vegetables #garlic #diced #vinegar #whitewinevinegar #peppers \n|hashtagrev=032020\n|description=A rice salad from Sevilla\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 492\n|PortionCalories = 123\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = None\n|Image = [[Image:Ensalada Sevillana recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice with the rice</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.23</span>/5</span>\n\n<span class=\"reviewDesc\">An unusual dish, a nice salad with rice.</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nA [[Rice|rice]] [[Salad|salad]] from Sevilla.\n\n{{RecipeIngredients\n| 100 g cooked long grain [[Rice|rice]], cold \n| 1-2 [[Red peppers|red peppers]], depending on size, [[Diced|diced]]\n| 3 small [[Onions|onions]], finely sliced\n| 4 [[Tomatoes|tomatoes]], cut into quarters or eighths\n| 100 g [[Green olives|green olives]]\n| [[Garlic, crushed]] and [[Salt|salt]], to taste\n| 60 ml [[Olive oil|olive oil]]\n| 15 ml [[White wine vinegar|white wine vinegar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Arrange the [[Rice|rice]] on the bottom of a serving dish and sprinkle the [[Vegetables|vegetables]] over it.\n| Make a dressing with [[Oil|oil]], [[Vinegar|vinegar]], [[Garlic|garlic]] and [[Salt|salt]] and pour over the [[Salad|salad]].\n}}\n===Variations===\nYou can use canned or preserved in jars [[Peppers|peppers]] if you wish. I used [[red peppers|red]] and [[green peppers]] and mixed the [[rice]] with the [[vegetables]].\n\nIf you want to mellow the crushed [[garlic]], [[fry]] it in [[olive oil]] for 2 or 3 minutes, then allow it to cool before adding to the dressing.\n{{RecipeLine}}\n[[Category:Recipes|Ensalada sevillana]]\n[[Category:Accompaniments|Ensalada sevillana]]\n[[Category:Garlic recipes|Ensalada sevillana]]\n[[Category:Rice recipes|Ensalada sevillana]]\n[[Category:Salad recipes|Ensalada sevillana]]\n[[Category:Snacks and light bites|Ensalada sevillana]]\n[[Category:Spanish recipes|Ensalada sevillana]]\n[[Category:Starters|Ensalada sevillana]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes|Ensalada sevillana]]\n[[Category:Vegetarian recipes|Ensalada sevillana]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#ensaladasevillana #rice #redpeppers #salad #oliveoil #vegetables #garlic #diced #vinegar #whitewinevinegar #peppers </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

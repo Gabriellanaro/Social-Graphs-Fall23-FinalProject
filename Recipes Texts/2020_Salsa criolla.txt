@@ -1,0 +1,15 @@
+ 
+
+title": "Salsa criolla",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Salsa criolla recipe Cooking with chillies\n|titlemode=replace\n|keywords=#salsacriolla #clingfilm #redonions #coriander #whitewinevinegar #onions #limejuice #refrigerator #salsa #onion #marinate \n|hashtagrev=032020\n|description=This Peruvian salsa is a perfect accompaniment to numerous main courses\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 104\n|PortionCalories = 26\n|DatePublished=29th May 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 45 minutes incl chilling time\n |PrepTime = 45 minutes\n |CookTime = None\n|Image = [[Image:Salsa criolla.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">One of my favourite salads</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">I like to add grated carrot to this.</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis Peruvian [[Salsa|salsa]] is a perfect [[Accompaniment|accompaniment]] to numerous main courses.\n\n{{RecipeIngredients\n| 2 [[Red onions|red onions]], sliced in very thin half moons\n| 1-2 [[Aj\u00ed pepper|aj\u00ed amarillo chillies]], sliced into very thin strips\n| 1 tablespoon [[Coriander|coriander]], finely chopped\n| 1 tablespoon [[Lime juice|lime juice]]\n| 1 tablespoon [[White wine vinegar|white wine vinegar]]\n| [[Salt]] and [[Pepper|pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Soak the [[Onions|onions]] in [[Salt|salt]] water for 10 minutes. \n| Drain and allow dry.\n| Mix [[Onion|onion]] with the rest of the ingredients. \n| Cover with [[Cling film|cling film]] and allow to [[Marinate|marinate]] at room temperature for 30 minutes before serving.\n| It will keep in the [[Refrigerator|refrigerator]] for up to 2 days.\n}}\n{{RecipeLine}}\n[[Category:Recipes|Salsa criolla]]\n[[Category:Accompaniments|Salsa criolla]]\n[[Category:Chilli pepper recipes|Salsa criolla]]\n[[Category:Dips and sauces|Salsa criolla]]\n[[Category:Latin American recipes|Salsa criolla]]\n[[Category:Peruvian recipes|Salsa criolla]]\n[[Category:Spicy recipes|Salsa criolla]]\n[[Category:Vegetable recipes|Salsa criolla]]\n[[Category:Vegetarian recipes|Salsa criolla]]\n[[Category:Vegan recipes]]\n\n[[Category:Uncooked]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#salsacriolla #clingfilm #redonions #coriander #whitewinevinegar #onions #limejuice #refrigerator #salsa #onion #marinate </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

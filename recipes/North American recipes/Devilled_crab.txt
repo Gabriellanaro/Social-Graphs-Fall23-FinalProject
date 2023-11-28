@@ -1,0 +1,16 @@
+title": "Devilled crab",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Devilled crab, Indian recipe \n|titlemode=replace\n|keywords=#breadcrumbs #devilledcrab #bake #chilipowder #anchovypaste #almonds #baking #lemon #miseenplace #crab #worcestershiresauce \n|hashtagrev=032020\n|description=This would make a good breakfast dish for the morning after, a spicy starter or even a light lunch\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1248\n|PortionCalories = 312\n|DatePublished=3rd November 2012\n|Author=Chef\n|ImageComment = Freshly cooked crabs\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 30 minutes\n|PrepTime = 15 minutes\n|CookTime = 15 minutes\n|Image = [[Image:Cooked crabs.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">This Rocks</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Lovely recipe, thanks!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nThis would make a good breakfast dish for the morning after, a spicy starter or even a light lunch.  Adapted from the 1894 book ''Memsahibs's book of Cookery''\n\n{{RecipeIngredients\n| 1 lb cooked [[Crab|crabmeat]]\n| 2 tablespoons melted [[butter]]\n| Juice of 1 [[lemon]]\n| 1 tablespoon [[Worcestershire sauce]]\n| &#189; teaspoon [[chili powder]]\n| &#189; teaspoon [[anchovy paste]]\n| [[Breadcrumbs]] from 3 slices stale bread, crusts removed\n| 3 tablespoons flaked almonds\n\n}}\n\n===[[Mise en place]]===\n* Preheat the oven to 450\u00b0 F (230\u00b0 C - Gas 8 - Hot)\n\n===Method===\n\n{{RecipeMethod\n| Mix everything together but the breadcrumbs and almonds, add to a buttered [[baking]] dish\n| Mix the [[breadcrumbs]] and [[almonds]] together and sprinkle the over the top\n| [[Bake]] until the [[breadcrumbs]] are golden\n}}\n===Serving suggestions===\n\nServe hot with fresh [[parsley]]\n{{RecipeLine}}\n[[Category:Recipes|Crab]]\n[[Category:Chilli pepper recipes|Crab]]\n[[Category:Fish recipes|Crab]]\n[[Category:Shellfish recipes|Crab]]\n[[Category:Historic recipes|Crab]]\n[[Category:Indian recipes|Crab]]\n[[Category:Main courses|Crab]]\n[[Category:Spicy recipes|Crab]]\n[[Category:Starters|Crab]]\n[[Category:Snacks and light bites|Crab]]\n[[Category:Tex-Mex recipes|Crab]]\n[[Category:North American recipes|Crab]]\n[[Category:British recipes|Crab]]\n[[Category:Breakfast recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#breadcrumbs #devilledcrab #bake #chilipowder #anchovypaste #almonds #baking #lemon #miseenplace #crab #worcestershiresauce </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

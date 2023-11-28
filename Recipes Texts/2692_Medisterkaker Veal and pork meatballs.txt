@@ -1,0 +1,15 @@
+ 
+
+title": "Medisterkaker (Veal and pork meatballs)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Medisterkaker (Veal and pork meatballs) recipe\n|titlemode=replace\n|keywords=#biscuit #butter #refrigerate #pork #norway #frying #meatballs #applesauce #prunes #panfriedmeatballs #scandinavia \n|hashtagrev=032020\n|description=Meatballs are popular throughout Scandinavia and this version comes from Norway\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=4th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 8\n|Difficulty = 1\n|TotalTime =  20 minutes\n|PrepTime =  10 minutes\n|CookTime =  10 minutes\n|TotalCalories = 1857\n|PortionCalories = 232 \n|Image = [[Image:Medisterkaker (Veal and pork meatballs).jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Meatballs and sprouts!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.6</span>/5</span>\n\n<span class=\"reviewDesc\">That's a new one on me!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n[[Meatballs]] are popular throughout [[Scandinavia]] and this version comes from [[Norway]]\n{{RecipeIngredients\n\n| 225g [[Veal|veal]], [[Minced|minced]]\n| 450g lean [[Pork|pork]], [[Minced|minced]]\n| [[Salt]] and [[Pepper|pepper]]\n| 2 tablespoons dry [[Biscuit|biscuit]] crumbs\n| 230ml [[Milk|milk]]\n| [[Butter]] for [[Frying|frying]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Mix the [[Minced|minced]] [[Meats|meats]] with the seasoning and [[Biscuit|biscuit]] crumbs\n| Stir in the [[Milk|milk]], a little at a time\n| Form into small balls and [[Refrigerate|refrigerate]] for about an hour to firm up\n| Cook in the [[Butter|butter]] until [[Brown|brown]], shaking the pan so that the balls remain round\n}}\n===Serving suggestions===\nServe with cooked [[Prunes|prunes]], [[Apple sauce|apple sauce]] and [[Cabbage|cabbage]]\n{{RecipeLine}}\n[[Category:Recipes|Meatballs]]\n[[Category:Norwegian recipes|Meatballs]]\n[[Category:Main courses|Meatballs]]\n[[Category:Meat recipes|Meatballs]]\n[[Category:Pork recipes|Meatballs]]\n[[Category:Veal recipes|Meatballs]]\n[[Category:Pan fried|Meatballs]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#biscuit #butter #refrigerate #pork #norway #frying #meatballs #applesauce #prunes #panfriedmeatballs #scandinavia </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

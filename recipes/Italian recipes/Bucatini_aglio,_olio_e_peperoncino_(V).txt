@@ -1,0 +1,16 @@
+title": "Bucatini aglio, olio e peperoncino (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bucatini aglio, olio e peperoncino an Italian vegetarian recipe\n|titlemode=replace\n|keywords=#pasta #garlic #chilliflakes #chilli #spaghetti #parsley #boiling #oliveoil #salted #panfried #chives \n|hashtagrev=032020\n|description=Normally made with spaghetti, this simple garlic pasta vegetarian recipe is delicious and easy\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1295\n|PortionCalories = 323\n|DatePublished=25th October 2012\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 20 minutes\n |PrepTime = 5 minutes\n |CookTime = 15 minutes\n |Image = [[Image:Bucatini aglio, olio e peperoncino recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Garlic spaghetti</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Perfect!</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nNormally made with [[Spaghetti|spaghetti]], this simple dish is [[Pasta|pasta]] with [[Garlic|garlic]], [[Oil|oil]] and [[Chilli|chilli]].  For a change I use bucatini - a long, thick, tubed spaghetti.\n\nApart from the [[Pasta|pasta]], you can use as much or as little of the ingredients as you like.\n\n{{RecipeIngredients\n| 350g bucatini or [[Spaghetti|spaghetti]]\n| [[Olive oil]], to taste\n| [[Garlic]] to taste, finely chopped\n| [[Chilli flakes]], to taste\n| [[Flat-leaved parsley]], finely chopped, to garnish\n}}\n===Method===\n\n{{RecipeMethod\n| In a large pan of lightly [[Salted|salted]] [[Boiling|boiling]] water, cook the [[Pasta|pasta]] according to the packet instructions.\n| Meamwhile, heat the [[Oil|oil]] to medium in a small [[Frying pan|frying pan]] and stir in the [[Garlic|garlic]] and [[Chilli flakes|chilli flakes]].\n| Cook until the [[Garlic|garlic]] is golden.\n| When the [[Pasta|pasta]] is cooked, drain and transfer to a serving dish.\n| Pour the [[Garlic|garlic]] and [[Chilli|chilli]] mixture, with the [[Oil|oil]] over the [[Pasta|pasta]] and toss lightly.\n| Sprinkle with the chopped [[Parsley|parsley]] and serve immediately.\n}}\n===Variations===\nI used [[Chives|chives]] instead of [[Parsley|parsley]].  Any type of long [[Pasta|pasta]] would work well.\n\n{{Template:YoutubePastaDough}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Italian recipes]]\n[[Category:Main courses]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Garlic recipes]]\n[[Category:Pasta recipes]]\n[[Category:Boiled or simmered]][[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pasta #garlic #chilliflakes #chilli #spaghetti #parsley #boiling #oliveoil #salted #panfried #chives </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

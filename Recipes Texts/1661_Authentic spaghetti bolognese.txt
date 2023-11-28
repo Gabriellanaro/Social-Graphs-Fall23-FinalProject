@@ -1,0 +1,15 @@
+ 
+
+title": "Authentic spaghetti bolognese",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[ Tagliatelle al Rag\u00f9 alla Bolognese]]\n\n[[Category:Recipes|Spaghetti bolognese]]\n[[Category:Italian recipes|Spaghetti bolognese]]\n[[Category:Historic recipes|Spaghetti bolognese]]\n[[Category:Main courses|Spaghetti bolognese]]\n[[Category:Beef recipes|Spaghetti bolognese]]\n[[Category:Meat recipes|Spaghetti bolognese]]\n[[Category:Pasta recipes|Spaghetti bolognese]]\n[[Category:Pan fried|Spaghetti bolognese]]\n[[Category:Boiled or simmered|Spaghetti bolognese]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

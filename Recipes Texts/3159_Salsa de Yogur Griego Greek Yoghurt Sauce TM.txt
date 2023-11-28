@@ -1,0 +1,15 @@
+ 
+
+title": "Salsa de Yogur Griego (Greek Yoghurt Sauce) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Salsa de Yogur Griego Greek Yoghurt Sauce)  Spanish recipe\n|titlemode=replace\n|keywords=#mustard #tabasco #parsley #chives #thermomix #vegetables #steamed #blend #greekyogurt #sauce #tarragon \n|hashtagrev=032020\n|description=This Greek Yoghurt Sauce recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 86\n|PortionCalories = 21\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 4 - Makes 125 ml\n |Difficulty = 1\n |TotalTime = 8 minutes\n |PrepTime = 2 minutes\n |CookTime = 6 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">More sauce in my Thermie</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Perfect!</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 125g [[Greek yogurt]]\n| 1 tablespoon [[Mustard|mustard]]\n| 1 teaspoon chopped [[Parsley|parsley]]\n| 1 teaspoon chopped [[Chives|chives]]\n| A dash of [[Tabasco]]\n| [[Salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Add the [[Yoghurt|yogurt]], [[Mustard|mustard]], [[Parsley|parsley]], [[Chives|chives]] and [[Tabasco]].\n| Add [[Salt|salt]] to taste and [[Blend|blend]] '''5 seconds / Speed 6'''.\n| Next, program '''6 minutes / 60\u00b0 / Speed 4'''.\n| Serve warm.\n}}\n===Serving suggestions===\nThis [[Sauce|sauce]] is very versatile; it works very well with [[Meat|meat]], [[Fish|fish]] and [[Vegetables|vegetables]].  For serving with raw [[Vegetables|vegetables]] you can add 2 or 3 tbsps [[Whipped cream|whipped cream]] and a little more [[Salt|salt]].  For [[Boiled|boiled]] or [[Steamed|steamed]] vegetables you can add [[Mayonnaise|mayonnaise]] and various [[Herbs|herbs]] and [[Spices|spices]] to it such as [[Tarragon|tarragon]], [[Rosemary|rosemary]] or [[Coriander|coriander]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Spicy recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mustard #tabasco #parsley #chives #thermomix #vegetables #steamed #blend #greekyogurt #sauce #tarragon </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

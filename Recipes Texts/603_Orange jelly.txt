@@ -1,0 +1,15 @@
+ 
+
+title": "Orange jelly",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Vegan orange jelly agar-agar recipe \n|titlemode=replace\n|keywords=#agar #orangejuice #boil #orangejelly #orange #bakingtray #boiledorsimmered #vegan #fridge #juice \n|hashtagrev=032020\n|description=This is a simple recipe for homemade vegan jelly produced from orange (or any other) juice and agar-agar\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 162\n|PortionCalories = 27\n|DatePublished=10th August 2014\n|Author=Chef\n|ImageComment = \n|Servings = Serves 6 - Makes about 350ml\n|Difficulty = 1\n|TotalTime =  25 minutes\n|PrepTime =  20 minutes\n|CookTime =  5 minutes\n|Image = [[Image:Orange jolly.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Worked with lemon</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">As suggested, I tried with 300 ml of lemon juice from Morrisons and it worked perfectly.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n{{Template:WorkInProgress}}\nThis is a simple recipe for home made [[Vegan|vegan]] jelly produced from [[Orange|orange]] (or any other) [[Juice|juice]] and [[Agar|agar]]-[[Agar|agar]].\n\n{{RecipeIngredients\n\n| 360ml [[orange juice]]\n| 4g [[Agar|agar]]-[[Agar|agar]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Mix the [[Orange juice|orange juice]] and [[Agar|agar]]-[[Agar|agar]] in a small saucepan and bring to the [[Boil|boil]].\n| [[Boil]] for 2 minutes, stirring from time to time to dissolve the [[Agar|agar]]-[[Agar|agar]].\n| Remove from the heat and leave for 5 minutes.\n| Pour into a lined rectangular [[Baking tray|baking tray]] and leave to set in the [[Fridge|fridge]] for 10 minutes.\n| Using a palette knife, remove the jelly from the tray and cut into rectangles.\n}}\n===Serving suggestions===\nUse the rectangles as a base for sweet and savoury canap\u00e9s.\n===Chef's notes===\nIf you want to make a deeper jelly, it will need longer than 10 minutes to set.\n===Variations===\nTry this recipe with a variety of different fruit juices.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Sweets and desserts]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Fruit recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#agar #orangejuice #boil #orangejelly #orange #bakingtray #boiledorsimmered #vegan #fridge #juice </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,15 @@
+ 
+
+title": "White wine and onion gravy",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=White wine and onion gravy, British recipe\n|titlemode=replace\n|keywords=#bayleaves #whitewineandoniongravy #onions #flour #vegetarian #whitewine #panfried #gravyrecipes #gravy #garlic #drywhitewine \n|hashtagrev=032020\n|description=A vegetarian onion gravy that uses white wine\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 594\n|PortionCalories = 148\n|DatePublished=17th January 2013\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 25 minutes\n |PrepTime = 5 minutes\n |CookTime = 20 minutes\n |Image = [[Image:White wine and onion gravy recipe.jpg|alt=Electus]]\n}}\n\nA [[Vegetarian|vegetarian]] [[Onion gravy|onion gravy]] that uses [[White wine|white wine]].\n\n{{RecipeIngredients\n| 2 tablespoons [[Olive oil|olive oil]]\n| 2 [[Onions|onions]], peeled and finely sliced\n| 2 [[Cloves garlic, peeled and crushed|cloves garlic, peeled and crushed]]\n| 8g [[Sugar|sugar]]\n| 1.5 tablespoons [[Plain flour|plain flour]]\n| 250 ml [[Dry white wine|dry white wine]]\n| 500 ml [[Vegetable Stock|vegetable stock]]\n| 2 [[Bay leaves|bay leaves]]\n}}\n===Method===\n\n{{RecipeMethod\n| Heat the [[Oil|oil]] in a medium pan, add the [[Onions|onions]] and saut\u00e9 over a medium heat for 7 minutes or until softened.\n| Add the [[Garlic|garlic]] and [[Sugar|sugar]] and heat for a further few minutes.\n| Stir in the [[Flour|flour]] and cook for a minute or two until combined.\n| Turn up the heat, add the [[Wine|wine]] and stir constantly for a few minutes with a whisk.\n| Add the [[Bay leaves|bay leaves]] and the [[Stock|stock]] and heat for a further 5 minutes or until it reached your desired consistency.\n| Remove the [[Bay leaves|bay leaves]] and serve in a [[Gravy|gravy]] boat.\n}}\n==See also==\n* Many other [[gravy recipes]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Stacy will love this</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5 </span>\n\n<span class=\"reviewDesc\">Veggy gravy - I know lots of people who will love this.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bayleaves #whitewineandoniongravy #onions #flour #vegetarian #whitewine #panfried #gravyrecipes #gravy #garlic #drywhitewine </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

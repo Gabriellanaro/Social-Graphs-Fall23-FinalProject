@@ -1,0 +1,16 @@
+title": "Mojo Roast Pork",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mojo Roast Pork; a  recipe\n|titlemode=replace\n|keywords=#marinade #goyamojomarinade #roasting #mojoroastpork #cuban #degrees #basting #miseenplace #pork #rest #porkloin \n|hashtagrev=032020\n|description=A cuban classic with the best marinade in Miami, goya mojo marinade.\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2000\n|PortionCalories = 333\n|DatePublished=14th June 2015\n|Author = JuliaBalbilla\n|ImageComment = \n|Servings = Serves 6\n|Difficulty = 2\n|TotalTime =  5 hours\n|PrepTime =  4 hours\n|CookTime =  1 hour\n|Image = [[Image:Mojo Roast Pork recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Hard to find</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5 </span>\n\n<span class=\"reviewDesc\">Taste Sensation marinades are nicer and easier to find</span>\n \n<span class=\"reviewAuthor\"> [[User:Chef|Jerry, aka Chef]])</span></span>\n}}\nA [[Cuban]] classic with the best [[Marinade|marinade]] in Miami, [[Goya mojo marinade]].\n{{RecipeIngredients\n\n| 1 [[Pork loin]]\n| 1 bottle [[Goya Mojo Marinade]]\n}}\n\n===[[Mise en place]]===\n\n* Preheat the [[Oven|oven]] to 220\u00b0 C (425\u00b0 F - gas 7), [fan oven 200\u00b0 C & reduce cooking time by 10 mins per hour]\n===Method===\n{{RecipeMethod\n\n| Just sit the loin in the [[Marinade|marinade]] for 4 hours...or overnight before [[Roasting|roasting]].\n| Remove the [[Pork|pork]] from the [[Refrigerator|refrigerator]] 30 minutes before [[Roasting|roasting]].\n| Season the pork with [[Salt|salt]] and [[Pepper|pepper]] and cook for 30 minutes.\n| Reduce the heat to 189 [[Degrees|degrees]] C and continue roasting, [[Basting|basting]] with the [[Marinade|marinade]] during the last 30 minutes of roasting until golden [[Brown|brown]] and an instant-read [[Thermometer|thermometer]] inserted into the center reaches 66 degrees C.\n|Remove from the [[Oven|oven]], [[Baste|baste]] with any remaining glaze, tent loosely and let [[Rest|rest]] 15 minutes before slicing.\n}}\n\n[[Category:Recipes]]\n{{RecipeLine}}\n[[Category:Cuban recipes]]\n[[Category:Main courses]]\n[[Category:Spicy recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Garlic recipes]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]\n[[Category:Baked or roasted]]\n===Recipe source===\n{{Template:RecipeCourtesyOfCubanCuisine}}\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#marinade #goyamojomarinade #roasting #mojoroastpork #cuban #degrees #basting #miseenplace #pork #rest #porkloin </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

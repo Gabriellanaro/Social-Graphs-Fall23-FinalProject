@@ -1,0 +1,15 @@
+ 
+
+title": "Tartare sauce (Mrs Beeton's)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Tartare sauce (Mrs Beeton's) a British recipe\n|titlemode=replace\n|keywords=#mayonnaise #capers #onion #shallot #garlicmayonnaiserecipes #grilled #quicktartaresauce #gherkin \n|hashtagrev=032020\n|description=Ideal for fried and grilled fish, certain meats and salads\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 969\n|PortionCalories = 242\n|DatePublished=21st September 2012\n|Author=Chef\n|ImageComment = Other publications - circa 1945\n|Servings = Serves 4 \n|Difficulty = 1\n|TotalTime = 3 minutes\n|PrepTime = 3 minutes\n|CookTime = None\n|Image = [[Image:BeetonsAd.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">An unchanged recipe</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">This recipe is the same now, as it was then.  No need to improve on what works!</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nIdeal for fried and [[grilled]] fish, certain meats and salads.\n\n{{RecipeIngredients\n| 142 ml (5 fl oz - &frac14; pint) [[mayonnaise]]\n| 1 tablespoon chopped gherkin or [[capers]]\n| &#189; teaspoon finely chopped [[shallot]] (or [[onion]])\n}}\n===Method===\n\n{{RecipeMethod\n| Stir the chopped [[gherkin]] or [[capers]] into the [[mayonnaise]]\n}}\n===Serving suggestions===\n\nChill and use as required\n\n==See also==\n* [[Quick tartare sauce]]\n* [[Tartare Sauce (TM)]]\n* [[Tartare sauce 2 (TM)]]\n* A huge variety of [[Garlic mayonnaise recipes|different mayonnaise recipes]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Historic recipes]]\n[[Category:British recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mayonnaise #capers #onion #shallot #garlicmayonnaiserecipes #grilled #quicktartaresauce #gherkin </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

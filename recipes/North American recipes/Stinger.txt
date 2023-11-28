@@ -1,0 +1,16 @@
+title": "Stinger",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Stinger, French recipe \n|titlemode=replace\n|keywords=#stinger #brandy #mint #vodka #cocktailglass #bourbon #spirit #whiskey #glass \n|hashtagrev=032020\n|description=A stinger is a Duo cocktail made by adding creme de menthe to a spirit. The classic recipe is based on brandy and white creme de menthe, shaken and\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = \n|PortionCalories = \n|DatePublished=20th February 2014\n|Author=Chef\n|ImageComment = \n|Servings = 1\n|Difficulty = 1\n|TotalTime =  2 minutes\n|PrepTime =  2 minutes\n|CookTime = None\n|TotalCalories = 235\n|PortionCalories = 235\n|Image = [[Image:Stinger recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Meh!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">2</span>/5</span>\n\n<span class=\"reviewDesc\">QRather have a beer, anytime.</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA stinger is a Duo cocktail made by adding cr\u00e8me de menthe to a [[Spirit|spirit]].\n\nThe classic recipe is based on [[Brandy|brandy]] and white cr\u00e8me de menthe, shaken and served in a [[Cocktail glass|cocktail glass]].\n\n{{RecipeIngredients\n\n| 2 ounces [[Brandy|brandy]]\n| 1 ounce white cr\u00e8me de menthe\n| Fresh sprigs of [[Mint|mint]]\n}}\n\n\n===Method===\n{{RecipeMethod\n\n| Stir with ice.\n| Strain into a [[Cocktail glass|cocktail glass]].\n\n}}\n===Serving suggestions===\nGarnish with a sprig of [[mint]]\n\nServe with a [[Glass|glass]] of water.\n===Recipe source===\n\n* http://www.drinkboy.com/Cocktails/Recipe.aspx?itemid=154\n===Variations===\nMixing [[Brandy|brandy]] with green cr\u00e8me de menthe, in place of white, yields a Green Hornet.\n\nA \"[[Vodka|vodka]] stinger\" uses [[Vodka|vodka]] instead of [[Brandy|brandy]].\n\nThe Kremlin Colonel is made with fresh [[Mint|mint]] instead of cr\u00e8me de menthe, making it similar to a [[Mint|mint]] julep using [[Vodka|vodka]] in place of [[Bourbon|bourbon]] [[Whiskey|whiskey]].\n==See also==\n\n* http://en.wikipedia.org/wiki/Stinger_(cocktail)\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:French recipes]]\n[[Category:North American recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Alcoholic beverages]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#stinger #brandy #mint #vodka #cocktailglass #bourbon #spirit #whiskey #glass </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

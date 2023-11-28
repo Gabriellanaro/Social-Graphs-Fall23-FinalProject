@@ -1,0 +1,15 @@
+ 
+
+title": "Carrot and avocado salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Carrot and avocado salad a vegetarian recipe\n|titlemode=replace\n|keywords=#carrotandavocadosalad #carrots #avocado #roasted #almonds #grated #balsamicvinegar #wholegrainmustard \n|hashtagrev=032020\n|description=An interesting salad which is a variation of a salad used in Claire Sweeney's Harissa Chicken\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 554\n|PortionCalories = 277\n|DatePublished=11th February 2013\n|Author=JuliaBalbilla\n|Servings = Serves 2\n |Difficulty = 2\n |TotalTime = 10 minutes\n |PrepTime = 10 minutes\n |CookTime = none\n |Image = [[Image:Carrot and avocado salad recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Odd mixture</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">I can see almonds in this too, which I like</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nAn interesting salad which is a variation of a salad used in [[Claire Sweeney's Harissa Chicken]].\n\n{{RecipeIngredients\n| 1 [[Avocado|avocado]], sliced \n| 2 [[Carrots|carrots]], peeled and [[Grated|grated]] \n| 1 red onion, thinly sliced\n| a handful of [[Roasted|roasted]] [[Almonds|almonds]] \n| 1 tablespoon [[Balsamic vinegar|balsamic vinegar]] \n| 2 tablespoons [[Extra virgin olive oil|extra virgin olive oil]] \n| 1 tablespoon [[wholegrain mustard]] \n}}\n===Method===\n\n{{RecipeMethod\n| Mix the vinegar, olive oil and mustard together to make a dressing.\n| Combine the [[Carrots|carrots]] and the [[Avocado|avocado]], and drizzle with the dressing\n| Top with the toasted almond flakes and serve immediately\n}}\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:North African recipes]]\n[[Category:Salad recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Accompaniments]]\n[[Category:Toasted]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#carrotandavocadosalad #carrots #avocado #roasted #almonds #grated #balsamicvinegar #wholegrainmustard </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,15 @@
+ 
+
+title": "Pecorino and pancetta",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pecorino and pancetta, Italian recipe \n|titlemode=replace\n|keywords=#pecorinoandpancetta #barbecue #pecorinocheese #garlicoliveoil #barbecued #griddled #chiliflakes #grilled \n|hashtagrev=032020\n|description=Great for snacking on while the barbecue food cooks - just don't overdo it!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1342\n|PortionCalories = 223\n|DatePublished=24th October 2012\n|Author=Chef\n|ImageComment = \n|Servings = Serves 6 - Makes 12 parcels\n|Difficulty = 1\n|TotalTime = 15 minutes\n|PrepTime = 10 minutes\n|CookTime = 5 minutes\n|Image = [[Image:Pancetta.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Easily overdone</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.1</span>/5</span>\n\n<span class=\"reviewDesc\">\ud83d\ude0f\ud83d\ude0f\ud83d\ude0f</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n\nGreat for snacking on while the [[barbecue]] food cooks - just don't overdo it!\n\n{{RecipeIngredients\n| 12 vine leaves\n| 12 slices of pancetta\n| 200g (7 oz) [[pecorino cheese]], thinly sliced\n}}\n===Method===\n\n{{RecipeMethod\n| Flatten the vine leaves\n| Lay a slice of pancetta on each\n| Smother with [[pecorino cheese]]\n| Roll or fold the leaves\n| Cook on an oiled [[barbecue]] plate for 2 minutes a side\n}}\n===Variations===\n\nAdd a dash of [[garlic olive oil]] on each vine leaf\n\nMaybe a few [[chili flakes]] \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Barbecue recipes]]\n[[Category:Salad recipes]]\n[[Category:Italian recipes]]\n[[Category:Starters]]\n[[Category:Tapas, mezze and antipasti]]\n[[Category:Vegetable recipes]]\n[[Category:Grilled, griddled or barbecued]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pecorinoandpancetta #barbecue #pecorinocheese #garlicoliveoil #barbecued #griddled #chiliflakes #grilled </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

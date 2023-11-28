@@ -1,0 +1,16 @@
+title": "Sofrito (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sofrito - A Thermomix recipe \n|titlemode=replace\n|keywords=#sofrito #onions #garlic #thermomix #spanish #spanishdishes #thermomixrecipes #leeks #tomatoes \n|hashtagrev=032020\n|description=Sofrito is used as the basis of many Spanish dishes and 2 versions are given here\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 449\n|PortionCalories = 150\n|DatePublished=22nd October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = 3\n|Difficulty = 1\n|TotalTime = 10 minutes \n|PrepTime = 5 minutes \n|CookTime = 5 minutes \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">I wonder?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">I've made this, now what do I do with it?</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n[[Sofrito]] is used as the basis of many [[Spanish dishes]] and 2 versions are given here.\n\n\n'''For [[Sofrito|sofrito]] 1'''\n{{RecipeIngredientsTM\n| 50g [[Extra virgin olive oil|extra virgin olive oil]]\n| 150g [[Onions|onions]]\n| 1 [[Clove|clove]] [[Garlic|garlic]]\n}}\n'''For [[Sofrito|sofrito]] 2'''\n{{RecipeIngredientsNB\n| 100g [[Extra virgin olive oil|extra virgin olive oil]]\n| 300g [[Onions|onions]]\n| 2 [[Cloves|cloves]] [[Garlic|garlic]]\n| 3 [[Leeks|leeks]] (only the white part)\n| 3 ripe [[Tomatoes|tomatoes]] or 200g chopped tomatoes\n}}\n===Method===\n'''For [[Sofrito|sofrito]] 1'''\n{{RecipeMethod\n| Tip all of the ingredients into the bowl '''2 seconds / Speed 4'''\n| Then '''5 minutes / Temp. Varoma / Speed 1'''\n| If you want the ingredients chopped very fine, then use '''Speed 4-5'''\n}}\n'''For [[Sofrito|sofrito]] 2'''\n{{RecipeMethod\n| Tip all of the ingredients into the bowl '''4 seconds / Speed 5'''\n| Then '''10 minutes / Temp. Varoma / Speed 1'''\n| If you want the ingredients chopped very fine, process '''15 seconds / Speed 6'''\n}}\n===Servings===\nRecipe 1, 200g. Recipe 2, 600g.\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sofrito #onions #garlic #thermomix #spanish #spanishdishes #thermomixrecipes #leeks #tomatoes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

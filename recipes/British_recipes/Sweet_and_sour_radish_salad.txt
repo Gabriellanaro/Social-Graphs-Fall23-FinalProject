@@ -1,0 +1,16 @@
+title": "Sweet and sour radish salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sweet and sour radish salad a British recipe\n|titlemode=replace\n|keywords=#radishes #sweetandsourradishsalad #muscovadosugar #salads #lightsoysauce #salad #marinate #cidervinegar #papertowels #sesameoil #tablesalt \n|hashtagrev=032020\n|description=An interesting addition to your salad repertoire which gives a nice spicy bite with an oriental flavour\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 99\n|PortionCalories = 24\n|DatePublished=23rd June 2013\n|Author=Chef\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  2 hours, 25 minutes\n|PrepTime =  2 hours, 25 minutes\n|CookTime = None\n|Image = [[Image:Radishes (4701358924).jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice and peppery</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5 </span>\n\n<span class=\"reviewDesc\">This works well with roast beef</span>\n \n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]]</span></span>\n}}\nAn interesting addition to your [[Salad|salad]] repertoire which gives a nice spicy bite with an oriental flavour.\n\n{{RecipeIngredients\n\n| 8 small red [[Radishes|radishes]]\n| 2 teaspoons [[Table salt|table salt]] (10 ml)\n| 2 tablespoons [[Muscovado sugar]]\n| 2 tablespoons [[Cider vinegar]]\n| 1 teaspoon [[Sesame oil]]\n| 2 teaspoons of [[Light soy sauce]]\n}}\n===Method===\n\n{{RecipeMethod\n\n| Wash, top and tail the [[Radishes|radishes]]\n| Using the tines of a fork, scratch the surface of the [[Radishes|radishes]].\n| Arrange on a large plate and sprinkle with half of the [[Salt|salt]], leave for 10 minutes\n| Turn the [[Radishes|radishes]] over and repeat the process\n| Wash the [[Radishes|radishes]] and discard the [[Salt|salt]]\n| Dry with [[Paper towels|paper towels]]\n| Mix the remaining ingredients and whisk\n| Pour over the [[Radishes|radishes]] and all to [[Marinate|marinate]] for two hours or more\n}}\n===Serving suggestions===\nServe as part of a selection of [[Salads|salads]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Pickles and preserves]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Salad recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#radishes #sweetandsourradishsalad #muscovadosugar #salads #lightsoysauce #salad #marinate #cidervinegar #papertowels #sesameoil #tablesalt </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

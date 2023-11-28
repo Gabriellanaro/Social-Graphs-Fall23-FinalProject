@@ -1,0 +1,16 @@
+title": "Onion powder",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Onion powder, British recipe \n|titlemode=replace\n|keywords=#onionpowder #onions #spice #fooddehydrators #onion #foodprocessor #thermomix #cookingsousvide #dehydrated #soups #stews \n|hashtagrev=032020\n|description=I have never been able to buy onion powder in the UK and have had to rely on a friend who regularly visits Barbados to bring me some American powder\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 801\n|PortionCalories = 28\n|DatePublished=13th November 2013\n|Author = JuliaBalbilla\n|ImageComment = \n|Servings = Servings: 28\n|Difficulty = 1\n|TotalTime =  7 hours, 10 minutes\n|PrepTime =  10 minutes\n|CookTime =  7 hours\n|Image = [[Image:Onion powder recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Worth it!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">This alone was worth getting the dehydrator for!</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nI have never been able to buy [[Onion|onion]] powder in the UK and have had to rely on a friend who regularly visits Barbados to bring me some American powder that she can get there.  However you can easily make your own at home.  If you do not have a [[Food dehydrators|dehydrator]], you can dry them in the [[Oven|oven]] on its lowest setting in which case they will dry quicker (although their nutritional value will be reduced).\n[[Image:Dehydrated onion rings.jpg|300px|thumb|right|Dehydrated onion rings]]\n\nThe time given below for dehydrating is approximate as it does depend on the temperature and humidity of your kitchen.\n\n{{RecipeIngredients\n\n| 2 kg of  fresh [[Onions|onions]], cut into 4 mm slices.\n| Pinch of [[salt]]\n}}\n\n===Method===\n\n{{RecipeMethod\n| Add a pinch of salt to the onion slices\n| Dehydrate the [[Onions|onions]] for 7 hours at 60\u00b0C for 2 hours, then 50\u00b0C for the remaining 6 hours.\n| Grind the [[Onions|onions]] using a [[Food processor|food processor]] or [[Thermomix]], until you have a powder of the desired consistency.\n| Keep in jar or [[Lock & Lock box]].\n}}\n===Serving suggestions===\nUse in [[Soups|soups]] and [[Stews|stews]] or as part of a [[Spice|spice]] mix or rub.  Also use when [[Cooking sous vide|cooking sous vide]] as raw [[Onions|onions]] can take on a metallic taste.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Marinades dressings and butters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Dehydrated]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#onionpowder #onions #spice #fooddehydrators #onion #foodprocessor #thermomix #cookingsousvide #dehydrated #soups #stews </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Mousseline sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mousseline sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#thermomix #butter #eggyolks #sauce #lemonjuice #yolks #singlecream #asparagus #fish #freshlygroundpepper #thermomixrecipes \n|hashtagrev=032020\n|description=This Mousseline sauce is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1155\n|PortionCalories = 288\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Serves 4 - Makes 150 ml\n |Difficulty = 1\n |TotalTime = 11 minutes\n |PrepTime = 5 minutes\n |CookTime = 6 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Sort of hot mayo</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I think?</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis is a translation of a recipe in Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)\n\n{{RecipeIngredientsTM\n| 3 [[Egg yolks|egg yolks]]\n| 1 tablespoon cold water\n| 130g [[Butter|butter]]\n| &frac12; teaspoons [[Salt|salt]]\n| [[Freshly ground pepper]]\n| &frac12; teaspoon [[Lemon juice|lemon juice]]\n| 30g [[Single cream|single cream]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[Egg yolks|egg yolks]] in the TM with half a teaspoons of the [[Butter|butter]] and the tablespoons of cold water.\n| Beat '''5 seconds / Speed 2'''.\n| Next, add the remaining ingredients and set '''6 minutes / 70\u00b0 / Speed 4'''.\n}}\n===Serving suggestions===\nIt is a [[Sauce|sauce]] especially for serving with [[Boiled|boiled]] [[Vegetables|vegetables]], above all [[Cabbage|cabbage]] and [[Asparagus|asparagus]] and also with [[Fish|fish]].  It can be served cold or warm.  \n===Chef's notes===\nThe important thing about this recipe is the texture and for this reason you have to take care when making as if it is heated too much, the [[Yolks|yolks]] will cook and separate.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:French recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Egg recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #butter #eggyolks #sauce #lemonjuice #yolks #singlecream #asparagus #fish #freshlygroundpepper #thermomixrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

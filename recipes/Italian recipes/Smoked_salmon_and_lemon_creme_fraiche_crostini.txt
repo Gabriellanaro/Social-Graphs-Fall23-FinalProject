@@ -1,0 +1,16 @@
+title": "Smoked salmon and lemon creme fraiche crostini",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Smoked salmon and lemon creme fraiche crostini an Italian recipe\n|titlemode=replace\n|keywords=#smokedsalmonandlemoncremefraichecrostini #cremefraiche #lemonjuice #dill #blackpepper #baguette #zest #bakingtray #oliveoil #bake #brush \n|hashtagrev=032020\n|description=Great finger buffet for, ideal for posh parties!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1400\n|PortionCalories = 140\n|DatePublished=29th May 2012\n|Author=Chef\n|Servings = Serves 10 - Make 20 crostini\n |Difficulty = 1\n |TotalTime = 40 minutes incl. cooling time\n |PrepTime = 30 minutes\n |CookTime = 10 minutes\n |Image = [[Image:Smoked salmon and lemon creme fraiche crostini recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Salmon toasts</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Tasty, toasty salmon!</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nGreat finger buffet for, ideal for posh parties!\n\n{{RecipeIngredients\n| 3 tablespoons [[Extra virgin olive oil|extra virgin olive oil]]\n| 1 small [[Baguette|baguette]] cut into 20,  5mm thick slices\n| 125 ml [[Creme fraiche|creme fraiche]] \n| 1 teaspoon [[Lemon juice|lemon juice]]\n| 1 teaspoon [[Lemon zest|lemon zest]]\n| 100 g thinly sliced [[Smoked salmon|smoked salmon]], torn into 20 pieces\n| [[Freshly ground black pepper]]\n| A hand-full of freshly chopped [[Dill|dill]]\n}}\n===Method===\n\n{{RecipeMethod\n| Preheat the oven to 180 C\u00b0 (350\u00b0  F - gas 4)\n| [[Brush]] both sides of the [[Baguette|baguette]] with [[Olive oil|olive oil]] and put on a [[baking tray]] with a grid\n| [[Bake]] for 10 minutes or until crisp\n| Remove and allow to cool\n| Mix the [[Creme fraiche|creme fraiche]], [[Lemon juice|lemon juice]] and [[Zest|zest]] together, season with [[Black pepper|black pepper]]\n| At serving time, place 1 teaspoon of the creme mixture onto each slice, top with a rolled strip of [[Salmon|salmon]] and garnish will [[Dill|dill]] leaves and [[Black pepper|black pepper]]\n}}\n{{RecipeLine}}\n[[Category:Recipes|Salmon]]\n[[Category:Accompaniments|Salmon]]\n[[Category:Bread and baking|Salmon]]\n[[Category:Fish recipes|Salmon]]\n[[Category:Freshwater fish recipes|Salmon]]\n[[Category:Sea fish recipes|Salmon]]\n[[Category:Starters|Salmon]]\n[[Category:Snacks and light bites|Salmon]]\n[[Category:Italian recipes|Salmon]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#smokedsalmonandlemoncremefraichecrostini #cremefraiche #lemonjuice #dill #blackpepper #baguette #zest #bakingtray #oliveoil #bake #brush </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

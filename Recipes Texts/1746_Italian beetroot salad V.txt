@@ -1,0 +1,15 @@
+ 
+
+title": "Italian beetroot salad (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Italian beetroot salad vegetarian Italian recipe\n|titlemode=replace\n|keywords=#beetroot #mint #onion #vinegar #miseenplace #onions #redwinevinegar #italianbeetrootsaladv #redonion #salad #oliveoil \n|hashtagrev=032020\n|description=This simple beetroot salad recipe was recommended to me by the glorious Annabelle\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 509\n|PortionCalories = 127\n|DatePublished=6th April 2013\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 15 minutes\n |CookTime = None\n |Image = [[Image:Italian beetroot salad recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thanks!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">I'm always looking for ways to use my beets</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis simple [[Salad|salad]] recipe was recommended to me by the glorious Annabelle.\n\n{{RecipeIngredients\n| 1 [[Red onion|red onion]], peeled and finely sliced into rings\n| 2 x 15 ml [[Red wine vinegar|red wine vinegar]]\n| 12 small [[Beetroot|beetroot]], cooked and peeled\n| 2 tablespoons [[Olive oil|olive oil]]\n| 3 tablespoons finely chopped fresh [[Mint|mint]]\n| [[Sea Salt|sea salt]] - optional\n\n}}\n\n===[[Mise en place]]===\n* Separate the [[Onion|onion]] rings, lay them out in a large flat [[Lock and Lock box|lock and lock box]], cover with the vinegar and leave for up to 3 hours.  Give them a shake now and then.\n* ''The [[Vinegar|vinegar]] takes the harshness out of the [[Onion|onion]]. ''\n===Method===\n\n{{RecipeMethod\n| Slice the [[Beetroot|beetroot]] and arrange on a platter.\n| Dress with the sliced [[Onions|onions]] and the [[Vinegar|vinegar]] they have been soaking in.\n| Sprinkle with the chopped [[Mint|mint]] and [[Sea Salt|sea salt]].\n| Serve immediately.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Italian recipes]]\n[[Category:Salad recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#beetroot #mint #onion #vinegar #miseenplace #onions #redwinevinegar #italianbeetrootsaladv #redonion #salad #oliveoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

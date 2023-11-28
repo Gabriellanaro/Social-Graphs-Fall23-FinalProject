@@ -1,0 +1,15 @@
+ 
+
+title": "Pepitas",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pepitas recipe Cooking with chillies \n|titlemode=replace\n|keywords=#pepitas #limejuice #oliveoil #garlic #panfried #chillies #chipotlechillies #pestleandmortar #pumpkinseeds #fry \n|hashtagrev=032020\n|description=A tasty finger food from Mexico. You can play around with the ingredients to suit your tastes\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 71\n|PortionCalories = 17\n|DatePublished=21st January 2013\n|Author=JuliaBalbilla\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 15 minutes\n|PrepTime = 5 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Pepitas recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Beer food</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Nice with any drinks \ud83c\udf77\ud83c\udf78\ud83c\udf79\ud83c\udf7e\ud83c\udf7a </span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\nA tasty finger food from Mexico.  You can play around with the ingredients to suit your tastes.\n\n{{RecipeIngredients\n| 130 g (4.5 oz) [[pumpkin seeds]]\n| 4 [[garlic cloves, peeled and crushed]]\n| &#188; teaspoon [[sea salt]], crushed in a [[pestle and mortar]]\n| 2 teaspoons [[chipotle chillies]], crushed in a pestle and mortar\n| 1 teaspoon [[sugar]]\n| 1 tablespoon [[lime juice]]\n| 1 tablespoon [[olive oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Heat a heavy based fring pan and dry-[[fry]] the seeds until they start to [[brown]].  Shimmy the pan `chef-style' to keep them from burning\n| Add the [[olive oil]] and [[Garlic|garlic]] and heat just to take the raw edge off the [[Garlic|garlic]]\n| Add the [[chillies]], [[sugar]] and [[salt]], remove from the heat and let the [[sugar]] melt and cover the seeds\n| Stir well to coat all of the seeds\n| Add to a serving bowl and drizzle with the [[lime juice]]\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chilli pepper recipes]]\n[[Category:Latin American recipes]]\n[[Category:Mexican recipes]]\n[[Category:Spicy recipes]]\n[[Category:Starters]]\n[[Category:Snacks and light bites]]\n[[Category:Squash recipes]]\n[[Category:Dry fried]]\n[[Category:Pan fried]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pepitas #limejuice #oliveoil #garlic #panfried #chillies #chipotlechillies #pestleandmortar #pumpkinseeds #fry </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

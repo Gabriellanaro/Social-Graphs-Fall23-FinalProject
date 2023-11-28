@@ -1,0 +1,15 @@
+ 
+
+title": "Sauce normande",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sauce normande, Egg recipe \n|titlemode=replace\n|keywords=#fish #butter #mushroom #saucenormande #eggyolks #liquor #singlecream #cream #fumet #sauce #sieve \n|hashtagrev=032020\n|description=This sauce is a member of the Sauce veloute family\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 711\n|PortionCalories = 71\n|DatePublished=1st April 2013\n|Author=Chef\n|ImageComment = ''Velout\u00e9 de mousseron''\n|Servings = Servings: 10 - Makes about 380ml\n|Difficulty = 2\n|TotalTime =  15 minutes + time for making the velout\u00e9 and the fumet\n|PrepTime =  5 minutes + time for making the velout\u00e9 and the fumet\n|CookTime =  10 minutes + time for making the velout\u00e9 and the fumet\n|Image = [[Image:Velout\u00e9 de mousseronII.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Seafood sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Especially good with basa</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis [[Sauce|sauce]] is a member of the [[Sauce velout\u00e9]] family.\n\n{{RecipeIngredients\n\n| 240ml [[Fish|fish]] based [[Sauce velout\u00e9]]\n| 120ml [[Fish|fish]] [[Fumet|fumet]]\n| 60ml [[Mushroom|mushroom]] cooking [[Liquor|liquor]]\n| 2 [[Egg yolks|egg yolks]], beaten\n| 2 tablespoons [[single cream]]\n| 50g [[Butter|butter]]\n| 3 tablespoons [[single cream]] to finish\n}}\n===Method===\n\n{{RecipeMethod\n\n| Pour the [[Sauce velout\u00e9]], [[Fish|fish]] [[Fumet|fumet]] and [[Mushroom|mushroom]] [[Liquor|liquor]] into a saucepan and reduce by one third over a good heat.\n| Mix the [[Egg yolks|egg yolks]] with the [[Cream|cream]] and add to the pan.\n| Heat through and finish off with the 3 tablespoons [[Cream|cream]] and the [[Butter|butter]].\n| Strain through a [[Sieve|sieve]].\n}}\n===Serving suggestions===\nServe with any [[Fish|fish]].\n===Recipe source===\n\n* ''Larousse Gastronomique'' (1961)\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:French recipes]]\n[[Category:Dips and sauces]]\n[[Category:Egg recipes]]\n[[Category:Fish recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#fish #butter #mushroom #saucenormande #eggyolks #liquor #singlecream #cream #fumet #sauce #sieve </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

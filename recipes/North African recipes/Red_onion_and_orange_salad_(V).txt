@@ -1,0 +1,16 @@
+title": "Red onion and orange salad (V)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Red onion and orange salad a vegetarian recipe\n|titlemode=replace\n|keywords=#mint #orange #pestleandmortar #oranges #oliveoil #cumin #redonionandorangesaladv #carawayseeds #onions #caraway #rocket \n|hashtagrev=032020\n|description=This Red onion and orange salad is another Middle Eastern influenced vegetarian recipe\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 392\n|PortionCalories = 98\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 3 hours, 10 minutes incl chill time\n |PrepTime = 3 hours, 10 minutes\n |CookTime = None\n |Image = [[Image:Red onion and orange salad recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Fresh and clean tasting</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Carrots are nice in this too.</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nAnother Middle Eastern influenced dish.\n\n{{RecipeIngredients\n| 6 small seedless [[oranges]] or satsumas\n| 2 [[red onions]], peeled and thinly sliced into rings\n| 1 tablespoon [[cumin seeds]], cracked in a [[pestle and mortar]]\n| 1 tablespoon freshly chopped [[mint]]\n| 1 teaspoon [[caraway seeds]], cracked in a [[pestle and mortar]]\n| 1 teaspoon [[freshly ground black pepper]]\n| 6 tablespoons [[olive oil]]\n| Freshly picked [[mint]] sprigs to garnish\n| [[Sea salt]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Peel and slice the [[oranges]], reserving any juice\n| Arrange the [[onions]] and [[orange]] slices in layers into a shallow serving dish\n| Sprinkle the [[caraway]], [[cumin]] [[salt]], [[pepper]], [[mint]]  and [[olive oil]] over each layer\n| Pour any reserved [[orange]] juice over the top\n| Chill and rest for 2 hours\n}}\n===Serving suggestions===\nScatter torn minty leaves over the top\n===Variations===\nServe with a handful of torn [[rocket]] leaves\nServe with [[black olives]]\n{{RecipeLine}}\n[[Category:Recipes|Orange]]\n[[Category:Accompaniments|Orange]]\n[[Category:North African recipes|Orange]]\n[[Category:Salad recipes|Orange]]\n[[Category:Starters|Orange]]\n[[Category:Vegetable recipes|Orange]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mint #orange #pestleandmortar #oranges #oliveoil #cumin #redonionandorangesaladv #carawayseeds #onions #caraway #rocket </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

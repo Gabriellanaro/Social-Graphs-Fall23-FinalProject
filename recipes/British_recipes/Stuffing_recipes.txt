@@ -1,0 +1,16 @@
+title": "Stuffing recipes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=A selection of stuffing recipes from Cookipedia\n|titlemode=replace\n|keywords=#stuffingrecipes #meatrecipes #recipes #accompaniments #mixedherbsandpinenutstuffing #britishrecipes #turkey #parsleyandthymestuffing #sageandonionstuffing \n|hashtagrev=12032020\n|description=We have a number of stuffing (forcemeat) recipes: other-pages Bacon, chestnut & cranberry stuffing - quite involved but the perfect accompaniment for\n}}\n<!-- /seo -->\n\n[[Image:Bacon, chestnut and cranberry stuffing.jpg|thumb|300px|right|[[Bacon, chestnut and cranberry stuffing]]]]\n'''We have a number of stuffing (''forcemeat'') recipes:'''\n\n* [[Bacon, chestnut & cranberry stuffing]] - quite involved but the perfect accompaniment for the Christmas [[turkey]].\n* [[Mixed herbs and pine nut stuffing]] - good for chicken or turkey.\n* [[Parsley and thyme stuffing]]\n* [[Pork, sage and onion stuffing]]\n* [[Sage and onion stuffing]]\n* [[Sage and onion stuffing (Mrs Beeton's)]]\n* [[Chestnut stuffing for roast turkey (Mrs Beeton's)]]\n{{CategoryLine}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Meat recipes]]\n[[Category:Baked or roasted]]\n {{disambig}}\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#stuffingrecipes #meatrecipes #recipes #accompaniments #mixedherbsandpinenutstuffing #britishrecipes #turkey #parsleyandthymestuffing #sageandonionstuffing </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

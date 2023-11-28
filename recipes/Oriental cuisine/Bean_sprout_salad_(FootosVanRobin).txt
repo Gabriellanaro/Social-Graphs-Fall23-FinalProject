@@ -1,0 +1,16 @@
+title": "Bean sprout salad (FootosVanRobin)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Beansprout salad (FootosVanRobin) Accompaniments recipe\n|titlemode=replace\n|keywords=#beansprouts #jaggery #sichuanchilioil #lightsoysauce #ricevinegar #unusualrecipes #corianderleaves #sesameoil #redchili #nampla #boiling \n|hashtagrev=032020\n|description=A delicious beansprout salad from Robin, taken from a recipe on her photostream\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 406\n|PortionCalories = 203\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 2\n |Difficulty = 1\n |TotalTime = 3 minutes\n |PrepTime = 3 minutes\n |CookTime = None\n |Image = [[Image:Beansprout salad (FootosVanRobin) recipe.jpg|alt=Electus]]<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Lovely salad</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">\u2026and an even nice photo; thanks Robin</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef]] </span></span>\n\n}}\nA delicious beansprout salad from [[User:Robin|Robin]], taken from a recipe on her [http://www.flickr.com/photos/fotoosvanrobin/ photostream]\n\n{{RecipeIngredients\n| 200g [[Beansprouts|beansprouts]]\n| '''Dressing:'''\n| 1 tablespoon [[Rice vinegar|rice vinegar]]\n| 2 tablespoons [[Light soy sauce|light soy sauce]]\n| 2 teaspoons [[Sesame oil|sesame oil]]\n| 1 teaspoon [[Brown sugar|brown sugar]] or [[Jaggery|jaggery]]\n| 4 tablespoons chopped [[Coriander leaves|coriander leaves]]\n| 2 [[Spring onions, chopped|spring onions, chopped]]\n| 1 [[Red chili|red chili]], chopped\n| 1 tablespoon [[Nam pla|nam pla]]\n| 1 tablespoon [[Sichuan chili oil]]\n}}\n\n===Method===\n\n{{RecipeMethod\n| Pour [[Boiling|boiling]] water over [[Beansprouts|beansprouts]], then rinse with cold water.\n| Add the dressing ingredients to a bowl, mix well and pour over the [[Beansprouts|beansprouts]].\n| Serve.\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Salad recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Vegetable recipes]]\n[[Category:FotoosVanRobin recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Blanched]]\n[[Category:Uncooked]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#beansprouts #jaggery #sichuanchilioil #lightsoysauce #ricevinegar #unusualrecipes #corianderleaves #sesameoil #redchili #nampla #boiling </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

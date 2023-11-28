@@ -1,0 +1,15 @@
+ 
+
+title": "Soused herrings (MoF)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Soused herrings (MoF), British recipe \n|titlemode=replace\n|keywords=#onion #bayleaf #vinegar #herrings #picklingspices #mixedpicklingspice \n|hashtagrev=032020\n|description=From the Ministry of Food advice leaflet \"All about Herrings\" - reprinted in 1948! Mum had circled this recipe\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2421\n|PortionCalories = 605\n|DatePublished=20th January 2013\n|Author=Chef\n|ImageComment = All about Herrings - 1948\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 1 hour 30 minutes\n|PrepTime = 15 minutes\n|CookTime = 1 hour 15 minutes\n|Image = [[Image:All_about_Herrings.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A bit lie rollmops</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">(I think)</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\nFrom the Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948!\n\nMum had circled this recipe.\n\n{{RecipeIngredients\n| 8 [[herrings]], cleaned and boned\n| 4oz [[onion]], sliced\n| 1 level tablespoon of [[mixed pickling spice]]\n| 1 [[bay leaf]]\n| 1 level teaspoon [[salt]]\n| &#189; pint [[vinegar]]\n| &#189; pint water\n}}\n===Method===\n\n{{RecipeMethod\n| Roll up the fish with a slice of [[onion]] inside each one\n| Place in a baking dish\n| Scatter the [[pickling spices]] between the rolls and put in the [[bay leaf]], then add the remaining [[onion]]\n| Sprinkle the [[salt]] over all the fish and pour in the [[vinegar]] and water which have been mixed together. Bake in a slow oven (150\u00b0 C / 300\u00b0 F / Gas 2) for  1 &frac14; hours\n}}\n===Serving suggestions===\n\nServe hot or cold\n{{RecipeLine}}\n[[Category:Recipes|Herrings]]\n[[Category:Fish recipes|Herrings]]\n[[Category:Sea fish recipes]]\n[[Category:Main courses|Herrings]]\n[[Category:Historic recipes|Herring]]\n[[Category:British recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#onion #bayleaf #vinegar #herrings #picklingspices #mixedpicklingspice </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

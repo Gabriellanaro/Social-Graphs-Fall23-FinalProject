@@ -1,0 +1,16 @@
+title": "Margarita recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Margarita recipe Cocktail, from Cookipedia.Co.Uk\n|titlemode=replace\n|keywords=#margaritarecipe #tequila #lime #frozen #limejuice #triplesec #lemonjuice #dip \n|hashtagrev=032020\n|description=The margarita is a cocktail consisting of tequila mixed with triple sec and lime or lemon juice, often served with salt on the glass rim\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 744\n|PortionCalories = 372\n|DatePublished=21st August 2012\n|Author=Chef\n|Servings = Serves 1\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes \n |CookTime = None\n |Image = [[Image:Margarita recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">mmm, salty!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Don't normally like cocktail, but I like these</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\n\nThe margarita is a cocktail consisting of [[Tequila|tequila]] mixed with triple sec and [[Lime|lime]] or [[Lemon juice|lemon juice]], often served with [[Salt|salt]] on the glass rim.  The drink is usually served shaken with ice, on the rocks, blended with ice ([[Frozen|frozen]] margarita) or without ice (straight up). All three methods are frequently served with salt or [[Sugar|sugar]] on the rim of the glass which is optional.\n\n{{RecipeIngredients\n| 2 parts [[Tequila]]\n| 1 part [[Triple sec]]\n| 1 part freshly squeezed [[Lime juice|lime juice]]\n| Ice cubes for chilling\n| Fine [[Sea Salt|sea salt]] for the rim of the glass (optional)\n| Thinly slices of lime to garnish\n}}\n===Method===\n\n{{RecipeMethod\n| Rub a wedge of [[Lime|lime]] around the rim of the glass and then [[Dip|dip]] in fine [[Sea Salt|sea salt]]\n| Mix the remaining ingredients in a cocktail shaker or jug\n| Strain into glasses, leaving the ice behind so as not to dilute the cocktail\n| Garnish with a slice of lime\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Mexican recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#margaritarecipe #tequila #lime #frozen #limejuice #triplesec #lemonjuice #dip </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Ajvar (Red pepper 'chutney')",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Avjar Red pepper 'chutney' recipe\n|titlemode=replace\n|keywords=#peppers #boiledorsimmeredredpepperchutney #chutney #oliveoil #butter #sterilisedjars #vegetarian #dip #redpeppers #aubergines #saucepan \n|hashtagrev=032020\n|description=This Serbian recipe is not a chutney in the Anglo-Indian sense, but can be served in the same manner, or used as a dip. \n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=12th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 8\n|Difficulty = 1\n|TotalTime =  1 hour, 30 minutes\n|PrepTime =  20 minutes\n|CookTime =  1 hour, 10 minutes\n|TotalCalories = 417\n|PortionCalories = 52 \n|Image = [[Image:Avjar Red pepper 'chutney' recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice dip</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I like this with tacos</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nThis Serbian recipe is not a [[Chutney|chutney]] in the Anglo-[[Indian]] sense, but can be served in the same manner, or used as a [[Dip|dip]].\n{{RecipeIngredients\n\n| 2kg [[Red peppers|red peppers]], skinned and [[Seeds|seeds]] removes\n| 20ml [[Red wine vinegar|red wine vinegar]]\n| 100ml [[Olive oil|olive oil]]\n| [[Salt]] and [[Pepper|pepper]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Once you have removed the skins leave the [[Peppers|peppers]] to drain for a couple of hours\n| Put all of the ingredients in a [[Saucepan|saucepan]], bring to the [[Boil|boil]] and [[Simmer|simmer]] for at least 1 hour, or more\n| [[Blend]], but you don't want it to be totally smooth\n| Check seasoning\n| Leave to cool\n| If not using straight away, you can transfer to [[Sterilised jars|sterilised jars]] and pour a little melted [[Butter|butter]] over the top to seal\n}}\n===Variations===\nSometimes, [[aubergines]] are cooked in with the [[Peppers|peppers]]\n===Chef's notes===\n[[Lard]] is traditionally used to seal the mixture in the jars, but obviously that is not very [[Vegetarian|vegetarian]]!\n{{RecipeLine}}\n[[Category:Recipes|Red pepper chutney]]\n[[Category:Serbian recipes|Red pepper chutney]]\n[[Category:Dips and sauces|Red pepper chutney]]\n[[Category:Pickles and preserves|Red pepper chutney]]\n[[Category:Vegetarian recipes|Red pepper chutney]]\n[[Category:Vegetable recipes|Red pepper chutney]]\n[[Category:Boiled or simmered|Red pepper chutney]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#peppers #boiledorsimmeredredpepperchutney #chutney #oliveoil #butter #sterilisedjars #vegetarian #dip #redpeppers #aubergines #saucepan </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

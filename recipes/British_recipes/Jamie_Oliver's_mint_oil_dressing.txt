@@ -1,0 +1,16 @@
+title": "Jamie Oliver's mint oil dressing",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Jamie Oliver's mint oil dressing a British recipe\n|titlemode=replace\n|keywords=#jamieoliversmintoildressing #lamb #oliveoil #mortarandpestle #mutton #mintsauce #saladspinner #sprigofmint #mintleaves #coarseseasalt #accompaniments \n|hashtagrev=032020\n|description=This is a nice change from mint sauce and it's so simple that it's hardly a recipe. It originated as one of the accompaniments for his recipe: Guinness\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 201\n|PortionCalories = 50\n|DatePublished=14th October 2012\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 1 hour\n |PrepTime = 1 hour\n |CookTime = None\n|Image = [[Image:Jamie Oliver's mint oil dressing.jpg|alt=Electus]]<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Lovely</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Used this again and again...</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis is a nice change from [[Mint sauce|mint sauce]] and it's so simple that it's hardly a recipe.\n\nIt originated as one of the [[Accompaniments|accompaniments]] for his recipe: [[Guinness lamb shanks with dark sticky gravy]] but would go well with any [[Lamb|lamb]] dish\n\n{{RecipeIngredients\n| 5 tablespoons of [[Olive oil|olive oil]]\n| A large [[Sprig of mint|sprig of mint]] leaves\n}}\n===Method===\n\n{{RecipeMethod\n| Wash and dry the [[Mint leaves|mint leaves]], a [[Salad spinner|salad spinner]] is good for this.\n| Pick them from the stems\n| Roughly chops the leaves\n| Add to a [[Mortar and pestle|mortar and pestle]] with a pinch of [[Coarse sea salt|coarse sea salt]] and the [[Olive oil|olive oil]]\n| Smash it up to release the flavours\n| Leave for an hour or so to infuse if you have the time\n}}\n===Serving suggestions===\nServe with [[Lamb|lamb]] or [[Mutton|mutton]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Lamb recipes]]\n[[Category:Mutton recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#jamieoliversmintoildressing #lamb #oliveoil #mortarandpestle #mutton #mintsauce #saladspinner #sprigofmint #mintleaves #coarseseasalt #accompaniments </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

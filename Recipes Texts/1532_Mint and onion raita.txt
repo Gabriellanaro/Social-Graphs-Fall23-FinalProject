@@ -1,0 +1,15 @@
+ 
+
+title": "Mint and onion raita",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mint and onion raita, Indian recipe \n|titlemode=replace\n|keywords=#mint #mintandonionraita #yogurt #paprika #chillies #onion \n|hashtagrev=032020\n|description=This is a cool, refreshing side dish that is ideal for a hot curry\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 143\n|PortionCalories = 71\n|DatePublished=31st January 2013\n|Author=Chef\n|ImageComment =\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime = 10 minutes\n|PrepTime = 10 minutes\n|CookTime = None\n|Image = [[Image:Mint and cucumber riatha recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Perfect with a hot curry</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Looks nice too!</span>\n \n<span class=\"reviewAuthor\">[[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis is a cool, refreshing side dish that is ideal for a hot curry.\n\n{{RecipeIngredients\n| 5oz thick set [[yogurt]] (Greek is good)\n| 1 small [[onion]], finely chopped\n| 1 tablespoon of chopped fresh [[mint]] or 1 tablespoon bottled mint sauce (not as good)\n| &#189; teaspoon of sugar (omit if using bottled [[mint]] as this tends to be already sweetened\n| 1 [[Chillies|fresh green chili]], de-seeded and finely chopped\n| pinch of [[paprika]] powder\n| [[Salt]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Beat [[yogurt]] until smooth\n| Add remaining ingredients except the paprika and the garnishing [[mint]] and beat again\n| Spoon into a dish and sprinkle with the garnishing [[mint]] and paprika powder\n}}\n===Serving suggestions===\n\nServe chilled\n\n===Variations===\n\nAdd some finely chopped (peeled) cucumber.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Indian recipes]]\n[[Category:Dips and sauces]]\n[[Category:Accompaniments]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mint #mintandonionraita #yogurt #paprika #chillies #onion </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

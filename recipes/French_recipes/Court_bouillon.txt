@@ -1,0 +1,16 @@
+title": "Court bouillon",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Court bouillon, French recipe \n|titlemode=replace\n|keywords=#courtbouillon #whitewine #lemon #fishandseafood #boil #simmer #sieve #garlic #bouquetgarni #frozen #blackpepper \n|hashtagrev=032020\n|description=Court-bouillon or court bouillon is a flavoured liquid for poaching or quick-cooking foods\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 262\n|PortionCalories = 43\n|DatePublished=19th January 2013\n|Author=Chef\n|Servings = Servings: 6 - Makes about 1 litre (pan size dependent)\n|Difficulty = 1\n|TotalTime = 45 minutes\n|PrepTime = 15 minutes\n|CookTime = 30 minutes\n|Image = [[Image:Court bouillon.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Great for poaching basa</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5 </span>\n\n<span class=\"reviewDesc\">My favourite stock for cooking basa, my favourite fish.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n'''Court-bouillon''' or '''court bouillon''' is a flavoured liquid for [[poaching]] or quick-cooking foods. Nowadays, it is usually mentioned in connection with [[fish and seafood]], but it is also used for poaching [[vegetables]], [[eggs]], and delicate [[meats]] such as cockscombs, sweetbreads, and the like.\n\nCourt-bouillon is 'short' (the literal meaning of the French word 'court') because the cooking time is brief in comparison with a rich and complex [[stock]], and generally is not served as part of the finished dish. Since delicate foods do not cook for very long, it is prepared before the foods are added.\n\nFor [[fish]], it is generally a mixture of water, acid ([[white wine]] or [[lemon]]), [[salt]], [[bouquet garni]], and [[black pepper]].\n\n{{RecipeIngredients\n| 1 [[leek]], chopped\n| 1 [[onion]], chopped\n| 1 [[carrot]], peeled and chopped\n| 1 [[celery]] stick, chopped\n| 1 [[clove]] [[Garlic|garlic]], peeled\n| 1 sprig [[thyme]]\n| Few [[parsley]] stalks\n| 1 sprig [[tarragon]]\n| Handful of [[basil leaves]]\n| &#189; [[lemon]], sliced\n| 1 [[star anise]]\n| 100ml [[white wine]]\n}}\n===Method===\n\n{{RecipeMethod\n| Place all the ingredients in a large pan\n| Cover with cold water and bring to the [[boil]]. [[Simmer]] gently for 30 minutes, then strain through a [[muslin]]-lined [[sieve]]\n| Will keep for 5 days if refrigerated or 3 months if [[frozen]]\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Soup and stock recipes]]\n[[Category:Stews and casseroles]]\n[[Category:French recipes]]\n[[Category:Cooking with wine]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#courtbouillon #whitewine #lemon #fishandseafood #boil #simmer #sieve #garlic #bouquetgarni #frozen #blackpepper </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

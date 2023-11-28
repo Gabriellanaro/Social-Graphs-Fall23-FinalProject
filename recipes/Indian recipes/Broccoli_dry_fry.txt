@@ -1,0 +1,16 @@
+title": "Broccoli dry fry",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Broccoli dry fry, Indian recipe \n|titlemode=replace\n|keywords=#broccoli #chillies #broccolidryfry #cumin #cauliflower #clarification #turmeric #unusualrecipes #coriander #blackpeppercorns \n|hashtagrev=032020\n|description=One of the first Indian recipes I ever cooked and also one of the first recipes on Cookipedia\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 198\n|PortionCalories = 49\n|DatePublished=24th October 2012\n|Author=Chef\n|ImageComment = Dry-fry with red peppers (cauliflower shown)\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 25 minutes\n|PrepTime = 10 minutes\n|CookTime = 15 minutes\n|Image = [[Image:RecipeCauliflower-dry-fry.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Indian broccoli?</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Calabrese never struck me as being an Indian food.  Silly me!</span>\n \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\n\nOne of the first Indian recipes I ever cooked and also one of the first recipes on Cookipedia.\n\n{{RecipeIngredients\n| 1 tablespoon of [[Clarification|ghee or oil]]\n| 1 large head of [[broccoli]], broken into small florets\n| 1 teaspoon whole [[Cumin|cumin seeds]]\n| &#189; teaspoon freshly ground [[Coriander|coriander seeds]]\n| &#188; teaspoon [[turmeric]] powder\n| &#188; teaspoon [[Chillies|chili powder]]\n| &#189; [[Chillies|fresh green chili]], de-seeded and finely chopped\n| Salt and fresh ground [[Black peppercorns|black pepper]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Heat [[Clarification|ghee]] in a wok or large pan\n| When hot, add [[Cumin|cumin seeds]] and fry for a minute or two\n| Add the [[broccoli]] pieces and fry for a few minutes\n| Add remaining spices and a 2 tablespoons of water so there is enough moisture to help it cook and prevent it sticking\n| Cover and cook on a low heat until it is cooked to your liking\n}}\n===Variations===\n\nReplace [[broccoli]] with a head of [[cauliflower]].\n\nAdd some sliced red or green peppers when you add the [[broccoli]].\n\nIf you prefer your [[cauliflower]] or [[broccoli]] to be very well cooked rather than crispy, then boil separately for 4 minutes before stir-frying. \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Spicy recipes]]\n[[Category:Indian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Accompaniments]]\n[[Category:Vegetarian recipes]]\n[[Category:Dry fried]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#broccoli #chillies #broccolidryfry #cumin #cauliflower #clarification #turmeric #unusualrecipes #coriander #blackpeppercorns </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

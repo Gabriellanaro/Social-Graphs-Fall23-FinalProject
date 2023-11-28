@@ -1,0 +1,16 @@
+title": "Cinnamon ice-cream",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cinnamon ice-cream, Sweet recipe \n|titlemode=replace\n|keywords=#cinnamonicecream #cream #doublecream #castersugar #cinnamon #freezer \n|hashtagrev=032020\n|description=This is a simple, but delicious creamy ice\u2013cream and the ingredients have been kept to a minimum\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2856\n|PortionCalories = 408\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|ImageComment = Cinnamon ice-cream and lemon basil sorbet\n|Servings = Servings: 7 - Makes 600 ml of ice cream\n|Difficulty = 1\n|TotalTime = 2 hours\n|PrepTime = 2 hours\n|CookTime = None\n|Image = [[Image:Cinnamon ice-cream recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">An acquired taste..</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3.1</span>/5</span>\n\n<span class=\"reviewDesc\">..one I've not managed yet. \ud83e\udd14</span>\n \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nThis is a simple, but delicious [[Cream|cream]]y [[ice\u2013cream]] and the ingredients have been kept to a minimum.\n\n{{RecipeIngredients\n| 600 ml [[Double cream|double cream]]\n| 125 g [[Caster sugar|caster sugar]] (or to taste)\n| 3 teaspoons [[Cinnamon|cinnamon]], ground \n| Pinch of [[Salt|salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| If you are using an [[ice-cream maker]], follow the manufacturer\u2019s instructions.\n| To make by hand, place all of the ingredients in a container and mix well.\n| Place it in the [[Freezer|freezer]] and every half-hour so, remove from freezer and mix again.\n| Repeat this process until the [[ice-cream]] is at the desired consistency.\n}}\n===Serving suggestions===\nServe with fruit salad or [[Basboosa (Semolina lemon cake)|basboosa]].  Also goes well with sorbets and apple pie.\n===Variations===\nAdd a few drops of orange flower water if desired.\n\n{{Soft ice cream}}\n--[[User:JuliaBalbilla|JuliaBalbilla]] 09:39, 6 February 2009 (UTC)--\n{{RecipeLine}}\n[[Category:Recipes|Ice-cream]]\n[[Category:Middle Eastern recipes|Ice-cream]]\n[[Category:Sweets and desserts|Ice-cream]]\n[[Category:Ice-cream recipes]]\n[[Category:Frozen]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cinnamonicecream #cream #doublecream #castersugar #cinnamon #freezer </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

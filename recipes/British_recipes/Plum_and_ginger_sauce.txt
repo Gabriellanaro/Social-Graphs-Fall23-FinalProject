@@ -1,0 +1,16 @@
+title": "Plum and ginger sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Plum and ginger sauce, British recipe \n|titlemode=replace\n|keywords=#plumandgingersauce #duck #plums #lightsoysauce #sherryvinegar #pork #demerarasugar #ginger #boiledorsimmered \n|hashtagrev=032020\n|description=A fabulously fruity sauce for duck and pork. great if you have easy access to an orchard!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 301\n|PortionCalories = 16\n|DatePublished=31st January 2013\n|Author=Chef\n|Servings = Servings: 18 - Makes 500ml (16fl oz) of sauce\n|Difficulty = 1\n|TotalTime = 30 minutes\n|PrepTime = 10 minutes\n|CookTime = 20 minutes\n|Image = [[Image:Plums.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Quack! Great with crispy duck.</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5 </span>\n\n<span class=\"reviewDesc\">Ginger gives this a terrific edge and counteracts the sweetness.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA fabulously fruity sauce for [[duck]] and [[pork]]. Great if you have easy access to an orchard!\n\n{{RecipeIngredients\n| 500g fresh [[plums]], de-stoned and cut into quarters\n| 2 tablespoons red wine or [[sherry vinegar]]\n| 3 heaped tablespoons (50g) [[demerara sugar]]\n| 2 tablespoons fresh [[Ginger|grated ginger]]\n| 125ml (4 fl oz) water\n| 1 tablespoon [[light soy sauce]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put all ingredients in a small pan and bring to the boil\n| Reduce to a gentle heat and simmer for about 20 minutes or until the plums are soft\n| Stir well\n| Strain sauce and remove skins\n}}\n===Serving suggestions===\n\nGood with duck and game\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Dips and sauces]]\n[[Category:Accompaniments]]\n[[Category:British recipes]]\n[[Category:Cooking with wine]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#plumandgingersauce #duck #plums #lightsoysauce #sherryvinegar #pork #demerarasugar #ginger #boiledorsimmered </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

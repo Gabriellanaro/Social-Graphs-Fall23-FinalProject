@@ -1,0 +1,16 @@
+title": "Chimichurri",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chimichurri: Cooking Wiki\n|titlemode=replace\n|keywords=#chimichurri #chimichurrirecipe #latinamericanrecipes #vegetarianrecipes #dipsandsauces #spicyrecipes #veganrecipes #grilled #chillipepperrecipes \n|hashtagrev=12032020\n|description=Chimichurri is a sauce and marinade for grilled meat originally from Argentina but used in countries as far north as Nicaragua\n}}\n<!-- /seo -->\n\n[[Image:I Believe I can Fry Cimichurri.jpg|thumb|300px|right|Chimichurri]]\n'''Chimichurri''' is a sauce and marinade for [[grilled]] [[meat]] originally from Argentina but used in countries as far north as Nicaragua.\n\nChimichurri (also spelled Chimmichurri) originated in Argentina and is a popular sauce used with grilled meat in many Latin American countries. It is told that the unusual name comes from 'Jimmy McCurry', an Irishman who is said to have first prepared the sauce. He was marching with the troops of General Jasson Ospina in the 19th Century, sympathetic to the cause of Argentine independence. The sauce was popular and the recipe was passed on. However, 'Jimmy McCurry' was difficult for the native people to say. Some sources claim Jimmy's sauce's name was corrupted to 'chimichurri', while others say it was changed in his honour.\n\n==See also==\n* [[Chimichurri recipe|Chimichurri made conventionally]]\n* [[Chimichurri (TM)|Chimichurri made with a Thermomix]]\n* www.ibelieveicanfry.com/2012/04/grilled-skirt-steak-with-chimichurri.html Grilled Skirt Steak with Chimichurri (I Believe I Can Fry)\n{{disambig}}\n{{CategoryLineIngredients}}\n[[Category:Ingredients]]\n[[Category:Latin American recipes]]\n[[Category:Spicy recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Chilli pepper recipes]]\n[[Category:Dips and sauces]]\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#chimichurri #chimichurrirecipe #latinamericanrecipes #vegetarianrecipes #dipsandsauces #spicyrecipes #veganrecipes #grilled #chillipepperrecipes </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

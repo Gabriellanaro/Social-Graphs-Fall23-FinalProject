@@ -1,0 +1,16 @@
+title": "Onion relish (1)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Onion relish (1), Indian recipe \n|titlemode=replace\n|keywords=#onions #chillies #oregano #coffeegrinder #cidervinegar #vinegars #redchillies #roastedredpepper #peppercorns #onionrelish #foodprocessor \n|hashtagrev=032020\n|description=A nice spicy relish that is a good accompaniment to most spicy dishes\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{Template:AdvancePreparationIcon}}\n{{recipesummary\n|TotalCalories = 523\n|PortionCalories = 32\n|DatePublished=24th December 2012\n|Author=Chef\n|ImageComment = White onions\n|Servings = Servings: 16 - Makes 1 jar of [[onion]] relish\n|Difficulty = 2\n|TotalTime = 13 hours (incl. infuse time) \n|PrepTime = 13 hours\n|CookTime = None\n|Image = [[Image:Onions.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A different chutney</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice with corned beef</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nA nice spicy relish that is a good accompaniment to most spicy dishes.\n\n{{RecipeIngredients\n| 2 fresh [[red chillies]] ( or 1 red and 1 green)\n| 1 teaspoon [[allspice berries]]\n| &frac12; teaspoon [[black peppercorns]]\n| 1 teaspoon [[dried]] [[oregano]]\n| 2 [[cloves garlic, peeled and crushed]]\n| 2 medium white [[onions]]\n| 100ml (3.5 fl oz) [[white wine vinegar]]\n| 200 ml (7 fl oz) [[cider vinegar]]\n| [[Sea salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Roast the [[chillies]] as [[Roasted red pepper|described here]]\n| In a [[mortar and pestle]] or a [[coffee grinder]], grind the [[allspice]], [[peppercorns]] and [[oregano]] until coarsely ground\n| Slice the [[onions]] very thinly (a [[food processor]] is good for this) .  Add to a bowl\n| Skin and de-seed the [[chillies]], slice finely and mix into the [[onions]]\n| Stir in the [[spices]] and the crushed [[Garlic|garlic]] and mix well\n| Add the [[vinegars]] and season with [[salt]]\n| Refrigerate for at least 12 hours to allow the flavours to mingle\n}}\n===Serving suggestions===\n\nServe chilled\n\n==See also==\n* Other [[Onion relish]] recipes\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Chilli pepper recipes]]\n[[Category:Dips and sauces]]\n[[Category:Indian recipes]]\n[[Category:Pickles and preserves]]\n[[Category:Salad recipes]]\n[[Category:Spicy recipes]]\n[[Category:Starters]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Uncooked]]\n[[Category:Pickled]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#onions #chillies #oregano #coffeegrinder #cidervinegar #vinegars #redchillies #roastedredpepper #peppercorns #onionrelish #foodprocessor </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

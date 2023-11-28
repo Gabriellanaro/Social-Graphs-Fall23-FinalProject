@@ -1,0 +1,15 @@
+ 
+
+title": "Ox-brain fritters",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ox-brain fritters a beef recipe \n|titlemode=replace\n|keywords=#oxbrainfritters #flour #egg #fat #breadcrumbs #dip #stew #frying #unusualrecipes #fry #brush \n|hashtagrev=032020\n|description=This recipe is from an undated book, 'Modern practical cookery'. It looks to be circa 1900 and is very similar in content to Mrs Beeton's Cookbook\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1075\n|PortionCalories = 179\n|DatePublished=21st January 2013\n|Author=Chef\n|ImageComment = Modern practical cookery, circa 1900\n |Servings = Serves 6\n |Difficulty = 2\n |TotalTime = 1 hour 20 minutes\n |PrepTime = 1 hour\n |CookTime = 20 minutes\n |Image = [[Image:Modern practical cookery.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">No, no, no!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5</span>\n\n<span class=\"reviewDesc\">Not for me I'm afraid.</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nThis recipe is from an undated book, 'Modern practical cookery'.  It looks to be circa 1900 and is very similar in content to Mrs Beeton's Cookbook.  I just had to add this recipe, though I don't think I'll be trying it out.\n\n{{RecipeIngredients\n| 1 Ox brain\n| 1 [[Egg|egg]]\n| [[Breadcrumbs]]\n| A little [[Salt|salt]] and [[Pepper|pepper]]\n| Deep [[Fat|fat]] for [[Frying|frying]]\n| 1 oz of [[Flour|flour]]\n}}\n===Method===\n\n{{RecipeMethod\n| Soak the brain, in cold water for an hour and remove the membrane\n| [[Stew]] the brain, in enough water to cover it, for 10 minutes, then strain it\n| When cold, slice it thinly and [[Dip|dip]] into [[Flour|flour]] seasoned with [[Salt|salt]] and [[Pepper|pepper]]\n| [[Brush]] the slices with [[Egg|egg]] and coat with [[Breadcrumbs|breadcrumbs]]\n| [[Fry]] them for three minutes in smoking hot [[Fat|fat]] and drain on paper\n}}\n===Serving suggestions===\nServe fritters on lace papers.\n==See also==\n{{FritterRecipes}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Beef recipes]]\n[[Category:Historic recipes]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Offal recipes]]\n[[Category:British recipes]]\n[[Category:Pan fried]]\n[[Category:Unusual recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#oxbrainfritters #flour #egg #fat #breadcrumbs #dip #stew #frying #unusualrecipes #fry #brush </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

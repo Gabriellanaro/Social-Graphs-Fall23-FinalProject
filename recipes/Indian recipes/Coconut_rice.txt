@@ -1,0 +1,16 @@
+title": "Coconut rice",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Coconut rice, Indian recipe \n|titlemode=replace\n|keywords=#rice #coconut #coconutrice #chickenstock #stock #boil #boiledorsimmered #grated #simmer #coconutmilk #boiling \n|hashtagrev=032020\n|description=This rice dish is common throughout Asia and is easy to make at home\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 5064\n|PortionCalories = 1266\n|DatePublished=24th October 2012\n|Author=Chef\n|ImageComment = `Roasting' coconut in a wok\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 1 hour\n|PrepTime = 20 minutes\n|CookTime = 40 minutes\n|Image = [[Image:Toasted Coconut.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Got mine from the funfair</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">It was rotten when I opened it.</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\n\nThis [[rice]] dish is common throughout Asia and is easy to make at home.  You need a fresh [[coconut]] for this though, so down to the market or off to the funfair!\n\n{{RecipeIngredients\n| 1 fresh [[coconut]]\n| 400 ml (14 fl oz) tinned [[coconut milk]] (unsweetened)\n| 400 ml (14 fl oz) good [[chicken stock]] or a Knorr [[chicken stock]] cube in [[boiling]] water\n| 225 g (8 oz)  fragrant [[basmati rice]] (or any long-grain [[rice]])\n| 115 g (4 oz) freshly [[grated]] [[coconut]] flesh\n|* See our [[Preparing a coconut|step by step instructions for cracking open preparing a coconut]]\n}}\n===Method===\n\n{{RecipeMethod\n| Bring the coconut [[milk]] and [[stock]] to the [[boil]] in a large pan\n| Rinse the [[rice]] in a sieve under cold running water until it runs clear\n| Add the [[rice]] to the [[stock]], stir once, reduce the heat, cover and [[simmer]] for 25 minutes. Don't fiddle with it!\n| Remove from the heat and leave covered for 10 minutes to absorb all of the liquid\n| Heat a [[wok]] without [[oil]] and roast the [[coconut]] until it turns golden\n| Fluff the [[rice]] up with a fork and sprinkle the [[coconut]] over the top\n}}\n===Coconut shredder working in a 10 second video=== \n<YouTube>https://youtu.be/-0Ha0o0Xy5Q</YouTube>\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Indian recipes]]\n[[Category:Rice recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#rice #coconut #coconutrice #chickenstock #stock #boil #boiledorsimmered #grated #simmer #coconutmilk #boiling </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,15 @@
+ 
+
+title": "Shepherd's pie recipes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=A selection of shepherd's pie recipes Cooking Wiki\n|titlemode=replace\n|keywords=#shepherdspierecipes #shepherdspie #simpleshepherdspie #piestartsandflans #irishrecipes #britishrecipes #potatorecipes #shepherdspiewithspicylambandpinenuts #cookingwithwine \n|hashtagrev=12032020\n|description=In this section we have a number of Shepherd's pie recipes that you might like to try: Simple shepherd's pie Shepherds pie Shepherd's pie with\n}}\n<!-- /seo -->\n\n\n[[Image:Classic shepherds pie recipe.jpg|thumb|300px|right|[[Shepherds pie]]]]\nIn this section we have a number of '''Shepherd's pie recipes''' recipes that you might like to try:\n* '''[[Simple shepherd's pie]]'''\n* '''[[Shepherds pie]]'''\n* '''[[Shepherd's pie with spicy lamb and pine nuts]]'''\n{{RecipeLine}}\n[[Category:Recipes|Shepherds]]\n[[Category:Lamb recipes|Shepherds]]\n[[Category:Main courses|Shepherds]]\n[[Category:Meat recipes|Shepherds]]\n[[Category:Potato recipes]]\n[[Category:Pies tarts and flans]]\n[[Category:British recipes]]\n[[Category:Irish recipes]]\n[[Category:Cooking with wine]]\n{{BottomBanner}}\n{{RecipeSkip}}\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#shepherdspierecipes #shepherdspie #simpleshepherdspie #piestartsandflans #irishrecipes #britishrecipes #potatorecipes #shepherdspiewithspicylambandpinenuts #cookingwithwine </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

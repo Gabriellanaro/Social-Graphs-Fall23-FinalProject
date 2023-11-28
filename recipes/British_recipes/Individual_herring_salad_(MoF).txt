@@ -1,0 +1,16 @@
+title": "Individual herring salad (MoF)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Individual herring salad (MoF) a British recipe\n|titlemode=replace\n|keywords=#radishes #watercress #tomato #lettuce #herring #steamed \n|hashtagrev=032020\n|description=From the my mum's Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 529\n|PortionCalories = 529\n|DatePublished=25th October 2012\n|Author=Chef\n|ImageComment = All about Herrings - 1948\n|Servings = Serves 1\n|Difficulty = 1\n|TotalTime = 35 minutes (incl cooling)\n|PrepTime = 20 minutes\n|CookTime = 15 minutes\n|Image = [[Image:All_about_Herrings.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">This worked well with Mackerel</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.3</span>/5</span>\n\n<span class=\"reviewDesc\">I can't find fresh herring</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nFrom the Ministry of Food leaflet \"All about Herrings\" - reprinted in 1948!\n\n{{RecipeIngredients\n| 1 [[herring]], cleaned and boned\n| &#189; level teaspoon [[salt]]\n| 3 [[lettuce]] leaves\n| 2 tablespoons thick salad dressing\n| 2 [[radishes]]\n| 1 whole [[tomato]]\n| A few sprigs of [[watercress]]\n}}\n===Method===\n\n{{RecipeMethod\n| Rub the [[herring]] with with the [[salt]] and steam it between two plates over a saucepan of boiling water. This will take 10-15 minutes\n| Allow to cool\n| Arrange the [[lettuce]] leaves on a plate with the cold cooked herring\n| Coat the fish with the salad dressing and decorate with the sliced [[radishes]], [[tomato]] and [[watercress]]\n}}\n{{RecipeLine}}\n[[Category:Recipes|Herring]]\n[[Category:Fish recipes|Herring]]\n[[Category:Sea fish recipes|Herring]]\n[[Category:Main courses|Herring]]\n[[Category:Salad recipes|Herring]]\n[[Category:Historic recipes|Herring]]\n[[Category:British recipes]]\n[[Category:Steamed]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#radishes #watercress #tomato #lettuce #herring #steamed </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

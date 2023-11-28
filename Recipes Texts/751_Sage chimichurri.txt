@@ -1,0 +1,15 @@
+ 
+
+title": "Sage chimichurri",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sage chimichurri recipe \n|titlemode=replace\n|keywords=#sageleaves #sagechimichurri #redwinevinegar #perfectporksausages #cup #ketchup #sage #argentina #sauce #recipesfromothersites #parsley \n|hashtagrev=032020\n|description=In Argentina, chimichurri is as common as ketchup is in the UK. Traditionally made with parsley\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 416\n|PortionCalories = 104\n|DatePublished=22nd October 2015\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  5 minutes\n|PrepTime =  5 minutes\n|CookTime = None\n|Image = [[Image:Sage chimichurri recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Dipping sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">Lovely to dip Knights malt crunch bread in.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nIn [[Argentina]], [[Chimichurri|chimichurri]] is as common as [[Ketchup|ketchup]] is in the UK. Traditionally made with [[Parsley|parsley]], this classic [[Sauce|sauce]] is served up at family BBQs, perfect with the [[Sage|sage]] in [[Perfect Pork sausages|perfect pork sausages]]!\n\nThis recipe is reproduced courtesy of [[Debbie&andrew's sausages|debbie&andrew's sausages]].\n{{RecipeIngredients\n\n| &#188; [[Cup|cup]] [[Sage leaves|sage leaves]] and stems\n| &#188; teaspoon [[Red pepper|red pepper]] flakes\n| &#189; teaspoon [[Salt|salt]]\n| 1 [[Clove|clove]] [[Garlic, peeled and crushed|garlic, peeled and crushed]] or [[Minced|minced]]\n| 1 tablespoon [[Red wine vinegar|red wine vinegar]]\n| 1 tablespoon water\n| 3 tablespoons [[Oil|oil]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Chop the [[Sage leaves|sage leaves]] as finely as you can\n| Add all the ingredients in a bowl and mix well\n| Use as an accompaniment to your recipe\n}}\n[[Category:Recipes]]\n{{RecipeLine}}\n[[Category:British recipes]]\n[[Category:Latin American recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Chilli pepper recipes]]\n[[Category:Garlic recipes]]\n[[Category:Gluten free recipes]]\n[[Category:Debbie&andrew's sausage recipes]]\n[[Category:Uncooked]]\n{{Template:DebbieAndAndrew attribution}}\n[[Category:Recipes from other sites]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sageleaves #sagechimichurri #redwinevinegar #perfectporksausages #cup #ketchup #sage #argentina #sauce #recipesfromothersites #parsley </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

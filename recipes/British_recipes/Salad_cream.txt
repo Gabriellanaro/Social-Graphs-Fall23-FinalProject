@@ -1,0 +1,16 @@
+title": "Salad cream",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Salad cream, British recipe \n|titlemode=replace\n|keywords=#saladcream #whitepepper #evaporatedmilk #horseradish #mustard #sunfloweroil #blender #sauces #herbs #salads #fridge \n|hashtagrev=032020\n|description=This recipe has been heavily adapted from Mrs Beeton. It tastes nothing like commercial salad cream and is much thicker!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 169\n|PortionCalories = 169\n|DatePublished=20th October 2012\n|Author = JuliaBalbilla\n|Servings = 1\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 15 minutes\n |CookTime = None\n|Image = [[Image:Salad cream recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nicer than the bottled stuff</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">And this is not chemical tasting, like the Heinz stuff.</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nThis recipe has been heavily adapted from Mrs Beeton.  It tastes nothing like commercial salad cream and is much thicker!\n\n{{RecipeIngredients\n| 1 teaspoon [[Mustard powder|mustard powder]]\n| &frac12;  teaspoon [[Caster sugar|caster sugar]]\n| 50 ml  [[Cider vinegar|cider vinegar]]\n| A large pinch each of [[White pepper|white pepper]] and [[Cayenne pepper|cayenne pepper]]\n| &frac12; teaspoon [[Salt|salt]]\n| 150 ml [[Evaporated milk|evaporated milk]]\n| 150 ml [[Sunflower oil|sunflower oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the [[Mustard|mustard]], [[Sugar|sugar]], [[Vinegar|vinegar]], [[White pepper|white pepper]], [[Cayenne|cayenne]] and the [[Salt|salt]]. \n| Using a [[Blender|blender]], add the [[Evaporated milk|evaporated milk]], until the mixture is smooth.\n| Add the [[Oil|oil]], little by little, until you have a creamy consistency.\n| Adjust seasoning to taste.\n}}\n===Serving suggestions===\nWith [[Salads|salads]] of course, but can be used as the basis for other [[Sauces|sauces]].\n===Variations===\nAdd chopped, [[Herbs|herbs]], [[Garlic|garlic]], [[Horseradish|horseradish]], or whatever you like.\n===Chef's notes===\nThis will keep for a few days in the [[Fridge|fridge]].\n===Servings===\nServings: 18 - Makes about 350 ml\n{{RecipeLine}}\n[[Category:Recipes|Salad cream]]\n[[Category:British recipes|Salad cream]]\n[[Category:Historic recipes|Salad cream]]\n[[Category:Marinades dressings and butters|Salad cream]]\n[[Category:Vegetable recipes|Salad cream]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#saladcream #whitepepper #evaporatedmilk #horseradish #mustard #sunfloweroil #blender #sauces #herbs #salads #fridge </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

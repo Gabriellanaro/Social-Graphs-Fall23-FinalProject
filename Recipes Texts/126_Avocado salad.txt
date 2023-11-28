@@ -1,0 +1,15 @@
+ 
+
+title": "Avocado salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Avocado salad, British recipe \n|titlemode=replace\n|keywords=#salad #tomatoes #avocadosalad #cucumber #avocados #sherryvinegar #nampla #lemonjuice #springonions #chillies #cucumbers \n|hashtagrev=032020\n|description=Avocado pears, cucumbers, tomatoes and a zingy dressing make this salad idea for a summers day meal\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 792\n|PortionCalories = 198\n|DatePublished=3rd March 2013\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 15 minutes\n|PrepTime = 15 minutes\n|CookTime = None\n|Image = [[Image:Avocado salad recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Cucumbers, unusual with avocados</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Actually works reasonably well</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\n[[Avocado pears]], [[cucumbers]], [[tomatoes]] and a zingy dressing make this [[salad]] idea for a summers day meal\n\n{{RecipeIngredients\n| 2 ripe [[avocados]]\n| &#189; a [[cucumber]]\n| 2 large [[salad]] [[tomatoes]]\n| 2 [[spring onions]], [[chopped on the diagonal]]\n| 1 fresh green or [[red chili]]\n| &#189; tablespoon [[lemon juice]]\n| &#189; tablespoon [[sherry vinegar]]\n| 1 teaspoon [[nam pla]]\n| 1 tablespoon [[extra virgin olive oil]]\n| [[Salt]] and [[freshly ground black pepper]]\n}}\n===Method===\n\n\n'''[[Avocado]] [[salad]]'''\n{{RecipeMethod\n| Slice the [[avocados]] thinly\n| Peel and slice the [[cucumber]] thinly\n| Slice the [[tomatoes]]\n| Arrange all in a serving bowl\n| Deseed and chop the [[chili]]\n| Mix the [[lemon juice]], [[nam pla]], [[sherry vinegar]], [[sugar]] and [[chillies]] in a bowl and whisk together\n| Season with [[salt]] and [[pepper]]\n| Drizzle over the [[salad]]\n| Sprinkle the chopped spring onions over the top\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Main courses]]\n[[Category:Salad recipes]]\n[[Category:British recipes]]\n[[Category:Uncooked]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#salad #tomatoes #avocadosalad #cucumber #avocados #sherryvinegar #nampla #lemonjuice #springonions #chillies #cucumbers </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Hachee (Dutch hash)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Hachee (Dutch hash) recipe\n|titlemode=replace\n|keywords=#onions #beef #browned #butter #pork #veal #flour #stew #boiledpotatoes #beefstock #stock \n|hashtagrev=032020\n|description=Hachee is a type of stew made from beef, pork or veal.\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=31st December 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime =  1 hour, 55 minutes\n|PrepTime =  15 minutes\n|CookTime =  1 hour, 40 minutes\n|TotalCalories = 3076\n|PortionCalories = 769 \n|Image = [[Image:Hachee Dutch hash recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Dutch Hash - Are you shure? \ud83d\ude1b</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Having a laugh, I think?</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nHachee is a type of [[Stew|stew]] made from [[Beef|beef]], [[Pork|pork]] or [[Veal|veal]]\n{{RecipeIngredients\n\n| 900g boneless [[Beef|beef]], [[Pork|pork]] or [[Veal|veal]], [[Diced|diced]]\n| [[Salt]] and [[Pepper|pepper]]\n| 55g [[Butter|butter]]\n| 2 large [[Onions|onions]], peeled and cut into rings\n| 40g [[Flour|flour]]\n| 750ml hot [[Beef Stock|beef stock]]\n| 2 [[Bay leaves|bay leaves]]\n| 2 [[Cloves|cloves]]\n| 1 teaspoon [[Sugar|sugar]]\n| 30ml [[Red wine vinegar|red wine vinegar]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Season the [[Meat|meat]] with the [[Salt|salt]] and [[Pepper|pepper]]\n| Heat the [[Butter|butter]] in a pot and saut\u00e9 the [[Meat|meat]] and [[Onions|onions]] over a high heat until lightly [[Browned|browned]].\n| Add the [[Flour|flour]] and gently cook, stirring for 4 minutes.\n| Gradually add the [[Stock|stock]], stirring up the [[Browned|browned]] bits at the bottom of the pan\n| Add the remaining ingredients and [[Simmer|simmer]], covered, over a low heat for 1\u00bd hours.\n}}\n===Serving suggestions===\nServe with [[Boiled potatoes|boiled potatoes]] and [[Kruidige rodekool (Spiced red cabbage)]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Dutch recipes]]\n[[Category:Main courses]]\n[[Category:Beef recipes]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]\n[[Category:Veal recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#onions #beef #browned #butter #pork #veal #flour #stew #boiledpotatoes #beefstock #stock </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

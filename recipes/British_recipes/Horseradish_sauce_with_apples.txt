@@ -1,0 +1,16 @@
+title": "Horseradish sauce with apples",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Horseradish sauce with apples a fruit recipe\n|titlemode=replace\n|keywords=#horseradish #horseradishsaucewithapples #whitewinevinegar #apples #meats #sauce \n|hashtagrev=032020\n|description=This unusual horseradish sauce recipe goes well with salty meats\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 397\n|PortionCalories = 397\n|DatePublished=12th April 2013\n|Author=Chef\n|ImageComment = Horseradish root\n |Servings = Servings: 40 - 1 Jar\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 15 minutes\n |CookTime = None\n|Image = [[Image:Horseradish sauce with apples recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">An interesting pairing</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">One that works surprisingly well</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis unusual [[horseradish]] [[sauce]] recipe goes well with salty [[Meats|meats]].\n\n{{RecipeIngredients\n| 150g Fresh [[Horseradish|horseradish]]\n| 150g Cooking [[Apples|apples]]\n| 284 ml [[White wine vinegar|wine vinegar]]\n| Pinch of [[Sugar|sugar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Peel and grate an equal quantity of [[Horseradish|horseradish]] and cooking [[Apples|apples]].\n| Place in serving bowl or a jar, if storing, and cover with [[White wine vinegar|white wine vinegar]].\n| Add [[Sugar|sugar]] to taste\n}}\n{{Template:HorseradishSeeAlso}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:British recipes]]\n[[Category:Historic recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Cooking with wine]]\n[[Category:Fruit recipes]]\n[[Category:Unusual recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#horseradish #horseradishsaucewithapples #whitewinevinegar #apples #meats #sauce </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

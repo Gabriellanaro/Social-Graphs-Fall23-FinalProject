@@ -1,0 +1,15 @@
+ 
+
+title": "Ensalada Valenciana",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ensalada Valenciana, Spanish recipe \n|titlemode=replace\n|keywords=#ensaladavalenciana #lettuce #oranges #garlic #onion #blackolives #diced #marinate #whitewinevinegar #vinegar #olives \n|hashtagrev=032020\n|description=A refreshing salad from Valencia\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 204\n|PortionCalories = 51\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 15 minutes\n |PrepTime = 15 minutes\n |CookTime = None\n |Image = [[Image:Ensalada Valenciana recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A salad with oranges</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">This was good with mackerel</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA refreshing [[Salad|salad]] from Valencia.\n{{RecipeIngredients\n| 1 small [[Onion|onion]], finely [[Diced|diced]]\n| 2 large [[Oranges|oranges]], peeled and thinly sliced\n| 60 ml [[Olive oil|olive oil]]\n| 15 ml [[White wine vinegar|white wine vinegar]]\n| [[Garlic]] to taste, crushed\n| Pinch of [[Salt|salt]]\n| Black [[Pepper|pepper]] to taste\n| Crisp [[Lettuce|lettuce]] leaves, [[Shredded|shredded]] or torn\n| 12 [[Black olives|black olives]], pitted\n}}\n===Method===\n\n{{RecipeMethod\n| [[Marinate]] the [[Onions|onions]] and [[Oranges|oranges]] in the [[Oil|oil]], together with the [[Vinegar|vinegar]], [[Garlic|garlic]] and seasoning for about an hour.\n| Add the [[Lettuce|lettuce]] and [[Olives|olives]] and mix well.\n}}\n{{RecipeLine}}\n[[Category:Recipes|Ensalada valenciana]]\n[[Category:Accompaniments|Ensalada valenciana]]\n[[Category:Garlic recipes|Ensalada valenciana]]\n[[Category:Salad recipes|Ensalada valenciana]]\n[[Category:Snacks and light bites|Ensalada valenciana]]\n[[Category:Spanish recipes|Ensalada valenciana]]\n[[Category:Starters|Ensalada valenciana]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes|Ensalada valenciana]]\n[[Category:Vegetarian recipes|Ensalada valenciana]]\n[[Category:Uncooked]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#ensaladavalenciana #lettuce #oranges #garlic #onion #blackolives #diced #marinate #whitewinevinegar #vinegar #olives </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

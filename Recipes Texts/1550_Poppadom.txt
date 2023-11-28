@@ -1,0 +1,15 @@
+ 
+
+title": "Poppadom",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Poppadom: Cooking Wiki\n|titlemode=replace\n|keywords=#poppadom #dough #onions #flour #appetiser #storecupboarditems #indianrecipes #cumin #roasting #dipsandcondiments #riceflour \n|hashtagrev=12032020\n|description=The poppadom (for alternative names see end of page) is a thin Indian wafer, sometimes described as a cracker or flatbread. An important\n}}\n<!-- /seo -->\n\n\n[[Image:Microwave poppadoms recipe.jpg|thumb|300px|right|[[Microwave poppadoms|Microwaved poppadoms!]]<br>The best and healthiest way to cook them.|alt=Poppadom Indian bread starter]]\nThe poppadom (''for alternative names see end of page'') is a thin Indian wafer, sometimes described as a [[cracker]] or [[flatbread]].\n\nAn important part of Indian cuisine, recipes vary from region to region and family to family, but typically it is made from lentil, chickpea ([[Flour|gram]]), black gram or [[rice flour]]. In North India, the [[lentil]] variety is more popular and is usually called 'papad'. [[Salt]] and [[peanut oil]] are added to make a [[dough]], which can be flavoured with seasonings such as [[chili]], [[cumin]], [[Garlic|garlic]] or [[black pepper]]. Sometimes [[baking soda]] is also added. The [[dough]] is shaped into a thin, round flat bread and then dried (traditionally in the sun) and can be cooked by [[deep-frying]], [[roasting]] over an open flame, toasting, or microwaving, depending on the desired texture.\n\nPapadums are typically served as an accompaniment to a meal in India. It is also eaten as an [[appetiser]] or a snack and can be eaten with various toppings such as chopped [[onions]], chutney or other [[dips and condiments]]. In certain parts of India, raw papadums (dried but unroasted) are used in curries and vegetable preparations. Papadums are made in different sizes. Smaller ones can be eaten like a snack chip and the larger ones can be used to make wraps.\n\n\n'''Also know as:'''  ''Appadum'', ''Appala'', ''Appoll'', ''Appalum'', ''Papad'', ''Pappad'', ''Pappard'', ''Pappadum'', ''Popadam'', ''Poppadam'', ''Poppadom'', ''Papari''\n===[[Microwave poppadoms|Microwaved poppadoms]], the healthy option!===\nYou do not need to fry poppadoms, it's cleaned, quicker and healthier to [[Microwave poppadoms|cook them in a the microwave - recipe here]].\n{{CategoryLineIngredients}}\n[[Category:Ingredients]]\n[[Category:Store cupboard items]]\n[[Category:Indian recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#poppadom #dough #onions #flour #appetiser #storecupboarditems #indianrecipes #cumin #roasting #dipsandcondiments #riceflour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Air fried butternut squash",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Air fried butternut squash\n|titlemode=replace\n|keywords=#airfriedbutternutsquash #butternutsquash #chorizoandprawncurry #oliveoil #airfry #airfriedrecipes #salted #recipes #seeds #vegetarianrecipes #veganrecipes\n|hashtagrev=12032020\n|description=A great way to cook Butternut butternut squash, so quick and easy.\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=20th October 2021\n|Author=Chef\n|ImageComment = \n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  1 hour, 11 minutes\n|PrepTime =  35 minutes\n|CookTime =  36 minutes\n|TotalCalories = 90\n|PortionCalories = 45\n|Image = [[Image:Air fried butternut squash recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">So simple</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">So good!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nA great way to cook [[Butternut squash|butternut squash]], so quick and easy.\n{{RecipeIngredients\n\n| 1 [[Butternut squash|butternut squash]]\n| 1 tablespoon [[Olive oil|olive oil]]\n| Pinch of [[Salt|salt]] and [[Pepper|pepper]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Peel the [[Butternut squash|butternut squash]]\n| Cut in half and remove and discard the [[Seeds|seeds]]\n| Cut into slices\n| Rinse well and soak in [[Salted|salted]] water for 30 minutes if possible\n| Add the [[Olive oil|olive oil]] to your [[Air Fryer|air fryer]]\n| [[Air fry]] for about 35 minutes or until they start to [[Brown|brown]] slightly\n| Keep an eye on them as they 'go over' very quickly once they are done\n}}\n<gallery widths=300px heights=300px perrow=5>\nFile:Air fried butternut squash soaking.jpg|Soaking in salted water\nFile:Air fried butternut squash ready to cook.jpg|Ready to cook\nFile:Chorizo and prawn curry recipe.jpg|Served with a [[Chorizo and prawn curry]]\n</gallery>\n\n===Serving suggestions===\nGreat with [[Chorizo and prawn curry]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Accompaniments]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Air fried recipes]]\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#airfriedbutternutsquash #butternutsquash #chorizoandprawncurry #oliveoil #airfry #airfriedrecipes #salted #recipes #seeds #vegetarianrecipes #veganrecipes</code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

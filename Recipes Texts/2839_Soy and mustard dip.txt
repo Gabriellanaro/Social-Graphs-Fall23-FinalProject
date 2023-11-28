@@ -1,0 +1,15 @@
+ 
+
+title": "Soy and mustard dip",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Soy and mustard dip recipe Accompaniments\n|titlemode=replace\n|keywords=#soyandmustarddip #lightsoysauce #mustard #sesameoil \n|hashtagrev=032020\n|description=A nice oriental style dip that goes well with chicken\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 27\n|PortionCalories = 13\n|DatePublished=2nd August 2012\n|Author=Chef\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime = 3 minutes\n|PrepTime = 3 minutes\n|CookTime = None\n|Image = [[Image:Soy and mustard dip.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Simple</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">..as all good things are!</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nA nice oriental style dip that goes well with chicken.\n\n{{RecipeIngredients\n| 3 tablespoons [[light soy sauce]]\n| 1 teaspoon [[mustard]] powder\n| 1 teaspoon [[sesame oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Add all ingredients to a small bowl\n| Mix well\n}}\n===Serving suggestions===\n\nServe as a dip with chicken\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n[[Category:Starters]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#soyandmustarddip #lightsoysauce #mustard #sesameoil </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

@@ -1,0 +1,16 @@
+title": "Mint and cucumber raitha",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mint and cucumber raitha, Indian recipe \n|titlemode=replace\n|keywords=#mintleaves #cucumber #mintandcucumberraitha #dip #turmeric #refrigerate #turmericpowder #paprika #paprikapowder #garlic #naturalyogurt \n|hashtagrev=032020\n|description=The perfect accompaniment for spicy food that is economical and easy to make. Play around with the ingredients to suite your taste\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 304\n|PortionCalories = 76\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 4 to 6 people\n |Difficulty = 1\n |TotalTime = 2 hours, 5 minutes\n |PrepTime = 2 hours, 5 minutes\n |CookTime = None\n |Image = [[Image:Mint and cucumber riatha recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A curry 'must-have'</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice with rice</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\n\nThe perfect accompaniment for spicy food that is economical and easy to make.  Play around with the ingredients to suite your taste.\n\n{{RecipeIngredients\n| 500 g plain [[Natural yogurt|natural yogurt]]. For a creamier [[Dip|dip]] use [[Greek-style yogurt]]\n| &frac12; [[Cucumber|cucumber]], peeled, cut into four lengthways and a knife run along the centre of each quadrant to remove 'some' of the seeds\n| 1 Clove of [[Garlic|garlic]], peeled and crushed\n| &frac14; teaspoon of [[Sea Salt|sea salt]]\n| &frac12; teaspoon of [[Sugar|sugar]]\n| Handful of [[Mint leaves|mint leaves]], washed and chopped\n}}\n'''To garnish'''\n* &frac14; teaspoon of [[Paprika|paprika]]\n* &frac14; teaspoon of [[turmeric powder]]\n* [[Mint leaves]] or flowers\n\n===Method===\n\n{{RecipeMethod\n| Chop the [[Cucumber|cucumber]] quadrants into thin slices\n| Mix all the ingredients in a bowl, stir really well and [[Refrigerate|refrigerate]] for a few hours for the flavours to infuse\n| Arrange in a bowl and sprinkle with the tiniest pinch of [[Turmeric|turmeric]] and [[Paprika powder|paprika powder]]\n| Garnish with [[Mint leaves|mint leaves]] or flowers\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Indian recipes]]\n[[Category:Salad recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mintleaves #cucumber #mintandcucumberraitha #dip #turmeric #refrigerate #turmericpowder #paprika #paprikapowder #garlic #naturalyogurt </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

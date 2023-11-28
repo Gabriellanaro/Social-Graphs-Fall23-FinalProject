@@ -1,0 +1,11 @@
+title": "Szeged_guly%5Cu00e1s_of_fowl_(HC)",
+                "invalidreason": "The requested page title contains invalid characters: \"%5C\".",
+                "invalid": ""
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

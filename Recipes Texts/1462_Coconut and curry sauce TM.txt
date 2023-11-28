@@ -1,0 +1,15 @@
+ 
+
+title": "Coconut and curry sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Coconut and curry sauce - A Thermomix recipe\n|titlemode=replace\n|keywords=#currypowder #thermomix #butter #coconutmilk #pork #vegetables #eggyolks #fish #thermomixrecipes #india #lamb \n|hashtagrev=032020\n|description=This Coconut and curry sauce recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 671\n|PortionCalories = 134\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 5 - Makes 250 ml\n |Difficulty = 1\n |TotalTime = 9 minutes\n |PrepTime = 5 minutes\n |CookTime = 4 minutes\n |Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">This was lovely with grilled basa</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">Nice and coconutty</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 3 [[Egg yolks|egg yolks]]\n| 200g [[Milk|milk]]\n| 50g [[Coconut milk|coconut milk]]\n| Pinch of [[Salt|salt]]\n| Pinch of [[Pepper|pepper]]\n| 1 teaspoon [[Curry powder|curry powder]]\n| 1 teaspoon [[Flour|flour]]\n| 1 teaspoon [[Butter|butter]]\n| A pinch of [[Nutmeg|nutmeg]]\n}}\n===Method===\n\n{{RecipeMethod\n| Place all of the ingredients in the TM.\n| [[Blend]] '''4 minutes / 80\u00b0 / Speed 4'''.\n| Serve hot.\n}}\n===Serving suggestions===\nIt accompanies all kinds of [[Meat|meat]], especially [[Pork|pork]], but also [[Chicken|chicken]], [[Lamb|lamb]] and [[Turkey|turkey]].  It is exquisite with [[Fish|fish]], [[Pulses|pulses]] and [[Vegetables|vegetables]].\n===Variations===\n[[Curry]] [[Sauce|sauce]] is one of the most popular in [[India]].  It is very aromatic, but mild.  If you prefer more flavour add more [[Curry powder|curry powder]] or [[Pepper|pepper]].  \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Indian recipes]]\n[[Category:Dips and sauces]]\n[[Category:Spicy recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#currypowder #thermomix #butter #coconutmilk #pork #vegetables #eggyolks #fish #thermomixrecipes #india #lamb </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

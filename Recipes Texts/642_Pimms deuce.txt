@@ -1,0 +1,15 @@
+ 
+
+title": "Pimm's deuce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pimm's deuce, British recipe \n|titlemode=replace\n|keywords=#pimmsdeuce #orangejuice #orange #cranberryjuice #highballglass #strawberry \n|hashtagrev=032020\n|description=Be prepared for the tennis season with a Pimm's deuce\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 52\n|PortionCalories = 52 \n|DatePublished=22nd October 2012\n|Author=Chef\n|Servings = Serves 1\n|Difficulty = 1\n|TotalTime =  1 minute\n|PrepTime =  1 minute\n|CookTime = None\n|Image = [[Image:Pimms deuce.png|200px|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Spiffing!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">(if you like that sort of thing)</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nBe prepared for the tennis season with a [[Pimm's]] deuce.\n\n{{RecipeIngredients\n| 1 part [[Pimm's No.1]]\n| 1.5 parts [[orange juice]]\n| 1.5 parts [[cranberry juice]]\n| A slice of [[orange]]\n| A [[strawberry]]\n}}\n===Method===\n\n{{RecipeMethod\n| Take a [[highball glass]] or a jug\n| Fill it with ice\n| Add the Pimm's and juices\n| Garnish with the fruit\n}}\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pimmsdeuce #orangejuice #orange #cranberryjuice #highballglass #strawberry </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

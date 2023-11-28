@@ -1,0 +1,16 @@
+title": "Chilled yogurt",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Chilled yogurt, Vegetarian recipe \n|titlemode=replace\n|keywords=#chilledyogurt #dill #walnuts #garlic #grated #cucumber #oliveoil #yoghurt #sauce #seafood #soup \n|hashtagrev=032020\n|description=Tarator, a chilled yogurt and cucumber soup, superb for hot summer days, can also be used as a dip for seafood or a pour-over sauce for cauliflower\n}}\n<!-- /seo -->\n\n{{Template:AdvancePreparationIcon}}\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 620\n|PortionCalories = 124\n|DatePublished=24th October 2012\n|Author=Chef\n|Servings = Serves 5\n|Difficulty = 1\n|TotalTime = 2 hours, 10 minutes\n|PrepTime = 2 hours, 10 minutes\n|CookTime = None\n|Image = [[Image:Chilled yogurt & cucumber soup (tarator) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice with smoked salmon</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.87</span>/5</span>\n\n<span class=\"reviewDesc\">It's the dill that makes this</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\nTarator, a chilled [[Yogurt|yogurt]] and [[Cucumber|cucumber]]  [[Soup|soup]], superb for hot summer days, can also be used as a [[Dip|dip]] for [[Seafood|seafood]] or a pour-over [[Sauce|sauce]] for [[Cauliflower|cauliflower]] etc.\n\n{{RecipeIngredients\n| 2 [[Cucumbers|cucumbers]], peeled and [[Grated|grated]] \n| 1 [[Garlic|garlic]] clove, peeled and crushed\n| 2 large cartons of [[Greek-style yogurt]]\n| &#189; cup water, (optional)\n| &#188; teaspoon [[Sea Salt|sea salt]]\n| 2 tablespoons [[Dill|dill]], chopped\n| 2 tablespoons [[Olive oil|olive oil]]\n| 25 g Chopped [[Walnuts|walnuts]], (optional)\n}}\n===Method===\n\n{{RecipeMethod\n| Mix the Crushed [[Garlic|garlic]] and [[salt]] together and add to the [[Grated|grated]] [[Cucumber|cucumber]]\n| Add the [[Yoghurt|yogurt]] to a large bowl and mix in the yogurt\n| Depending upon the consistency and flavour of the [[Yoghurt|yogurt]] you may wish to optionally thin-down the yogurt with the water\n| Taste and adjust seasoning\n| Drizzle with [[olive oil]], sprinkle with chopped [[Dill|dill]] and the crushed [[Walnuts|walnuts]] if using\n}}\n===Serving suggestions===\n[[Refrigerate]] for a few hours before serving.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Albanian recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Salad recipes]]\n[[Category:Soup and stock recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chilledyogurt #dill #walnuts #garlic #grated #cucumber #oliveoil #yoghurt #sauce #seafood #soup </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

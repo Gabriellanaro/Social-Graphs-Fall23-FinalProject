@@ -1,0 +1,15 @@
+ 
+
+title": "Salsa de Vino y Mandarina (Wine and Mandarin Sauce) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Salsa de Vino y Mandarina Wine and Mandarin Sauce  a fruit recipe\n|titlemode=replace\n|keywords=#wine #juice #mandarins #thermomix #duck #turkey #chicken #cream #pork #thermomixrecipes #liver \n|hashtagrev=032020\n|description=This Wine and Mandarin Sauce recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 595\n|PortionCalories = 42\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 14 - Makes 400 ml\n |Difficulty = 1\n |TotalTime = 50 minutes\n |PrepTime = 5 minutes\n |CookTime = 45 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Orange sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Made in my Thermie</span>\n\n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 250g sweet [[Wine|wine]]\n| 150g [[Single cream|single cream]]\n| 2 [[Mandarins|mandarins]]\n| [[Salt]] and [[Pepper|pepper]] to taste\n}}\n===Method===\n\n{{RecipeMethod\n| Squeeze the [[Juice|juice]] from the [[Mandarins|mandarins]] and reserve.\n| Add the [[Wine|wine]] to the bowl and program '''20 minutes / Temp. Varoma / Speed 2'''.\n| Check that the [[Wine|wine]] has reduced by about half.  If it hasn't, reduce for a further '''10 minutes''' or until it has done so.\n| Add the [[Cream|cream]], the mandarin [[Juice|juice]], the [[Salt|salt]] and [[Pepper|pepper]].\n| Program '''15 minutes / Temp. Varoma'''.\n}}\n===Serving suggestions===\nThis [[Sauce|sauce]] is exquisite for accompanying [[Duck|duck]] [[Liver|liver]], [[Goose|goose]], [[Turkey|turkey]], [[Chicken|chicken]] or [[Pork|pork]].  Also it can be used to decorate dishes.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Fruit recipes]]\n[[Category:Cooking with wine]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#wine #juice #mandarins #thermomix #duck #turkey #chicken #cream #pork #thermomixrecipes #liver </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

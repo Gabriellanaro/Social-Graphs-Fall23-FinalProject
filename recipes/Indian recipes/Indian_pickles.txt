@@ -1,0 +1,16 @@
+title": "Indian pickles",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Indian pickles: Cooking Wiki\n|titlemode=replace\n|keywords=#indianpickles #vegetables #pickled #fruits #limepickle #palmhearts #onionrelish #marinated #lemonjuice #prawnbalchao #garlicpickle \n|hashtagrev=12032020\n|description=Indian pickles are a variety of spicy pickled side dishes or condiments popular in the Indian Subcontinent, in Southeast Asia, and in many\n}}\n<!-- /seo -->\n\n\n[[Image:Indian pickles.jpg|300px|thumb|right|Indian pickles]]\n'''Indian pickles''' are a variety of spicy [[pickled]] side dishes or [[condiments]] popular in the Indian Subcontinent, in Southeast Asia, and in many other areas among ethnically South Asian communities. The pickle serves as a flavour enhancer and is eaten typically in small pieces with the rest of the meal. There are a wide variety of different pickles. Each is usually made with a mixture of [[fruits]] or [[vegetables]], chopped and [[marinated]] in a liquid (often [[oil]] or [[lemon juice]]) and a variety of [[spices]] (often including lots of [[chili pepper]]) and [[salt]]. Pickling in India is an ancient art of [[food preservation]]. Indian pickles are quite different from the European variety in that the pickling is usually done in [[oil]] rather than using [[vinegar]].\n\nAll sorts of [[fruits]] and [[vegetables]] in south Asia are [[pickled]] in this manner, including [[pumpkins]], [[palm hearts]], [[lotus stems]], [[mango slices]], [[limes]] and rose petals, as well as [[vegetables]] more conventionally pickled in the West.\n===Indian pickle and chutney recipes on Cookipedia===\n* [[Bird's eye chilli paste]]\n* [[Chili vinegar recipe|Chili vinegar]]\n* [[Coconut chutney]]\n* [[Garlic pickle]]\n* [[Ginger chutney]]\n* [[Lemon pickle]]\n* [[Lemon pickle (with anise)]]\n* [[Lime pickle]]\n* [[Mango chutney]]\n* [[Mango and pear chutney (TM)]]\n* [[Mango relish]]\n* [[Mango pickle]]\n* [[Mixed pickle]]\n* [[Onion relish]]\n* [[Prawn Balchao]]\n* [[Spicy hot chutney]]\n* [[Tomato chutney]]\n==See also==\n* [[Chili pepper sauce|Our selection of chilli sauce recipes]]\n{{CategoryLineIngredients}}\n[[Category:Ingredients]]\n[[Category:Prepared foods]]\n[[Category:Store cupboard items]]\n[[Category:Vegetables]]\n[[Category:Pickles and preserves]]\n[[Category:Indian recipes]]\n[[Category:Pickled]]\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#indianpickles #vegetables #pickled #fruits #limepickle #palmhearts #onionrelish #marinated #lemonjuice #prawnbalchao #garlicpickle </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

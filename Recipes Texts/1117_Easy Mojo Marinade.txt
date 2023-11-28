@@ -1,0 +1,15 @@
+ 
+
+title": "Easy Mojo Marinade",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Easy Mojo Marinade, Garlic recipe \n|titlemode=replace\n|keywords=#marinade #easymojomarinade #chicken #pork #fish #citrus #orangejuice #ilealino #recipesfromothersites #images \n|hashtagrev=032020\n|description=This is the easiest recipe for a superlative citrus based marinade perfect for pork, chicken or fish!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1230\n|PortionCalories = 307\n|DatePublished=19th June 2014\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  5 minutes\n|PrepTime =  5 minutes\n|CookTime = None\n|Image = [[Image:Ile Alino.jpg|200px|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Meh!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5 </span>\n\n<span class=\"reviewDesc\">\ud83d\ude44\ud83e\udd14\ud83d\ude33</span>\n \n<span class=\"reviewAuthor\"> [[User:Chef|Jerry, aka Chef]])</span></span>\n}}\nThis is the easiest recipe for a superlative [[Citrus|citrus]] based [[Marinade|marinade]] perfect for [[Pork|pork]], [[Chicken|chicken]] or [[Fish|fish]]!\n\n{{RecipeIngredients\n\n| 1 jar [[Ile Alino]]\n| 1 litre [[Orange juice|orange juice]]\n}}\n\n===Method===\n{{RecipeMethod\n\n| Combine ingredients\n| Let [[Pork|pork]] [[Marinade|marinade]] for at least three hours\n| [[Chicken|chicken]] only needs one hour\n| [[Fish|fish]] just 30 minutes\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:Garlic recipes]]\n[[Category:CubanCuisine.co.uk]]\n[[Category:Marinaded]]\n[[Category:Slow cooked]]\n===Recipe source===\n{{Template:RecipeCourtesyOfCubanCuisine}}\n[[Category:Recipes from other sites]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#marinade #easymojomarinade #chicken #pork #fish #citrus #orangejuice #ilealino #recipesfromothersites #images </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

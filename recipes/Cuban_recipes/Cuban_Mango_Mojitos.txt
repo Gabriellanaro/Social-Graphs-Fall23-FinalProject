@@ -1,0 +1,16 @@
+title": "Cuban Mango Mojitos",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cuban Mango Mojitos, Cocktail recipe \n|titlemode=replace\n|keywords=#cubanmangomojitos #lime #limejuice #rum #mintleaves #glass #mint #muddle #limewedges #wedges #natcomangopulp \n|hashtagrev=032020\n|description=A tangy twist on the authentic Cuban Mojito, perfect for the Beach Hut!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 206\n|PortionCalories = 206\n|DatePublished=9th January 2014\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = 1\n|Difficulty = 1\n|TotalTime =  15 minutes\n|PrepTime =  15 minutes\n|CookTime = None\n|Image = [[Image:Cuban Mango Mojitos recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Hic!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Minty, minty, minty!</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\n\nA tangy twist on the authentic [[Cuban]] Mojito, perfect for the Beach Hut!\n\n{{RecipeIngredients\n| 10 [[Mint leaves|mint leaves]]\n| 1 [[Lime|lime]], cut in [[Wedges|wedges]]\n| 2 tablespoons [[Natco mango pulp]]\n| 1.5 [[jiggers]] [[Rum|rum]]\n| 1 cup [[Club soda|club soda]]\n| 1 cup crushed ice\n| 3 tablespoons [[Sugar|sugar]]\n}}\n\n\n===Method===\n{{RecipeMethod\n| Place [[Mint leaves|mint leaves]] and 1 [[Lime|lime]] wedge into a sturdy [[Glass|glass]].\n| Use a [[Muddle|muddle]]r to crush the [[Mint|mint]] and [[Lime|lime]] to release the [[Mint|mint]] [[Oils|oils]] and [[Lime juice|lime juice]].\n| Add 2 more [[Lime wedges|lime wedges]] and the [[Sugar|sugar]], and [[Muddle|muddle]] again to release the [[Lime juice|lime juice]].\n| Do not strain the mixture. Fill the [[Glass|glass]] almost to the top with ice.\n| Pour the [[Rum|rum]] and [[Mango|mango]] pulp over the ice, and fill the glass with [[Carbonated water|carbonated water]]. Stir, taste, and add more [[Sugar|sugar]] if desired.\n| Garnish with the remaining lime wedge\n}}\n===Recipe source===\n* {{RecipeCourtesyOfCubanCuisine}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:Latin American recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:CubanCuisine.co.uk]]\n[[Category:Recipes from other sites]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#cubanmangomojitos #lime #limejuice #rum #mintleaves #glass #mint #muddle #limewedges #wedges #natcomangopulp </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

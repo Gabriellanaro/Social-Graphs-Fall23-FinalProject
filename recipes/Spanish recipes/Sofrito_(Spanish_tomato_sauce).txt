@@ -1,0 +1,16 @@
+title": "Sofrito (Spanish tomato sauce)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sofrito (Spanish tomato sauce) a Spanish recipe\n|titlemode=replace\n|keywords=#garlic #tomato #paprika #sweetpeppers #soffrito #juice #tomatosauce #tomatoes #oliveoil #grated #spanish \n|hashtagrev=032020\n|description=A Catalan tomato sauce which is used in many Spanish recipes. This is not to be confused with the Italian 'soffrito' which does not include tomatoes\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 160\n|PortionCalories = 160\n|DatePublished=17th January 2013\n|Author=JuliaBalbilla\n|ImageComment = Sofrito\n |Servings = 1\n |Difficulty = 1\n |TotalTime = 55 minutes\n |PrepTime = 10 minutes\n |CookTime = 45 minutes\n |Image = [[Image:Sofrito recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice and garlicy!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">I would expect no less from you, Julia!</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef]] </span></span>\n}}\nA  Catalan [[Tomato sauce|tomato sauce]] which is used in many [[Spanish]] recipes.  This is not to be confused with the Italian '[[soffrito]]' which does not include [[Tomatoes|tomatoes]].\n\n{{RecipeIngredients\n| [[Olive oil]]\n| 6 Cloves of [[Garlic|garlic]], finely chopped\n| 1 [[Onion|onion]], finely chopped\n| 400g [[Tomatoes, peeled|tomatoes, peeled]] and [[Grated|grated]] or [[Mashed|mashed]]\n| [[Salt]]\n| Pinch of [[Sugar|sugar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Put some [[Oil|oil]] in a pan on a low heat and add the [[Garlic|garlic]].\n| When the [[Garlic|garlic]] begins to rise in the [[Oil|oil]], add the [[Onions|onions]] and allow to cook for about 20 minutes until the onions are beginning to caramelise.  Be careful not to burn the garlic though.\n| Increase the heat and add the [[Tomato|tomato]], a little [[Salt|salt]] and the [[Sugar|sugar]].\n| Cook until the [[Juice|juice]] from the [[Tomato|tomato]] has evaporated.  The mixture should be fairly thick.\n}}\n===Variations===\nYou can include [[Paprika|paprika]] and/or finely chopped [[Sweet peppers|sweet peppers]] if you wish.\n===Servings===\nServings: 18 - Makes about 600 ml\n{{RecipeLine}}\n[[Category:Recipes|Tomato sauce]]\n[[Category:Dips and sauces|Tomato sauce]]\n[[Category:Garlic recipes]]\n[[Category:Spanish recipes|Tomato sauce]]\n[[Category:Vegetarian recipes|Tomato sauce]]\n[[Category:Ingredients]]\n[[Category:Dips and sauces]]\n[[Category:Prepared foods]]\n[[Category:Vegetables]]\n[[Category:Vegan recipes]]\n[[Category:Boiled or simmered]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#garlic #tomato #paprika #sweetpeppers #soffrito #juice #tomatosauce #tomatoes #oliveoil #grated #spanish </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

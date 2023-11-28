@@ -1,0 +1,15 @@
+ 
+
+title": "Sweet and spicy sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sweet and spicy sauce recipe Accompaniments\n|titlemode=replace\n|keywords=#sweetandspicysauce #cornflour #maltvinegar #boiledorsimmered #cabbage #tomatopuree \n|hashtagrev=032020\n|description=Great for carrots or cabbage\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 204\n|PortionCalories = 51\n|DatePublished=31st January 2013\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 5 minutes\n|PrepTime = 2 minutes\n|CookTime = 3 minutes\n|Image = [[Image:Sweet and sour sauce recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">\ud83e\udd90\ud83e\udd90\ud83e\udd90</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5 </span>\n\n<span class=\"reviewDesc\">A great dip for prawns and shrimp</span>\n \n<span class=\"reviewAuthor\"> [[User:Klapaucius|Klapaucius]])</span></span>\n}}\n\nGreat for carrots or cabbage.\n\n{{RecipeIngredients\n| 120 ml (4 fl oz) water\n| 100g (4 oz) [[sugar]]\n| 3 teaspoons white wine vinegar or [[malt vinegar]]\n| 2 tablespoons [[tomato puree]]\n| 1 tablespoon [[cornflour]]\n| Pinch of [[salt]]\n| 3 tablespoons [[sugar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all ingredients in a pan and simmer until the sauce thickens\n}}\n===Serving suggestions===\n\nPour over cooked vegetables such as [[cabbage]] or carrots\n\n===Variations===\n\nAdd some chopped chillies for a hot sauce\n\n==See also==\n* [[Sweet and sour recipes]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n[[Category:Starters]]\n[[Category:Cooking with wine]]\n[[Category:Boiled or simmered]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sweetandspicysauce #cornflour #maltvinegar #boiledorsimmered #cabbage #tomatopuree </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

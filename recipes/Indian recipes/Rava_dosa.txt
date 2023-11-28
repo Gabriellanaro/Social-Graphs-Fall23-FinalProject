@@ -1,0 +1,16 @@
+title": "Rava dosa",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Rava dosa, an Indian recipe \n|titlemode=replace\n|keywords=#batter #ravadosa #tava #frying #flour #corianderleaves #plainflour #vegetableoil #relishes #maida #panfried \n|hashtagrev=032020\n|description=The are crispy spicy pancakes that are great with relishes and chutneys\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2496\n|PortionCalories = 624\n|DatePublished=27th October 2012\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 1 hour 20 minutes incl. resting\n|PrepTime = 1 hour 10 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Rava dosa recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice wraps for kebabs</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">We use these for lamb kofta and salad</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThese are crispy spicy [[pancakes]] that are great with [[relishes]] and chutneys\n\n{{RecipeIngredients\n| ''For the [[batter]]''\n| 2 cups [[semolina]]/[[rava]]\n| &#189; cup [[rice flour]]\n| &#189; cup [[maida]] ([[plain flour]])\n| 1.5 teaspoons [[cumin seeds]], lightly ground\n| 1 teaspoon [[grated]] [[ginger]]\n| [[coriander leaves]] - 2 tablespoons\n| A few curry leaves\n| 1 finely chopped green [[chili]]\n| [[Sea salt]] to taste\n| 6 cup water (approximately)\n| ''For [[frying]]''\n| [[Vegetable oil]] for [[frying]]\n}}\n===Method===\n\n{{RecipeMethod\n| Add all of the ingredients, mix well then leave to rest for an hour\n| It should have the consistency of [[single cream]], adjust with water or [[flour]] as required\n| Ideally, heat a lightly greased [[tava]] or a large no-stick [[frying pan]]\n| When hot pour a little [[batter]] in a circle around the edge of the [[tava]] to make a huge doughnut shape, then fill the space in the middle with a little [[batter]] and swirl the tava to distribute evenly.\n| Cook unit [[browned]] and crispy.  You can flip it over and [[brown]] the other side if you wish\n}}\n===Serving suggestions===\n\nServe immediately with a selection of chutneys, [[pickles]] or [[dips]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Bread and baking]]\n[[Category:Chilli pepper recipes]]\n[[Category:Grain and bean recipes]]\n[[Category:Indian recipes]]\n[[Category:Spicy recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:Pan fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#batter #ravadosa #tava #frying #flour #corianderleaves #plainflour #vegetableoil #relishes #maida #panfried </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

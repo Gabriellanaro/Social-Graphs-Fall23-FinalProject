@@ -1,0 +1,16 @@
+title": "Leek and cream risotto",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Leek and cream risotto, Italian recipe \n|titlemode=replace\n|keywords=#butter #leeks #parmesancheese #rice #leekandcreamrisotto #vegetable #boiledorsimmered #simmer #vegetarian #blackpepper #risottorice \n|hashtagrev=032020\n|description=If you grow leeks, this is great vegetarian recipe is an ideal way to use the baby leeks. As with all risottos, this recipe requires constant attention\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1828\n|PortionCalories = 457\n|DatePublished=24th October 2012\n|Author=Chef\n|ImageComment = Leeks running to seed - with chickens looking on\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 40 minutes\n|PrepTime = 10 minutes\n|CookTime = 30 minutes\n|Image = [[Image:Leeks.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice baby leeks,</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">is what you need for this</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\n\nIf you grow leeks, this is great [[vegetarian]] recipe is an ideal way to use the baby leeks.\n\nAs with all risottos, this recipe requires constant attention.\n\n{{RecipeIngredients\n| 4 baby [[leeks]] (white parts only, cleaned and thinly sliced)\n| 1.5 litres (2.5 pints) good [[vegetable]] stock (Knorr vegetable stock cube(s) and/or good quality clear vegetable soup would work.\n| 350 g (12 oz) [[Risotto rice]]\n| 175 ml (6 fl oz) [[single cream]]\n| 25 g (1 oz) [[butter]]\n| Salt and [[freshly ground black pepper]]\n| Freshly grated [[Parmesan cheese]] to garnish\n}}\n===Method===\n\n{{RecipeMethod\n| In a pan, melt the [[butter]], add the [[leeks]] and cook gently for 5 minutes\n| Add 1 tablespoon and [[simmer]]  for a further 20 minutes, adding a little extra water if it dries out\n| In another pan, [[boil]] the stock\n| Add the [[rice]] to the [[leeks]] and coat with the [[butter]]\n| Add the stock a ladle full of hot stock at a time. Don't add more stock until the previous liquid has been absorbed into the [[rice]]\n| This will about 20 minutes\n| Once the rice is cooked, stir in the [[cream]] and season with [[salt]] and freshly grated [[black pepper]]\n}}\n===Serving suggestions===\n\nServe immediately with freshly grated [[Parmesan cheese]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Main courses]]\n[[Category:Rice recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Italian recipes]]\n[[Category:Boiled or simmered]]\n\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#butter #leeks #parmesancheese #rice #leekandcreamrisotto #vegetable #boiledorsimmered #simmer #vegetarian #blackpepper #risottorice </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Cheese sauce (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cheese sauce - A Thermomix recipe \n|titlemode=replace\n|keywords=#pasta #vegetables #sauce #flour #cayenne #cheese #thermomixrecipes #mustardpowder #cheddarcheese #steaming #butter \n|hashtagrev=032020\n|description=This is a Thermomix cheese sauce recipe from Monkeyboyzmum's recipe on the Thermomix Forum\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1501\n|PortionCalories = 375\n|DatePublished=20th September 2012\n|Author=JuliaBalbilla\n|Servings = Serves 4 - Makes about 700ml\n |Difficulty = 1\n |TotalTime = 12 minutes\n |PrepTime = 5 minutes\n |CookTime = 7 minutes\n |Image = [[Image:Cheese sauce (TM) recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Mustard powder in a cheese sauce</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">That's a good idea, never thought of doing that.</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis cheese sauce for the Thermomix is taken from ''''[http://www.forumthermomix.com/index.php?topic=6120.0 Monkeyboyzmum's recipe]''' on the Thermomix Forum.\n\n{{RecipeIngredientsTM\n| 180g [[Cheddar cheese]] or your own favourite\n| 45g [[Flour|flour]]\n| 50g [[Butter|butter]]\n| 1 teaspoon [[Mustard powder|mustard powder]]\n| &frac12; teaspoon [[Salt|salt]]\n| Pinch [[Cayenne|cayenne]]\n| 500g [[Milk|milk]]\n}}\n===Method===\n\n{{RecipeMethod\n| Grate the [[Cheese|cheese]] '''5 seconds / Speed 8'''.\n| Add the remaining ingredients and cook '''7 mins / Temp. 90\u00b0 / Speed 4'''.\n}}\n===Serving suggestions===\nServe with [[Pasta|pasta]] or [[Vegetables|vegetables]].\n===Variations===\nAdd other spices as desired.\n===Chef's notes===\nThe [[Sauce|sauce]] will keep warm in a dish in the Varoma whilst you cook your [[Pasta|pasta]] or [[Vegetables|vegetables]] in the internal [[Steaming|steaming]] basket.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Cheese recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pasta #vegetables #sauce #flour #cayenne #cheese #thermomixrecipes #mustardpowder #cheddarcheese #steaming #butter </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

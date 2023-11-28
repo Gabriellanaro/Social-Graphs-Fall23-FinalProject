@@ -1,0 +1,15 @@
+ 
+
+title": "Cary Grant (cocktail)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Cary Grant (cocktail) recipe\n|titlemode=replace\n|keywords=#lime #vodka #tiamaria #juice #coffee #carygrantcocktail #limejuice #drink \n|hashtagrev=032020\n|description=This cocktail is named after the famous actor because it is said that this is what he liked to drink. The flavour combination of lime and coffee does..\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 117\n|PortionCalories = 117\n|DatePublished=24th June 2016\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 1\n|Difficulty = 1\n|TotalTime =  3 minutes\n|PrepTime =  3 minutes\n|CookTime = None\n|Image = [[Image:Cary Grant cocktail recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">North by Northwest</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">\u2026the cocktail</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis cocktail is named after the famous actor because it is said that this is what he liked to [[Drink|drink]].  The flavour combination of [[Lime|lime]] and [[Coffee|coffee]] does sound strange, but it is worth a try!\n{{RecipeIngredients\n\n| Ice cubes\n| 45ml [[Tia Maria]]\n| 45ml [[Vodka]]\n| The [[Juice|juice]] of 1 [[Lime|lime]]\n| 1 [[Lime|lime]] slice\n}}\n\n===Method===\n{{RecipeMethod\n\n| Take an [[Old Fashioned glass|old fashioned (lowball) glass]] and fill with ice\n| Tip the [[Lime juice|lime juice]] over the ice cubes\n| Add the [[Tia Maria]] and [[Vodka|vodka]]\n| Stir well and garnish with the [[Lime|lime]] slice\n}}\n===Chef's notes===\nThe first sip may well taste a bit strange, but I assure you it improves as you drink!\n[[Category:Recipes]]\n{{RecipeLine}}\n[[Category:North American recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Alcoholic beverages]]\n[[Category:Fruit recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#lime #vodka #tiamaria #juice #coffee #carygrantcocktail #limejuice #drink </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

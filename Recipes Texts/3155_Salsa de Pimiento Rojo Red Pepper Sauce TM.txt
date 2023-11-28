@@ -1,0 +1,15 @@
+ 
+
+title": "Salsa de Pimiento Rojo (Red Pepper Sauce) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Salsa de Pimiento Rojo (Red Pepper Sauce) ( Spanish recipe\n|titlemode=replace\n|keywords=#parsley #garlic #sauce #thermomix #redpepper #redpeppers #salads #blend #accompaniment #oliveoil #vegetables \n|hashtagrev=032020\n|description=This Red Pepper Sauce recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 57\n|PortionCalories = 57\n|DatePublished=20th October 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = 1\n |Difficulty = 1\n |TotalTime = 8 minutes\n |PrepTime = 5 minutes\n |CookTime = 3 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thanks Susaeta and Julia</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.5</span>/5</span>\n\n<span class=\"reviewDesc\">This is lovely</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 250g jarred or tinned [[Red peppers|red peppers]]\n| 1 [[Clove|clove]] [[Garlic|garlic]]\n| 50g [[Olive oil|olive oil]]\n| 1 teaspoon [[Fresh thyme|fresh thyme]]\n| 1 teaspoon chopped [[Parsley|parsley]]\n| [[Salt]]\n| [[Pepper]]\n}}\n===Method===\n\n{{RecipeMethod\n| Drain the [[Peppers|peppers]] thoroughly and put them in the bowl, together with the [[Garlic|garlic]] [[Oil|oil]], [[Parsley|parsley]], [[Salt|salt]] and [[Pepper|pepper]].\n| Cook '''3 minutes / Temp. Varoma /  Reverse blade /  Speed spoon'''.\n| [[Blend]] at '''Speed 3''', increasing to '''Speed 6'''  to obtain a light, smooth [[Sauce|sauce]].\n| When you have finished, pour into a bowl and garnish with the [[Thyme|thyme]].\n| Season with a little [[Salt|salt]].\n}}\n===Serving suggestions===\n[[Red pepper]] [[Sauce|sauce]] can be served at room temperature or cold.  It is suitable as an [[Accompaniment|accompaniment]] to any type of [[Vegetables|vegetables]] and [[Salads|salads]].\n===Serving===\nServings: 6 - Makes 200 ml\n{{RecipeLine}}\n[[Category:Recipes|Pepper]]\n[[Category:Spanish recipes|Pepper]]\n[[Category:Dips and sauces|Pepper]]\n[[Category:Vegan recipes|Pepper]]\n[[Category:Vegetarian recipes|Pepper]]\n[[Category:Vegetable recipes|Pepper]]\n[[Category:Thermomix recipes|Pepper]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#parsley #garlic #sauce #thermomix #redpepper #redpeppers #salads #blend #accompaniment #oliveoil #vegetables </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

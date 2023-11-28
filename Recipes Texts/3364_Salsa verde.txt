@@ -1,0 +1,15 @@
+ 
+
+title": "Salsa verde",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Salsa verde, a herb recipe \n|titlemode=replace\n|keywords=#salsaverde #sesameseeds #parsley #capers #blackpepper #oliveoil #whitewinevinegar #tinnedanchovies #foodprocessor #basil #barbecue \n|hashtagrev=032020\n|description=A tangy dip, strongly flavoured with herbs that goes well with fish and meat and would be a good addition to a barbecue\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 370\n|PortionCalories = 92\n|DatePublished=24th October 2012\n|Author=Chef\n|ImageComment = Salsa verde & Salsa rojo\n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime = 5 minutes\n|PrepTime = 5 minutes\n|CookTime = None\n|Image = [[Image:Salsa verde recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Very herby</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice with grilled chicken</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nA tangy dip, strongly flavoured with [[herbs]] that goes well with fish and meat and would be a good addition to a [[barbecue]].  Don't bother making this with dried herbs!\n\n{{RecipeIngredients\n| Handful of fresh [[parsley]]\n| Handful of fresh [[basil]]\n| 6 [[tinned anchovies]]\n| 2 tablespoons [[capers]], chopped\n| 1 tablespoon [[sesame seeds]]\n| 2 [[Garlic|garlic]] cloves, crushed\n| 1 tablespoon [[sherry vinegar]]\n| 1 tablespoon [[white wine vinegar]]\n| 1 slice of white bread, crusts removed, broken into pieces\n| Salt and [[freshly ground black pepper]]\n| 150 ml [[extra virgin olive oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Remove and discard the stems from the [[parsley]]\n| Add all of the ingredients except for the olive oil and the [[sesame seeds]] and blitz in a [[food processor]] until finely chopped\n| Slowly add the [[olive oil]] until you have a thick sauce\n| Mix in the [[sesame seeds]]\n| Season to taste with [[salt]] and [[black pepper]]\n}}\n===Serving suggestions===\n\nThis will keep refrigerated for a day or so.\n\nTry this with fried monkfish in [[monkfish salsa verde]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Salad recipes]]\n[[Category:Tex-Mex recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#salsaverde #sesameseeds #parsley #capers #blackpepper #oliveoil #whitewinevinegar #tinnedanchovies #foodprocessor #basil #barbecue </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

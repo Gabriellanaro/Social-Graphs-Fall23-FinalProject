@@ -1,0 +1,15 @@
+ 
+
+title": "Vinagreta de Tomate Cherry (Cherry Tomato Vinaigrette) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Vinagreta de Tomate Cherry Thermomix Vinaigrette recipe\n|titlemode=replace\n|keywords=#thermomix #blend #vinaigrette #cidervinegar #tomato #cottagecheese #blackpepper #cod #mozzarella #salad #groundginger \n|hashtagrev=032020\n|description=This Cherry Tomato Vinaigrette recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 70\n|PortionCalories = 17\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">No need for cherry tomatoes!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Tried this in my Thermy with cherry tomatoes and then with normal tomatoes - no difference in taste.</span>\n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 100g [[Cherry tomatoes|cherry tomatoes]]\n| 100g virgin [[Olive oil|olive oil]]\n| 1 tablespoon [[Ground ginger|ground ginger]]\n| 2 tablespoons [[Cider vinegar|cider vinegar]]\n| [[Black pepper]]\n| [[Salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Wash the [[Tomatoes|tomatoes]] and cut them.\n| Place in the TM and [[Blend|blend]] them '''2 minutes / Speed 3'''.\n| Nest, add the rest of the ingredients and [[Blend|blend]] again at '''Speed 5''', until the [[Vinaigrette|vinaigrette]] is well bound.\n}}\n===Serving suggestions===\n[[Cherry]] [[Tomato]] [[Vinaigrette]] is an ideal dressing for all types of [[Salad|salad]], but in particular, those which contain [[Chicken|chicken]], [[Mozzarella|mozzarella]], [[Cream|cream]] or [[Cottage cheese|cottage cheese]] or [[Salt|salt]]-[[Cod|cod]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #blend #vinaigrette #cidervinegar #tomato #cottagecheese #blackpepper #cod #mozzarella #salad #groundginger </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

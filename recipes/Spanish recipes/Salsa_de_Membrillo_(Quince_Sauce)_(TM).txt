@@ -1,0 +1,16 @@
+title": "Salsa de Membrillo (Quince Sauce) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Salsa de Membrillo (Quince Sauce) - A Thermomix recipe\n|titlemode=replace\n|keywords=#mushrooms #butter #onion #thermomix #blend #dulcedemembrillo #game #thermomixrecipes #spanish #cream #stuffedturkey \n|hashtagrev=032020\n|description=This Quince Sauce recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1198\n|PortionCalories = 66\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Servings: 18 - Makes 500 ml\n |Difficulty = 1\n |TotalTime = 40 minutes\n |PrepTime = 5 minutes\n |CookTime = 35 minutes\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Chicken sauce!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.2</span>/5</span>\n\n<span class=\"reviewDesc\">\u2026or even chicken gravy if you must.</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nThis is a translation of a recipe in Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)\n\n{{RecipeIngredientsTM\n| 1 large [[Onion|onion]]\n| 40g [[Butter|butter]]\n| 40g [[Olive oil|olive oil]]\n| 200g [[Single cream|single cream]]\n| 200g [[dulce de membrillo]] ([[Spanish]] [[Quince|quince]] paste)\n| 100g seasonal [[Mushrooms|mushrooms]]\n| [[Pepper]]\n| [[Salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Thoroughly wash the [[Mushrooms|mushrooms]] and cut them into slices.  Reserve.\n| Place the [[Onion|onion]], [[Butter|butter]] and [[Oil|oil]] in the bowl.\n| Chop '''10 seconds / Speed 3'''.\n| Cook '''20 minutes / Temp. Varoma / Speed 1'''.\n| When the 20 minutes are up, add the [[Cream|cream]] and dulce de membrillo and [[Blend|blend]] '''15 seconds / Speed 10'''.\n| Add the [[Mushrooms|mushrooms]] and [[Blend|blend]] '''5 seconds / Speed 8'''.\n| Afterwards, season with [[Salt|salt]] and [[Pepper|pepper]], and program '''12 minutes / 100\u00b0 / Speed 1'''.\n}}\n===Variations===\nIt is an exquisite [[Sauce|sauce]] to serve with cold [[Meat|meat]], [[Roast|roast]] [[Chicken|chicken]], [[Stuffed turkey|stuffed turkey]] and in general with all types of [[Game|game]].\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Fruit recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mushrooms #butter #onion #thermomix #blend #dulcedemembrillo #game #thermomixrecipes #spanish #cream #stuffedturkey </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

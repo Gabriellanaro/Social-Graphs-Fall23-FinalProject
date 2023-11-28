@@ -1,0 +1,15 @@
+ 
+
+title": "Thermomix lemonade (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Thermomix lemonade - A Thermomix recipe \n|titlemode=replace\n|keywords=#lemons #lemonade #steaming #granulatedsugar #glasses #thermomix #sparklingmineralwater \n|hashtagrev=032020\n|description=Proper homemade lemonade taken from Fast and Easy Cooking from Thermomix\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 94\n|PortionCalories = 15\n|DatePublished=12th April 2013\n|Author=JuliaBalbilla\n|Servings = Servings: 6 - Makes about 1 litre\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n |Image = [[Image:Thermomix lemonade recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Tastes authentic</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.3</span>/5</span>\n\n<span class=\"reviewDesc\">has that lovely lemony smell</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nProper homemade [[Lemonade|lemonade]] taken from '''Fast and Easy Cooking''' from [[Thermomix]].\n\n{{RecipeIngredientsTM\n| 70g [[Granulated sugar|granulated sugar]]\n| 2 unwaxed [[Lemons|lemons]], washed\n| 8-10 ice cubes\n| Water\n}}\n===Method===\n\n{{RecipeMethod\n| Weigh the [[Sugar|sugar]] into the TM bowl and grind '''5 seconds / Speed 10'''.\n| Whilst the [[Sugar|sugar]] is settling, cut the [[Lemons|lemons]] into quarters and remove any superficial pips.\n| Place into the TM bowl, with the ice cubes.\n| Pulse '''Turbo / 3-4 seconds'''.\n| Add water to the 1.25 litre mark.\n| Stir '''5 seconds / Speed 4'''.\n| Place the internal [[Steaming|steaming]] basket in the TM bowl, pushing it down carefully.\n| Strain the [[Lemonade|lemonade]] into a jug or individual [[Glasses|glasses]] while holding the basket in place.\n}}\n===Variations===\nYou can use [[Sparkling mineral water|sparkling mineral water]] instead of still.\n{{RecipeLine}}\n[[Category:Recipes|Lemonade]]\n[[Category:British recipes|Lemonade]]\n[[Category:Drink and beverage recipes|Lemonade]]\n[[Category:Vegan recipes|Lemonade]]\n[[Category:Vegetarian recipes|Lemonade]]\n[[Category:Fruit recipes|Lemonade]]\n[[Category:Thermomix recipes|Lemonade]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#lemons #lemonade #steaming #granulatedsugar #glasses #thermomix #sparklingmineralwater </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

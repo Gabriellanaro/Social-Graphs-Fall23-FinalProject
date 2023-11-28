@@ -1,0 +1,15 @@
+ 
+
+title": "Pimm's royale",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pimm's royale, British recipe \n|titlemode=replace\n|keywords=#pimmsroyale #strawberry #champagne #champagneflute #cava \n|hashtagrev=032020\n|description=Be prepared for the summer season with a Pimm's royale\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 220\n|PortionCalories = 220\n|DatePublished=22nd October 2012\n|Author=Chef\n|Servings = Serves 1\n|Difficulty = 1\n|TotalTime =  1 minute\n|PrepTime =  1 minute\n|CookTime = None\n|Image = [[Image:Pimms royale.png|200px|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Hurrah for the Hoorays!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">..for this is what they drink - shurely?</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nBe prepared for the summer season with a [[Pimm's]] royale.\n\n{{RecipeIngredients\n| 25 cl [[Pimms No.1]]\n| 25 cl [[Cava]] or [[Champagne]]\n| A [[strawberry]]\n}}\n===Method===\n\n{{RecipeMethod\n| Take a [[Champagne flute]]\n| Add 25 cl of [[Pimm's No.1]]\n| Top up with [[champagne]]\n| Add a [[strawberry]]\n}}\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Drink and beverage recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#pimmsroyale #strawberry #champagne #champagneflute #cava </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

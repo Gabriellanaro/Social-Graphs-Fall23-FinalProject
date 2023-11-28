@@ -1,0 +1,16 @@
+title": "Aubergines with preserved lemons",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Aubergines with preserved lemons a fruit recipe\n|titlemode=replace\n|keywords=#oliveoil #aubergine #garlic #aubergineswithpreservedlemons #pinenuts #chilli #preservedlemon #foil #preservedlemons #miseenplace #lemon \n|hashtagrev=032020\n|description=This vegetable dish would make an unusual addition to a picnic and is yet another great use for your preserved lemons\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 374\n|PortionCalories = 93\n|DatePublished=17th January 2013\n|Author=JuliaBalbilla\n|ImageComment = Ready to wrap up and cook\n|Servings = 4\n|Difficulty = 1\n|TotalTime = 45 minutes\n|PrepTime = 25 minutes\n|CookTime = 20 minutes\n|Image = [[Image:Aubergine ready to wrap.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Aubergines, Auburn Jeans</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">3</span>/5 </span>\n\n<span class=\"reviewDesc\">Uses up your preserved lemons, that's all.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>}}\n[[Image:RecipePreserved lemons.jpg|thumb|right|200px|Preserved lemons]]\nThis [[vegetable]] dish would make an unusual addition to a picnic and is yet another great use for your [[preserved lemons]].\n\n{{RecipeIngredients\n| 2 [[aubergines]]\n| 1 [[preserved lemon]]\n| 4 teaspoons of the juice from the [[preserved lemon]] jar\n| 1 tablespoon [[olive oil]]\n| 3 tablespoons [[pine nuts]]\n| &#189; teaspoon [[chilli]] flakes (or to taste)\n\n}}\n\n===[[Mise en place]]===\n* Preheat the  [[oven]] to 175\u00b0C (350\u00b0F - gas 4 - moderate)\n\n===Method===\n\n{{RecipeMethod\n| Remove and discard the pulp from the [[lemon]] and chop the rind into slivers\n| Cut each [[aubergine]] in half lengthwise and make deep slits in the flesh and push the [[preserved lemon peel]] into the slits\n| [[Brush]] the flesh side of the [[aubergine]] with [[olive oil]] and drizzle with the [[preserved lemon juice]]\n| Sprinkle the pieces with the [[chilli]] flakes and [[pine nuts]]\n| Wrap each half in its own [[foil]] parcel and [[bake]] for 20 minutes\n| Allow to cool\n}}\n===Serving suggestions===\n\nServe at room temperature\n\n===Variations===\n\nUse [[Garlic|garlic]] [[olive oil]] or add slivers of [[Garlic|garlic]] into the slashes.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:North African recipes]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Fruit recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#oliveoil #aubergine #garlic #aubergineswithpreservedlemons #pinenuts #chilli #preservedlemon #foil #preservedlemons #miseenplace #lemon </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

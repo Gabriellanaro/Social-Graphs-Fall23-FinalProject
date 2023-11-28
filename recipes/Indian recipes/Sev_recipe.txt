@@ -1,0 +1,16 @@
+title": "Sev recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Sev recipe Indian, from Cookipedia.Co.Uk\n|titlemode=replace\n|keywords=#sevrecipe #limejuice #deepfried #cuminseeds #bakingpowder #corianderseeds #cayennepepper #turmericpowder #gramflour #riceflour \n|hashtagrev=032020\n|description=Robin has kindly given me permission to use this recipe and picture that appeared on her Flickr feed\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1076\n|PortionCalories = 269\n|DatePublished=23rd October 2012\n|Author=Chef\n|Servings = Serves 4 as an aperitif \n |Difficulty = 3\n |TotalTime = 20 minutes\n |PrepTime = 15 minutes\n |CookTime = 5 minutes\n |Image = [[Image:Sev recipe recipe.jpg|alt=Electus]]<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Thanks Robin!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">This is delicious - I use my potato ricer to make this!</span>\n\n<span class=\"reviewAuthor\"> [[User:Chef|Jerry]] </span></span>\n\n}} \n[[User:Robin|Robin]] has kindly given me permission to use this recipe and picture that appeared on her [http://www.flickr.com/photos/fotoosvanrobin/ Flickr feed] recently.\n\n{{RecipeIngredients\n| 1 cup [[gram flour]] (besan/chickpea flour)\n| 1/2 cup [[rice flour]]\n| 1 teaspoon [[salt]]\n| 1/2 a teaspoon [[cayenne pepper]]\n| 1/2 a teaspoon [[turmeric powder]]\n| 1/4 of a teaspoon [[baking powder]]\n| 1 teaspoon ground [[cumin seeds]]\n| 1 teaspoon ground [[coriander seeds]]\n| 2 teaspoons of [[lime juice]]\n| [[Oil]] for [[deep-frying]]\n}}\n===Method===\n\n{{RecipeMethod\n| Make a thick batter by mixing the ingredients with a little less than 1/2 cup of water.\n| Use a [[sev-press]] above the pan to make the spaghetti-like thingies so that they fall directly into the heated oil below.\n| [[Deep-fry]] for 2-3 minutes in oil at 160\u00b0C (325\u00b0F)\n}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Indian recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Starters]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegan recipes]]\n[[Category:FotoosVanRobin recipes]]\n[[Category:Recipes from other sites]]\n[[Category:Deep fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#sevrecipe #limejuice #deepfried #cuminseeds #bakingpowder #corianderseeds #cayennepepper #turmericpowder #gramflour #riceflour </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

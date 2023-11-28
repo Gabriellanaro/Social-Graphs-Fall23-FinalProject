@@ -1,0 +1,16 @@
+title": "Pulled pork burgers",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pulled pork burgers recipe\n|titlemode=replace\n|keywords=#chips #pulledporkrecipes #pulledporkburgers #yellowcornmeal #bakedbeans #baking #burgers #fry #bakingtray #pork #bake \n|hashtagrev=032020\n|description=Not really a recipe, just an idea for re-use of leftover pulled pork. And a very good one at that!\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 665\n|PortionCalories = 332\n|DatePublished=7th August 2014\n|Author=Chef\n|ImageComment = \n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime =  18 minutes\n|PrepTime =  3 minutes\n|CookTime =  15 minutes\n|Image = [[Image:Pulled pork burgers recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Wow! \ud83d\udc37\ud83d\udc37\ud83d\udc37</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">These were fab!</span>\n \n<span class=\"reviewAuthor\"> [[User:TheJudge|The Judge]] </span></span>\n}}\nNot really a recipe, just an idea for re-use of leftover [[Pulled pork recipes|pulled pork]]. And a very good one at that!\n\n{{RecipeIngredients\n\n| 450g prepared & cooked [[Pulled pork recipes|pulled pork]] or enough to make 4 [[Pork|pork]] patties.\n| 3 tablespoons of [[Fine yellow cornmeal|fine yellow cornmeal]]\n}}\n===[[Mise en place]]===\n\n* Preheat the [[Oven|oven]] to 200\u00b0 C (400\u00b0 F - gas 6), [fan [[Oven|oven]] 180\u00b0 C & reduce cooking time by 10 mins per hour]\n\n===Method===\n{{RecipeMethod\n\n| Using your hands, [[Mould|mould]] the [[Pulled pork recipes|pulled pork]] into four patties.\n| Roll the patties in [[Yellow cornmeal|yellow cornmeal]] to completely cover.\n| Place on a [[Baking tray|baking tray]], lined with [[Bake-O-Glide]] or a similar non-stick liner.\n| [[Bake]] for 15 minutes at the bottom of the over, turning once.\n| We cooked these with [[Oven|oven]]-[[Chips|chips]], adding the [[Burgers|burgers]] after the [[Chips|chips]] had cooked for 5 minutes of so.\n}}\n===Serving suggestions===\nServe with [[Chips|chips]] and [[Baked beans|baked beans]]!\n===Variations===\nYou could of course [[Fry|fry]] these, but [[Oven|oven]] [[Baking|baking]] is a healthier option.\n{{Template:See-also-pulled-pork}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:North American recipes]]\n[[Category:Tex-Mex recipes]]\n[[Category:Main courses]]\n[[Category:Spicy recipes]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chips #pulledporkrecipes #pulledporkburgers #yellowcornmeal #bakedbeans #baking #burgers #fry #bakingtray #pork #bake </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

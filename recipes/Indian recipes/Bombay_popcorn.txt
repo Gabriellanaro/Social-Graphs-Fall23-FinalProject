@@ -1,0 +1,16 @@
+title": "Bombay popcorn",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bombay popcorn, Indian recipe \n|titlemode=replace\n|keywords=#popcorn #butter #bombaypopcorn #freshlypoppedcorn #almond #coconut \n|hashtagrev=032020\n|description=An Indian slant on this popular simple snack recipe. Curry powder!\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1107\n|PortionCalories = 276\n|DatePublished=20th September 2012\n|Author=Chef\n|Servings = Servings: 4 - Make 1.5 litres [[popcorn]], see [[Popcorn#Dried popping corn to popped corn|dried corn to popped corn]]\n|Difficulty = 1\n|TotalTime = 5 minutes\n|PrepTime = 5 minutes\n|CookTime = None\n|Image = [[Image:Curry popcorn recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Spicy Popcorn</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">Great idea and makes such a change from all those sugary popcorns.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n[[Image:Popping corn.jpg|300px|thumb|right|75 g of popping corn]]\nYet another variation on the popular snack.\n\nI first got the urge to try flavoured [[popcorn]] when watching a now, long forgotten cartoon; as mummy dragon was about to go shopping, she warned the two baby dragons not to make garlic popcorn whilst she was gone.  Guess what they did next?\n\n{{RecipeIngredients\n| 1.5 litres warm [[freshly popped corn]]\n| 3 tablespoons [[butter]]\n| &#189; teaspoon [[sea salt]]\n| &#189; teaspoon [[sugar]]\n| 1 or 2 teaspoons curry powder (to taste)\n| 4 tablespoons toasted [[coconut]] \n| 4 tablespoons [[almond]] flakes, crushed\n}}\n===Method===\n\n{{RecipeMethod\n| Put the [[popcorn]] in a large bowl\n| Melt the [[butter]] and add the curry powder and mix well\n| Pour the butter over the [[popcorn]] and shimmy the bowl to mix well\n| Sprinkle with the remaining ingredients\n| Mix well\n}}\n===Serving suggestions===\n\nServe hot\n{{RecipeLine}}\n[[Category:Recipes|Popcorn]]\n[[Category:Popcorn recipes]]\n[[Category:Indian recipes]]\n[[Category:Spicy recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#popcorn #butter #bombaypopcorn #freshlypoppedcorn #almond #coconut </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

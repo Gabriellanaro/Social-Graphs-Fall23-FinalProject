@@ -1,0 +1,16 @@
+title": "Peas and peppers",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Peas and peppers, Vegetarian recipe \n|titlemode=replace\n|keywords=#peas #peasandpeppers #lime #peppers #bellpepper #butter #roastedredpepper #redpepper #zest #sidedish #frozen \n|hashtagrev=032020\n|description=It's a bit of a cheek to even call this a recipe as it's so simple. Anyway, if you want a simple vegatable side dish with colour, this it\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 277\n|PortionCalories = 138\n|DatePublished=31st October 2012\n|Author=Chef\n|Servings = Serves 2\n|Difficulty = 1\n|TotalTime = 8 minutes\n|PrepTime = 3 minutes\n|CookTime = 5 minutes\n|Image = [[Image:Peas and peppers recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">An interesting accompaniment</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.3</span>/5</span>\n\n<span class=\"reviewDesc\">Looks pretty on the plate too.</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}} \nIt's a bit of a cheek to even call this a recipe as it's so simple.  Anyway, if you want a simple vegatable [[side dish]] with colour, this it.\n\n{{RecipeIngredients\n| 200 g (7 oz) [[Frozen]] [[peas]] (frozen weight)\n| 1 red [[bell pepper]]\n| salt and [[freshly ground black pepper]]\n| A knob of [[butter]]\n| Chopped zest of [[lime]], but not too much\n}}\n===Method===\n\n{{RecipeMethod\n| Skin the [[red pepper]] as [[Roasted red pepper|shown here]]\n| De-seed the pepper and slice it thinly\n| Microwave the [[peas]] for 3 or 4 minutes\n| You may want to pop the peppers in for the last minute if they have cooled down too much\n| Melt the butter in a small pan, add the [[peas]], [[peppers]] and [[lime]] [[zest]]\n| Stir well, season and serve\n}}\n===Serving suggestions===\n\nServe hot\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Tex-Mex recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Student recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#peas #peasandpeppers #lime #peppers #bellpepper #butter #roastedredpepper #redpepper #zest #sidedish #frozen </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

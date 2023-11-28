@@ -1,0 +1,16 @@
+title": "Mince pies (1)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mince pies (1), British recipe \n|titlemode=replace\n|keywords=#egg #brush #castersugar #mincemeat #puffpastry #baking #bake #miseenplace #custard #jarofmincemeat \n|hashtagrev=032020\n|description=This is a slight variation in that it uses puff pastry insted of shortcrust which I think makes them slightly lighter. It's also cockney rhyming slang\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 4332\n|PortionCalories = 361\n|DatePublished=20th January 2013\n|Author=Chef\n|ImageComment = Homemade mincemeat, containing, apples, beef, sugar, raisins, suet, molasses, vinegar and spices\n|Servings = Serves 12 - Makes 24 mince pies\n|Difficulty = 2\n|TotalTime = 35 minutes\n|PrepTime = 15 minutes\n|CookTime = 20 minutes\n|Image = [[Image:Mincemeat.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Puffy pies!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.7</span>/5</span>\n\n<span class=\"reviewDesc\">Nice and light too</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThis is a slight variation in that it uses puff pastry instead of shortcrust which I think makes them slightly lighter.\n\nIt's also cockney rhyming slang and tasty dessert - can you think of any others?\n\n{{RecipeIngredients\n| 1 Packet [[pre-rolled puff pastry]]\n| 450 g (1 lb) [[jar of mincemeat]]\n| 55 g (2 oz) [[caster sugar]]\n| 1 whole [[egg]]\n| 60 ml (2 fl oz) milk\n\n}}\n\n===[[Mise en place]]===\n* Preheat the oven to 200\u00b0 C (400\u00b0 F - Gas 6 - Moderately hot)\n\n===Method===\n\n{{RecipeMethod\n| Beat the [[egg]] and add a tiny pinch of [[salt]]\n| Using a pastry cutter, stamp out 24 x 7.5 cm (3\") circles of [[puff pastry]] for the bases\n| Push the circles into 2 molded [[baking]] trays\n| Fill each base with 2 teaspoons of [[mincemeat]] and [[brush]] the edges with a little [[milk]]\n| Using a pastry cutter, stamp out 24 x 6 cm (2.5\") circles of pastry for the lids\n| Put the lids on the bases and ensure they are sealed\n| [[Brush]] the [[egg]] mixture over the tops of the pies and sprinkle with a little [[caster sugar]]\n| [[Bake]] for 20 minutes and allow to cool on a raised grid to prevent them sweating\n}}\n===Serving suggestions===\n\nServe hot with [[custard]]\n==See also==\n* [[Mincemeat]]\n* [[Mincemeat (2)]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Sweets and desserts]]\n[[Category:British recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#egg #brush #castersugar #mincemeat #puffpastry #baking #bake #miseenplace #custard #jarofmincemeat </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

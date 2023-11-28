@@ -1,0 +1,15 @@
+ 
+
+title": "Arroz supercolombiano (Colombian rice pudding)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Arroz supercolombiano (Colombian rice pudding) a fruit recipe\n|titlemode=replace\n|keywords=#raisins #butter #rice #coffee #ricepudding #boiledorsimmered #simmer \n|hashtagrev=032020\n|description=A simple but unusual way of making rice pudding from Colombia\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1162\n|PortionCalories = 145\n|DatePublished=24th October 2012\n|Author=JuliaBalbilla\n|ImageComment = Colombian coffee farmer\n |Servings = Serves 8\n |Difficulty = 1\n |TotalTime = 30 minutes\n |PrepTime = 10 minutes\n |CookTime = 20 minutes\n |Image = [[Image:Colombian coffee farmer.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Coffee rice pudding!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.2</span>/5</span>\n\n<span class=\"reviewDesc\">#whodathunkit</span>\n\n<span class=\"reviewAuthor\"> [[User:TheJudge|The&nbsp;Judge]] </span></span>\n}}\nA simple but unusual way of making [[Rice pudding|rice pudding]] from Colombia.\n\n{{RecipeIngredients\n| 110 g [[Raisins|raisins]]\n| 1 tablespoon [[Butter|butter]]\n| 500 g pudding [[Rice|rice]]\n| 4 tablespoons [[Sugar|sugar]]\n| &frac12; teaspoon [[Salt|salt]]\n| 680 ml water\n| 240 ml strong, sweetened, black  [[Coffee|coffee]] \n}}\n===Method===\n\n{{RecipeMethod\n| Melt the [[Butter|butter]] in a saucepan and add the [[Raisins|raisins]].\n| When they are plump, add the remaining ingredients and leave to [[Simmer|simmer]] until the [[Rice|rice]] is cooked and has absorbed the liquid.\n}}\n--[[User:JuliaBalbilla|JuliaBalbilla]] 07:18, 17 January 2009 (UTC)\n{{RecipeLine}}\n[[Category:Recipes|Rice pudding]]\n[[Category:Latin American recipes|Rice pudding]]\n[[Category:Rice recipes|Rice pudding]]\n[[Category:Sweets and desserts|Rice pudding]]\n[[Category:Cooking with wine|Rice]]\n[[Category:Fruit recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#raisins #butter #rice #coffee #ricepudding #boiledorsimmered #simmer </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

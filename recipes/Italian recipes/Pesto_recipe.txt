@@ -1,0 +1,16 @@
+title": "Pesto recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pesto recipe Italian, from Cookipedia.Co.Uk\n|titlemode=replace\n|keywords=#basil #freshpasta #pestorecipe #garlic #pinenuts #blackpepper #lemonjuice #basilleaves #parsley #parmesancheese #pecorino \n|hashtagrev=032020\n|description=This nutty pesto is wonderful with fresh pasta. Just dollop some over freshly cooked pasta and you have a meal fit for a king\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 575\n|PortionCalories = 143\n|DatePublished=20th October 2012\n|Author=Chef\n|Servings = Serves 4\n|Difficulty = 2\n|TotalTime = 15 minutes\n|PrepTime = 15 minutes\n|CookTime = None\n|Image = [[Image:Pesto.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">This was great</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n<span class=\"reviewDesc\">Surprised how easy this was, and how nice it was too.</span>\n \n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\n\nThis nutty pesto is wonderful with [[fresh pasta]].  Just dollop some over freshly cooked pasta and you have a meal fit for a king.\n\n{{RecipeIngredients\n| 2 cloves of [[Garlic|garlic]], chopped\n| [[Sea salt]] and [[freshly ground black pepper]]\n| 60 g fresh [[basil leaves]],washed and carefully dried, all stalks removed.\n| 3 tablespoons of, very lightly toasted [[pine nuts]]\n| 4 tablespoons freshly grated [[Parmesan cheese]] plus 2 tablespoons of [[Pecorino]].\n| 125 ml [[Extra virgin olive oil]]\n}}\n===Method===\n\n{{RecipeMethod\n| Blitz the [[basil]], [[Garlic|garlic]] and [[salt]] in the [[food processor]] - don't blend it too smoothly, you want some texture\n| Add the toasted [[pine nuts]] and blitz again\n| Pour in both cheeses and add just enough olive oil, but don't blitz again, because this would make the cheese in the Pesto too glutinous.Just fold in gently, until well incorporated.\n| Season with [[black pepper]]\n}}\n\nCan be kept in the fridge for a week or so,if you keep a layer of oil covering the Pesto,but also freezes well. Make a batch to use over the Winter, when [[basil]] is in short supply.\n\n===Serving suggestions===\n\nServe with [[fresh pasta]]\n===Variations===\n\nAdd a dash of [[lemon juice]] or lime juice.  If [[basil]] is unavailable, flat-leaved [[parsley]] is excellent, although not authentic.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Garlic recipes]]\n[[Category:Pasta recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetable recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Italian recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#basil #freshpasta #pestorecipe #garlic #pinenuts #blackpepper #lemonjuice #basilleaves #parsley #parmesancheese #pecorino </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Salsa a las Finas Hierbas (Fines Herbes Sauce) (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->{{#seo:\n|title=Salsa a las Finas Hierbas (Fines Herbes Sauce) ( Egg recipe\n|titlemode=replace\n|keywords=#thermomix #onion #sauce #balsamicvinegar #herbs #accompaniment #tarragon #blackpepper #fish #oliveoil #oregano \n|hashtagrev=032020\n|description=This Fines Herbes Sauce recipe is a translation of a recipe in Salsas y Alinos con Thermomix (Susaeta Ediciones)\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 83\n|PortionCalories = 20\n|DatePublished=31st August 2012\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n |Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice over new potatoes</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Especially pink fir apples</span>\n\n<span class=\"reviewAuthor\"> [[User:Carla_Cancio-Bello,_J.D.,_on_behalf_of_Cuban_Cuisine_UK|Carla]] </span></span>\n}}\nThis is a translation of a recipe in '''Salsas y Ali\u00f1os con [[Thermomix]] (Susaeta Ediciones)'''\n\n{{RecipeIngredientsTM\n| 1 cooked [[Egg yolk|egg yolk]]\n| &frac12; [[Onion|onion]]\n| 1 small handful of fresh [[Parsley|parsley]]\n| 1 tablespoon [[Capers|capers]]\n| 2 tablespoons fresh [[Oregano|oregano]]\n| &frac12; tablespoon fresh [[Tarragon|tarragon]]\n| 100g [[Olive oil|olive oil]]\n| 25g [[Balsamic vinegar]]\n| [[Black pepper]]\n| [[Salt]]\n}}\n===Method===\n\n{{RecipeMethod\n| Peel the [[Onion|onion]], cut it and put it together with the rest of the ingredients in the bowl.\n| [[Blend]] '''1 minute / Speed 3''' then for a further minute, gradually increasing from '''Speed 3-10'''.\n| Keep in the [[Fridge|fridge]].\n}}\n===Variations===\nThe mixture of [[Herbs|herbs]] is what makes this [[Sauce|sauce]] delicious and which gives it an intense green colour.  It is a perfect [[Accompaniment|accompaniment]] for [[Meat|meat]], [[Fish|fish]] or [[Salads|salads]].\n\nIt is served cold. \n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegetarian recipes]]\n[[Category:Egg recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #onion #sauce #balsamicvinegar #herbs #accompaniment #tarragon #blackpepper #fish #oliveoil #oregano </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,11 @@
+title": "%5Cu00dajh%5Cu00e1zi_ty%5Cu00fakh%5Cu00fasleves_(%5Cu00dajh%5Cu00e1zi's_chicken_soup)_(HC)",
+                "invalidreason": "The requested page title contains invalid characters: \"%5C\".",
+                "invalid": ""
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

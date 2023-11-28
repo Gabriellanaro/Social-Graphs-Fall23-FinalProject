@@ -1,0 +1,16 @@
+title": "Mint sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Mint sauce, British recipe \n|titlemode=replace\n|keywords=#mintsauce #mint #castersugar #cidervinegar #blackpepper #oliveoil #vinegar #maltvinegar #applejuice #sherryvinegar #whitewinevinegar \n|hashtagrev=032020\n|description=Just the thing for roast Lamb. Mint sauce can also is a good marinade for lamb chops, leg steaks or roasting joints - mix a few spoons with some fresh\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 80\n|PortionCalories = 20\n|DatePublished=12th April 2013\n|Author=Chef\n|Servings = Serves 4 people\n|Difficulty = 1\n|TotalTime = 3 minutes\n|PrepTime = 3 minutes\n|CookTime = None\n|Image = [[Image:Mint sauce.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n======Best recipe review======\n</span>\n''<span class=\"reviewTitle\">Lovely</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5 </span>\n\n<span class=\"reviewDesc\">So much nicer than the nasty stuff they sell in the shops</span>\n \n<span class=\"reviewAuthor\"> - [[User:Chef|Jerry]]</span></span>\n}}\nJust the thing for roast Lamb.\n\nMint sauce can also is a good marinade for lamb chops, leg steaks or roasting joints - mix a few spoons with some fresh [[black pepper]] and [[olive oil]].\n\n{{RecipeIngredients\n|2 large handfuls finely chopped fresh [[mint]] leaves, stalks removed.\n|2 tablespoons [[cider vinegar]]\n|2 tablespoons [[apple juice]]\n|1 tablespoon [[caster sugar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Wash and chop the [[mint]] leaves\n| Place all of the ingredients in a bowl\n| Mix well and leave to infuse for 30 minutes\n}}\n\n===Ingredients (alternative recipe)===\n*2 large handfuls finely chopped fresh [[mint]] leaves, stalks removed.\n*2 tablespoons boiling water\n*2 tablespoons [[white wine vinegar]]\n*1 level tablespoon [[caster sugar]]\n*Pinch of salt\n\n===Method (alternative recipe)===\n# Wash and chop the [[mint]] leaves.\n# Place in a bowl with the sugar and pour on the boiling water.\n# Leave to infuse for 5 - 10 minutes.\n# Add [[salt]] and [[vinegar]] to taste.\n\n===Variations===\n\nExperiment with [[sherry vinegar]], [[malt vinegar]], [[cider vinegar]] and different [[mint]] types for some interesting variations.\n\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Dips and sauces]]\n[[Category:Marinades dressings and butters]]\n[[Category:Pickles and preserves]]\n[[Category:Ingredients]]\n[[Category:Condiments]]\n[[Category:British recipes]]\n{{CategoryLineIngredients}}\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mintsauce #mint #castersugar #cidervinegar #blackpepper #oliveoil #vinegar #maltvinegar #applejuice #sherryvinegar #whitewinevinegar </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

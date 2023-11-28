@@ -1,0 +1,16 @@
+title": "Folate Friendly Chicken Salad",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Folate Friendly Chicken Salad recipe\n|titlemode=replace\n|keywords=#folatefriendlychickensalad #lettuce #honey #beans #peanutbutter #ginger #redwinevinegar #iron #chicken #radishes #recipesfromothersites \n|hashtagrev=032020\n|description=Pregnant women need high levels of folates, proteins and iron in their diet. Here is a delicious Cuban inspired recipe\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 1451\n|PortionCalories = 362\n|DatePublished=6th October 2014\n|Author=Carla Cancio-Bello, J.D., on behalf of Cuban Cuisine UK\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  1 hour, 3 minutes\n|PrepTime =  18 minutes\n|CookTime =  45 minutes\n|Image = [[Image:Folate Friendly Chicken Salad recipe.jpg|180px|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Not at all bad</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5 </span>\n\n<span class=\"reviewDesc\">This was nicer than I thought</span>\n \n<span class=\"reviewAuthor\"> [[User:Chef|Jerry, aka Chef]])</span></span>\n}}\nPregnant women need high levels of folates, [[Proteins|proteins]] and [[Iron|iron]] in their diet.  Here is a delicious [[Cuban]] inspired recipe.\n\n{{RecipeIngredients\n\n| 1 [[Baked|baked]] [[Chicken breast|chicken breast]], chopped\n| 4 romaine [[Lettuce|lettuce]] leaves\n| &#189; cup [[Chick peas|chick peas]]\n| &#189; cup [[crabeye beans]]\n| 2 [[Radishes|radishes]] sliced.\n| 2 tablespoons [[peanut butter]]\n| 2 tablespoons [[Red wine vinegar|red wine vinegar]]\n| 2 tablespoons [[Olive oil|olive oil]]\n| 2 tablespoons [[Honey|honey]]\n| &#189; teaspoon [[Ginger|ginger]]\n| &#189; teaspoon [[Garlic|garlic]], finely [[Minced|minced]].\n}}\n\n===Method===\n{{RecipeMethod\n\n| Combine [[Chicken|chicken]], [[Beans|beans]] and [[Lettuce|lettuce]] in a bowl.\n| Combine the remaining ingredients in a separate bowl to make the salad dressing.\n| Pour generous amount over salad and serve.\n| add [[Salt|salt]] and [[Pepper|pepper]] to taste.\n}}\n===Serving suggestions===\ngreat with homemade [[Croutons|croutons]] to soak up the dressing.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Cuban recipes]]\n[[Category:Gluten free recipes]]\n[[Category:CubanCuisine.co.uk]]\n===Recipe source===\n{{Template:RecipeCourtesyOfCubanCuisine}}\n[[Category:Recipes from other sites]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#folatefriendlychickensalad #lettuce #honey #beans #peanutbutter #ginger #redwinevinegar #iron #chicken #radishes #recipesfromothersites </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

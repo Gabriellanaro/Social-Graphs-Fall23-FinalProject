@@ -1,0 +1,16 @@
+title": "Pie floater",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Pie floater a beef recipe \n|titlemode=replace\n|keywords=#piefloater #soup #pea #tomatosauce #conventionaloven #snack #meatpie \n|hashtagrev=032020\n|description=The Pie Floater is a meal consisting of a meat pie served upside down in a dish of pea soup\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 694\n|PortionCalories = 694\n|DatePublished=23rd May 2013\n|Author=Chef\n|ImageComment = \n|Servings = Serves 1 person per pie\n|Difficulty = 2\n|TotalTime =  35 minutes\n|PrepTime =  5 minutes\n|CookTime =  30 minutes\n|Image = [[Image:Pie floater recipe.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Ozzie Tucker!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">It even sound Antipodean.</span>\n \n<span class=\"reviewAuthor\">[[User:Chef|Jerry]] </span></span>\n}}\nThe '''Pie Floater''' is a meal consisting of a [[Meat|meat]] pie served upside down in a dish of [[Pea|pea]] [[Soup|soup]]. It is common in South Australia, and sometimes seen in other parts of Australia. The pie floater is a popular midnight [[Snack|snack]] for drinkers and revelers.\n\n{{RecipeIngredients\n\n| 1 [[Meat pie]]\n| 1 can of [[Pea|pea]] [[Soup|soup]]\n}}\n'''to garnish'''\n{{RecipeIngredientsNB\n| 1 tablespoon [[Tomato sauce]]\n}}\n===Method===\n\n{{RecipeMethod\n\n| Cook the [[Meat|meat]] pie in a [[Conventional oven|conventional oven]] according to the manufacturers instructions.\n| Heat the [[Soup|soup]].\n| Place the pie in a bowl.\n| Pour the [[Pea|pea]] [[Soup|soup]] around the pie.\n| Top with [[Tomato sauce|tomato sauce]].\n}}\n===Chef's notes===\nAustralian cuisine at its finest.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Australian recipes]]\n[[Category:Main courses]]\n[[Category:Beef recipes]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#piefloater #soup #pea #tomatosauce #conventionaloven #snack #meatpie </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

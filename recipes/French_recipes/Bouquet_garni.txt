@@ -1,0 +1,16 @@
+title": "Bouquet garni",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Bouquet garni: Cooking Wiki\n|titlemode=replace\n|keywords=#bouquetgarni #herbs #celery #parsley #thyme #leek #stock #rosemary #soup #beefbourguignon #bouquetgarniformutton \n|hashtagrev=12032020\n|description=The bouquet garni (French for \"garnished bouquet\") is a bundle of herbs usually tied together with string and mainly used to prepare soup\n}}\n<!-- /seo -->\n\n\n[[Image:Bouquet garni.jpg|150px|thumb|right|A bouquet garni]]\nThe bouquet garni (French for \"garnished bouquet\") is a bundle of [[herbs]] usually tied together with string and mainly used to prepare [[soup]], [[stock]], and various [[stews]]. The bouquet is boiled (usually for a long time) with the other ingredients, but is removed prior to consumption.\n\nThere is no generic recipe for bouquet garni, but most recipes include [[parsley]], [[thyme]] and [[bay leaf]]. Depending on the recipe, the bouquet garni may include [[basil]], [[celery|celery leaves]], [[thyme]], [[chervil]], [[rosemary]], [[peppercorns]], [[savory]] and [[tarragon]]. Sometimes, [[vegetables]] such as [[carrot]], [[celery]], [[celery|celery root]], [[leek]], [[onion]] and [[Parsley|parsley root]], are also included in the bouquet.  For [[stock]] making, the most common [[herbs]] are [[thyme]], [[parsley]] and [[bay leaves]].\n\nOccasionally, the bouquet is not bound with string, and its ingredients are instead filled into a small sachet, a net, or even a tea strainer, when it is known as a [[Sachet d'\u00e9pices|sachet d'\u00e9pices]].\n\nTraditionally, the aromatics are bound within [[leek]] leaves, though a coffee filter or [[butcher's twine]]/[[kitchen string]] can be used in their place.\n\nDishes made with a bouquet garni include:\n* [[Beef Bourguignon]]\n* [[Pot au feu]]\n* [[Poule au pot]]\n* Carbonnade flamande\n* Lapin chasseur\n* [[Ossobuco]]\n* [[Bouillabaisse]]\n==See also==\nWe have a number of bouquets garni recipes tailored for specific dishes\n* [[Basic bouquet garni]]\n* [[Bouquet garni for beef]]\n* [[Bouquet garni for fish]]\n* [[Bouquet garni for game]]\n* [[Bouquet garni for lamb]]\n* [[Bouquet garni for mutton]]\n* [[Bouquet garni for pork]]\n* [[Bouquet garni for poultry]]\n* [[Bouquet garni for vegetables]]\n{{CategoryLineIngredients}}\n[[Category:Ingredients]]\n[[Category:Herbs]]\n[[Category:French recipes]]\n\n<!-- footer hashtags --><code 'hashtagrev:12032020'>#bouquetgarni #herbs #celery #parsley #thyme #leek #stock #rosemary #soup #beefbourguignon #bouquetgarniformutton </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

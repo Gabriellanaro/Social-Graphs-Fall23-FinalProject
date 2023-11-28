@@ -1,0 +1,16 @@
+title": "Jacket potato",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "#REDIRECT[[Baked potatoes]]\n[[]]\n[[Category:Accompaniments]]\n[[Category:Snacks and light bites]]\n[[Category:Vegetable recipes]]\n[[Category:Potato recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:British recipes]]"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

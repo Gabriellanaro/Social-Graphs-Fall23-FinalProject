@@ -1,0 +1,11 @@
+title": "F%5Cu00e5rik%5Cu00e5l_(Lamb_or_mutton_stew_with_cabbage)",
+                "invalidreason": "The requested page title contains invalid characters: \"%5C\".",
+                "invalid": ""
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

@@ -1,0 +1,16 @@
+title": "Peanut sauce",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Peanut satay sauce | Dinner recipes from the cook's Wiki\n|titlemode=replace\n|keywords=#peanutsauce #lemon #sataysauce #chickenstock #fridge #chilipowder #butter #skewers #soysauce #boiledorsimmered #ponorogo \n|hashtagrev=032020\n|description=A mild spicy satay sauce ideally suited to dipping pork, chicken or vegetables\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 628\n|PortionCalories = 41\n|DatePublished=17th January 2013\n|Author=Chef\n|ImageComment = Peanut sauce and [[skewers]] of [[Ponorogo]]\n|Servings = Servings: 15 - Makes one jar of peanut sauce\n|Difficulty = 1\n|TotalTime = 12 minutes\n|PrepTime = 2 minutes\n|CookTime = 10 minutes\n|Image = [[Image:Peanut sauce.jpg|alt=Electus]]\n<span class=\"review\"><span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A great dip for chicken thighs</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">..also good with kebabs!</span> \n<span class=\"reviewAuthor\">[[User:TheJudge|The Judge]] </span></span>\n}}\nA mild spicy satay sauce ideally suited to dipping pork, chicken or vegetables.\n{{RecipeIngredients\n| 100 g (4 oz) peanut [[butter]]\n| 120 ml (4 fl oz) [[chicken stock]]\n| 120 ml (4 fl oz) groundnut oil\n| 1 tablespoon [[lemon]] or lime juice\n| 1 tablespoon [[soy sauce]]\n| &#189; teaspoon [[salt]]\n| &#189; teaspoon [[chili powder]] or flakes\n| &#189; teaspoon [[sugar]]\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all ingredients in a pan and simmer over a low heat until all ingredients have combined\n| Remove from heat and allow to cool\n| Store in an airtight jar in the [[fridge]]\n}}\n===Serving suggestions===\n\nServe cold with most meats.\n\nEspecially good on barbecued chicken.\n\n==See also==\n*[[Satay sauce]]\n*My favourite condiment of all time: [[Lee Kum Kee Satay Sauce]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Accompaniments]]\n[[Category:Oriental cuisine]]\n[[Category:Dips and sauces]]\n[[Category:Starters]]\n[[Category:Indonesian recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#peanutsauce #lemon #sataysauce #chickenstock #fridge #chilipowder #butter #skewers #soysauce #boiledorsimmered #ponorogo </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

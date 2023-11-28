@@ -1,0 +1,16 @@
+title": "Strawberry jam (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Strawberry jam - A Thermomix recipe \n|titlemode=replace\n|keywords=#jam #strawberries #cakes #thermomix #miseenplace #strawberryjamtm #images #sterilise #raspberries #juice #butter \n|hashtagrev=032020\n|description=This jam is very easy to make in a Thermomix\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 689\n|PortionCalories = 11\n|DatePublished=25th March 2014\n|Author=JuliaBalbilla\n|ImageComment = Strawberry Jam (and others!)\n|Servings = Servings: 60 - 1kg\n|Difficulty = 1\n|TotalTime =  30 minutes\n|PrepTime =  5 minutes\n|CookTime =  25 minutes\n|Image = [[Image:Strawberry jam TM recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Easy jam</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.6</span>/5</span>\n\n<span class=\"reviewDesc\">You could say 'jammy', it's that easy \ud83d\ude1b</span>\n\n<span class=\"reviewAuthor\"> [[User:Sue_spins|Susie]] </span></span>\n}}\nThis [[Jam|jam]] is very easy to make in a [[Thermomix]]\n{{RecipeIngredientsTM\n| 500g [[Strawberries|strawberries]], washed and patted dry\n| 500g [[Sugar|sugar]]\n| [[Juice]] of 1 [[Lemon|lemon]]\n| Large knob of [[Butter|butter]]\n}}\n===[[Mise en place]]===\n\n* [[Sterilise]] 2 x 500g [[Jam|jam]] jars\n\n===Method===\n{{RecipeMethod\n\n| Chop the [[Strawberries|strawberries]] in the bowl by pressing the Turbo button for 2 seconds (if the [[Fruits|fruits]] are very small, omit this step)\n| Scrape down the sides of the bowl and add the remaining ingredients\n| 25 minutes / Temp. Varoma / Speed 2 / MC Off (but place internal [[Steaming|steaming]] basket on the lid to prevent splashing)\n| Test for setting ability by putting a teaspoon of [[Jam|jam]] on a saucer and [[Freezing|freezing]] for about 2 minutes.\n| The mixture is set if the [[Jam|jam]] wrinkles when removing from [[Freezer|freezer]]\n| Pour into dry, sterlised jars, place a waxed disk on the [[Jam|jam]] and seal\n| It will keep for up to one year\n}}\n===Serving suggestions===\nServe on toast or use as a filling for [[Cakes|cakes]], [[Tarts|tarts]] etc.\n===Variations===\nOther soft [[Fruit|fruit]] such as [[Raspberries|raspberries]], [[Blackberries|blackberries]] etc can be used instead\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Pickles and preserves]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Fruit recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#jam #strawberries #cakes #thermomix #miseenplace #strawberryjamtm #images #sterilise #raspberries #juice #butter </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

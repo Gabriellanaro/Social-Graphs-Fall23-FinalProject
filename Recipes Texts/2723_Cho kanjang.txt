@@ -1,0 +1,15 @@
+ 
+
+title": "Ch'o kanjang",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ch'o kanjang, Vegetarian recipe \n|titlemode=replace\n|keywords=#chokanjang #castersugar #herb #toastedsesameseeds #sauce #ricevinegar #springonions #lightsoysauce \n|hashtagrev=032020\n|description=A very simple Korean dipping sauce\n}}\n<!-- /seo -->\n\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 265\n|PortionCalories = 66\n|DatePublished=12th July 2012\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |TotalTime = 5 minutes\n |PrepTime = 5 minutes\n |CookTime = None\n|Image = [[Image:Ch'o kanjang recipe.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Asian delight</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">I like a little chopped chilli in mine too.</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nA very simple Korean dipping [[Sauce|sauce]].\n\n{{RecipeIngredients\n| 4 tablespoons [[Light soy sauce|light soy sauce]]\n| 3 tablespoons [[Herb|herb]] or [[Rice vinegar|rice vinegar]]\n| 1 teaspoon [[Caster sugar|caster sugar]]\n| 1 teaspoon [[Spring onions|spring onions]], finely chopped\n| 2 tablespoons [[Toasted sesame seeds|toasted sesame seeds]], crushed\n}}\n===Method===\n\n{{RecipeMethod\n| Mix all the ingredients together\n| Stir until the [[Sugar|sugar]] has dissolved.\n}}\n{{RecipeLine}}\n[[Category:Recipes|Ch'o kanjang]]\n[[Category:Dips and sauces|Ch'o kanjang]]\n[[Category:Korean recipes|Ch'o kanjang]]\n[[Category:Oriental cuisine|Ch'o kanjang]]\n[[Category:Vegan recipes]]\n[[Category:Vegetable recipes|Ch'o kanjang]]\n[[Category:Vegetarian recipes|Ch'o kanjang]]\n[[Category:Unusual recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#chokanjang #castersugar #herb #toastedsesameseeds #sauce #ricevinegar #springonions #lightsoysauce </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

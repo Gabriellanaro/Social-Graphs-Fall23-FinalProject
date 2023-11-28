@@ -1,0 +1,16 @@
+title": "Boiled bacon recipe",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Boiled bacon, a British recipe \n|titlemode=replace\n|keywords=#bacon #gammonjoint #brusselssprouts #broadbeans #cauliflower #breadcrumbs #simmer #boiledbaconrecipe #boiledbacon #greenpeas #ground \n|hashtagrev=032020\n|description=This is how boiled bacon would have been made in Mrs Beeton's day\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 3210\n|PortionCalories = 802\n|DatePublished=17th January 2013\n|Author=Chef\n|Servings = Serves 4\n |Difficulty = 1\n |ImageComment = Other publications - circa 1945\n |TotalTime = 3 hours 30 minutes\n |PrepTime = 2 hours\n |CookTime = 1 hour 30 minutes\n |Image = [[Image:BeetonsAd.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Beeton's Bacon</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.4</span>/5 </span>\n\n<span class=\"reviewDesc\">As with most of Mrs Beeton's recipes, they are simple, but very effective, this is no exception.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nThis is how [[Boiled bacon|boiled bacon]] would have been made in Mrs Beeton's day.  As with most of her recipes, there is a good deal of common sense and it is still relevant today.\n\n{{RecipeIngredients\n| 1.1kg [[Gammon joint|gammon joint]] (2&frac12; lb)\n| Raspings (finely [[Ground|ground]] [[Breadcrumbs|breadcrumbs]])\n| Water\n}}\n===Method===\n\n{{RecipeMethod\n| As [[Bacon|bacon]] is frequently excessively salty ,let it be soaked in warm water for an hour or two previous to dressing it up.\n| Then pare off the rusty parts and scrape the underside and rind as clean as possible.\n| Put it into a saucepan of cold water, let it come gradually to a [[Boil|boil]] and as the scum rises to the surface of the water, remove it.\n| Let it [[Simmer|simmer]] very gently until it is thoroughly done.\n| Remove and drain, remove the skin and sprinkle with a few raspings and garnish with tufts of [[Cauliflower|cauliflower]] or [[Brussels sprouts|brussels sprouts]].\n| When served alone, young and tender [[Broad beans|broad beans]] or [[Green peas|green peas]] are the usual accompaniments.\n}}\n===Chef's notes===\nTime: 1 lb of [[Bacon|bacon]], 45 minutes; 2 lbs, 1-1&frac12; hour.\n\n{{Template:ThinkPig}}\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:British recipes]]\n[[Category:Historic recipes]]\n[[Category:Main courses]]\n[[Category:Meat recipes]]\n[[Category:Pork recipes]]\n[[Category:Boiled or simmered]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#bacon #gammonjoint #brusselssprouts #broadbeans #cauliflower #breadcrumbs #simmer #boiledbaconrecipe #boiledbacon #greenpeas #ground </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

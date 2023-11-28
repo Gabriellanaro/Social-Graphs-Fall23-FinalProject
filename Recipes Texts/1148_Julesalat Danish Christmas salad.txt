@@ -1,0 +1,15 @@
+ 
+
+title": "Julesalat (Danish Christmas salad)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Julesalat (Danish Christmas salad) recipe\n|titlemode=replace\n|keywords=#apples #chicory #vegetables #mayonnaise #vinegar #belgian #endives #diced #beetroots #lettuce #pomegranateseeds \n|hashtagrev=032020\n|description=This salad takes its name from it use of chicory which is a winter vegetable\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=4th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  10 minutes\n|PrepTime =  10 minutes\n|CookTime = None\n|TotalCalories = 831\n|PortionCalories = 207 \n|Image = [[Image:Julesalat (Danish Christmas salad).jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">A vegetarian delight</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">5</span>/5</span>\n\n<span class=\"reviewDesc\">And great for the Christmas table \ud83e\udd36\ud83c\udf85</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nThis [[Salad|salad]] takes its name from it use of [[Chicory|chicory]] which is a winter [[Vegetable|vegetable]]\n{{RecipeIngredients\n\n| 2 [[Chicory|chicory]] ([[Belgian]] [[Endives|endives]]), chopped\n| 2 [[Pickled beetroots|pickled beetroots]], chopped\n| 2 cooking [[Apples|apples]], [[Diced|diced]]\n| 75ml [[Mayonnaise|mayonnaise]]\n| 1-2 teaspoons [[Vinegar|vinegar]] from the [[Beetroots|beetroots]]\n| Seasoning\n}}\n\n===Method===\n{{RecipeMethod\n\n| Mix the [[Vegetables|vegetables]] and [[Apples|apples]] in a bowl - there should be equal quantities of each\n| Mix the [[Mayonnaise|mayonnaise]] with the [[Beetroot|beetroot]] [[Vinegar|vinegar]], adjusting the quantities according to taste\n| Add the dressing to the bowl, mix with [[Vegetables|vegetables]] and [[Apples|apples]] and season lightly\n| Serve immediately\n}}\n===Variations===\nYou can also add other seasonal ingredients such as [[Oranges|oranges]], [[Pomegranate seeds|pomegranate seeds]], winter [[Lettuce|lettuce]]\n{{RecipeLine}}\n[[Category:Recipes|Salad christmas]]\n[[Category:Danish recipes|Salad christmas]]\n[[Category:Accompaniments|Salad christmas]]\n[[Category:Salad recipes|Salad christmas]]\n[[Category:Snacks and light bites|Salad christmas]]\n[[Category:Starters|Salad christmas]]\n[[Category:Vegetarian recipes|Salad christmas]]\n[[Category:Vegetable recipes|Salad christmas]]\n[[Category:Uncooked|Salad christmas]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#apples #chicory #vegetables #mayonnaise #vinegar #belgian #endives #diced #beetroots #lettuce #pomegranateseeds </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

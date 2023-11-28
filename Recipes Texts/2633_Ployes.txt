@@ -1,0 +1,15 @@
+ 
+
+title": "Ployes",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Ployes recipe \n|titlemode=replace\n|keywords=#batter #ployes #griddle #crepe #boiling #buckwheatpancakes #flour #dryfried #bakingpowder #iron #lard \n|hashtagrev=032020\n|description=A French-Canadian recipe for buckwheat pancakes\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 2626\n|PortionCalories = 656\n|DatePublished=2nd October 2014\n|Author=Chef\n|ImageComment = \n|Servings = 4\n|Difficulty = 1\n|TotalTime =  15 minutes\n|PrepTime =  10 minutes\n|CookTime =  5 minutes\n|Image = [[Image:Ployes recipe.jpg|alt=Electus]]\n<span class=\"review\">\n<span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Weird crumpets!</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4.8</span>/5 </span>\n\n<span class=\"reviewDesc\">The look like strange crumpets, but taste great.  You can but buckwheat flour from most wholefood shops.</span> \n\n<span class=\"reviewAuthor\"> [[User:PSmith|Paul&nbsp;R&nbsp;Smith]] </span></span>\n}}\nA French-Canadian recipe for [[Buckwheat pancakes|buckwheat pancakes]]\n\n{{RecipeIngredients\n\n| 2 cups (250g) [[Buckwheat flour|buckwheat flour]]  \n| 1 cup (125g) all purpose (plain) [[Flour|flour]]\n| 3 teaspoons [[Baking powder|baking powder]]\n| 1 teaspoon [[Salt|salt]]\n| 2 cups (480ml) cold water\n| 1 cup (240ml) hot water\n}}\n\n===Method===\n{{RecipeMethod\n\n| Add the 2 cups cold water to the dry ingredients and mix well\n| Leave to stand 5 minutes\n| Add 1 cup [[Boiling|boiling]] water and mix vigorously. If [[Batter|batter]] looks too thick (must be thin, like a [[Crepe|crepe]] to cook the way we're accustomed) add a little bit of water.\n| Pour [[Batter|batter]] on a hot cast [[Iron|iron]] [[Griddle|griddle]] (note: with no [[Lard|lard]] of any sort, this demands a 'well-seasoned' cast-iron)\n| Let the ploye cook; you will see little holes open up, and the edges will start to curl-up. the more holes, the better your ploye\n| When you see the mixture is not liquid any more, your ploye is done; you only cook it on one side\n| To have really good ployes, you need to re-mix the [[Batter|batter]] between pours\n}}\n===Recipe source===\n\n* Recipe from the Madawaska (Maine) based St John Valley Times kindly sent to us by Roger Ouellette\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:North American recipes]]\n[[Category:Breakfast recipes]]\n[[Category:Snacks and light bites]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Dry fried]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#batter #ployes #griddle #crepe #boiling #buckwheatpancakes #flour #dryfried #bakingpowder #iron #lard </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

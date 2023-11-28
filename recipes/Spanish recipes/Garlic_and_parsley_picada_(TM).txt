@@ -1,0 +1,16 @@
+title": "Garlic and parsley picada (TM)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Garlic and parsley picada - A Thermomix recipe\n|titlemode=replace\n|keywords=#thermomix #preserve #salads #parsleyleaves #garlic #vinaigrette #vinegar #spanish #soyasauce #stews \n|hashtagrev=032020\n|description=You can use this picada in many things, such as a vinaigrette for salads\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|TotalCalories = 21\n|PortionCalories = 21\n|DatePublished=13th November 2013\n|Author=JuliaBalbilla\n|ImageComment = The new [[Thermomix]] TM5 (2014)\n|Servings = 1\n|Difficulty = 1\n|TotalTime = 3 minutes \n|PrepTime = 3 minutes\n|CookTime = None \n|Image = [[Image:The new (2014) Thermomix TM5.jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Garlic Mash</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">Nice in mayonnaise</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nYou can use this picada in many things, amongst which is a [[Vinaigrette|vinaigrette]] for [[Salads|salads]] by adding [[Extra virgin olive oil|extra virgin olive oil]], [[Vinegar|vinegar]] and a little [[Soya sauce|soya sauce]].\n\n{{RecipeIngredientsTM\n| 3 [[Cloves|cloves]] [[Garlic|garlic]]\n| A handful of clean, dry [[Parsley leaves|parsley leaves]]\n\n}}\n\n===Method===\n\n{{RecipeMethod\n| Put everything in the bowl 5 seconds / Speed 5\n| Once the two ingredients are mixed, pour them into a container, cover with [[Oil|oil]] to [[Preserve|preserve]] them and use in [[Stews|stews]], sofritos etc.\n}}\n===Servings===\nServes 4 people\n===Recipe source===\n* This is a translation of a recipe in '''''[[Thermomix]] TM31 - Imprescindible para tu cocina''''' which is the book supplied with [[Spanish]] TMXs.\n===Chef's notes===\nThis recipe makes about 30g of picada.\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Spanish recipes]]\n[[Category:Dips and sauces]]\n[[Category:Vegan recipes]]\n[[Category:Vegetarian recipes]]\n[[Category:Vegetable recipes]]\n[[Category:Thermomix recipes]]\n[[Category:Uncooked]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#thermomix #preserve #salads #parsleyleaves #garlic #vinaigrette #vinegar #spanish #soyasauce #stews </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"
+
+
+ 

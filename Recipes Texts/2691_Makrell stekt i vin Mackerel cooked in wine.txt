@@ -1,0 +1,15 @@
+ 
+
+title": "Makrell stekt i vin (Mackerel cooked in wine)",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "<!-- seo -->\n{{#seo:\n|title=Makrell stekt i vin (Mackerel cooked in wine) recipe\n|titlemode=replace\n|keywords=#mackerel #butter #onions #dill #tomatoes #bake #drywhitewine #norway #bakedpotatoes #miseenplace #fish \n|hashtagrev=032020\n|description=Although salmon is Norway's most popular fish, mackerel is another great favourite\n}}\n<!-- /seo -->\n{{Template:CookTools}}\n{{recipesummary\n|DatePublished=4th January 2017\n|Author=JuliaBalbilla\n|ImageComment = \n|Servings = Serves 4\n|Difficulty = 1\n|TotalTime =  35 minutes\n|PrepTime =  10 minutes\n|CookTime =  25 minutes\n|TotalCalories = 1615\n|PortionCalories = 403 \n|Image = [[Image:Makrell stekt i vin (Mackerel cooked in wine).jpg|alt=Electus]]\n<span class=\"review\"> <span class=\"reviewHeader\">\n====Best recipe review====\n</span>\n''<span class=\"reviewTitle\">Nice combination</span>''\n\n<span style=\"line-height:180%\"><span style=\"font-size:180%;\"><span class=\"reviewScore\">4</span>/5</span>\n\n<span class=\"reviewDesc\">And I just LOVE dill!</span>\n\n<span class=\"reviewAuthor\"> [[User:NonLoggedInUser|NonLoggedInUser]] </span></span>\n}}\nAlthough [[Salmon|salmon]] is [[Norway]]'s most popular [[Fish|fish]], [[Mackerel|mackerel]] is another great favourite\n{{RecipeIngredients\n\n| 4 [[Mackerel|mackerel]], cleaned and filleted\n| Seasoning\n| 2 medium [[Onions|onions]], peeled and thinly sliced\n| 4 medium [[Tomatoes|tomatoes]], sliced\n| 2 tablespoons [[Dill|dill]], chopped\n| 60g [[Butter|butter]]\n| 90ml [[Dry white wine|dry white wine]]\n}}\n===[[Mise en place]]===\n\n* Pre-heat the [[Oven|oven]] to 220\u00b0 C (425\u00b0 F - gas 7), [fan oven 200\u00b0 C]\n\n===Method===\n{{RecipeMethod\n\n| Dry the [[Mackerel|mackerel]] fillets and season lightly\n| Melt a little of the [[Butter|butter]] in a pan and [[Fry|fry]] the [[Onions|onions]] until golden [[Brown|brown]]\n| Cover the bottom of a [[Casserole|casserole]] with the [[Onions|onions]]\n| Place the [[Mackerel|mackerel]] on top, then a layer of [[Tomatoes|tomatoes]]\n| Sprinkle with the chopped [[Dill|dill]] and dot with the remaining [[Butter|butter]]\n| [[Bake]] for 15 minutes\n| Pour the [[Wine|wine]] over it and [[Bake|bake]] for a further 10 minutes\n}}\n===Serving suggestions===\nServe with [[Baked potatoes|baked potatoes]]\n{{RecipeLine}}\n[[Category:Recipes]]\n[[Category:Norwegian recipes]]\n[[Category:Fish recipes]]\n[[Category:Sea fish recipes]]\n[[Category:Cooking with wine]]\n[[Category:Baked or roasted]]\n\n<!-- footer hashtags --><code 'hashtagrev:032020'>#mackerel #butter #onions #dill #tomatoes #bake #drywhitewine #norway #bakedpotatoes #miseenplace #fish </code><!-- /footer_hashtags -->"
+                    }
+                ]
+            }
+        }
+    }
+}
+Retrieved from "https://www.cookipedia.co.uk/recipes_wiki/Special:ApiHelp"

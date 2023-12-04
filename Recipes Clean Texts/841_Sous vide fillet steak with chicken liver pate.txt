@@ -1,0 +1,110 @@
+
+|title=Sous vide fillet steaks filled with chicken liver pate recipe
+|titlemode=replace
+|keywords=#steak #sousvide #pate #butter #meattenderiser #specialfriedrice #miseenplace #vacuumpack #sousvidefilletsteakwithchickenliverpate #filletsteaks #vacuumseal 
+|hashtagrev=032020
+|description=Having made some coarse sous vide chicken liver pate, I thought I would use it as a filling for my sous vide fillet steaks
+
+
+
+|TotalCalories = 1502
+|PortionCalories = 751
+|DatePublished=20th February 2015
+|Author=Chef
+|ImageComment = 
+|Servings = Serves 2
+|Difficulty = 2
+|TotalTime =  15 minutes
+|PrepTime =  15 minutes
+|CookTime = None
+|Image = alt=Electus
+
+====Best recipe review====
+
+''
+Easily worth the effort
+''
+
+5
+/5 
+
+Delicious and not as hard to make as I thought it would be.  Always glad of ideas to use my sous-vide cooker.
+
+ 
+
+ The Judge 
+===Description===
+
+Having made some coarse sous vide chicken liver pate, I thought I would use it as a filling for my sous vide fillet steaks.
+
+===Ingredients===
+
+| 2 fillet steaks, about 200g [7 oz ] each
+| 3 tablespoons chicken liver pate
+| 2 teaspoons butter
+===Mise en place===
+
+* Preheat the sous vide bath to cook the steaks to your liking:
+{| class=\"wikitable\" class=\"sortable wikitable\"
+|-
+!width=\"280pt\"|'''Cooked'''
+!width=\"60pt\"|'''Thick'''
+!width=\"80pt\" colspan=\"2\"|'''Cooking temp.'''
+!width=\"120pt\"|'''Time (min)'''
+!width=\"120pt\"|'''Time (max)'''
+|-
+|Rare|
+|25mm ||49\u00b0C||''120.2\u00b0F''||1 hour||4 hours
+|-
+|Rare||50mm ||49\u00b0C||''120.2\u00b0F''||2 hours||4 hours
+|-
+|Medium rare||25mm ||56.5\u00b0C||''133.7\u00b0F''||1 hour||4 hours
+|-
+|Medium rare||50mm ||56.5\u00b0C||''133.7\u00b0F''||2 hours||4 hours
+|-
+|Medium||25mm ||60\u00b0C||''140\u00b0F''||1 hour||4 hours
+|-
+|Medium||50mm ||60\u00b0C||''140\u00b0F''||2 hours||4 hours
+|-
+|Medium well||25mm ||65.5\u00b0C||''149.9\u00b0F''||1 hour||4 hours
+|-
+|Medium well||50mm ||65.5\u00b0C||''149.9\u00b0F''||2 hours||4 hours
+|-
+|Well done||25mm ||71\u00b0C||''159.8\u00b0F''||1 hour||4 hours
+|-
+|Well done||50mm ||71\u00b0C||''159.8\u00b0F''||2 hours||4 hours
+|}
+
+Image:Vacuum packed fillets with butter.jpg|Vacuum packed fillet steaks, topped with a knob of butter
+Image:Pate filled fillet steaks.jpg|Fillet steaks filled with chicken liver pate
+Image:Tenderised fillet steaks.jpg|Fillet steaks treated with a meat tenderiser
+
+===Method===
+
+
+| With a sharp knife, carefully make a pocket in each of the fillets buy cutting into the side of the steaks.
+| Stamp each steak with a meat tenderiser to ensure a really tender steak.  Pay special attention to areas where there are membranes.
+| Pop a tablespoon and a half of pate into each steak.
+| Close the pockets and press the steaks flat.
+| Add a teaspoons of butter on the top of each steak.
+| Put each steak into its own vacuum pack bag and vacuum seal.
+| Cook the steaks in the sous vide bath set to a temperature to match your preferred doneness. ''see Chef's notes''
+===Serving suggestions===
+These go well with anything but as a nod the The Chinese New Year I'm serving these with special fried rice
+===Chef's notes===
+Obviously two steaks cannot easily be cooked to different levels of doneness as this is determined by the temperature of the sous vide bath, not by the cooking time, although I've found that an extended cooking time tenderises the meat more.
+
+I've also found that a well done steak cooked sous vide has the same juiciness and mouth feel of a normally cooked rare steak.  If you require rare and well done steaks, I would cook them both to medium [60\u00b0C for 2 hours].  You won't get any complaints!
+
+
+
+===Categories===
+Category:Recipes
+Category:British recipes
+Category:Main courses
+Category:Beef recipes
+Category:Meat recipes
+Category:Sous vide recipes
+Category:Sous vide cooking
+
+#steak #sousvide #pate #butter #meattenderiser #specialfriedrice #miseenplace #vacuumpack #sousvidefilletsteakwithchickenliverpate #filletsteaks #vacuumseal 

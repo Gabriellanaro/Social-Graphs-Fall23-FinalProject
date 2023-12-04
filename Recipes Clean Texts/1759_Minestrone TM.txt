@@ -1,0 +1,80 @@
+
+|title=Minestrone - A Thermomix recipe 
+|titlemode=replace
+|keywords=#vegetables #thermomix #rice #soup #garlic #parsley #pancetta #onion #butter #stockcube #parmesancheese 
+|hashtagrev=032020
+|description=A version of this famous soup for Thermomix
+
+
+
+|TotalCalories = 1093
+|PortionCalories = 182
+|DatePublished=20th October 2012
+|Author=JuliaBalbilla
+|ImageComment = The new Thermomix TM5 (2014)
+ |Servings = Serves 6
+ |Difficulty = 1
+ |TotalTime = 40 minutes 
+ |PrepTime = 10 minutes 
+ |CookTime =  30 minutes
+|Image = alt=Electus
+
+ 
+
+====Best recipe review====
+
+''
+Thermistrone?
+''
+
+4
+/5
+
+Something like that, possibly?
+
+ NonLoggedInUser 
+===Description===
+
+A version of this famous soup for Thermomix
+===Ingredients===TM
+| 500g various vegetables (carrots, beans, peas, chard, turnips etc)
+| 50g extra virgin olive oil
+| 50g onion
+| 1 clove garlic
+| 50g pancetta, in pieces
+| 1kg water
+| 1 Thermomix stock cube or salt
+| Pepper
+| 50g rice
+| 1 sprig parsley, chopped
+| 50g Parmesan cheese, grated
+| 50g butter
+===Method===
+
+
+| Put the vegetables in the bowl '''5 seconds / Speed 4'''
+| If you want the vegetables chopped finer, process for a few seconds more
+| Remove from the bowl and reserve
+| Next, add the onion and garlic '''2 seconds / Speed 5'''
+| Push the ingredients down into the bowl from the sides and the lid
+| Add the oil and pancetta '''5 minutes / 100\u00b0 / Speed 2'''
+| Add the water '''8 minutes / 100\u00b0 / Speed 2'''
+| Add the reserved vegetables, the stock cube or salt, pepper and rice '''15 minutes / 100\u00b0 / Reverse Blade / Speed 1'''
+| Finally, tip into a soup terrine, add the parsley, cheese and butter and stir
+===Recipe source===
+* This is a translation of a recipe in '''''Thermomix TM31 Imprescindible para tu cocina''''' which is the book supplied with Spanish TMXs.
+===Variations===
+If you wish, in place of the rice, you can use pasta to taste.  When chopping the vegetables, put the leafy one on top of the others. 
+
+
+===Categories===
+Category:Recipes
+Category:Italian recipes
+Category:Snacks and light bites
+Category:Soup and stock recipes
+Category:Starters
+Category:Vegetarian recipes
+Category:Vegetable recipes
+Category:Thermomix recipes
+
+#vegetables #thermomix #rice #soup #garlic #parsley #pancetta #onion #butter #stockcube #parmesancheese 

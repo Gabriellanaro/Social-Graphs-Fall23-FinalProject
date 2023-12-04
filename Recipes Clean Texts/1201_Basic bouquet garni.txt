@@ -1,0 +1,60 @@
+
+|title=Basic bouquet garni, French recipe 
+|titlemode=replace
+|keywords=#basicbouquetgarni #bayleaf #kitchenstring #muslin #thyme #parsley 
+|hashtagrev=032020
+|description=A generic bouquet garni
+
+
+
+|TotalCalories = 16
+|PortionCalories = 16
+|DatePublished=28th July 2013
+|Author=Chef
+|ImageComment =
+ |Servings = 1
+ |Difficulty = 1
+ |TotalTime = 2 minutes
+ |PrepTime = 2 minutes
+ |CookTime = none
+ |Image = [[Image:Bouquet garni.jpg|150px|alt=Electus]]
+
+ 
+
+====Best recipe review====
+
+''
+Where's the sage leaves?
+''
+
+3.7
+/5
+
+I always use sage in my bouquets
+
+ NonLoggedInUser 
+===Description===
+
+
+A generic bouquet garni recipe.
+
+===Ingredients===
+| 1 bay leaf
+| 3 fresh parsley stalks
+| 3 sprigs thyme
+===Method===
+
+| Tie the ingredients with kitchen string or wrap in a piece of muslin.  Remove before serving and discard.
+
+===See also===
+'''The bouquet garni main page'''.
+
+
+===Categories===
+Category:Recipes
+Category:Marinades dressings and butters
+Category:Herbs
+Category:French recipes
+Category:Uncooked
+
+#basicbouquetgarni #bayleaf #kitchenstring #muslin #thyme #parsley 
